@@ -17,21 +17,18 @@ book:
   repo-actions: [edit, issue]
   chapters:
     - index.qmd
-
     - executive-summary.qmd
-
-    - part: intro.qmd
-      chapters:
-        - data-gov-mgmt.qmd
-        - marine-mammals.qmd
-        - birds.qmd
-        - bats.qmd
-        - sea-turtles.qmd
-        - protected-fish.qmd
-        - oceanography.qmd
-        - seafloor.qmd
-        - technology.qmd
-        - review.qmd
+    - intro.qmd
+    - data-gov-mgmt.qmd
+    - marine-mammals.qmd
+    - birds.qmd
+    - bats.qmd
+    - sea-turtles.qmd
+    - protected-fish.qmd
+    - oceanography.qmd
+    - seafloor.qmd
+    - technology.qmd
+    - review.qmd
 
     - part: appendices.qmd
       chapters:
