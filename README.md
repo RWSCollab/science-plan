@@ -1,4 +1,4 @@
-# R for Data Science
+# RWSC Science Plan
 
 <!-- badges: start -->
 
