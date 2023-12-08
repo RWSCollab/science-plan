@@ -3,73 +3,46 @@ project:
   output-dir: _book
 
 book:
-  title: "R for Data Science (2e)"
+  title: "Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters"
   reader-mode: true
 
   page-footer:
-    left: |
-      R for Data Science (2e) was written by Hadley Wickham, Mine
-      Çetinkaya-Rundel, and Garrett Grolemund.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  cover-image: cover.jpg
-  favicon: cover.jpg
-  site-url: https://r4ds.hadley.nz/
-  repo-url: https://github.com/hadley/r4ds/
+  cover-image: logo7.png
+  favicon: logo7.png
+  site-url: https://rwsc.org/science-plan
+  repo-url: https://rwscollab.github.io/science-plan/
   repo-branch: main
   repo-actions: [edit, issue]
   chapters:
     - index.qmd
 
-    - preface-2e.qmd
-    - intro.qmd
+    - executive-summary.qmd
 
-    - part: whole-game.qmd
+    - part: intro.qmd
       chapters:
-        - data-visualize.qmd
-        - workflow-basics.qmd
-        - data-transform.qmd
-        - workflow-style.qmd
-        - data-tidy.qmd
-        - workflow-scripts.qmd
-        - data-import.qmd
-        - workflow-help.qmd
+        - data-gov-mgmt.qmd
+        - marine-mammals.qmd
+        - birds.qmd
+        - bats.qmd
+        - sea-turtles.qmd
+        - protected-fish.qmd
+        - oceanography.qmd
+        - seafloor.qmd
+        - technology.qmd
+        - review.qmd
 
-    - part: visualize.qmd
+    - part: appendices.qmd
       chapters:
-        - layers.qmd
-        - EDA.qmd
-        - communication.qmd
-
-    - part: transform.qmd
-      chapters:
-        - logicals.qmd
-        - numbers.qmd
-        - strings.qmd
-        - regexps.qmd
-        - factors.qmd
-        - datetimes.qmd
-        - missing-values.qmd
-        - joins.qmd
-
-    - part: import.qmd
-      chapters:
-        - spreadsheets.qmd
-        - databases.qmd
-        - arrow.qmd
-        - rectangling.qmd
-        - webscraping.qmd
-
-    - part: program.qmd
-      chapters:
-        - functions.qmd
-        - iteration.qmd
-        - base-R.qmd
-
-    - part: communicate.qmd
-      chapters:
-        - quarto.qmd
-        - quarto-formats.qmd
+        - rosters.qmd
+        - append-dgdm.qmd
+        - append-mm.qmd
+        - append-birds.qmd
+        - append-bats.qmd
+        - append-st.qmd
+        - append-heo.qmd
+        - append-hes.qmd
 
 format:
   html:
@@ -78,7 +51,7 @@ format:
       - r4ds.scss
     code-link: true
 
-    author-meta: "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund"
+    author-meta: "Regional Wildlife Science Collaborative for Offshore Wind"
     include-in-header: "plausible.html"
     callout-appearance: simple
 
