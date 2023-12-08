@@ -48,7 +48,6 @@ format:
   html:
     theme:
       - cosmo
-      - r4ds.scss
     code-link: true
 
     author-meta: "Regional Wildlife Science Collaborative for Offshore Wind"
