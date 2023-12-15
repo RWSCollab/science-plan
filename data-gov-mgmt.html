@@ -8,7 +8,7 @@
 
 <meta name="author" content="Regional Wildlife Science Collaborative for Offshore Wind">
 
-<title>Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters - 1&nbsp; Data governance and data management</title>
+<title>Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters - 2&nbsp; Data Governance and Data Management</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,11 +21,29 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -63,7 +81,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script defer="" data-domain="r4ds.hadley.nz" src="https://plausible.io/js/plausible.js"></script>
 
 
 </head>
@@ -77,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data-gov-mgmt.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Data governance and data management</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./intro.html">Chapters</a></li><li class="breadcrumb-item"><a href="./data-gov-mgmt.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Governance and Data Management</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -90,11 +107,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</a> 
-        <div class="sidebar-tools-main">
-    <a href="https://rwscollab.github.io/science-plan/" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-git"></i></a>
+      <a href="./">RWSC Science Plan</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
+    <a href="https://rwscollab.github.io/science-plan/" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
+    <a href="https://rwsc.org/" rel="" title="download pdf" class="quarto-navigation-tool px-1" aria-label="download pdf"><i class="bi bi-cloud-download"></i></a>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -122,76 +144,11 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Executive Summary</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction and Reader’s Guide</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./data-gov-mgmt.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Data governance and data management</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./marine-mammals.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Marine Mammals</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./birds.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Birds</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./bats.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Bats</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./sea-turtles.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Sea Turtles</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./protected-fish.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Protected Fish Species</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./oceanography.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem- Oceanography</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./seafloor.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./technology.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Technology</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./review.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Science Plan Review &amp; Revision Process</span></span></a>
-  </div>
-</li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./appendices.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Appendices</span></a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Chapters</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -199,50 +156,134 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./rosters.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Subcommittee Rosters</span></span></a>
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction and Reader’s Guide</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./data-gov-mgmt.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Governance and Data Management</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./marine-mammals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Marine Mammals</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./birds.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Birds</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./bats.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Bats</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./sea-turtles.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Sea Turtles</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./protected-fish.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Protected Fish Species</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./oceanography.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem- Oceanography</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./seafloor.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./technology.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Technology</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./review.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Science Plan Review &amp; Revision Process</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./append-rosters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Subcommittee Rosters</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./append-intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Additional Introduction</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-dgdm.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Appendix: Data Governance &amp; Data Management</span></span></a>
+ <span class="menu-text"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Data Governance &amp; Data Management</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-mm.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Appendix: Marine Mammals</span></span></a>
+ <span class="menu-text"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Marine Mammals</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-birds.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Appendix: Birds</span></span></a>
+ <span class="menu-text"><span class="chapter-number">E</span>&nbsp; <span class="chapter-title">Birds</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-bats.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Appendix: Bats</span></span></a>
+ <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Bats</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-st.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Appendix: Sea Turtles</span></span></a>
+ <span class="menu-text"><span class="chapter-number">G</span>&nbsp; <span class="chapter-title">Sea Turtles</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-heo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Appendix: Habitat &amp; Ecosystem - Oceanography</span></span></a>
+ <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-hes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Appendix: Habitat &amp; Ecosystem - Seafloor</span></span></a>
+ <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
   </div>
 </li>
       </ul>
@@ -253,14 +294,30 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#sec-data-gov-mgmt" id="toc-sec-data-gov-mgmt" class="nav-link active" data-scroll-target="#sec-data-gov-mgmt">Summary</a></li>
+  <li><a href="#introduction-to-data-governance-management" id="toc-introduction-to-data-governance-management" class="nav-link" data-scroll-target="#introduction-to-data-governance-management"><span class="header-section-number">2.1</span> Introduction to Data Governance &amp; Management</a></li>
+  <li><a href="#implementing-data-governance-management" id="toc-implementing-data-governance-management" class="nav-link" data-scroll-target="#implementing-data-governance-management"><span class="header-section-number">2.2</span> Implementing Data Governance &amp; Management</a>
+  <ul class="collapse">
+  <li><a href="#mapping-the-offshore-wind-wildlife-data-ecosystem" id="toc-mapping-the-offshore-wind-wildlife-data-ecosystem" class="nav-link" data-scroll-target="#mapping-the-offshore-wind-wildlife-data-ecosystem">1 - Mapping the offshore wind &amp; wildlife data ecosystem</a></li>
+  <li><a href="#developing-common-policies-minimum-data-standards-and-guidance-for-data-management" id="toc-developing-common-policies-minimum-data-standards-and-guidance-for-data-management" class="nav-link" data-scroll-target="#developing-common-policies-minimum-data-standards-and-guidance-for-data-management">2 - Developing common policies, minimum data standards, and guidance for data management</a></li>
+  <li><a href="#creating-a-data-catalog" id="toc-creating-a-data-catalog" class="nav-link" data-scroll-target="#creating-a-data-catalog">3 - Creating a Data Catalog</a></li>
+  <li><a href="#building-network-capacity-to-steward-unique-or-orphaned-data" id="toc-building-network-capacity-to-steward-unique-or-orphaned-data" class="nav-link" data-scroll-target="#building-network-capacity-to-steward-unique-or-orphaned-data">4 - Building network capacity to steward unique or orphaned data</a></li>
+  <li><a href="#providing-general-data-governance-support-and-education" id="toc-providing-general-data-governance-support-and-education" class="nav-link" data-scroll-target="#providing-general-data-governance-support-and-education">5 - Providing general data governance support and education</a></li>
+  </ul></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">2.3</span> References</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="sec-data-gov-mgmt" class="quarto-section-identifier"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Data governance and data management</span></span></h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Governance and Data Management</span></h1>
 </div>
 
 
@@ -275,8 +332,288 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Kate Wing and Rachael Blake, Intertidal Agency</p>
+<section id="sec-data-gov-mgmt" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="sec-data-gov-mgmt">Summary</h2>
+<p>Data governance and data management are essential to achieving the RWSC’s goals and the research described in this Science Plan. Data governance encompasses the purpose and processes for collecting and using data, policies such as contract terms and data licenses, and frameworks for technical implementation. Data management executes and informs data governance, supporting the shared goals and agreements with standards, best practices, documentation, and infrastructure. The two practices are complementary and need to operate in tandem, in ways that are responsive to program demands and the capacity of the RWSC community.</p>
+<p>During the 2023 Science Plan review, the RWSC held multiple discussions on data governance and management, including a half-day workshop on September 8, 2023. As a result of these discussions, as well as comments received on the draft Science Plan, parts of the original Data Management Chapter have been distributed into relevant Subcommittee chapters while other parts are now incorporated here. This reflects a general desire to divide roles and responsibilities between the RWSC Steering Committee (via a newly created Data Governance Subcommittee) and the expert Subcommittees such that:</p>
+<ul>
+<li><p>The Data Governance Subcommittee (DGSC) oversees issues that cross disciplines and taxa, like common data sharing terms for contracts, tools for sharing sensitive data, requirements for RWSC-funded projects, or setting a “floor” for data to be included in the RWSC catalog.</p></li>
+<li><p>Other Subcommittees and data leads for individual projects hold the primary responsibility for data management of project data and data workflows. This includes applying the recommendations in the Subcommittee chapters for metadata standards, preferred repositories, and data stewardship through the data lifecycle.</p></li>
+</ul>
+<p>This chapter focuses on the role of data governance and management across projects and Subcommittees—at the RWSC DGSC level—and describes how both the DGSC and other Subcommittees might each advance these efforts. More detailed information on data management for specific data types can be found in each of the Subcommittee chapters, including recommendations for study design, data collection sheet standardization, and other taxa- or method-specific data standards.</p>
+<p>The RWSC Steering Committee will set up a Data Governance Subcommittee (DGSC) by Spring 2024. The initial scope of work for that group will include:</p>
+<ol type="1">
+<li><p>Mapping the offshore wind &amp; wildlife data ecosystem</p></li>
+<li><p>Developing common policies, minimum data standards, and guidance for data management</p></li>
+<li><p>Creating a data catalog</p></li>
+<li><p>Building network capacity to steward unique or orphaned data</p></li>
+<li><p>Providing general data governance support and education</p></li>
+</ol>
+<p>Once established, the DGSC should refine these goals and develop a workplan for the first year, focusing on tasks that are essential, have high levels of demand, or where DGSC efforts can have high impact. Data governance and management are applicable to every RWSC participant. The remainder of this chapter provides guidance and resources for both the DGSC and anyone looking to implement data governance and management.</p>
+</section>
+<section id="introduction-to-data-governance-management" class="level2 page-columns page-full" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="introduction-to-data-governance-management"><span class="header-section-number">2.1</span> Introduction to Data Governance &amp; Management</h2>
+<p><em>For more background and context, read the Data Governance &amp; Data Management Appendix.</em></p>
+<p>The RWSC’s mission is:</p>
+<div class="column-body">
+<p>“To collaboratively and effectively conduct and coordinate relevant, credible, and efficient regional monitoring and research of wildlife and marine ecosystems that supports the advancement of environmentally responsible and cost-efficient offshore wind power development activities in U.S. Atlantic waters.”</p>
+</div>
+<p>Achieving this mission requires attention to the way monitoring is carried out, by whom, and how results are validated and shared. Delivering efficiencies and coordinating data from collection to research products, across diverse and widespread efforts, will require data governance and management. Well-planned data governance will also help position the RWSC as a trusted resource for research guidance and information.</p>
+<p>Data governance focuses on how decisions are made about data and how people and processes are expected to behave in relation to data, including configuring technical infrastructure <span class="citation" data-cites="sebastian-coleman2018">(<a href="data-gov-mgmt.html#ref-sebastian-coleman2018" role="doc-biblioref">Sebastian-Coleman, 2018</a>)</span>. Data governance can be created through international agreements, national laws, or implemented at an organizational or project level <span class="citation" data-cites="brous2016 macfeely2022">(<a href="data-gov-mgmt.html#ref-brous2016" role="doc-biblioref">Brous et al., 2016</a>; <a href="data-gov-mgmt.html#ref-macfeely2022" role="doc-biblioref">MacFeely et al., 2022</a>)</span>. Well-designed data governance supports effective, privacy-protecting data sharing and increases the value and impact of data through access and reuse <span class="citation" data-cites="abraham2019">(<a href="data-gov-mgmt.html#ref-abraham2019" role="doc-biblioref">Abraham et al., 2019</a>)</span>. This is particularly important for environmental data efforts <span class="citation" data-cites="fritzenkötter2022">(<a href="data-gov-mgmt.html#ref-fritzenkötter2022" role="doc-biblioref">Fritzenkötter et al., 2022</a>)</span>, like the RWSC, where analyses could involve data from a wide range of sources, such as compliance data shared with government agencies, data collected by wind energy companies and their contractors, independent and academic researchers, nonprofit organizations, and other future collaborators. Each of these contributors needs to be confident in how their data will be used and have the capacity to make informed decisions about data sharing, understanding both the potential benefits and risks.</p>
+<p>Data governance and management are important to consider at every step of the data lifecycle<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. The Science Plan lays out research goals which rely on collaboration across a network of partners and projects. Each of these partnerships and projects may be at a different stage of their data lifecycle. Science Plan participants shared examples of data flows where there was a lack of clarity about how data would be structured or transmitted, inconsistent documentation of data practices, and questions about whether partners had the right agreements in place to allow data sharing. These are the types of questions data governance and management can answer, and the ideal time to discuss these topics is before data collection starts. This is why it is critical for the DGSC and other Subcommittees to coordinate on data governance and management, connecting the project-level guidance in the Subcommittee chapters to the broader data integration work of the DGSC.</p>
+<p>U.S. federal agencies, Atlantic coast states, and offshore wind companies are all funding individual data collection and research activities. Some of these activities are conducted collaboratively but the majority are funded, scoped, and managed under the purview of a single funder or entity. In its role as a coordinator, the RWSC can provide guidance and support for consistency across data efforts and partners, including sharing standards and best practices such as New York’s Wildlife Data Standardization and Sharing report <span class="citation" data-cites="nyserda2021">(<a href="data-gov-mgmt.html#ref-nyserda2021" role="doc-biblioref">NYSERDA, 2021</a>)</span>.</p>
+<p>Collaboration takes time and resources, and it is essential to the success of the Science Plan. By planning for data governance and management at the RWSC level, not just at the individual research project level, the RWSC can identify where best to invest time and resources to achieve the collective goals of the offshore wind and wildlife community. The RWSC can continue its approach of operating transparently by documenting how tools were chosen, how often templates or protocols will be revised, and other decisions about data. Being open about how these decisions are made builds trust in the data systems used by the RWSC and the data products produced <span class="citation" data-cites="lin2020">(<a href="data-gov-mgmt.html#ref-lin2020" role="doc-biblioref">Lin et al., 2020</a>)</span>. Finally, program-level data governance and management can create efficiencies and incentives, like improving data discoverability and access, reducing duplicative research, or increasing the visibility of RWSC science so funders and researchers get citable “credit” for their work generating data and data products.</p>
+</section>
+<section id="implementing-data-governance-management" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="implementing-data-governance-management"><span class="header-section-number">2.2</span> Implementing Data Governance &amp; Management</h2>
+<p>The DGSC will be the primary home for data governance in the RWSC. The recommendations below form an initial scope for the work of the DGSC. Once established, the DGSC should refine its scope and workplan with an eye on:</p>
+<ul>
+<li><p>What is absolutely essential (e.g., guidance for RWSC-supported projects, minimum data standards to make a data catalog operational).</p></li>
+<li><p>What has high levels of demand (e.g., templates for contract and policy language).</p></li>
+<li><p>Where RWSC has unique value (e.g., enabling sharing of sensitive data).</p></li>
+<li><p>What has high impact (e.g., removes a critical data bottleneck).</p></li>
+</ul>
+<section id="mapping-the-offshore-wind-wildlife-data-ecosystem" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="mapping-the-offshore-wind-wildlife-data-ecosystem">1 - Mapping the offshore wind &amp; wildlife data ecosystem</h3>
+<p>The offshore wind and wildlife data ecosystem encompasses all the data necessary to answer the questions in the RWSC Science Plan; the agencies, organizations, and individuals that created the data; the data hosts or locations; and the networks that connect them. A data ecosystem’s interconnections are core to its value. If data discovery is difficult or data cannot move from one node to another, the data ecosystem will not be as effective or efficient. Figure 1 provides a high-level concept of the data ecosystem and how elements could be connected to deliver Science Plan products, with a focus on data sources, ownership, and control.</p>
+<p><u>DGSC roles:</u></p>
+<ul>
+<li><p>Lead development of the data ecosystem map.</p></li>
+<li><p>Review data flows described in Subcommittee chapters and request additional information from Subcommittee leads and partners as needed.</p></li>
+<li><p>Identify common bottlenecks or barriers across data types and sources that could be addressed by consistent guidance, policy, workflows, or other tools from the RWSC.</p></li>
+<li><p>Encourage repositories in the data ecosystem to adopt a consistent Atlantic offshore wind “identifier” for data collected in and around Atlantic WEAs.</p></li>
+<li><p>Consider how the existing RWSC database of relevant research activities and the Northeast and Mid-Atlantic Ocean Data Portals fit into the data ecosystem now, and how those entities might play different roles once the data catalog is created.</p></li>
+</ul>
+<p><u>Subcommittee roles:</u></p>
+<ul>
+<li><p>Identify issues around data flows, interoperability across platforms, and general data access for the DGSC to consider.</p></li>
+<li><p>Update and maintain documentation on data standards and preferred repositories and provide summaries to DGSC.</p></li>
+<li><p>Support data partners in documenting data flows and identifying barriers and challenges.</p></li>
+</ul>
+</section>
+<section id="developing-common-policies-minimum-data-standards-and-guidance-for-data-management" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="developing-common-policies-minimum-data-standards-and-guidance-for-data-management">2 - Developing common policies, minimum data standards, and guidance for data management</h3>
+<section id="common-policies" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="common-policies">Common policies</h4>
+<p>RWSC participants expressed strong support for a common library of contract language and guidance on data licensing. While individual repositories may have their own licensing terms, including adding machine-readable license terms to datasets, the DGSC can look across these licensing terms in their repository review and highlight commonalities. Similarly, RWSC staff have already begun compiling data sharing and licensing terms from RWSC partners and from Memoranda of Understanding (MOUs) like the <a href="https://rwsc.org/new-research-effort-established-on-offshore-wind-and-wildlife/">MOU between RWSC and the Center for Ocean Leadership</a> to administer research funding. The language library can help partners select the most appropriate terms for their data needs. The DGSC can also explore creating a basic data sharing policy that can be incorporated by reference in any contract.</p>
+</section>
+<section id="data-standards-and-data-management" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="data-standards-and-data-management">Data standards and data management</h4>
+<p>“Ensuring appropriate data and standards are in place to support science priorities” is part of the RWSC’s core purpose. At the September 2023 RWSC Data Governance workshop, participants were interested in common standards for: metadata across agencies, sectors, and groups; attribution; data management; data collection methods; long-term storage; and data quality. This is an area where there is a high degree of interest and expertise in the RWSC community, as well as strong opinions about the merits of different tools and approaches. Standardizing data and data processes has many benefits:</p>
+<ul>
+<li><p><u>Reduced cost for funders of research:</u> funders can reference standard practices rather than spending time detailing them in a scope of work or updating study requirements as science and research technologies advance.</p></li>
+<li><p><u>Reduced cost/time for data collectors:</u> researchers can use and cite standard practices rather than developing new protocols and avoid collecting unnecessary or incompatible data.</p></li>
+<li><p><u>Ensures a standard product:</u> funders can be sure that they paid for “good” data that met a set of community-developed criteria; data can be used in future analyses.</p></li>
+<li><p><u>More efficient science and management decision-making:</u> access and analyses are faster which streamlines interpretation and use.</p></li>
+</ul>
+<p>The RWSC will have the opportunity to set specific requirements for projects funded through the RWSC Offshore Wind &amp; Wildlife Research Fund. Requirements should include explicit budgeting for data management (at least 10% of total project costs <span class="citation" data-cites="tanhua2019 trice2021">(<a href="data-gov-mgmt.html#ref-tanhua2019" role="doc-biblioref">Tanhua et al., 2019</a>; <a href="data-gov-mgmt.html#ref-trice2021" role="doc-biblioref">Trice et al., 2021</a>)</span>), designation of a data manager who will be responsible for development of a data management and sharing plan, and seeing that data are appropriately documented and shared. The DGSC should lead the development of these requirements, including creating a data management and sharing plan template, starting with a review of existing programs to identify guidance and best practices.</p>
+<p>Consistent, complete metadata is the foundation of the offshore wind &amp; wildlife data ecosystem and the ability to create an RWSC data catalog. Standardized metadata is part of the global best practice of making data FAIR — Findable, Accessible, Interoperable, and Reusable — within the RWSC community and beyond <span class="citation" data-cites="tanhua2019 wilkinson2016">(<a href="data-gov-mgmt.html#ref-tanhua2019" role="doc-biblioref">Tanhua et al., 2019</a>; <a href="data-gov-mgmt.html#ref-wilkinson2016" role="doc-biblioref">Wilkinson et al., 2016</a>)</span>. FAIR principles are consistent with the RWSC’s core values of Transparency and Accessibility and not only support the Science Plan, but also support future re-use by new partners for questions not yet imagined <span class="citation" data-cites="hoeberling2022">(<a href="data-gov-mgmt.html#ref-hoeberling2022" role="doc-biblioref">Hoeberling, 2022</a>)</span>. In addition to the FAIR principles, the CARE principles for Indigenous data stewardship provide guidance for working with Indigenous knowledge and other information from communities while respecting data sovereignty and local control <span class="citation" data-cites="carroll2020">(<a href="data-gov-mgmt.html#ref-carroll2020" role="doc-biblioref">Carroll et al., 2020</a>)</span>. The RWSC should strive to achieve FAIR principles for all data and incorporate CARE principles as appropriate.</p>
+<p>Metadata standards and data standards are often prescribed by repositories. However, the DGSC will need to look across the recommended repositories to formulate a ‘minimum information standard’ that will ensure inclusion of useful information in the RWSC data catalog. This should not be a wholly new standard but a clear subset of components drawn from existing metadata standards recommended by the Subcommittees. For the data catalog, the RWSC may develop guidance and tools that explain and streamline metadata creation for new or undocumented data or utilize software that programmatically gleans existing metadata from data that are already published or archived in repositories.</p>
+<p><u>DGSC roles:</u></p>
+<ul>
+<li><p>Review the metadata and data standards for the repositories recommended by the Subcommittees.</p></li>
+<li><p>Develop the minimum metadata set for the data catalog and facilitate review by Subcommittees.</p></li>
+<li><p>Develop a data management and sharing plan template for RWSC-funded projects.</p></li>
+<li><p>Create a basic data sharing policy that can be incorporated by reference in any contract.</p></li>
+</ul>
+<p><u>Subcommittee roles:</u></p>
+<ul>
+<li><p>Encourage and support RWSC participants to use the data repositories recommended by the Subcommittees.</p></li>
+<li><p>Develop or encourage and support RWSC participants to use standard data collection templates/data sheets for each taxon or data type.</p></li>
+<li><p>Inform the development of the DGSC data sharing and management template and adapt it to meet Subcommittee needs, data types, and data products.</p></li>
+</ul>
+</section>
+</section>
+<section id="creating-a-data-catalog" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="creating-a-data-catalog">3 - Creating a Data Catalog</h3>
+<p>Data catalogs are detailed collections of metadata that make up a searchable inventory of datasets and products. The RWSC data catalog would connect the components of the offshore wind and wildlife data ecosystem and enable the discovery and sharing of data funded by the RWSC and partners in support of the Science Plan. With a robust data catalog, RWSC would function as a coordinator and information hub without having to store data or serve as a data repository. The <a href="https://database.rwsc.org/">Offshore Wind &amp; Wildlife Research Database</a> contains information at the project level, but a data catalog would operate at the dataset or data product level. It would pull descriptive metadata describing each dataset from the external repositories in the offshore wind and wildlife data ecosystem so that anyone could find and access it.</p>
+<p>The minimum metadata set in Recommendation #2 will be needed for the catalog to operate, and the wind “identifier” described in Recommendation #1 could also assist in pulling in data from external repositories.</p>
+<p><u>DGSC roles:</u></p>
+<ul>
+<li><p>Develop technical requirements for the catalog.</p></li>
+<li><p>Review and evaluate potential catalog hosts and technical infrastructure.</p></li>
+<li><p>Recommend options to the Steering Committee.</p></li>
+</ul>
+<p><u>Subcommittee roles:</u></p>
+<ul>
+<li>Recommend catalog hosting options.</li>
+</ul>
+</section>
+<section id="building-network-capacity-to-steward-unique-or-orphaned-data" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="building-network-capacity-to-steward-unique-or-orphaned-data">4 - Building network capacity to steward unique or orphaned data</h3>
+<p>While this may not be a major focus for the DGSC, there are data types, such as large image files from aerial high-definition cameras or thermal cameras, that do not have an existing repository. For the RWSC and partners to be able to preserve this data for future use, the DGSC will need to investigate options for hosting the data. This could involve working with partners who manage or maintain existing data infrastructure to develop a solution. Having the RWSC procure and maintain its own hosting solution should be a last resort, due to the limited capacity of the organization.</p>
+<p><u>DGSC roles:</u></p>
+<ul>
+<li>As requested, explore solutions for orphan data.</li>
+</ul>
+<p><u>Subcommittee roles:</u></p>
+<ul>
+<li><p>Identify orphan datasets that need alternate hosting solutions.</p></li>
+<li><p>Recommend data standards and best practices for data documentation.</p></li>
+</ul>
+</section>
+<section id="providing-general-data-governance-support-and-education" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="providing-general-data-governance-support-and-education">5 - Providing general data governance support and education</h3>
+<p>RWSC data partners and participants have a wide range of expertise and disciplinary backgrounds. This makes it important to develop shared language around data governance, data management, and participant expectations. The DGSC should explore creating a data handbook and glossary of key terms that helps anyone engage with the data ecosystem, whether they are agency managers, data scientists, biologists, or attorneys. The DGSC could also write up case studies and examples showing how data governance works from different partner perspectives and for different data types and workflows, helping make the concept of data governance more tangible. This type of community education will help develop consistency and shared understanding across the RWSC’s efforts and build the overall data capacity of the offshore wind and wildlife community.</p>
+</section>
+</section>
+<section id="references" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="references"><span class="header-section-number">2.3</span> References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-abraham2019" class="csl-entry" role="listitem">
+Abraham, R., Schneider, J., Brocke, J. vom, 2019. Data governance: A
+conceptual framework, structured review, and research agenda.
+International Journal of Information Management 49, 424–38. <a href="https://doi.org/10.1016/j.ijinfomgt.2019.07.008.">https://doi.org/10.1016/j.ijinfomgt.2019.07.008.</a>
+</div>
+<div id="ref-acp2023" class="csl-entry" role="listitem">
+ACP, 2023. Oceanographic effects of offshore wind structures and their
+potential impacts on the north atlantic right whale and their prey.
+</div>
+<div id="ref-brous2016" class="csl-entry" role="listitem">
+Brous, P., Janssen, M., Vilminko-Heikkinen, R., 2016.
+<span>“</span>Coordinating decision-making in data management
+activities: A systematic review of data governance
+principles,<span>”</span> in electronic government, ed. Hans jochen
+scholl et al., lecture notes in computer science. Springer International
+Publishing 115–25. <a href="https://doi.org/10.1007/978-3-319-44421-5_9.brous">https://doi.org/10.1007/978-3-319-44421-5_9.brous</a>
+</div>
+<div id="ref-carroll2020" class="csl-entry" role="listitem">
+Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J.,
+Lovett, R., Materechera, S., Parsons, M., Raseroka, K.,
+Rodriguez-Lonebear, D., Rowe, R., Sara, R., Walker, J.D., Anderson, J.,
+Hudson, M., 2020. The CARE principles for indigenous data governance.
+Data Science Journal. <a href="https://doi.org/10.5334/dsj-2020-043">https://doi.org/10.5334/dsj-2020-043</a>
+</div>
+<div id="ref-fritzenkötter2022" class="csl-entry" role="listitem">
+Fritzenkötter, J., Hohoff, L., Pierri, P., Verhulst, S., Young, A.,
+Zacharzewski, A., 2022. Governing the environment-related data space.
+SSRN Electronic Journal. https://doi.org/<a href="https://doi.org/10.2139/ssrn.4250166">https://doi.org/10.2139/ssrn.4250166</a>
+</div>
+<div id="ref-hare2022" class="csl-entry" role="listitem">
+Hare, J., Blythe, B., Ford, K., Godfrey-McKee, S., Hooker, B., Jensen,
+B., Lipsky, A., Nachman, C., Pfeiffer, L., Rasser, M., Renshaw, K.,
+2022. <a href="https://repository.library.noaa.gov/view/noaa/47925">NOAA
+fisheries and BOEM federal survey mitigation strategy - northeast u.s.
+region</a>.
+</div>
+<div id="ref-hoeberling2022" class="csl-entry" role="listitem">
+Hoeberling, K., 2022. Opportunity brief | beyond original intent:
+Environmental data stewardship for diverse uses. Open Environmental Data
+Project (OEDP). https://doi.org/<a href="https://doi.org/10.15868/socialsector.41283.">https://doi.org/10.15868/socialsector.41283.</a>
+</div>
+<div id="ref-kershaw" class="csl-entry" role="listitem">
+Kershaw, F., Jones, A., Folsom-O’Keefe, C., Johnson, E., Newman, B.,
+Liner, J., Clarkson, C., Swanson, R., Fuller, E., Krakoff, N., Johnson,
+A., Kelly, K., Hislop, K., Frignoca, I., Sarthou, C., Donaghue, E.,
+Haggerty, S., Ricci, H., Walsh, J., Humphries, E., Weiler, C., Felton,
+S., George, G., Haney, C., Lyons, D., Weinstein, A., Bibza, J., Hewett,
+A., Murphy, J., Muth, D., Renfro, A., Aylesworth, S., Chase, A., Davis,
+E., Trice, A., Stocker, M., Conley, M., Jedele, T., LoBue, C.,
+Runnebaum, J., Feinberg, P., n.d. <a href="https://www.nrdc.org/sites/default/files/ow_marine-life_monitoring_guidelines.pdf">Monitoring
+of marine life during offshore wind energy
+development<span></span>guidelines and recommendations</a>.
+</div>
+<div id="ref-kraus2019" class="csl-entry" role="listitem">
+Kraus, S., Kenney, R., Thomas, L., 2019. <a href="https://www.masscec.com/resources/related-wildlife-analyses">A
+framework for studying the effects of offshore wind development on
+marine mammals and turtles</a>.
+</div>
+<div id="ref-lin2020" class="csl-entry" role="listitem">
+Lin, D., Crabtree, J., Dillo, I., Downs, R.R., Edmunds, R., Giaretta,
+D., De Giusti, M., L’Hours, H., Hugo, W., Jenkyns, R., Khodiyar, V.,
+Martone, M.E., Mokrane, M., Navale, V., Petters, J., Sierman, B.,
+Sokolova, D.V., Stockhause, M., Westbrook, J., 2020. The TRUST
+principles for digital repositories. Scientific Data 7, 144. <a href="https://doi.org/10.1038/s41597-020-0486-7">https://doi.org/10.1038/s41597-020-0486-7</a>
+</div>
+<div id="ref-macfeely2022" class="csl-entry" role="listitem">
+MacFeely, S., Me, A., Fu, H., Veerappan, M., Hereward, M., Passarelli,
+D., Schüür, F., 2022. Towards an international data governance
+framework. Statistical Journal of the IAOS 38, 703–710. <a href="https://doi.org/10.3233/SJI-220038">https://doi.org/10.3233/SJI-220038</a>
+</div>
+<div id="ref-nasem2023" class="csl-entry" role="listitem">
+NASEM, 2023. <a href="https://doi.org/10.17226/27154">Potential
+hydrodynamic impacts of offshore wind energy on nantucket shoals
+regional ecology: An evaluation from wind to whales</a>. Washington, DC.
+</div>
+<div id="ref-newjerseydepartmentofenvironmentalprotectionboardofpublicutilities2021" class="csl-entry" role="listitem">
+New Jersey Department of Environmental Protection &amp; Board of Public
+Utilities, 2021. <a href="https://dep.nj.gov/offshorewind/rmi">New
+jersey research &amp; monitoring initiative</a>.
+</div>
+<div id="ref-noaacetsound2015" class="csl-entry" role="listitem">
+NOAA CetSound, 2015. <a href="https://cetsound.noaa.gov/biologically-important-area-map">Cetacean
+biologically important areas</a>.
+</div>
+<div id="ref-noaafisheries2022" class="csl-entry" role="listitem">
+NOAA Fisheries, BOEM, 2022. <a href="https://www.regulations.gov/document/BOEM-2022-0066-0003">Draft
+north atlantic right whale and offshore wind strategy</a>.
+</div>
+<div id="ref-nyserda2021" class="csl-entry" role="listitem">
+NYSERDA, 2021. <a href="https://nyserda.ny.gov/publications">Wildlife
+data standardization and sharing: Environmental data transparency for
+new york state offshore wind energy</a>. Portland, ME.
+</div>
+<div id="ref-regionalsynthesisworkgroupoftheoffshorewindenvironmentaltechnicalworkinggroup" class="csl-entry" role="listitem">
+Regional Synthesis Workgroup of the Offshore Wind Environmental
+Technical Working Group, n.d. U.s. Atlantic offshore wind environmental
+research recommendations database.
+</div>
+<div id="ref-sebastian-coleman2018" class="csl-entry" role="listitem">
+Sebastian-Coleman, L., 2018. Navigating the labyrinth: An executive
+guide to data management.
+</div>
+<div id="ref-southall2021" class="csl-entry" role="listitem">
+Southall, B., Morse, L., Williams, K., Jenkins, E., 2021. <a href="https://www.nyetwg.com/2020-workgroups.">Marine mammals workgroup
+report for the state of the science workshop on wildlife and offshore
+wind energy 2020: Cumulative impacts.</a> Albany, NY.
+</div>
+<div id="ref-stepanuk2021" class="csl-entry" role="listitem">
+Stepanuk, J., Heywood, E., Lopez, J., DiGiovanni, R.J., Thorne, L.,
+2021. Age-specific behavior and habitat use in humpback whales:
+Implications for vessel strike. Mar Ecol Prog Ser 663, 222.
+https://doi.org/<a href="https://doi.org/10.3354/meps13638">https://doi.org/10.3354/meps13638</a>
+</div>
+<div id="ref-tanhua2019" class="csl-entry" role="listitem">
+Tanhua, T., Pouliquen, S., Hausman, J., O’Brien, K., Bricher, P., Bruin,
+T. de, Buck, J.J.H., Burger, E.F., Carval, T., Casey, K.S., Diggs, S.,
+Giorgetti, A., Glaves, H., Harscoat, V., Kinkade, D., Muelbert, J.H.,
+Novellino, A., Pfeil, B., Pulsifer, P.L., Van de Putte, A., Robinson,
+E., Schaap, D., Smirnov, A., Smith, N., Snowden, D., Spears, T., Stall,
+S., Tacoma, M., Thijsse, P., Tronstad, S., Vandenberghe, T., Wengren,
+M., Wyborn, L., Zhao, Z., 2019. <a href="https://www.frontiersin.org/articles/10.3389/fmars.2019.00440">Ocean
+FAIR data services</a>. Frontiers in Marine Science 6.
+</div>
+<div id="ref-trice2021" class="csl-entry" role="listitem">
+Trice, A., Robbins, C., Philip, N., Rumsey, M., 2021. Challenges and
+opportunities for ocean data to advance conservation and management.
+Washington, DC.
+</div>
+<div id="ref-wilkinson2016" class="csl-entry" role="listitem">
+Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton,
+M., Baak, A., Blomberg, N., Boiten, J.-W., Silva Santos, L.B. da,
+Bourne, P.E., Bouwman, J., Brookes, A.J., Clark, T., Crosas, M., Dillo,
+I., Dumon, O., Edmunds, S., Evelo, C.T., Finkers, R., Gonzalez-Beltran,
+A., Gray, A.J.G., Groth, P., Goble, C., Grethe, J.S., Heringa, J., ’t
+Hoen, P.A.C., Hooft, R., Kuhn, T., Kok, R., Kok, J., Lusher, S.J.,
+Martone, M.E., Mons, A., Packer, A.L., Persson, B., Rocca-Serra, P.,
+Roos, M., Schaik, R. van, Sansone, S.-A., Schultes, E., Sengstag, T.,
+Slater, T., Strawn, G., Swertz, M.A., Thompson, M., Lei, J. van der,
+Mulligen, E. van, Velterop, J., Waagmeester, A., Wittenburg, P.,
+Wolstencroft, K., Zhao, J., Mons, B., 2016. The FAIR guiding principles
+for scientific data management and stewardship. Scientific Data 3,
+160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>
+</div>
+</div>
 
 
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>We’re using a version of the data lifecycle from the International Oceanographic Commission’s <a href="https://classroom.oceanteacher.org/">Data Management training</a>. There are many versions of the data lifecycle, with varying levels of detail, and we recommend the RWSC choose one to help guide the development of common terms across the group. Other frameworks include <a href="https://www.usgs.gov/data-management/data-lifecycle">USGS</a>, the <a href="https://nosc.noaa.gov/EDMC/framework.php">NOAA Environmental Data Management Framework</a>, and <a href="https://dataoneorg.github.io/Education/bp_step/plan/">DataOne</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -510,30 +847,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/rwsc\.org\/science-plan");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./intro.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Introduction and Reader’s Guide</span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction and Reader’s Guide</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./marine-mammals.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Marine Mammals</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Marine Mammals</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+    <div class="nav-footer-left">© CC-By RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-git"></i></div><div class="action-links"><p><a href="https://rwscollab.github.io/science-plan/edit/main/data-gov-mgmt.qmd" class="toc-action">Edit this page</a></p><p><a href="https://rwscollab.github.io/science-plan/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
-    <div class="nav-footer-right">This book was built with <a href="https://quarto.org/">Quarto</a>.</div>
+    </div>
+    <div class="nav-footer-right"><img src="RWSC_Logo.png" width="125"></div>
   </div>
 </footer>
 
