@@ -1,1 +1,235 @@
-# Data governance and data management {#sec-data-gov-mgmt}
+---
+bibliography: references.bib
+---
+
+# Data Governance and Data Management
+
+Kate Wing and Rachael Blake, Intertidal Agency
+
+## Summary {#sec-data-gov-mgmt .unnumbered}
+
+Data governance and data management are essential to achieving the RWSC's goals and the research described in this Science Plan.
+Data governance encompasses the purpose and processes for collecting and using data, policies such as contract terms and data licenses, and frameworks for technical implementation.
+Data management executes and informs data governance, supporting the shared goals and agreements with standards, best practices, documentation, and infrastructure.
+The two practices are complementary and need to operate in tandem, in ways that are responsive to program demands and the capacity of the RWSC community.
+
+During the 2023 Science Plan review, the RWSC held multiple discussions on data governance and management, including a half-day workshop on September 8, 2023.
+As a result of these discussions, as well as comments received on the draft Science Plan, parts of the original Data Management Chapter have been distributed into relevant Subcommittee chapters while other parts are now incorporated here.
+This reflects a general desire to divide roles and responsibilities between the RWSC Steering Committee (via a newly created Data Governance Subcommittee) and the expert Subcommittees such that:
+
+-   The Data Governance Subcommittee (DGSC) oversees issues that cross disciplines and taxa, like common data sharing terms for contracts, tools for sharing sensitive data, requirements for RWSC-funded projects, or setting a "floor" for data to be included in the RWSC catalog.
+
+-   Other Subcommittees and data leads for individual projects hold the primary responsibility for data management of project data and data workflows.
+    This includes applying the recommendations in the Subcommittee chapters for metadata standards, preferred repositories, and data stewardship through the data lifecycle.
+
+This chapter focuses on the role of data governance and management across projects and Subcommittees---at the RWSC DGSC level---and describes how both the DGSC and other Subcommittees might each advance these efforts.
+More detailed information on data management for specific data types can be found in each of the Subcommittee chapters, including recommendations for study design, data collection sheet standardization, and other taxa- or method-specific data standards.
+
+The RWSC Steering Committee will set up a Data Governance Subcommittee (DGSC) by Spring 2024.
+The initial scope of work for that group will include:
+
+1.  Mapping the offshore wind & wildlife data ecosystem
+
+2.  Developing common policies, minimum data standards, and guidance for data management
+
+3.  Creating a data catalog
+
+4.  Building network capacity to steward unique or orphaned data
+
+5.  Providing general data governance support and education
+
+Once established, the DGSC should refine these goals and develop a workplan for the first year, focusing on tasks that are essential, have high levels of demand, or where DGSC efforts can have high impact.
+Data governance and management are applicable to every RWSC participant.
+The remainder of this chapter provides guidance and resources for both the DGSC and anyone looking to implement data governance and management.
+
+## Introduction to Data Governance & Management
+
+*For more background and context, read the Data Governance & Data Management Appendix.*
+
+The RWSC's mission is:
+
+::: column-body
+"To collaboratively and effectively conduct and coordinate relevant, credible, and efficient regional monitoring and research of wildlife and marine ecosystems that supports the advancement of environmentally responsible and cost-efficient offshore wind power development activities in U.S. Atlantic waters."
+:::
+
+Achieving this mission requires attention to the way monitoring is carried out, by whom, and how results are validated and shared.
+Delivering efficiencies and coordinating data from collection to research products, across diverse and widespread efforts, will require data governance and management.
+Well-planned data governance will also help position the RWSC as a trusted resource for research guidance and information.
+
+Data governance focuses on how decisions are made about data and how people and processes are expected to behave in relation to data, including configuring technical infrastructure [@sebastian-coleman2018].
+Data governance can be created through international agreements, national laws, or implemented at an organizational or project level [@brous2016; @macfeely2022].
+Well-designed data governance supports effective, privacy-protecting data sharing and increases the value and impact of data through access and reuse [@abraham2019].
+This is particularly important for environmental data efforts [@fritzenkötter2022], like the RWSC, where analyses could involve data from a wide range of sources, such as compliance data shared with government agencies, data collected by wind energy companies and their contractors, independent and academic researchers, nonprofit organizations, and other future collaborators.
+Each of these contributors needs to be confident in how their data will be used and have the capacity to make informed decisions about data sharing, understanding both the potential benefits and risks.
+
+Data governance and management are important to consider at every step of the data lifecycle[^data-gov-mgmt-1].
+The Science Plan lays out research goals which rely on collaboration across a network of partners and projects.
+Each of these partnerships and projects may be at a different stage of their data lifecycle.
+Science Plan participants shared examples of data flows where there was a lack of clarity about how data would be structured or transmitted, inconsistent documentation of data practices, and questions about whether partners had the right agreements in place to allow data sharing.
+These are the types of questions data governance and management can answer, and the ideal time to discuss these topics is before data collection starts.
+This is why it is critical for the DGSC and other Subcommittees to coordinate on data governance and management, connecting the project-level guidance in the Subcommittee chapters to the broader data integration work of the DGSC.
+
+[^data-gov-mgmt-1]: We're using a version of the data lifecycle from the International Oceanographic Commission's [Data Management training](https://classroom.oceanteacher.org/).
+    There are many versions of the data lifecycle, with varying levels of detail, and we recommend the RWSC choose one to help guide the development of common terms across the group.
+    Other frameworks include [USGS](https://www.usgs.gov/data-management/data-lifecycle), the [NOAA Environmental Data Management Framework](https://nosc.noaa.gov/EDMC/framework.php), and [DataOne](https://dataoneorg.github.io/Education/bp_step/plan/).
+
+U.S. federal agencies, Atlantic coast states, and offshore wind companies are all funding individual data collection and research activities.
+Some of these activities are conducted collaboratively but the majority are funded, scoped, and managed under the purview of a single funder or entity.
+In its role as a coordinator, the RWSC can provide guidance and support for consistency across data efforts and partners, including sharing standards and best practices such as New York's Wildlife Data Standardization and Sharing report [@nyserda2021].
+
+Collaboration takes time and resources, and it is essential to the success of the Science Plan.
+By planning for data governance and management at the RWSC level, not just at the individual research project level, the RWSC can identify where best to invest time and resources to achieve the collective goals of the offshore wind and wildlife community.
+The RWSC can continue its approach of operating transparently by documenting how tools were chosen, how often templates or protocols will be revised, and other decisions about data.
+Being open about how these decisions are made builds trust in the data systems used by the RWSC and the data products produced [@lin2020].
+Finally, program-level data governance and management can create efficiencies and incentives, like improving data discoverability and access, reducing duplicative research, or increasing the visibility of RWSC science so funders and researchers get citable "credit" for their work generating data and data products.
+
+## Implementing Data Governance & Management
+
+The DGSC will be the primary home for data governance in the RWSC.
+The recommendations below form an initial scope for the work of the DGSC.
+Once established, the DGSC should refine its scope and workplan with an eye on:
+
+-   What is absolutely essential (e.g., guidance for RWSC-supported projects, minimum data standards to make a data catalog operational).
+
+-   What has high levels of demand (e.g., templates for contract and policy language).
+
+-   Where RWSC has unique value (e.g., enabling sharing of sensitive data).
+
+-   What has high impact (e.g., removes a critical data bottleneck).
+
+### 1 - Mapping the offshore wind & wildlife data ecosystem {.unnumbered}
+
+The offshore wind and wildlife data ecosystem encompasses all the data necessary to answer the questions in the RWSC Science Plan; the agencies, organizations, and individuals that created the data; the data hosts or locations; and the networks that connect them.
+A data ecosystem's interconnections are core to its value.
+If data discovery is difficult or data cannot move from one node to another, the data ecosystem will not be as effective or efficient.
+Figure 1 provides a high-level concept of the data ecosystem and how elements could be connected to deliver Science Plan products, with a focus on data sources, ownership, and control.
+
+[DGSC roles:]{.underline}
+
+-   Lead development of the data ecosystem map.
+
+-   Review data flows described in Subcommittee chapters and request additional information from Subcommittee leads and partners as needed.
+
+-   Identify common bottlenecks or barriers across data types and sources that could be addressed by consistent guidance, policy, workflows, or other tools from the RWSC.
+
+-   Encourage repositories in the data ecosystem to adopt a consistent Atlantic offshore wind "identifier" for data collected in and around Atlantic WEAs.
+
+-   Consider how the existing RWSC database of relevant research activities and the Northeast and Mid-Atlantic Ocean Data Portals fit into the data ecosystem now, and how those entities might play different roles once the data catalog is created.
+
+[Subcommittee roles:]{.underline}
+
+-   Identify issues around data flows, interoperability across platforms, and general data access for the DGSC to consider.
+
+-   Update and maintain documentation on data standards and preferred repositories and provide summaries to DGSC.
+
+-   Support data partners in documenting data flows and identifying barriers and challenges.
+
+### 2 - Developing common policies, minimum data standards, and guidance for data management {.unnumbered}
+
+#### Common policies {.unnumbered}
+
+RWSC participants expressed strong support for a common library of contract language and guidance on data licensing.
+While individual repositories may have their own licensing terms, including adding machine-readable license terms to datasets, the DGSC can look across these licensing terms in their repository review and highlight commonalities.
+Similarly, RWSC staff have already begun compiling data sharing and licensing terms from RWSC partners and from Memoranda of Understanding (MOUs) like the [MOU between RWSC and the Center for Ocean Leadership](https://rwsc.org/new-research-effort-established-on-offshore-wind-and-wildlife/) to administer research funding.
+The language library can help partners select the most appropriate terms for their data needs.
+The DGSC can also explore creating a basic data sharing policy that can be incorporated by reference in any contract.
+
+#### Data standards and data management {.unnumbered}
+
+"Ensuring appropriate data and standards are in place to support science priorities" is part of the RWSC's core purpose.
+At the September 2023 RWSC Data Governance workshop, participants were interested in common standards for: metadata across agencies, sectors, and groups; attribution; data management; data collection methods; long-term storage; and data quality.
+This is an area where there is a high degree of interest and expertise in the RWSC community, as well as strong opinions about the merits of different tools and approaches.
+Standardizing data and data processes has many benefits:
+
+-   [Reduced cost for funders of research:]{.underline} funders can reference standard practices rather than spending time detailing them in a scope of work or updating study requirements as science and research technologies advance.
+
+-   [Reduced cost/time for data collectors:]{.underline} researchers can use and cite standard practices rather than developing new protocols and avoid collecting unnecessary or incompatible data.
+
+-   [Ensures a standard product:]{.underline} funders can be sure that they paid for "good" data that met a set of community-developed criteria; data can be used in future analyses.
+
+-   [More efficient science and management decision-making:]{.underline} access and analyses are faster which streamlines interpretation and use.
+
+The RWSC will have the opportunity to set specific requirements for projects funded through the RWSC Offshore Wind & Wildlife Research Fund.
+Requirements should include explicit budgeting for data management (at least 10% of total project costs [@tanhua2019; @trice2021]), designation of a data manager who will be responsible for development of a data management and sharing plan, and seeing that data are appropriately documented and shared.
+The DGSC should lead the development of these requirements, including creating a data management and sharing plan template, starting with a review of existing programs to identify guidance and best practices.
+
+Consistent, complete metadata is the foundation of the offshore wind & wildlife data ecosystem and the ability to create an RWSC data catalog.
+Standardized metadata is part of the global best practice of making data FAIR --- Findable, Accessible, Interoperable, and Reusable --- within the RWSC community and beyond [@tanhua2019; @wilkinson2016].
+FAIR principles are consistent with the RWSC's core values of Transparency and Accessibility and not only support the Science Plan, but also support future re-use by new partners for questions not yet imagined [@hoeberling2022].
+In addition to the FAIR principles, the CARE principles for Indigenous data stewardship provide guidance for working with Indigenous knowledge and other information from communities while respecting data sovereignty and local control [@carroll2020].
+The RWSC should strive to achieve FAIR principles for all data and incorporate CARE principles as appropriate.
+
+Metadata standards and data standards are often prescribed by repositories.
+However, the DGSC will need to look across the recommended repositories to formulate a 'minimum information standard' that will ensure inclusion of useful information in the RWSC data catalog.
+This should not be a wholly new standard but a clear subset of components drawn from existing metadata standards recommended by the Subcommittees.
+For the data catalog, the RWSC may develop guidance and tools that explain and streamline metadata creation for new or undocumented data or utilize software that programmatically gleans existing metadata from data that are already published or archived in repositories.
+
+[DGSC roles:]{.underline}
+
+-   Review the metadata and data standards for the repositories recommended by the Subcommittees.
+
+-   Develop the minimum metadata set for the data catalog and facilitate review by Subcommittees.
+
+-   Develop a data management and sharing plan template for RWSC-funded projects.
+
+-   Create a basic data sharing policy that can be incorporated by reference in any contract.
+
+[Subcommittee roles:]{.underline}
+
+-   Encourage and support RWSC participants to use the data repositories recommended by the Subcommittees.
+
+-   Develop or encourage and support RWSC participants to use standard data collection templates/data sheets for each taxon or data type.
+
+-   Inform the development of the DGSC data sharing and management template and adapt it to meet Subcommittee needs, data types, and data products.
+
+### 3 - Creating a Data Catalog {.unnumbered}
+
+Data catalogs are detailed collections of metadata that make up a searchable inventory of datasets and products.
+The RWSC data catalog would connect the components of the offshore wind and wildlife data ecosystem and enable the discovery and sharing of data funded by the RWSC and partners in support of the Science Plan.
+With a robust data catalog, RWSC would function as a coordinator and information hub without having to store data or serve as a data repository.
+The [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) contains information at the project level, but a data catalog would operate at the dataset or data product level.
+It would pull descriptive metadata describing each dataset from the external repositories in the offshore wind and wildlife data ecosystem so that anyone could find and access it.
+
+The minimum metadata set in Recommendation #2 will be needed for the catalog to operate, and the wind "identifier" described in Recommendation #1 could also assist in pulling in data from external repositories.
+
+[DGSC roles:]{.underline}
+
+-   Develop technical requirements for the catalog.
+
+-   Review and evaluate potential catalog hosts and technical infrastructure.
+
+-   Recommend options to the Steering Committee.
+
+[Subcommittee roles:]{.underline}
+
+-   Recommend catalog hosting options.
+
+### 4 - Building network capacity to steward unique or orphaned data {.unnumbered}
+
+While this may not be a major focus for the DGSC, there are data types, such as large image files from aerial high-definition cameras or thermal cameras, that do not have an existing repository.
+For the RWSC and partners to be able to preserve this data for future use, the DGSC will need to investigate options for hosting the data.
+This could involve working with partners who manage or maintain existing data infrastructure to develop a solution.
+Having the RWSC procure and maintain its own hosting solution should be a last resort, due to the limited capacity of the organization.
+
+[DGSC roles:]{.underline}
+
+-   As requested, explore solutions for orphan data.
+
+[Subcommittee roles:]{.underline}
+
+-   Identify orphan datasets that need alternate hosting solutions.
+
+-   Recommend data standards and best practices for data documentation.
+
+### 5 - Providing general data governance support and education {.unnumbered}
+
+RWSC data partners and participants have a wide range of expertise and disciplinary backgrounds.
+This makes it important to develop shared language around data governance, data management, and participant expectations.
+The DGSC should explore creating a data handbook and glossary of key terms that helps anyone engage with the data ecosystem, whether they are agency managers, data scientists, biologists, or attorneys.
+The DGSC could also write up case studies and examples showing how data governance works from different partner perspectives and for different data types and workflows, helping make the concept of data governance more tangible.
+This type of community education will help develop consistency and shared understanding across the RWSC's efforts and build the overall data capacity of the offshore wind and wildlife community.
+
+## References
+
+::: {#refs}
+:::

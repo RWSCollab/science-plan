@@ -5,51 +5,78 @@ project:
 book:
   title: "Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters"
   reader-mode: true
-
+  page-navigation: true
   page-footer:
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
-  cover-image: logo7.png
+    left: "&copy; CC-By RWSC Steering Committee, 2024"
+    right: <img src="RWSC_Logo.png" width="125">
+  search:
+    location: sidebar
+    type: textbox
+  sidebar:
+    title: RWSC Science Plan
+    logo: "logo7.png"
+    pinned: true
+    align: "center"
+    tools:
+      - icon: globe
+        href: https://rwsc.org
+        text: "rwsc.org"
+      - icon: github
+        href: https://rwscollab.github.io/science-plan/
+        text: "github"
+      - icon: cloud-download
+        href: https://rwsc.org/
+        text: "download pdf"
+  cover-image: RWSC_Logo.png
   favicon: logo7.png
   site-url: https://rwsc.org/science-plan
-  repo-url: https://rwscollab.github.io/science-plan/
   repo-branch: main
   repo-actions: [edit, issue]
   chapters:
     - index.qmd
     - executive-summary.qmd
-    - intro.qmd
-    - data-gov-mgmt.qmd
-    - marine-mammals.qmd
-    - birds.qmd
-    - bats.qmd
-    - sea-turtles.qmd
-    - protected-fish.qmd
-    - oceanography.qmd
-    - seafloor.qmd
-    - technology.qmd
-    - review.qmd
-
-    - part: appendices.qmd
+    - text: "---"
+    - part: "Chapters"
       chapters:
-        - rosters.qmd
-        - append-dgdm.qmd
-        - append-mm.qmd
-        - append-birds.qmd
-        - append-bats.qmd
-        - append-st.qmd
-        - append-heo.qmd
-        - append-hes.qmd
+        - intro.qmd
+        - data-gov-mgmt.qmd
+        - marine-mammals.qmd
+        - birds.qmd
+        - bats.qmd
+        - sea-turtles.qmd
+        - protected-fish.qmd
+        - oceanography.qmd
+        - seafloor.qmd
+        - technology.qmd
+        - review.qmd
+    - text: "---"
+
+  appendices:
+    - append-rosters.qmd
+    - append-intro.qmd
+    - append-dgdm.qmd
+    - append-mm.qmd
+    - append-birds.qmd
+    - append-bats.qmd
+    - append-st.qmd
+    - append-heo.qmd
+    - append-hes.qmd
+
+bibliography: references.bib
+csl: elsevier-harvard
+crossref:
+  appendix-title: "Appendix"
+  appendix-delim: ":"
+  chapters: true
 
 format:
   html:
     theme:
       - cosmo
+      - rwsc.scss
     code-link: true
-
     author-meta: "Regional Wildlife Science Collaborative for Offshore Wind"
-    include-in-header: "plausible.html"
     callout-appearance: simple
+    link-external-newwindow: true
 
 editor: visual
-

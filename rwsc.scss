@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+$primary: #F15A29 !default;
+
+/*-- scss:rules --*/
+
+div.sidebar-item-container .active {
+  font-weight: bold;
+  font-color: #F15A29;
+}
+
+div.column-body {
+  background-color: #F9f9f9;
+  border-radius: .375rem;
+  margin: .5rem;
+  margin-top: 0rem;
+  padding: 1rem;
+  padding-bottom: 0rem;
+
+}
+
+/* References & Footnotes ------------------------------------------------------ */
+
+#refs {
+  font-size:12px;
+}
+
+#footnotes {
+  font-size: 12px;
+}

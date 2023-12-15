@@ -1,1 +1,1 @@
-# Appendix: Data Governance & Data Management {#sec-append-dgdm}
+# Data Governance & Data Management {#sec-append-dgdm}

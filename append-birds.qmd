@@ -1,1 +1,1 @@
-# Appendix: Birds {#sec-append-birds}
+# Birds {#sec-append-birds}

@@ -1,1 +1,1 @@
-# Appendix: Bats {#sec-append-bats}
+# Bats {#sec-append-bats}

@@ -1,14 +1,16 @@
 # Executive Summary {#sec-executive-summary .unnumbered}
 
-Four sectors (U.S. federal agencies, Atlantic coast states, offshore wind companies, and environmental NGOs) formed the [Regional Wildlife Science Collaborative for Offshore Wind](https://rwsc.org/) (RWSC) and collectively funded the development of this Science Plan to inform ongoing offshore wind, wildlife, and habitat[\[1\]](#_ftn1) data collection and research in U.S.
+Four sectors (U.S. federal agencies, Atlantic coast states, offshore wind companies, and environmental NGOs) formed the [Regional Wildlife Science Collaborative for Offshore Wind](https://rwsc.org/) (RWSC) and collectively funded the development of this Science Plan to inform ongoing offshore wind, wildlife, and habitat[^executive-summary-1] data collection and research in U.S.
 Atlantic waters, to identify gaps and needs for research and data collection, and to describe a framework for collaboration to address those needs.
 
-This framework for collaboration represents critical progress in facilitating the [states' policies and the federal administration's goals](https://www.energy.gov/eere/wind/articles/offshore-wind-market-report-2023-edition) to procure, develop, and operate offshore wind power while also seeking to avoid, minimize, and mitigate  impacts to wildlife and the environment while promoting ocean co-use.
+[^executive-summary-1]: For the coordination of offshore wind and fisheries research activities, see the Responsible Offshore Science Alliance, https://www.rosascience.org.
+
+This framework for collaboration represents critical progress in facilitating the [states' policies and the federal administration's goals](https://www.energy.gov/eere/wind/articles/offshore-wind-market-report-2023-edition) to procure, develop, and operate offshore wind power while also seeking to avoid, minimize, and mitigate impacts to wildlife and the environment while promoting ocean co-use.
 Furthermore, the collaborative actions described below help fulfill the [U.S. Ocean Climate Action Plan's](https://www.noaa.gov/sites/default/files/2023-03/Ocean-Climate-Action-Plan_Final.pdf) direction to Federal agencies to integrate and coordinate across the Federal government to advance offshore wind by increasing scientific research and improve data sharing and access.
 
 This Executive Summary provides an overview of the Subcommittees' research recommendations and describes how the four Sectors will coordinate to implement the Science Plan and track progress.
 
-**Summary of Subcommittee Recommendations**
+## **Summary of Subcommittee Recommendations**
 
 This section consolidates the detailed recommendations made by each Subcommittee in the Science Plan to address data gaps and needs.
 Each Subcommittee's chapter provides more information about the geographies where certain activities should occur, ecological and logistical considerations for implementing recommendations, and the entities who are leading existing work.
@@ -63,10 +65,15 @@ The Sector Caucuses expect that to implement these recommendations, many differe
 
 11. Advance technologies to improve wildlife detection and impact mitigation and ensure consistent technology performance evaluation.
 
-**Implementing the Science Plan -- a Framework for Collaboration**
+## **Implementing the Science Plan -- a Framework for Collaboration**
 
-To ensure that the data collection and research efforts recommended in the Science Plan are Findable, Accessible, Interoperable, and Reusable[\[2\]](#_ftn2) by anyone, the four Sectors have developed a voluntary framework for collaboration through RWSC.
+To ensure that the data collection and research efforts recommended in the Science Plan are Findable, Accessible, Interoperable, and Reusable[^executive-summary-2] by anyone, the four Sectors have developed a voluntary framework for collaboration through RWSC.
 This framework has three primary goals:
+
+[^executive-summary-2]: Wilkinson, M.D., et al., 2016.
+    The FAIR Guiding Principles for scientific data management and stewardship.
+    Scientific Data 3, 160018.
+    <https://doi.org/10.1038/sdata.2016.18>.
 
 -   Coordinate regional research on offshore wind and wildlife through the RWSC, regardless of funding source, recipient(s), or funding structure.
 
@@ -74,9 +81,11 @@ This framework has three primary goals:
 
 -   Communicate the impact of individual and collaborative research.
 
-The four sectors welcome and encourage participation from all entities and individuals in implementing this Science Plan, especially via expert Subcommittee meetings[\[3\]](#_ftn3).
+The four sectors welcome and encourage participation from all entities and individuals in implementing this Science Plan, especially via expert Subcommittee meetings[^executive-summary-3].
 To assist in the implementation of the Science Plan, the RWSC will maintain the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) and continue to provide tools and forums for research planning, discussions, and collaboration among all participants.
 All are encouraged to participate in implementing the Science Plan by:
+
+[^executive-summary-3]: Subcommittee meeting information is posted publicly and open to all interested participants: https://rwsc.org/events.
 
 -   **Maintaining situational awareness of data collection and research activities to identify opportunities for collaboration, consistency, and efficiency.** This can be accomplished in part by participating regularly in RWSC Sector Caucus and expert Subcommittee meetings and by requiring relevant grantees, contractors, and researchers to share project information with the RWSC.
     Several RWSC participants have noted the value of Subcommittee meetings as forums for sharing research plans, discussing emerging issues, and working together across sectors to advance Science Plan objectives.
@@ -104,16 +113,7 @@ Atlantic waters:
 
 -   The greater scientific community can use this plan to shape their own research objectives and inform their funding decisions related to offshore wind and wildlife efforts.
 
--   The RWSC Science Plan could be used to support multi-sector collaborations to advance career workforce development programs for ecological and biological monitoring roles by serving as a guide to identify the scientific disciplines, the types of roles and the skills (including the educational requirements) necessary to address the research questions[\[4\]](#0).
+-   The RWSC Science Plan could be used to support multi-sector collaborations to advance career workforce development programs for ecological and biological monitoring roles by serving as a guide to identify the scientific disciplines, the types of roles and the skills (including the educational requirements) necessary to address the research questions[^executive-summary-4].
     Building on the administration's Justice40 objectives and state-level commitments, the STEM ecological and biological career workforce investments should be targeted to benefit communities historically underrepresented in the scientific community that have been most impacted by environmental harms by developing a Bluegreen Career Map with multiple training and employment entry and exit points.
 
-[\[1\]](#_ftnref1) For the coordination of offshore wind and fisheries research activities, see the Responsible Offshore Science Alliance, https://www.rosascience.org.
-
-[\[2\]](#_ftnref2) Wilkinson, M.D., et al., 2016.
-The FAIR Guiding Principles for scientific data management and stewardship.
-Scientific Data 3, 160018.
-<https://doi.org/10.1038/sdata.2016.18>.
-
-[\[3\]](#_ftnref3) Subcommittee meeting information is posted publicly and open to all interested participants: https://rwsc.org/events.
-
-[\[4\]](#_ftnref4) [STEM Workforce Development and the RWSC Integrated Science Plan](https://rwscorg-my.sharepoint.com/:b:/g/personal/admin_rwsc_org/EcjvcnLLW9VOiBDJB2493iIBeNSbskh3xtaIHs1WW28L2A?e=CSVeEY)
+[^executive-summary-4]: [STEM Workforce Development and the RWSC Integrated Science Plan](https://rwscorg-my.sharepoint.com/:b:/g/personal/admin_rwsc_org/EcjvcnLLW9VOiBDJB2493iIBeNSbskh3xtaIHs1WW28L2A?e=CSVeEY)

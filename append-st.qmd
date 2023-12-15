@@ -1,1 +1,1 @@
-# Appendix: Sea Turtles {#sec-append-st}
+# Sea Turtles {#sec-append-st}
