@@ -1,1 +1,245 @@
 # Habitat & Ecosystem- Oceanography {#sec-oceanography}
+
+*Authors: [Habitat & Ecosystem Subcommittee](append-rosters.qmd#he)*
+
+*For more detail on any of these topics, read the*[Habitat & Ecosystem - Oceanography Appendix](append-heo.qmd).
+
+The scope of this chapter includes physical and biological oceanographic processes, hydrodynamics, and some atmospheric and meteorological processes.
+All of these processes relate to the species discussed in other chapters.
+Readers should expect to encounter multiple cross-references between chapters and topics as studies of oceanographic and meteorological processes are relevant to species as drivers of distribution, abundance, movement, and behavior, prey availability.
+
+Data collection and study of sessile, attached, and epiphytic flora and fauna (including non-native and invasive species) are discussed in the [Habitat & Ecosystem - Seafloor chapter](seafloor.qmd).
+It is likely that some of the tools and methods used to collect seafloor habitat data (ROVs, autonomous vehicles) will contain sensors/tools to characterize and sample oceanographic variables as well.
+
+Many entities collect and manage physical and biological oceanographic and meteorological data in U.S. waters.
+These data and derived data products (e.g., hindcast, nowcast, and forecast model outputs) are produced and used by agencies and private entities for applications such as weather forecasting and maritime safety, in addition to research uses.
+One program within NOAA is the [U.S. Integrated Ocean Observing System (IOOS),](https://ioos.noaa.gov/) a national-regional partnership that coordinates the contributions of Federally owned observing and modeling systems and develops and integrates non-federal observing and modeling capacity into the system in partnership with IOOS regions.
+The IOOS Regional Associations (RAs) in the RWSC study area are the [Southeast Coastal Ocean Observing Regional Association (SECOORA)](https://secoora.org/), the [Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS)](https://maracoos.org/), and the [North East Regional Association of Coastal Ocean Observing Systems (NERACOOS)](https://neracoos.org/).
+The Directors of each IOOS RA are members of the Habitat & Ecosystem Subcommittee, and IOOS RA staff also participate in each of the other RWSC Subcommittees.
+Each IOOS RA has different ares of focus with respect to data collection, synthesis, and management based on regional needs and partnerships.
+The IOOS RAs also coordinate coastal acidification networks along the Atlantic coast ([SOCAN](https://www.socan.secoora.org/), [MACAN](https://midacan.org/), [NECAN](http://necan.org/)) whose activities should be leveraged with respect to understanding any biogeochemical effects resulting from construction and operation of offshore wind projects.
+Relevant IOOS RA biological data coordination is captured in each taxa-focused Science Plan chapter.
+IOOS RAs will coordinate through RWSC Subcommittees and with RWSC leadership on data collection, syntheses, and management with respect to offshore wind and wildlife studies.
+RWSC participants will also leverage the IOOS RAs extensive partnerships with the research community, and their educational and outreach activities.
+
+## Data Management
+
+Understanding the full suite of oceanographic and meteorological processes near offshore wind developments will require close coordination among researchers, state and federal agencies, and industry.
+
+The Habitat & Ecosystem Subcommittee recommends that consistent data collection methods are applied across studies of oceanographic and meteorological processes so that data can support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., species distribution models).
+
+To support these efforts, the Subcommittee recommends:  
+
+-   Maintenance of an up-to-date resource list of recommended repositories, data and metadata standards, guidance, and protocols for use by all data collectors.
+    The current recommended resources are detailed in the table below.
+
+-   Development of recommendations for managing, storing, accessing, and eventually compiling archived (i.e., not real-time) oceanographic and meteorological observations recorded by wildlife and habitat researchers (and others) that may not be appropriately submitted to any of the repositories below due to dataset size or other considerations (e.g., bottom temperature readings recorded during fall/spring bottom trawl surveys).
+
+-   Development of standard language for inclusion in requests for proposals and funding agreements to encourage or require the use of recommended resources.
+
+-   Establishment of data sharing workflows, including formal agreements if necessary, to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., meteorological and oceanographic data collected on wind turbine generators and substations).
+
+The following table lists the repositories and standards that are recommended for use in oceanographic and meteorological data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists. 
+
+Table 7.
+Recommended repositories and standards for oceanography data collection.
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Method(s) and data type(s)**                                                                                                                                                                                            | **Repository**                                                                                                                                                                                                                                                                                                            | **Existing Standards**                                                                                                                                                                                                                                                                                                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Satellite remote sensing, water quality and oceanography, active acoustics and echosounders                                                                                                                               | [**NOAA National Centers for Environmental Information (NCEI)**](https://www.ncei.noaa.gov/)                                                                                                                                                                                                                              | Data collected without NOAA funding or support must go through a scientific appraisal process to be considered for the archive and is subject to the NESDIS non-NOAA data policy upon approval.                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | ISO 19115 XML Metadata standard is required by NCEI and the U.S. Integrated Ocean Observing System (IOOS).                                                                                                                                                                                                                                                                                                                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Buoys, gliders, radar, and satellites: Surface currents and waves, sea surface temperature, wind speed, chlorophyll-a fluorescence, and climatologies, forecasts, hindcasts, and other models of oceanographic variables. | **U.S. Integrated Ocean Observing System Regional Data Assembly Centers (IOOS Regional DACs):** There are three IOOS Regional DACs in the RWSC Study Area associated with each IOOS Regional Association - [NERACOOS](https://www.neracoos.org/), [MARACOOS](https://maracoos.org/), and [SECOORA](https://secoora.org/). | See <https://www.goosocean.org/eov> for recommendations on methods, sensors/techniques, detection limits, accuracy/uncertainty estimates, and other data considerations for physical, biochemical, and biological variables (Essential Ocean Variables; EOV).                                                                                                                                                                  |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | ISO 19115 XML Metadata standard is required by NCEI and IOOS.                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | Data and products are typically accessible via ERDDAP and THREDDS.                                                                                                                                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | The Regional DACs provide data assembly, quality control, discovery and access services for marine data collected by State, Local, Tribal governments, academia, and industry in each region. Inclusion of an observing asset in a Regional DAC is not limited to assets funded through IOOS RAs cooperative agreements or the federal government. Data contributed through Regional Associations will also be contributed to: |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | -   [IOOS Glider DAC](https://gliders.ioos.us/)                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | -   [IOOS High Frequency Radar DAC](https://hfradar.ioos.us/)                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | -   [Animal Telemetry Network DAC](https://atn.ioos.us/)                                                                                                                                                                                                                                                                                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Meteorological and atmospheric data                                                                                                                                                                                       | [**Wind Data Hub / Atmosphere to Electrons (A2e)**](https://a2e.energy.gov/)-- U.S. Department of Energy                                                                                                                                                                                                                  | [Atmosphere to Electrons (A2e) Data File Standards Version 1.1](https://a2e.energy.gov/docs/program/a2e_standards_guidelines.PNNL-28552.pdf) (March 2019)                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | Upload data: <https://a2e.energy.gov/upload>                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                           | Submit metadata: <https://a2e.energy.gov/metadata>                                                                                                                                                                                                                                                                                                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Data Collection
+
+Oceanographic and meteorological data collection is rarely required by agencies but is being collected widely given its inherent value to offshore wind developers to inform engineering and operational decisions.
+Several other entities are also funding, and/or advocating for oceanographic research and data collection activities with respect to offshore wind, in many cases due to the relevance to megafauna and their prey.
+Ongoing and planned activities are captured in the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
+
+Entities that deploy platforms to collect oceanographic and meteorological data in and near offshore wind development sites should coordinate with the IOOS RAs to manage and disseminate those data, in real-time, as is feasible.
+Links to where those data can be accessed should be shared with the RWSC Habitat & Ecosystem Subcommittee as soon as possible.
+Several offshore wind developers have or are actively coordinating with the IOOS RAs to serve real-time oceanographic and meteorological data from platforms within their lease areas approved by BOEM as part of their Site Assessment Plans.
+Links below point to active or legacy data:
+
+-   [Beacon Wind (Equinor)](https://erddap.maracoos.org/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Equinor+beacon)
+
+-   [Empire Wind (Equinor)](https://erddap.maracoos.org/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Equinor+empire)
+
+-   [Atlantic Shores Offshore Wind](https://erddap.maracoos.org/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Atlantic+shores)
+
+-   [Southcoast Wind](https://mariners.neracoos.org/)
+
+The Subcommittee recommends the following data collection activities :
+
+-   Leverage, maintain awareness, and coordinate with existing data collection programs that characterize baseline hydrodynamic and oceanographic processes, including:
+
+    -   Long-term surveys, datasets, and syntheses that inform the [NOAA Fisheries State of the Ecosystem Reports Northeast U.S. Shelf](https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/state-ecosystem-reports-northeast-us-shelf) (updated annually) and the [Northeast Integrated Ecosystem Assessment](https://www.integratedecosystemassessment.noaa.gov/regions/northeast).
+
+    -   [Coastal Data Information Program (CDIP)](https://database.rwsc.org/details?recordId=recX6WpodpzsLxaFv)
+
+    -   [National Data Buoy Center (NDBC)](https://www.ndbc.noaa.gov/)
+
+    -   [U.S. IOOS High Frequency Radar Network](https://hfradar.ioos.us/)
+
+    -   [National Water Level Observation Network (NWLON)](https://tidesandcurrents.noaa.gov/nwlon.html)
+
+    -   Datasets routinely collected by other agencies, including the National Weather Service, U.S. Navy, and others.
+
+-   Collect oceanographic (and for above-water species, meteorological) data simultaneously to wildlife observation data collection activities to provide context and understand potential drivers of wildlife distribution, abundance, behavior, movement, and health.
+
+    -   Leverage existing IOOS RA infrastructure, including co-locating sensors.
+
+    -   A list of key oceanographic and meteorological variables, parameters, and platforms/methods is provided in the Appendix.
+        Many of these variables are recognized by the Global Ocean Observing System as [Essential Ocean Variables](https://www.goosocean.org/eov) (EOV).
+        The list also specifies whether the variable was identified by RWSC Subcommittees as a potentially useful covariate for species distribution modeling [@hogan2023; @mdat2017; @roberts2016].
+
+    -   Ensure that oceanographic/meteorological data collected during offshore wind and wildlife surveys/studies is compiled and made available for use in other analyses and research.
+
+-   Collect meteorological, hydrographic, oceanographic, and productivity data in a consistent way from the fine- to regional scales to informs models (see [Data Analysis]) and produce a collection of standardized data products for priority species modeling covariates:
+
+    -   See the list of key variables, parameters, and platforms/methods in the [Appendix](append-heo.qmd).
+
+    -   Ensure that hydrodynamic and oceanographic processes are consistently measured across the RWSC study area.
+
+    -   Processes of interest for which data should be collected for modeling (training and validation) include:
+
+        -   Mid-Atlantic cold pool formation; stratification in general
+
+        -   Local turbulence production and induced mixing of different offshore wind foundation structures
+
+        -   Water quality and light penetration (e.g., chemical contamination associated with increased vessel traffic and presence of offshore wind structures, effects on suspended particulate matter and turbidity)
+
+        -   Atmospheric effects associated with energy removal by wind turbines (e.g., wake effects, the effects on waves, currents, and other air-sea interactions)
+
+        -   Wind farm-induced flow and atmospheric response to both momentum and heat fluxes
+
+        -   Ambient soundscapes and sound propagation data
+
+        -   Phytoplankton composition/biomass/abundance, primary productivity, and change over time; occurrence and persistence of harmful algal blooms
+
+        -   Zooplankton composition/biomass/abundance, secondary productivity, and change over time
+
+        -   Food availability for filter feeders and links to higher trophic levels
+
+    -   Where appropriate, using observing system simulation experiments (OSSEs) to determine optimal location of oceanographic observing at the region-wide scale.
+
+        -   Coordinate with the IOOS RAs and RWSC Subcommittees that may be deploying instrumentation via buoys to strategically co-locate sensors for oceanographic, meteorological, and habitat data.
+
+        -   Investing in region wide data collection with AUVs and remote sensing, including gliders, to supplement buoy data and collect more seamless broad scale coverage of physical oceanographic and biogeochemical data, and to record ambient noise.
+
+    -   Identify reliable reference/control sites, which may also be areas of high ecosystem productivity, for long-term monitoring and baseline data collection of multiple oceanographic variables in areas outside of wind lease areas.
+
+-   Advance technologies that facilitate widespread oceanographic and meteorological data collection, transmission, and data management during all phases of offshore wind development, and to ensure that the performance of new technologies is evaluated consistently (see [Technology chapter recommendations](technology.qmd)).
+
+    -   Develop, test, and validate novel platforms for collecting oceanographic and meteorological data
+
+    -   Leverage existing and improve real-time data transmission technologies from offshore platforms (cost, availability, reliability)
+
+The **Gulf of Maine** is warming faster than 99% of the world's oceans [@pershing2015].
+Oceanographic effects of floating turbines may differ from those of bottom-mounted turbines because of differences in structures spanning the whole water column (mooring lines vs. foundations).
+In this subregion there are gaps in understanding of the potential impacts on physical and biological resources from hydrodynamic and atmospheric alterations due to turbine presence [@blair2022].
+There are currently relatively few federal ocean observing buoys collecting data in the Gulf of Maine planning area, especially in the deepest basins where offshore wind development is most likely.
+Oceanographic observations in the planning area should be increased to characterize baselines, disentangle climate signals, and measure potential effects from offshore wind development.
+
+Construction- and post-construction wildlife monitoring in **Southern New England**, **New York/New Jersey Bight, and U.S. Central Atlantic** should include oceanographic data collection.
+The Mid-Atlantic Cold Pool will likely be a focus of data collection and studies given its dynamic nature and influence on food webs in these subregions.
+However, there are few federal ocean observing assets in the deeper waters of the RWSC study area.
+Additional platforms will be coming online in the MA/RI Wind Energy Area associated with the Wind Forecast Improvement Project 3 in late 2023 and early 2024, and there is the opportunity to co-locate sensors with the expansion of the Passive Acoustic Monitoring Network (see the [Marine Mammal chapter](marine-mammals.qmd). Given the area covered by multiple contiguous leases in these locations, it will be important to collect data consistently such that cumulative impacts from multiple wind farms on oceanography and habitat can be studied. Studies to characterize hydrodynamics of Nantucket Shoals and other important megafauna foraging habitats (e.g., coastal New Jersey) should monitor potential impacts from climate change-driven shifts in oceanography and physical forcing, as well as human activities to separate any impacts from those associated with offshore wind development.
+
+Research efforts in the **U.S. Southeast Atlantic** should focus on areas that are the likely targets of wind development (i.e., the northern third to one-half of the subregion).
+Upwelling is an important process in this subregion where seasonal stratification and Ekman transport push deep Gulf Stream waters onshore.
+These nutrient-rich deep waters drive productivity in the U.S.
+Southeast Atlantic, but overall, relationships between seasonal oceanographic forcing and biological responses in this subregion are poorly documented and understood.
+Data collection and modeling should focus on the potential effects from wakes on cross-shelf transport and resulting impacts to the ecology of the subregion.
+
+## Data Analysis
+
+Data analyses should seek to provide the environmental context and potential drivers of any changes observed in wildlife, evaluate the efficacy of monitoring and mitigation strategies, and inform where new data collection is needed.
+The Subcommittee is especially interested in studies that seek to distinguish between climate change-driven shifts in oceanographic and meteorological processes and changes that may be driven by offshore wind construction and operation.
+Analyses and studies should:
+
+-   Leverage existing data collection programs and integrate new data collection to characterize baseline hydrodynamic and oceanographic processes (see [Data Collection]).
+
+-   Leverage existing modeling frameworks and outputs (e.g., FVCOM, Doppio ROMS, CNAPS).
+
+-   Identify sensitive pelagic habitats to inform wind farm design characteristics, siting, and future assessments.
+    This might include mapping or modeling of significant oceanographic features and areas of biological productivity.
+
+-   Develop daily, monthly, and seasonal climatologies of oceanography, pelagic habitat, and biological productivity to inform species distribution modeling, marine spatial planning, and offshore wind project design (see key variables in the [Appendix](append-heo.qmd)).
+
+-   Develop or adapt existing hydrodynamic modeling frameworks to study potential effects from introduction of offshore wind infrastructure.
+    Ensure that the framework can be applied at the project area or lease scale and can be scaled up or aggregate results to examine broader scales.
+    The framework must be flexible to incorporate relevant physical characteristics of each area of interest.
+    Effects to the following parameters are of interest:
+
+    -   Atmospheric and water column structure, at multiple scales (i.e., wake effects, turbulence)
+
+    -   Waves (including direction, height, period)
+
+    -   Surface currents, circulation, and particle tracking (including 3D current fields, upwelling, downwelling, cold pool, fronts, larval dispersal, sediment transport)
+
+    -   Biological parameters (nutrients, phytoplankton and zooplankton biomass, productivity, abundance)
+
+    -   Sound (soundscapes characterization and propagation modeling)
+
+-   Characterize sound propagation and changes to the ocean soundscape:
+
+    -   Coordinate with the Marine Mammal Subcommittee on soundscape characterization and sound propagation data collection and modeling, especially given the coordination around deployments and data processing associated with the regional long-term/archival passive acoustic monitoring network.
+
+    -   Characterize ambient soundscapes before offshore wind development and throughout the lifecycle of offshore wind activities in support of predictive environmental modeling and trend analyses.
+
+    -   Improve sound measuring technologies and sound propagation models to include very low frequencies (below 10 Hz).
+
+-   Characterize atmospheric effects associated with energy removal by wind turbines:
+
+    -   Conduct studies of atmospheric response to wind farms using both simulations and field experiments, incorporating learnings from ongoing work in the Massachusetts-Rhode Island lease areas.
+        Characterize wake effects, the effects on waves, currents, and other air-sea interactions.
+
+    -   Test and validate the results of model-based studies related to offshore wind farms and atmospheric effects using real-world observations.
+        Field observations are needed that can discern the physical effect of offshore wind farms in contrast to what are solely naturally caused processes that may have been impacted by other factors.
+
+    -   Coordinate with the Bird & Bat Subcommittee to understand the implication of any observed atmospheric effects on bird and bat movement/migrations.
+
+-   Characterize effects of changes in hydrodynamics, water stratification and turbidity on marine communities and regional ecosystems across different spatiotemporal scales (particularly phytoplankton and zooplankton community structure, biomass and larval settlement success and recruitment)
+
+    -   As per the National Academies recommendations [@nasem2023], design experiments and conduct field studies to characterize effects of offshore wind development (turbine- to wind farm-scale) on hydrodynamics.
+
+    -   Conduct multivariate regional scale analyses of oceanographic, phytoplankton, and zooplankton observational data (e.g., community structure, biomass) at regular intervals (every 5 years, 10 years) after offshore wind development begins to characterize any changes.
+
+    -   Design experiments (field, models) to examine relationships between offshore wind structure presence, temperature, stratification, and plankton distribution and biomass.
+
+    -   Coordinate with other RWSC Subcommittees to characterize trophic implications of plankton trends.
+
+-   In collaboration with the Habitat & Ecosystem Subcommittee -- Seafloor experts and Responsible Offshore Science Alliance, conduct experiments to determine if changes in oceanographic systems due to the presence of offshore wind infrastructure affect benthic organism and/or fish larval settlement success.
+
+-   Evaluate approaches to mitigate impacts to oceanography, pelagic habitat, and biological productivity, including:
+
+    -   Approaches to reduce wind and water column wake influences.
+
+    -   Noise mitigation and abatement technologies (e.g., bubble curtains) on oceanography, pelagic habitat, and biological productivity.
+
+    -   Measures/technologies meant to minimize sound propagation during construction.
+
+    -   Entrainment associated with high voltage direct current cooling systems.

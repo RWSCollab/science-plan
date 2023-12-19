@@ -14,8 +14,6 @@ LaTeX: XeLaTeX
 
 StripTrailingWhitespace: Yes
 
-BuildType: None
-
 UseNativePipeOperator: Yes
 
 MarkdownWrap: Sentence

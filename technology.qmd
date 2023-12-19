@@ -1,1 +1,391 @@
 # Technology {#sec-technology}
+
+*Authors: [Technology Subcommittee](append-rosters.qmd#tech)*
+
+## Introduction
+
+The RWSC Steering Committee identified the need for a Technology Subcommittee to provide a forum for wildlife and marine science experts to discuss potential applications, key questions, and challenges related to the use of technology in wildlife/environment monitoring with members of the tech-startup, marine technology, and ocean engineering communities.
+
+This Subcommittee, first convened in April 2023, is building off and includes membership from existing groups and efforts to test and advance technology with respect to offshore wind and wildlife/environment monitoring:
+
+::: column-body
+[**Marine Technology Society**](https://www.mtsociety.org/)**:** The Marine Technology Society promotes awareness, understanding, and the advancement and application of marine technology.
+Incorporated in 1963, the international society brings together businesses, institutions, professionals, academics, and students who are ocean engineers, technologists, policy makers, and educators.
+The Society publishes a peer-reviewed journal --- The Marine Technology Society Journal.
+It has 31 Professional Committees (technical interest groups), including the newly-formed [Offshore Renewable Energy Committee](https://mtsociety.memberclicks.net/offshore-renewable-energy-committee).
+The Committee promotes the use of marine technology innovation and research in the rapidly growing offshore renewable energy community.
+To do this the Committee will provide a forum for communication and networking events that facilitate the exchange of information, including discussion of relevant marine technology applications, training and education opportunities.
+
+[**National Offshore Wind Research & Development Consortium (NOWRDC):**](https://nationaloffshorewind.org/) a nationally focused, not-for-profit organization collaborating with industry on prioritized R&D activities to reduce the levelized cost of energy of offshore wind in the U.S. while maximizing other economic and social benefits.
+The Consortium is focused on, but not limited to, technology advancement in each of three initial research pillars: Offshore Wind Farm Technology Advancement; Offshore Wind Power Resource and Physical Site Characterization; and Installation, Operations and Maintenance, and Supply Chain.
+
+**Technology needs for scientifically robust wildlife monitoring and adaptive management:** A project conducted by Advisian and the Biodiversity Research Institute, funded by NOWRDC.
+This project, which culminates in August 2023, will make targeted recommendations for technology development around priority questions with respect to marine mammals and birds in the Atlantic, Pacific, and Great Lakes for fixed and floating offshore wind projects.
+
+[**Wind Energy Monitoring and Mitigation Technologies Tool:**](https://tethys.pnnl.gov/wind-energy-monitoring-mitigation-technologies-tool) A free, online tool to catalog monitoring and mitigating technologies developed to assess and reduce potential wildlife impacts resulting from land-based and offshore wind energy development.
+Initiated by the International Energy Agency Wind Task 34 -- Working Together to Resolve Environmental Effects of Wind Energy ([WREN](https://tethys.pnnl.gov/about-wren)) the tool provides the research status of technologies to ensure the international community has access to current, publicly available information on monitoring and mitigation solutions, their state of development, and related research on their effectiveness.
+Reviewed on a biannual basis.
+
+[**Offshore Wind Innovation Hub:**](https://www.offshorewindnyc.com/) The New York-based Offshore Wind Innovation Hub was launched by Equinor, together with its partner bp.
+The hub will facilitate partnerships with start-ups that bring new technological solutions to the rapidly growing U.S. offshore wind industry.
+The initiative will begin as a three-year partnership between Equinor, the Urban Future Lab at the New York University Tandon School of Engineering, and NOWRDC, supported by New York City Economic Development Corporation.
+
+[**Greentown Labs Go Energize 2023:**](https://greentownlabs.com/go-energize/) Greentown Labs, the largest climate tech incubator in North America, and Vineyard Wind, developer of the first utility-scale offshore wind farm in the United States, are collaborating on Greentown Go Energize 2023, a program supported by the [Massachusetts Clean Energy Center](https://www.masscec.com/), aimed at startups that are innovating solutions for offshore turbine monitoring and ecological data collection, as well as digital solutions to improve turbine efficiency and longevity.
+:::
+
+Technology Subcommittee members representing these existing initiatives and others from states, federal agencies, eNGOs, offshore wind companies, consulting companies, and the research community emphasized the need to continue employing both traditional methods with new technologies for both validation purposes and to provide additional context or data that new technologies cannot provide.
+The Subcommittee identified the following high-level themes for their future work.
+The purpose of this chapter is to further frame these themes and identify near-term actions to advance them.
+
+1.  Technology advancements provide the potential to accelerate multiple phases of offshore wind development by improving our ability to anticipate, detect, and mitigate potential impacts to wildlife and the ecosystem.
+
+2.  There are three categories of interest to the Subcommittee where new technologies need to be tested and applied: monitoring, mitigation, and data management.
+    Many projects are already being funded to test and/or advance new technologies for the purposes of offshore wind and wildlife/environment within these categories, and the Subcommittee should continue to track the implementation and results of such projects.
+
+3.  There is a need to develop criteria to evaluate the effectiveness of new technology with respect to "traditional methods" or other new technologies.
+
+## Technology advancements to accelerate offshore wind development and ensure minimal impacts to wildlife and the ecosystem
+
+Several members of the Subcommittee felt strongly that the testing and advancement of new technologies should be focused on enabling faster timelines for multiple phases of offshore wind development, including permitting and mitigation during construction.
+Technologies that would address this goal include:
+
+-   Predictive modeling to anticipate potential wildlife occurrence in wind energy areas.
+
+-   Systems that improve wildlife detection rates in both space and time, allowing for more rapid mitigation responses.
+
+-   Tools and systems that deter wildlife or mitigate potential stressors such as noise, electromagnetic fields, entanglement from abandoned, lost, or otherwise discarded fishing gear, and physical disturbance.
+
+Other applications of technology that are of interest to the Subcommittee include the advancement of long-term monitoring methods and streamlining research data collection.
+Given the scale of proposed offshore wind development, experts noted that consistent data collection across the RWSC study area will be more attainable with the adoption of new technologies.
+Already, tools like gliders and un-crewed systems (air and water) are covering more ground offshore than would be possible with traditional ship-based sampling or fixed-bottom sensors.
+
+Accelerating sustainable and responsible offshore wind development will require critical technology enhancements.
+However, the Technology Subcommittee acknowledges that as investments in new technologies continue, there is a need for new approaches to be objectively tested for their efficacy and value over or in addition to traditional methods.
+The Subcommittee expressed a goal to advance a multi-sector discussion and development of criteria for technology evaluation.
+The second theme of this chapter describes ongoing and planned projects that are advancing and testing new monitoring, mitigation, and data management technologies.
+Following that inventory, the Subcommittee presents high-level categories under which specific metrics for technology performance evaluation could be developed under theme three.
+
+## Ongoing and planned activities within the three categories of technology applications
+
+The Technology Subcommittee identified three categories of new technology where testing and evaluation may be needed: monitoring, mitigation, and data management.
+Many projects are already being funded to test and/or advance new technologies with respect to offshore wind and wildlife/environment within these categories.
+This section summarizes those efforts.
+The Marine Mammal, Sea Turtle, Bird, Bat, Oceanography, Seafloor, and Protected Fish Species chapters of this Plan describe the applications of accepted technologies and methods for monitoring, mitigation, and data management (e.g., real-time passive acoustic sensors paired with whale detection algorithms) and recommendations for future technology development and applications pertinent to the study of wildlife and the environment.
+This Technology chapter focuses on tools and methods that are still undergoing evaluation for usefulness and efficacy.
+
+The Technology Subcommittee will continue to lead discussions with the other Subcommittees with respect to advancing new technologies.
+RWSC will provide the forum for conversations that require input from wildlife biologists and ecologists and technology experts and providers.
+
+The Subcommittee is aware that some entities may not wish to share their ongoing or planned work on technology advancement for commercial purposes.
+Therefore, the content in this section is assumed to be incomplete.
+
+### Monitoring
+
+Monitoring activities include the required and voluntary data collection activities that seek to characterize wildlife presence, distribution, abundance, behavior, movement, and health, as well as benthic and pelagic habitat features that could be affected by offshore wind development or drive changes in species presence, distribution, abundance, behavior, movement, and health.
+
+Table 10.
+Ongoing and planned projects testing new monitoring technologies.
+
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Technology being advanced**                                               | **Project name**                                                                                                                                                                                                                                                   |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Use of UAVs to apply tags                                                   | [Digital acoustic tagging of sei whales](https://database.rwsc.org/details?recordId=recJJY59JJWvzm441) (a component of a larger BOEM study into the Spatial and Acoustic Behavior of Endangered Large Whales)                                                      |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Machine learning/AI image classification                                    | [Automated Detection and Classification of Wildlife Targets in Digital Aerial Imagery -- Phase II (BOEM, USGS, USFWS, UC Berkeley)](https://database.rwsc.org/details?recordId=recdb5zgCAV532JbS)                                                                  |
+|                                                                             |                                                                                                                                                                                                                                                                    |
+|                                                                             | [Using Artificial Intelligence to Study Protected Species in the Northeast](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/using-artificial-intelligence-study-protected-species)                                                            |
+|                                                                             |                                                                                                                                                                                                                                                                    |
+|                                                                             | [Thermal camera marine mammal automated detection project](https://database.rwsc.org/details?recordId=rec1vnTE3yNuQM3ub) (Stony Brook University)                                                                                                                  |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3D real-time flight track imaging with remote data transfer                 | [ThermalTracker-3D](https://www.pnnl.gov/technology/thermaltracker-3d) (PNNL; [CA report](https://tethys.pnnl.gov/publications/thermaltracker-3d-offshore-validation-technical-report))                                                                            |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Radar that can be deployed on unstable platforms like buoys                 | [Offshore Biological Radar Project](https://www.pnnl.gov/projects/offshore-biological-radar-project) (PNNL/USGS)                                                                                                                                                   |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| eDNA                                                                        | [Developing Best Practices and Applying Environmental DNA (eDNA) Tools and in Support of Assessing and Managing Living Marine Species in an Ecosystem-based Context (BOEM, NOAA NEFSC, Smithsonian)](https://database.rwsc.org/details?recordId=rec78C5t4fiopyY6p) |
+|                                                                             |                                                                                                                                                                                                                                                                    |
+|                                                                             | [Developing and testing sea turtle specific eDNA assays](https://database.rwsc.org/details?recordId=recltOfuo1w6EPBrC)                                                                                                                                             |
+|                                                                             |                                                                                                                                                                                                                                                                    |
+|                                                                             | [Contribution to validate environmental DNA (eDNA) to identify the presence of certain marine species](https://database.rwsc.org/details?recordId=reckdyQj1bJHOwlEB)                                                                                               |
+|                                                                             |                                                                                                                                                                                                                                                                    |
+|                                                                             | [Maine eDNA](https://database.rwsc.org/details?recordId=rec3aJoHPYJMpJUKB)                                                                                                                                                                                         |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Use of UAVs to collect biological samples                                   | [Project WOW Integrated Regional Ecosystem Studies: Opportunistic behavioral research study](https://database.rwsc.org/details?recordId=recKqyCFsfNKE96Q7)                                                                                                         |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Uncrewed systems to conduct seafloor mapping and monitoring of cable routes | Gulf of Maine Seafloor Mapping to Inform Wind Energy Planning, Habitat Characterization, and Fisheries Management (NOAA Uncrewed Systems Operations Center)                                                                                                        |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Autonomous technology/platforms                                             | [Developing next-generation autonomous robotic technology](https://database.rwsc.org/details?recordId=recFbY12F31sxayuy) (WHOI)                                                                                                                                    |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Real-time marine monitoring                                                 | [Float-and-fly drones](https://database.rwsc.org/details?recordId=recQuSU8bmiHVx5tr) (LevantaTech)                                                                                                                                                                 |
++-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Mitigation
+
+Mitigation measures for wildlife in offshore wind energy development encompass the entire project lifecycle including site selection, construction noise reduction, collision risk mitigation, and habitat restoration.
+
+Advancements in monitoring technologies can facilitate improvements to mitigation measures by better predicting where species may be distributed in space and time, improving real-time species detection, and by dampening potential impacts when they are unavoidable.
+For example, integrating passive acoustic monitoring, radar systems, and unmanned aerial vehicles could enable an above-and-below water 3D real-time monitoring capability, which could lead to faster adaptive management.
+Artificial intelligence and machine learning techniques offer the potential to enhance species detection and identification, potentially improving the speed of mitigation applications.
+The cost-effectiveness of mitigation measures needs to be carefully evaluated to ensure their feasibility broad scales.
+
+Table 11.
+Ongoing and planned efforts to apply and test mitigation technologies.
+
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Mitigation measure**                                     | **Technologies**                                                                                                | **Projects or efforts applying and/or testing these technologies**                                                                                                                                                                                                                                                                                                |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Enhanced species detection                                 | Thermal cameras; artificial intelligence; passive acoustic monitoring                                           | [Thermal camera marine mammal automated detection project](https://database.rwsc.org/details?recordId=rec1vnTE3yNuQM3ub) (Stony Brook University)                                                                                                                                                                                                                 |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | [AI whale detection technology at Vineyard Wind 1](https://database.rwsc.org/details?recordId=rec9n8dXej1kB6i3F)                                                                                                                                                                                                                                                  |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | Sea Pickett (Thayer Mahan)                                                                                                                                                                                                                                                                                                                                        |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | Saildrone (NOWRDC-funded)                                                                                                                                                                                                                                                                                                                                         |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | SMRU CAB buoy                                                                                                                                                                                                                                                                                                                                                     |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | JASCO acoustic detectors                                                                                                                                                                                                                                                                                                                                          |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | WHOI Buoy                                                                                                                                                                                                                                                                                                                                                         |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Noise reduction                                            | Bubble curtains - reduces the sound energy transmitted to marine organisms                                      | CVOW-Pilot; Vineyard Wind 1, South Fork?                                                                                                                                                                                                                                                                                                                          |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 | [Double bubble curtain tested at Vineyard Wind 1](https://www.vineyardwind.com/press-releases/2023/11/investment-in-us-based-bubble-curtain-supplier?utm_medium=email&_hsmi=263208890&_hsenc=p2ANqtz--bIvL8UdlaRkY20xXtiglXtY9FKqrZPBwslIeAUpNPDHRsDavWdhucdpUDDufgJTYcylO5UKltwnG5_Ru51B44uAsJERbpQIyIU2WpH1WBZ6PPb10&utm_content=263208890&utm_source=hs_email) |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Collision avoidance (e.g., curtailment/smart-stop systems) | 1\. Curtailment- reducing speed or stopping operations                                                          |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 2\. Smart-Stop Infrared/Radar/Sonar initiates shutdown of system.                                               |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 3\. Sensory deterrents (can be visual or acoustic)                                                              |                                                                                                                                                                                                                                                                                                                                                                   |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Collision avoidance (e.g., noise, lights, etc.)            | 1\. Radar and Thermal Imaging.                                                                                  | [CVOW-Pilot ATOM System](https://database.rwsc.org/details?recordId=rec3zmyMxyBxV93qg)                                                                                                                                                                                                                                                                            |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 2\. Acoustic monitoring and deterrents.                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 3\. Curtailment and Smart-Stop Systems.                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 4\. Blade and Tower modifications                                                                               |                                                                                                                                                                                                                                                                                                                                                                   |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| High Voltage Direct Current cooling systems                | 1\. Closed loop cooling systems                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 2\. FlowCam monitoring of plankton in the hydraulic zone to allow adaptive mitigation (e.g., pausing of intake) |                                                                                                                                                                                                                                                                                                                                                                   |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Entanglement mitigation                                    | 1\. Cable Design and Installation                                                                               |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 2\. Noise and Vibration Mitigation                                                                              |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 3\. Visual Deterrents                                                                                           |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 4\. Environmental Monitoring and Surveillance                                                                   |                                                                                                                                                                                                                                                                                                                                                                   |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Habitat enhancement                                        | The implementation of measures to offset habitat loss or degradation:                                           |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 1\. Artificial reefs and habitats.                                                                              |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 2\. Seabed Restoration.                                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 3\. Fish Aggregating Devices.                                                                                   |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 4\. Marine Protected Areas (MPA).                                                                               |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 5\. Habitat Connectivity.                                                                                       |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 6\. Longterm Monitoring and Adaptive Management.                                                                |                                                                                                                                                                                                                                                                                                                                                                   |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Turbine siting and layout                                  | 1\. Turbine siting and Layout: WindFarm and WindPro.                                                            | Software Tools for the Mitigation of Wind Turbine HF Radar Interference in the U.S. IOOS Network                                                                                                                                                                                                                                                                  |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 2\. Avian Collision Risk: DTBird, BCAS.                                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 3\. Marine Mammal Risk Assessment: MARMAM.                                                                      |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 4\. Noise Propagation Modeling: CadnaA, Predictor, LimA                                                         |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 5\. Habitat Modeling and Connectivity Analysis: MARXAN, Zonation.                                               |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            |                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                            | 6\. Environmental Data Analysis: R and Python (along with other statistical packages).                          |                                                                                                                                                                                                                                                                                                                                                                   |
++------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Data Management Technologies
+
+The effective collection, storage, and security of data play a crucial role in wildlife monitoring and mitigation efforts in offshore wind environments.
+
+The Data Governance and Data Management chapter of the Science Plan describes the existing and needed processes and components of effective and collaborative offshore wind environmental data management but does not propose specific technological solutions.
+The Data Governance Subcommittee can work together with the Technology Subcommittee to ensure that RWSC is recommending and pursuing appropriate and effective technological solutions for data management.
+This section briefly describes the different components of environmental data management where technology advancements could improve existing workflows.
+
+#### Local Data Storage
+
+-   Where real-time transmission is not required or feasible, data storage devices such as data loggers, memory cards, or hard drives collect and store data from sensors and monitoring devices (e.g., buoys, animal tags and receivers).
+    These devices are then physically transported back to onshore facilities for data retrieval and analysis.
+
+-   High-capacity storage devices and long-lasting batteries enable longer deployments.
+
+#### Data transfer/transmission
+
+-   Subsea Cables: Cabled monitoring devices tethered to onshore data centers or monitoring stations provide reliable and high-bandwidth data transfer.
+    Offshore wind projects include numerous subsea cables (interarray and to shore) to transmit power and in some cases, data.
+
+-   Acoustic modems and optical modems can transfer data from the collection device to another storage device for transportation to shore, eliminating the need to remove the device from wherever it is mounted (underwater or atop a turbine, for example).
+
+-   Wireless Networks: The LoRaWAN® specification enables wireless connectivity for battery-operated devices in regional or global networks, supporting IoT requirements.
+    The LoRaWAN® specification is a Low Power Wide Area (LPWA) networking protocol designed to wirelessly connect battery-operated to the Internet in regional, national, or global networks.
+    It targets critical Internet of Things (IoT) requirements such as bi-directional communication, end-to-end security, mobility, and localization services.
+    In some cases, offshore wind installations may utilize subsea cables that connect monitoring devices to onshore data centers or monitoring stations.
+    These cables provide a reliable and high-bandwidth connection for continuous data transfer.
+
+-   Satellite modems (e.g., iridium) transmit data to shore via satellite.
+    Frequency of transmissions is limited by cost.
+
+-   Remote sensing techniques, such as HF Radar and satellite imagery rely on satellite communication networks to transmit collected data.
+
+#### Secure Data Transfer, Access Control, and Backup
+
+-   Secure Data Transfer: Encrypted connections and secure file transfer protocols ensure data confidentiality and integrity during transmission.
+    Secure data transfer protocols are used to ensure the confidentiality and integrity of data during transmission between offshore platforms and onshore facilities.
+    Encrypted connections and secure file transfer protocols (e.g., SFTP, FTPS) are commonly employed to protect data during transit.
+
+-   Access Control and User Permissions: User authentication, role-based access control, and data segregation strategies manage user permissions and data security.
+    Access control mechanisms are implemented to manage user permissions and control who can access, modify, or retrieve specific datasets.
+    User authentication, role-based access control (RBAC), and data segregation strategies are employed to ensure data security and privacy.
+
+-   Data Backup and Disaster Recovery: Regular backup procedures and disaster recovery plan to safeguard against data loss and ensure data resilience.
+
+-   Regular data backup procedures are essential to prevent data loss due to technical failures, system malfunctions, or unforeseen events.
+    Offshore wind data management systems often include backup strategies and disaster recovery plans to ensure data resilience and continuity.
+
+#### Secure Platforms for QA/QC and Review
+
+-   QA/QC Processes: Standard operating procedures, automated data validation algorithms, and manual review ensure the quality and accuracy of collected data.
+
+-   Quality Assurance of Real-Time Oceanographic Data (QARTOD): QA/QC processes are implemented to validate and ensure the quality and accuracy of collected data.
+    This includes establishing standard operating procedures (SOPs) for data collection, entry, and validation.
+    QA/QC checks can involve automated data validation algorithms, manual data review, and cross-validation with reference data sources. 
+     IOOS supports the QARTOD program.
+
+-   Data Validation Tools: Software applications or scripts automate checks to identify errors or inconsistencies in the data.
+    Data validation tools are software applications or scripts that perform automated checks on the collected data to identify potential errors, inconsistencies, or outliers.
+    These tools can help ensure data quality and flag any anomalies that require further investigation or correction.
+
+-   Data Review and Auditing: Independent experts or internal review teams systematically examine collected data for accuracy, completeness, and compliance with standards.
+    Data review and auditing involve systematically analyzing the collected data to verify its accuracy, completeness, and compliance with defined standards.
+    This process may involve independent experts or internal review teams assessing the data against specific criteria or industry guidelines. 
+    RWSC Subcommittees could play a role in data review and auditing, leveraging the data management best practices described in each Science Plan chapter.
+
+#### Data Catalogs and Repositories
+
+Data catalogs, which are hubs for connecting data stored in several distinct locations, are discussed in the [Data Governance & Data Management chapter](data-gov-mgmt.qmd).
+The technological requirements, capacity, and examples of active data catalogs will be discussed by the Data Governance Subcommittee.
+
+Repositories store and provide access to data (and may also provide cataloging functions).
+Existing wildlife and environmental data repositories recommended by each Subcommittee are presented in the previous chapters of the Science Plan.
+Each Subcommittee also made recommendations for augmenting existing or developing new repositories for emerging data types that don't currently have a widely used or accepted repository.
+Several technical features have emerged as important for repositories that may be used to store wildlife and environment offshore wind data:
+
+-   Web-based and platform-independent
+
+-   Credentialed access to certain components
+
+-   Large volume and efficient data upload/input and download/egress
+
+#### Other
+
+-   Data Management Tools: Cloud-native data management architecture and tools enhance data management and accessibility.
+    [Reaching for the Cloud](https://github.com/asascience-open/nextgen-dmac/tree/main) is a collaboration between IOOS and RPS Group Ocean Science.
+    This project aims to identify the technological and process shifts needed to develop a cloud-native architecture that will serve the current and future needs of the IOOS community.
+
+-   Collaborative Projects: Projects such as Reaching for the Cloud and "SoundCoop" focus on developing cloud-native architectures and promoting improved accessibility and applications for data management.
+    [Sound Coop,](https://workspace.nprb.org/campaign/41928999/sound-coop) or Passive Acoustic Monitoring National Cyberinfrastructure Center, is a project that is Piloting a community-focused, national cyberinfrastructure capability for passive acoustic monitoring data, technology, and best practices to promote improved, scalable, and sustainable accessibility and applications for management and science. 
+    The RWSC is on the Sound Coop Steering Committee and will be able to both inform and leverage the resulting work.
+
+## Potential criteria for evaluating the performance of new technologies for monitoring and mitigation
+
+As new technologies and innovations develop on multiple fronts related to offshore wind and wildlife (monitoring, mitigation, data management), the Technology Subcommittee recognizes the need to consistently evaluate any new tools and approaches against traditional methods and alternative technologies.
+
+Technology Subcommittee members recommend developing a mutually agreed-upon set of criteria that decision makers, funders, and users of technology can apply and interpret to evaluate the performance of the technology, potential appropriate uses of the technology, and any potential risks associated with applying the new technology.
+
+A set of evaluation criteria would ensure that new methods and tools are evaluated consistently, fairly, and more efficiently than if custom performance evaluations are conducted each time a new technology emerges.
+The criteria should be evaluated every few years to ensure that they continue to be relevant and responsive to the needs of decision makers, funders, and users.
+
+There are several existing technology evaluation frameworks that the Subcommittee may refer to as it advances its work on this topic:
+
+-   [Technology Readiness Assessment Guide](https://www.directives.doe.gov/directives-documents/400-series/0413.3-EGuide-04a-admchg1/@@images/file), U.S. Department of Energy, DOE G 413.3-4A
+
+-   [Guidance notes on qualifying new technologies](https://ww2.eagle.org/content/dam/eagle/rules-and-guides/current/other/272_qualifyingnewtechnologies/NTQ_GN_e-Apr17.pdf), American Bureau of Shipping
+
+-   [Technology Assessment Design Handbook](https://www.gao.gov/products/gao-21-347g), U.S. Government Accountability Office
+
+Below, the Subcommittee presents draft categories of evaluation criteria for new technologies with respect to offshore wind and wildlife/environment.
+The Subcommittee recommends convening smaller multi-sector expert work groups to guide and participate in the evaluation of specific tools as the needs arise.
+
+The Technology Subcommittee's latest work and planned events related to Technology Workshops can be found at <https://rwsc.org/technology-workshops>.
+
+RWSC is receiving support from several partners across sectors for providing capacity for workshops to advance these recommendations:
+
+-   RWSC will ensure consistency with Science Plan objectives/recommendations and that RWSC partners have the opportunity to participate.
+
+-   [**The Marine Technology Society**](https://www.mtsociety.org/) (MTS) will engage their Offshore Renewable Energy Committee and other MTS community members.
+
+-   DOE's National Laboratories (NREL and PNNL), under the leadership of the RWSC and their Technology Subcommittee and in consultation with NOAA, BOEM, and DOE, will convene a group of experts and relevant stakeholders to discuss available whale detection technologies.
+
+-   Opportunity to leverage [**NOWRDC**](https://nationaloffshorewind.org/)-funded technology gap/readiness analysis by Advisian/BRI -- forthcoming report.
+
+-   Use next [**NYSERDA State of the Science Workshop**](https://www.nyetwg.com/2024-workshop) (July 2024) as opportunity to hold workshop sessions and/or technology showcases.
+
+-   NOAA & BOEM leadership, ACP, and eNGOs supportive and commit to participate.
+
+### Potential categories of technology evaluation criteria
+
+#### Accuracy and Precision {.unnumbered}
+
+Advanced technologies could provide higher accuracy and precision in detecting, identifying, and tracking wildlife species than traditional methods.
+Technology also allows more consistent and reliable data collection and monitoring, leading to more high-quality data.
+Potential metrics include false/true positive/negative rates and distance efficacy.
+
+#### Efficiency and Scalability {.unnumbered}
+
+Technology advancements enable more efficient data collection, processing, and storage, allowing for the collection and handling of large volumes of data.
+This scalability is essential given the extent of proposed offshore wind development in U.S.
+Atlantic waters.
+
+##### Cost Efficiency {.unnumbered}
+
+As technology advances, costs associated with monitoring, mitigation, and data management can be reduced.
+This allows for more cost-effective implementation of monitoring programs, making it feasible to adopt advanced technologies and sustain long-term monitoring efforts.
+A potential metric in this category is cost savings over time.
+
+##### Faster Data Analysis and Interpretation {.unnumbered}
+
+Technology advancements like machine learning and artificial intelligence enhance data analysis and interpretation capabilities.
+These technologies automate data processing, enabling extracting meaningful insights, identifying patterns, and detecting potential risks or impacts.
+
+#### Safety {.unnumbered}
+
+New technologies may provide safer mechanisms for data collection than traditional or manual methods, especially in potentially dangerous conditions offshore.
+Technology advancements could result in increased deployment and data collection success if humans aren't required to wait for safe conditions or work in suboptimal conditions.
+
+#### Real-Time Capabilities {.unnumbered}
+
+Advanced technologies offer real-time monitoring capabilities, enabling prompt notification of wildlife presence, behavior changes, or other characteristics.
+Real-time data can be used to trigger mitigation measures and/or adaptive management promptly, which may result in an overall reduced risk of wildlife interactions and minimized disturbances to sensitive species.
+
+#### Mitigation Effectiveness {.unnumbered}
+
+Technology advancements contribute to developing innovative mitigation measures by developing deterrent systems or shutdown protocols that effectively reduce collision risks and minimize wildlife disturbance.
+
+#### Supply Chain {.unnumbered}
+
+New technologies may not be implemented unless the materials and labor force exists for producing components or the entire technology solution.
+
+#### Data Integration and Collaboration {.unnumbered}
+
+Advanced technologies promote data integration from multiple sources and platforms, enabling a holistic view of the offshore wind/wildlife/environment system.
+This integration facilitates collaboration among researchers, wind farm operators, regulators, and conservation organizations, fostering knowledge sharing and effective conservation strategies.
+
+#### Data Management and Security {.unnumbered}
+
+Technology advancements enhance data management and security, ensuring the integrity, accessibility, and privacy of collected data.
+Robust data storage infrastructure, encryption protocols, and access control mechanisms safeguard sensitive information while facilitating data sharing and compliance with data protection regulations.
+
+#### Public Awareness and Engagement {.unnumbered}
+
+Technology advancements in data visualization and communication tools enable effective dissemination of monitoring results and engage the public in wildlife and ecosystem monitoring.
+Accessible and engaging communication can raise awareness about the importance of offshore wind/wildlife/environment monitoring and keep the public informed of ongoing data collection and research.

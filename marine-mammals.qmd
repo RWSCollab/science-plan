@@ -4,11 +4,11 @@ bibliography: references.bib
 
 # Marine Mammals {#sec-marine-mammals}
 
-*Authors: [Marine Mammal Subcommittee](#_Marine_Mammal_Subcommittee)*
+*Authors: [Marine Mammal Subcommittee](append-rosters.qmd#mm)*
 
-*For more detail on any of these topics, read the [Marine Mammals Appendix](#sec-marine-mammals){#sec-append-mm}.*
+*For more detail on any of these topics, read the [Marine Mammals Appendix](append-mm.qmd).*
 
-This chapter builds on the research topics and questions related to marine mammals and offshore wind proposed by several groups over the last decade that should be addressed by a regional collaborative [@kershaw; @kraus2019; @newjerseydepartmentofenvironmentalprotectionboardofpublicutilities2021; @regionalsynthesisworkgroupoftheoffshorewindenvironmentaltechnicalworkinggroup; @southall2021].
+This chapter builds on the research topics and questions related to marine mammals and offshore wind proposed by several groups over the last decade that should be addressed by a regional collaborative [@njrmi2021; @kershaw; @kraus2019; @regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup; @southall2021].
 The RWSC Marine Mammal Subcommittee considered these previous bodies of work in developing the following recommendations.
 In doing so, they have also highlighted these concepts:
 
@@ -92,7 +92,7 @@ Ongoing and planned activities, including marine mammal monitoring that is being
 Individuals and entities should consult with the Marine Mammal Subcommittee prior to collecting marine mammal data with respect to offshore wind to ensure that any new data collection does not duplicate existing efforts and is consistent with the tools and approaches already in use.
 Any individual or entity may join public Marine Mammal Subcommittee meetings by obtaining meeting links on the RWSC website.
 
-A combination of methods (visual, acoustic, tagging) is recommended to provide the most complete information and context to marine mammal observations, given the strengths and limitations of each method alone (see @sec-append-mm for more information):
+A combination of methods (visual, acoustic, tagging) is recommended to provide the most complete information and context to marine mammal observations, given the strengths and limitations of each method alone (see the [Marine Mammal Appendix](append-mm.qmd) for more information):
 
 -   (Cross taxa) Leveraging BOEM's and NOAA's ongoing efforts, ensure that the required Protected Species Observer data collected by offshore wind companies during construction and operations via Pile Driving Monitoring Plans and Vessel Strike Avoidance Plans (and any other mitigation plans) follows a consistent reporting approach and is eventually submitted to a Master Protected Species Observer Sightings Database for use in marine mammal analyses and research.
 
@@ -144,7 +144,7 @@ A combination of methods (visual, acoustic, tagging) is recommended to provide t
     -   Continue to collect data across the region that allows analysis and synthesis of prey fields.
         Develop a coordinated regional scale zooplankton monitoring and mapping effort that builds off of and links existing surveys and studies including programs monitoring dimethyl sulfide, EcoMon, Continuous Plankton Recorder, the Gulf of Maine MBON, BOEM-funded Zooplankton Ecology study, Canadian AZMP, Center for Coastal Studies, Northeast U.S. Shelf LTER, and projects conducted by Stony Brook University and Rutgers University to establish a broader ecosystem observing system, synthesize patterns, and identify trends and linkages across trophic levels.
 
-There is a need to advance technologies that improve marine mammal detection during all phases of offshore wind development, and to ensure that the performance of new technologies is evaluated consistently (see @sec-technology):
+There is a need to advance technologies that improve marine mammal detection during all phases of offshore wind development, and to ensure that the performance of new technologies is evaluated consistently (see the [Technology Chapter](technology.qmd)):
 
 -   Develop, evaluate performance, and apply existing and emerging technologies that enhance marine mammal detection, including thermal cameras, infrared cameras, passive acoustics systems, and systems that integrate multiple methods for use during construction and operational monitoring and mitigation.
     Test "smart" mitigation methods triggered by marine mammal presence as determined by these systems.
@@ -226,8 +226,3 @@ Individuals and entities should consult with the Marine Mammal Subcommittee prio
 -   **Determine whether prey distribution, abundance and/or behavior is altered due to hydrodynamic changes caused by offshore wind structures and from EMF/cables (heat and electromagnetic field).**
 
 -   **Scope studies of EMF and marine mammals.** Include studies of whether animals can detect EMF, what the sensing capabilities are, and over what distance.
-
-## References
-
-::: {#refs}
-:::

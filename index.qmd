@@ -2,12 +2,26 @@
 
 This is the website for the first **Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters**.
 
-The RWSC Steering Committee, the four sectors, and hosts---the Northeast Regional Ocean Council and Mid-Atlantic Regional Council on the Ocean with the Coastal States Stewardship Foundation---collaboratively funded and developed the Science Plan to inform future data collection and research and to describe a framework for collaboration to address those needs.
+The RWSC Steering Committee, the four sectors, and hosts---the Northeast Regional Ocean Council and Mid-Atlantic Regional Council on the Ocean with the Coastal States Stewardship Foundation---collaboratively funded and developed the Science Plan to inform future data collection and research and to describe a framework for collaboration to address those needs.
 
-The RWSC Science Plan presents recommendations for data management, data collection, and data analysis activities and capacity across wildlife species groups and topics including marine mammals, birds, bats, sea turtles, protected fish, oceanography, seafloor habitat, and technology.
-These recommendations were developed by six Subcommittees comprised of hundreds of experts from the four sectors, academia, and the private sector, and were refined by feedback received during a public comment period over the summer. 
-A primary focus of the Science Plan is to encourage the use of consistent methods and data standards across research activities to allow for the assessment of regional scale patterns and the development and maintenance of regional data products and tools.
+The Science Plan is entirely open source.
+Making the Science Plan open source allows you or anyone else to interact with the content by opening [issues](https://github.com/RWSCollab/science-plan/issues), making typo fixes and more, for the benefit of everyone.
 
-## Acknowledgements
+The Science Plan's website is built by GitHub Actions, which runs the code every time RWSC makes a change, ensuring that the content is up-to-date and versions are tracked.
+The current version information and preferred citation is below.
+
+## Citation
+
+RWSC (Regional Wildlife Science Collaborative for Offshore Wind).
+2024.
+Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S.
+Atlantic Waters.
+Version 1.0.
+
+## Acknowledgements {.unnumbered}
 
 The Science Plan was developed by the RWSC Steering Committee based on recommendations from the RWSC Subcommittees and a variety of other experts.
+
+## License {.unnumbered}
+
+This website is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](http://creativecommons.org/licenses/by-nc-nd/3.0/us/).

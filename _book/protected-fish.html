@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -66,10 +85,57 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./RWSC_Logo_notext.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="dropdown-header">
+ <span class="menu-text">menu</span></li>
+</ul>
+            <div class="quarto-navbar-tools">
+    <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+              <i class="bi bi-bi-linkedin pe-1"></i>
+            LinkedIn
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -85,26 +151,17 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">RWSC Science Plan</a> 
-        <div class="sidebar-tools-main tools-wide">
+      <div class="sidebar-tools-main">
     <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
-    <a href="https://rwscollab.github.io/science-plan/" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
-    <a href="https://rwsc.org/" rel="" title="download pdf" class="quarto-navigation-tool px-1" aria-label="download pdf"><i class="bi bi-cloud-download"></i></a>
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
+    <a href="https://github.com/RWSCollab/science-plan" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
 </div>
-    </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -257,14 +314,26 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./append-pf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Appendix - Protected Fish Species</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./append-heo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
+ <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-hes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+ <span class="menu-text"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">K</span>&nbsp; <span class="chapter-title">References</span></span></a>
   </div>
 </li>
       </ul>
@@ -275,7 +344,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The book is under final polishing 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC 🌐</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues">Open an issue ❔</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#data-management" id="toc-data-management" class="nav-link" data-scroll-target="#data-management"><span class="header-section-number">7.1</span> Data management</a></li>
+    <li><a href="#data-collection" id="toc-data-collection" class="nav-link" data-scroll-target="#data-collection"><span class="header-section-number">7.2</span> Data collection</a></li>
+    <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis"><span class="header-section-number">7.3</span> Data analysis</a></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/protected-fish.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -289,6 +371,12 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>RWSC Steering Committee </p>
+          </div>
+  </div>
     
   
     
@@ -297,8 +385,263 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p><em>Authors: <a href="./append-rosters.html#pf">Protected Fish Species Subcommittee</a></em></p>
+<p><em>For more detail on any of these topics, read <a href="./append-pf.html">the</a></em><a href="./append-pf.html"><em>Protected Fish Species Appendix</em></a>.</p>
+<p>The RWSC Steering Committee formed a Protected Fish Species Subcommittee to address data collection and research for Endangered Species Act (ESA)-listed fish species, recognizing that these species likely fell outside of the focus of other research collaboratives such as the <a href="https://www.rosascience.org/">Responsible Offshore Science Alliance (ROSA)</a>, whose focus is commercial and recreational fisheries. The scope of the RWSC Science Plan does not include fisheries or commercially managed fish species. For research needs and considerations on those topics, visit <a href="https://www.rosascience.org/">ROSA</a>. To ensure close coordination on issues in the RWSC Science Plan that might relate to ROSA’s work, ROSA staff participate in the RWSC Protected Fish Species and Habitat &amp; Ecosystem Subcommittees.</p>
+<p>The Subcommittee has expressed some concern regarding potential impacts of offshore wind development on fish species that are not ESA-listed or commercially managed (e.g., some shark species) that overlap with offshore wind development in the western Atlantic. The RWSC, ROSA, and participants in both organizations will work together to ensure that fish in the region will not be omitted from research and monitoring activities.</p>
+<p>Given the considerations above, this chapter addresses fish species that are listed as <a href="https://www.fisheries.noaa.gov/species-directory/threatened-endangered">Endangered, Threatened, petitioned, candidate, or proposed under the ESA</a> in the RWSC study area. This list may be updated as listed statuses change, as more research is conducted, and as more information becomes available about non-listed and non-commercially managed fish species.</p>
+<p>Table 5. List of federally protected fish species in the RWSC study area.</p>
+<table class="table">
+<colgroup>
+<col style="width: 36%">
+<col style="width: 63%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Species</strong></td>
+<td><strong>ESA Status</strong></td>
+</tr>
+<tr class="even">
+<td>Atlantic salmon (<em>Salmo salar</em>)</td>
+<td>Endangered - Gulf of Maine Distinct Population Segment (DPS)</td>
+</tr>
+<tr class="odd">
+<td>Atlantic sturgeon (<em>Acipenser oxyrinchus</em>)</td>
+<td><ul>
+<li><p>Endangered - New York Bight DPS, Chesapeake Bay DPS, Carolina DPS, South Atlantic DPS</p></li>
+<li><p>Threatened - Gulf of Maine DPS</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Shortnose sturgeon (<em>Acipenser brevirostrum</em>)</td>
+<td>Endangered</td>
+</tr>
+<tr class="odd">
+<td>Giant manta ray (<em>Mobula birostris</em>)</td>
+<td>Threatened</td>
+</tr>
+<tr class="even">
+<td>Oceanic whitetip shark (<em>Carcharhinus longimanus</em>)</td>
+<td>Threatened</td>
+</tr>
+<tr class="odd">
+<td>Nassau grouper (<em>Epinephelus striatus</em>)</td>
+<td>Threatened</td>
+</tr>
+<tr class="even">
+<td>Scalloped hammerhead shark (<em>Sphyrna lewini</em>)</td>
+<td>Threatened – Central and Southwest Atlantic DPS</td>
+</tr>
+<tr class="odd">
+<td>Smalltooth sawfish (<em>Pristis pectinata</em>)</td>
+<td>Endangered</td>
+</tr>
+<tr class="even">
+<td>Whitespotted eagle ray (<em>Aetobatus narinar</em>)</td>
+<td>Petitioned</td>
+</tr>
+</tbody>
+</table>
+<section id="data-management" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="data-management"><span class="header-section-number">7.1</span> Data management</h2>
+<p>The Protected Fish Species Subcommittee will work with individuals and entities who collect data relevant to protected fish studies to ensure that data are collected and stored in consistent formats. This will enhance comparisons and pooling across individual projects in the RWSC study area to conduct regional-scale assessments and to develop and maintain regional-scale data products.</p>
+<p>The Subcommittee recommends the following data management activities:</p>
+<ul>
+<li><p>Leverage ROSA’s work to standardize offshore wind fisheries monitoring plans and trawl surveys so that protected fish species data are accessible for use in RWSC’s and partners’ analyses and research.</p></li>
+<li><p>Develop guidance to reconcile (or appropriately leverage) any redundancy among the various existing telemetry data repositories (Movebank, ATN, and the regional telemetry data nodes).</p></li>
+<li><p>Characterize the acoustic telemetry receiver network with the purpose of integrating multiple individual efforts into a coordinated and intentional regional network for offshore wind studies that addresses gaps in coverage. Develop maps that show the receiver network in the RWSC study area over time with attribution/contact information for receiver owners.</p>
+<ul>
+<li><p>Characterize the length of ongoing and planned deployments, as there may be gaps in the regional network due to short-term arrays.</p></li>
+<li><p>Identify critical locations for receiver arrays to be placed long term and identify funding institutions to purchase, deploy, and maintain the arrays.</p></li>
+<li><p>Coordinate the co-location of receivers with other ocean-deployed sensors (e.g., with the RWSC Marine Mammal Subcommittee and regional IOOS associations).</p></li>
+</ul></li>
+<li><p><em>Cross taxa</em>) Convene an Offshore Wind &amp; Telemetry Data Collaborative to coordinate on the deployment of acoustic telemetry receivers and acoustic and satellite tags on protected fish and other species of focus in the context of offshore wind development. Include ROSA, the Animal Telemetry Network, and Atlantic Cooperative Telemetry Network, and other relevant RWSC Subcommittees.</p>
+<ul>
+<li><p>Develop and encourage the use of best practices for consistent data collection, QA/QC, management, storage, and development of data products that represent metrics such as distribution, abundance, occupancy, and/or movement that allow comparisons and pooling across individual projects in the RWSC study area to conduct regional-scale assessments and the development of regional-scale data products.</p></li>
+<li><p>Develop maps that show the acoustic telemetry receiver network in the RWSC study area with attribution/contact information for receiver owners. Coordinate the co-location of receivers with other ocean-deployed sensors.</p></li>
+</ul></li>
+</ul>
+<p>The following table lists the existing centralized or accepted repositories and standards that should be used and identifies data types for which no or limited data management capacity (i.e., repositories and standards) currently exists.</p>
+<p>Table 6. Recommended repositories and standards for protected fish species data collection.</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><strong>Method(s) and data type(s)</strong></td>
+<td><strong>Repository</strong></td>
+<td><strong>Existing Standards</strong></td>
+</tr>
+<tr class="even">
+<td>Observational surveys; telemetry data; acoustic monitoring; photo identification; oceanographic data products; model outputs</td>
+<td><a href="https://seamap.env.duke.edu/"><strong>OBIS-SEAMAP</strong></a>(Ocean Biogeographic Information System – Spatial Ecological Analysis of Megavertebrate Populations</td>
+<td><a href="https://seamap.env.duke.edu/content/provider_faq">OBIS-SEAMAP minimum data fields and acceptable formats,</a> Duke Marine Geospatial Ecology Lab</td>
+</tr>
+<tr class="odd">
+<td>Satellite tagging data; acoustic tagging data through the regional nodes Atlantic Cooperative Telemetry (ACT) and FACT networks</td>
+<td><a href="https://ioos.noaa.gov/project/atn/"><strong>Animal Telemetry Network</strong></a> (ATN)</td>
+<td><ul>
+<li><p><a href="https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf">Animal Telemetry Network DAC Data Management Policy Guidance</a>: includes data <a href="https://atn.ioos.us/help/submit-data/">submission requirements</a> and instructions for submitting project-level metadata and deployment records via an app and by using Research Workspace.</p></li>
+<li><p>Need to develop guidance specific to protected fish species and to projects lacking federal funding</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Acoustic tagging data</td>
+<td><a href="https://secoora.org/fact/"><strong>FACT Network</strong></a></td>
+<td><ul>
+<li><p><a href="https://secoora.org/fact/how-to-submit-data/">FACT Network Metadata Template</a>, SECOORA</p></li>
+<li><p>Need to develop guidance specific to protected fish species</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Acoustic tagging data</td>
+<td><a href="https://www.theactnetwork.com/home"><strong>Atlantic Cooperative Telemetry Network</strong></a>(ACT Network Data are managed in the <a href="https://matos.asascience.com/">ACT-MATOS database</a> following the merger of ACT and MATOS in 2020).</td>
+<td><ul>
+<li><p>ACT Network Metadata Template (available for members to download when logged into website)</p></li>
+<li><p>Need to develop guidance specific to protected fish species</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Satellite tagging, Acoustic tagging, VHF tagging, other tagging</td>
+<td><a href="https://www.movebank.org/"><strong>Movebank</strong></a></td>
+<td><ul>
+<li><p><a href="https://datarepository.movebank.org/help/submission-guidelines">Archiving in the Movebank Data Repository</a>: archiving, DOI assignment, licensing, submission guidelines</p></li>
+<li><p>Need to develop guidance specific to protected fish species</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>High-definition aerial imagery</td>
+<td>None; records of observations from photos go to OBIS-SEAMAP</td>
+<td><ul>
+<li>None – needs development</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>eDNA</td>
+<td>None – needs development</td>
+<td><ul>
+<li>None – needs development</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="data-collection" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="data-collection"><span class="header-section-number">7.2</span> Data collection</h2>
+<p>There is a lack of baseline data on most protected fish species and all their life stages in areas where offshore wind projects will or may occur. The lack of baseline data is compounded by the varied and unknown impacts to these species from climatic change. An urgent priority is to improve understanding of distribution and movement for most life stages in wind energy areas so that it is possible to properly assess, monitor, and mitigate any impacts. The Subcommittee recommends using multi-modal approaches (telemetry, eDNA, trawl surveys, aerial surveys) to fill data gaps, though acoustic and satellite telemetry appear to be the quickest and most effective means to enhance understanding. The Subcommittee stresses the importance of relying on local experts as the ecosystems differ greatly throughout the region, as does protected fish use of each wind energy area. Each individual project becomes even more valuable when data can be compared and integrated at broader scales.</p>
+<p>Several entities are requiring, funding, and/or advocating for protected fish species research and data collection activities with respect to offshore wind. All ongoing and planned activities, including protected fish species monitoring that is required by agencies, are captured in the <a href="https://database.rwsc.org/">Offshore Wind &amp; Wildlife Research Database</a>. To scope future studies, the Subcommittee is guided by earlier research on protected fish species and their interactions with wind energy areas in both Europe and the United States. The descriptions of potential effects to protected fish such as underwater noise, vessel collision, entanglement, introduction of new structures, and electromagnetic fields are summarized in the <a href="https://tethys.pnnl.gov/sites/default/files/summaries/SEER-Booklet.pdf">Environmental Effects of U.S. Offshore Wind Energy Development: Compilation of Educational Research Briefs</a> <span class="citation" data-cites="seer2022a">(<a href="references.html#ref-seer2022a" role="doc-biblioref">SEER, 2022</a>)</span> and the Synthesis of the Science <span class="citation" data-cites="hogan2023">(<a href="references.html#ref-hogan2023" role="doc-biblioref">Hogan et al., 2023</a>)</span>. The gaps and needs are captured in the <a href="https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations">Atlantic Offshore Wind Environmental Research Recommendations</a><span class="citation" data-cites="regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup">(<a href="references.html#ref-regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup" role="doc-biblioref">Regional Synthesis Workgroup of the Environmental Technical Working Group, n.d.</a>)</span> as well as <span class="citation" data-cites="hogan2023">(<a href="references.html#ref-hogan2023" role="doc-biblioref">Hogan et al., 2023</a>)</span>.</p>
+<p>Most offshore-wind-specific monitoring to-date of protected fish species in the U.S. Atlantic is occurring in Southern New England and the New York/New Jersey Bight on Atlantic sturgeon <span class="citation" data-cites="frisk2019 haulsee2020 ingram2019 rothermel2020">(<a href="references.html#ref-frisk2019" role="doc-biblioref">Frisk et al., 2019</a>; <a href="references.html#ref-haulsee2020" role="doc-biblioref">Haulsee et al., 2020</a>; <a href="references.html#ref-ingram2019" role="doc-biblioref">Ingram et al., 2019</a>; <a href="references.html#ref-rothermel2020" role="doc-biblioref">Rothermel et al., 2020</a>)</span>, with the goal of characterizing baseline distribution and movement. In the Gulf of Maine, protected fish species monitoring at the University of Maine’s Vulturn US 1:8 floating turbine indicated no change in the detection frequency of tagged Atlantic salmon, Atlantic Sturgeon, or shortnose sturgeon on receivers near the turbine following energization <span class="citation" data-cites="brady2015">(<a href="references.html#ref-brady2015" role="doc-biblioref">Brady, 2015</a>)</span>. There are also significant and ongoing data collection efforts in estuaries and coastal areas throughout the RWSC study area. While most of these efforts are not explicitly related to offshore wind, their findings can be used to augment the baseline understanding of protected fish species in the region.</p>
+<p>Relevant long-term protected species, fisheries, and ecosystem surveys conducted by the NOAA Fisheries Northeast Fisheries Science Center include:</p>
+<ul>
+<li><p>Autumn bottom trawl survey</p></li>
+<li><p>Spring bottom trawl survey</p></li>
+<li><p>Gulf of Maine Cooperative Bottom Longline Survey</p></li>
+<li><p>Ecosystem Monitoring Survey (6 times per year)</p></li>
+<li><p>Coastal Shark Bottom Longline Survey</p></li>
+<li><p>Cooperative Atlantic States Shark Pupping and Nursery Longline/Gillnet Survey</p></li>
+</ul>
+<p>Individuals and entities should consult with the Protected Fish Species Subcommittee prior to collecting protected fish species data with respect to offshore wind to ensure that any new data collection does not duplicate existing efforts and is consistent with the tools and approaches already in use. Any individual or entity may join public Protected Fish Species Subcommittee meetings by obtaining meeting links on the <a href="https://rwsc.org/">RWSC website</a>, where all past meeting materials are also available.</p>
+<p>The Subcommittee recommends the following data collection activities:</p>
+<ul>
+<li><p>Deploy fine-scale acoustic receiver arrays in and around every leased and proposed Wind Energy Area and along associated cable routes. Pair deployments with acoustic and satellite tagging of protected fish.</p>
+<ul>
+<li><p>Plan and implement telemetry data collection activities in a consistent way, such that data and metadata from individual projects is standardized and interoperable.</p></li>
+<li><p>Expand projects like Buoys of Opportunity across the region to co-locate acoustic receivers to structures already in/going in the water.</p></li>
+<li><p>Couple on-bottom deployment of acoustic receivers with bottom temperature measurements to the extent possible.</p></li>
+<li><p>Encourage all new tags/groups to submit data to the Animal Telemetry Network and/or appropriate regional nodes in an agreed upon time frame to allow for archiving, securing, and publishing.&nbsp;</p></li>
+</ul></li>
+<li><p>Design a distributed region wide system of receiver arrays that serve as the backbone for projects throughout the region. This includes receivers offshore/along the shelf, which are limited in the current project landscape.</p>
+<ul>
+<li><p>Ensure that this system has sustained investment for operation and maintenance.</p></li>
+<li><p>Encourage all new tags/groups to submit data to the Animal Telemetry Network and/or appropriate regional nodes in an agreed upon time frame to allow for archiving, securing, and publishing.</p></li>
+</ul></li>
+<li><p>Pair additional methods with telemetry data collection, including conventional tagging (i.e., non-electronic), eDNA, and aerial surveys to aid the identification of changes in residency or usage of the area.</p></li>
+<li><p>Evaluate the risks of known impact producing factors to protected fish from offshore wind development.</p>
+<ul>
+<li><p>Develop tools and monitoring mechanisms to better understand if/when vessel strikes occur and what vessels are typically involved.</p>
+<ul>
+<li><p>Coordinate with state agencies for recorded information on protected fish sightings, incidental catches, and beach strandings, particularly Atlantic and shortnose sturgeon.</p></li>
+<li><p>Ensure sufficient human and financial resources to support local salvage operations.</p></li>
+<li><p>Create and test mitigation measures to prevent vessel strikes.</p></li>
+</ul></li>
+<li><p>Conduct further laboratory and field studies of EMF effects on protected fish species, especially Chondrichthyes and sturgeons, to assess potential impacts including changes in migration patterns, feeding, or behavior. Conduct similar studies on protected fish prey species.</p></li>
+<li><p>Conduct in situ examinations of noise impacts to protected fish species.</p></li>
+<li><p>Assess primary and secondary entanglement risk to all protected fish species given the potential for increased recreational fishing near wind turbines and increased possibility of secondary entanglement.&nbsp;</p></li>
+</ul></li>
+<li><p>Align data collection and research activities with the recommendations in the NOAA Fisheries &amp; BOEM Federal Survey Mitigation Strategy <span class="citation" data-cites="hare2022">(<a href="references.html#ref-hare2022" role="doc-biblioref">Hare et al., 2022</a>)</span>.</p></li>
+<li><p>Collaborate with other Subcommittees to maximize data collection efforts.</p>
+<ul>
+<li><p>Marine Mammal: maintain a shareable database and/or map of the acoustic telemetry receivers that may be co-located with bottom-mounted passive acoustic hydrophones.</p></li>
+<li><p>Technology: Test and implement any technological advancements that may be required to continue long-standing scientific surveys and data collection in areas that are no longer accessible or are accessible in a limited extent that will influence continuity of surveys.</p></li>
+<li><p>Sea Turtle: Ensure that sea turtle researchers can access telemetry receiver data if desired.</p></li>
+<li><p>Habitat and Ecosystem: Work to ensure that key oceanographic and habitat data are collected and available to use in coordination with studies on protected fish.&nbsp;</p></li>
+</ul></li>
+</ul>
+<p>Technology advancements to improve protected fish research and monitoring:</p>
+<ul>
+<li><p>Develop and test telemetry tags with further miniaturization for use with smaller individuals.</p></li>
+<li><p>Improve data resolution and positional accuracy of telemetry tags and test adding sensors (magnetometers, sound, dissolved oxygen, chlorophyll, etc.) to existing tags.</p></li>
+<li><p>Investigate the use of eDNA to measure species abundance in addition to occurrence.</p></li>
+<li><p>Improve or develop machine learning and/or Artificial Intelligence detection for soniferous protected fish in passive acoustic data.</p></li>
+</ul>
+<p>In the <strong>Gulf of Maine,</strong> where offshore wind projects are still in the planning phases, baseline data about the occurrence, distribution, and movement of protected fish species is needed. Floating offshore structures include cables and mooring lines that span the entire water column, including some that emit EMFs. Potential effects from EMF and secondary entanglement should be monitored. Focal species in these regions include Atlantic salmon, Atlantic sturgeon and shortnose sturgeon. The oceanic whitetip shark and giant manta ray may also be found in this region.</p>
+<p>In <strong>Southern New England and New York/New Jersey Bight</strong>, existing baseline data collection from multiple tools such as acoustic telemetry, satellite telemetry, eDNA, and trawl surveys, need to be better integrated to characterize protected fish species’ distribution and movement pre-offshore wind construction. These data should also continue to be collected throughout all phases of development to characterize changes from pre-construction baselines. Focal species in these regions include Atlantic sturgeon and shortnose sturgeon. The oceanic whitetip shark and giant manta ray are also found in this region.</p>
+<p>In the <strong>U.S.</strong> <strong>Central Atlantic and U.S. Southeast Atlantic,</strong> baseline data collection on the occurrence, distribution, and movement of protected fish is most urgent in the U.S. Central Atlantic where projects are farther along in the development process. The U.S. Central Atlantic is home to the Atlantic sturgeon, shortnose sturgeon, giant manta ray, and whitespotted eagle ray. These species are also present in the U.S. Southeast Atlantic, in addition to the listed Central &amp; Southwest Atlantic distinct population segments of scalloped hammerhead shark, Nassau grouper, and smalltooth sawfish.</p>
+</section>
+<section id="data-analysis" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="data-analysis"><span class="header-section-number">7.3</span> Data analysis</h2>
+<p>Data analyses should characterize oceanographic and habitat drivers of protected fish species distribution, abundance, and behavior, seek to assess whether offshore wind is causing any observed changes, and inform where new data collection is needed. Individuals and entities should consult with the Protected Fish Species Subcommittee prior to conducting analyses of protected fish species data with respect to offshore wind to ensure that the study leverages all available data and contributes to addressing the key issues described below to the extent possible. The following data analysis activities are needed:</p>
+<ul>
+<li><p>Identify and use historical data collections from multiple sources (e.g., data affiliated with offshore wind projects, coastal and estuarine data collection efforts, and NOAA Fisheries long-term surveys) to generate a baseline of distribution and abundance of protected fish species. Determine/describe useful baseline parameters to use when adequate abundance and density data are not available.</p></li>
+<li><p>Develop best practices for producing consistent movement data products for protected fish that can be replicated throughout the region.</p></li>
+<li><p>Develop best practices for integrating data from multiple methods (telemetry, eDNA, trawl surveys, aerial surveys) across scales to model baseline species’ distribution and movement using oceanographic variables and other contextual information (e.g., quantifications of vessel traffic). The modeling framework should be applicable to individual projects and at regional scales such that consistent approaches are used across projects, and eventually in other subregions of the RWSC study area.</p></li>
+<li><p>Analyze existing plankton camera data for presence of protected fish early life stages and prey which can be used to develop dispersal models.</p></li>
+<li><p>Develop analyses of vessel and protected fish species co-occurrence that model nearshore vessel traffic.</p></li>
+<li><p>Leverage available passive acoustic monitoring data to both characterize changes in the soundscape and detect soniferous protected fish species. Study potential effects from noise during pile driving and geophysical surveys on protected fish distribution, movement, and behavior.</p></li>
+<li><p>Inform approaches meant to mitigate impacts related to sediment resuspension by advancing predictive modeling of sedimentation/resuspension patterns.</p></li>
+<li><p>Ensure that protected fish species are included in risk modeling that is similarly being applied to other species, e.g., Project WOW.</p>
+<ul>
+<li><p>Population Viability Analyses</p></li>
+<li><p>Population Consequences of Disturbance (PCOD)</p></li>
+<li><p>Population Consequences of Multiple Stressors (PCOMS)</p></li>
+</ul></li>
+<li><p>Continually evaluate the performance of existing models and statistical frameworks.</p>
+<ul>
+<li><p>Use validation and evaluation results to continually inform and advance the model/framework development and application.</p></li>
+<li><p>Models should be updated as new information becomes available.</p></li>
+</ul></li>
+<li><p>Attempt to determine the causality of any changes in protected fish abundance, distribution, or behavior. This includes disentangling effects related to offshore wind development from those due to climate change, natural variability, or other causes.</p></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-brady2015" class="csl-entry" role="listitem">
+Brady, D.C., 2015. Environmental Monitoring Report for VolturnUS Deployment in Castine, ME. Univeristy of Maine.
+</div>
+<div id="ref-frisk2019" class="csl-entry" role="listitem">
+Frisk, M.G., Ingram, E.C., Dunton, K., 2019. Monitoring endangered atlantic sturgeon and commercial finfish habitat use in the new york lease area. Stoney Brook (NY).
+</div>
+<div id="ref-hare2022" class="csl-entry" role="listitem">
+Hare, J., Blythe, B., Ford, K., Godfrey-McKee, S., Hooker, B., Jensen, B., Lipsky, A., Nachman, C., Pfeiffer, L., Rasser, M., Renshaw, K., 2022. <a href="https://repository.library.noaa.gov/view/noaa/47925">NOAA fisheries and BOEM federal survey mitigation strategy - northeast u.s. region</a>.
+</div>
+<div id="ref-haulsee2020" class="csl-entry" role="listitem">
+Haulsee, D.E., Fox, D.A., Oliver, M.J., 2020. Occurrence of commercially important and endangered fishes in delaware wind energy areas using acoustic telemetry.
+</div>
+<div id="ref-hogan2023" class="csl-entry" role="listitem">
+Hogan, F., Hooker, B., Jensen, B., Johnston, L., Lipsky, A., Methratta, E., Silva, A., Hawkins, A., 2023. Fisheries and offshore wind interactions: Synthesis of science.
+</div>
+<div id="ref-ingram2019" class="csl-entry" role="listitem">
+Ingram, E.C., Cerrato, R.M., Dunton, K.J., Frisk, M.G., 2019. Endangered atlantic sturgeon in the new york wind energy area: Implications of future development in an offshore wind energy site. Scientific Reports 9, 12432. <a href="https://doi.org/10.1038/s41598-019-48818-6">https://doi.org/10.1038/s41598-019-48818-6</a>
+</div>
+<div id="ref-regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup" class="csl-entry" role="listitem">
+Regional Synthesis Workgroup of the Environmental Technical Working Group, n.d. U.s. Atlantic offshore wind environmental research recommendations database.
+</div>
+<div id="ref-rothermel2020" class="csl-entry" role="listitem">
+Rothermel, E.R., Balazik, M.T., Best, J.E., Breece, M.W., Fox, D.A., Gahagan, B.I., Haulsee, D.E., Higgs, A.L., O’Brien, M.H.P., Oliver, M.J., Park, I.A., Secor, D.H., 2020. Comparative migration ecology of striped bass and atlantic sturgeon in the US southern mid-atlantic bight flyway. PLOS ONE 15, e0234442. <a href="https://doi.org/10.1371/journal.pone.0234442">https://doi.org/10.1371/journal.pone.0234442</a>
+</div>
+<div id="ref-seer2022a" class="csl-entry" role="listitem">
+SEER, 2022. Environmental effects of u.s. Offshore wind energy development: Compilation of educational research briefs [booklet].
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,7 +906,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By RWSC Steering Committee, 2024</div>   
+    <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>

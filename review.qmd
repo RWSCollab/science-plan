@@ -1,1 +1,114 @@
 # Science Plan Review & Revision Process {#sec-review}
+
+## Science Plan review process
+
+The RWSC has been gathering input on the Science Plan since the first expert Subcommittee meetings in late 2021.
+During Science Plan development, Subcommittee meeting agendas included opportunities for participants to provide input on the content of each chapter.
+All Subcommittee meetings were open to the public, and recordings and meeting summaries are posted publicly.
+
+The RWSC developed the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org) to capture the ongoing and planned research that participants were sharing during Subcommittee meetings.
+The Database provided a way for each entity's research and data collection efforts to be included in the Science Plan by reference.
+The Subcommittees then used the Database to develop recommendations for data collection and research that should be continued or initiated to fill existing knowledge gaps.
+Funders and researchers can continue to share information about their work by submitting project information to the Database via an online form.
+
+From June 30 -- September 30, 2023, a complete draft of the Science Plan, reflecting the Subcommittees' recommendations, was made available on the RWSC website for public comment.
+All interested individuals were invited to provide feedback by filling out an online comment form, uploading a comment letter, and/or uploading edits and annotations to the draft itself.
+During the Science Plan comment period, each of the four RWSC Caucuses met to discuss the draft Science Plan and share feedback with each other and RWSC staff.
+
+## Summary of feedback received
+
+The RWSC received over 300 individual comments from dozens of submissions.
+Many comments were received after the public comment period deadline.
+No comments were rejected.
+
+The RWSC would like to thank students from Savannah State University's Marine Conservation class who reviewed the draft Science Plan and submitted thought-provoking comments and constructive suggestions.
+
+Many commenters requested:
+
+-   A shorter Science Plan with less background and reference material
+
+-   More direct articulation of research recommendations by each Subcommittee
+
+-   Consolidation of information on cross-cutting topics like data management and technology into each Subcommittee's chapter
+
+-   More dynamic references (i.e., hyperlinks) to the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org) instead of listing active projects in each chapter
+
+-   An explanation for how the Science Plan will be used by RWSC to facilitate and/or fund research.
+
+In addition, several commenters made specific suggested edits to research recommendations within each Subcommittee's chapter.
+All submitted comments are compiled in a [single folder](https://rwscorg-my.sharepoint.com/:f:/g/personal/admin_rwsc_org/EutRuGKgr-ZGtzPGR91BGvQB4zxG5b3OxLkwaK-JTY1_SQ?e=UYAmSW) and are parsed and tracked via an [online spreadsheet](https://rwscorg.sharepoint.com/:x:/s/SubcommitteeLeads/EQjh8HoW1T9Eld1TbM5jQdoBTjv8TwKoGTr-m9QKtKij9w?e=H7u95D).
+These resources can be viewed by anyone online.
+
+## Summary of revisions and finalization process
+
+RWSC staff took care to integrate feedback in a non-biased way and to document how feedback was addressed via the spreadsheet and in discussions with each Subcommittee in October and November 2023.
+To address the feedback received, each Subcommittee made significant revisions to the draft Science Plan:
+
+-   Each Subcommittee developed a new "consolidated" chapter that is between 6-10 pages long.
+    The consolidated chapters provide essential information about each topic within three categories: Data Management, Data Collection, and Data Analysis.
+
+-   Each original draft chapter was then revised considering the detailed comments submitted.
+    These documents contain a great deal of background and reference material.
+    They were each converted to Appendices.
+
+-   Each consolidated chapter refers to its corresponding Appendix for more detail and information.
+
+-   The Data Governance and Data Management chapters were consolidated into a single "Data Governance and Data Management" chapter.
+    Some data management content (e.g., recommended data repositories and existing data standards for each data type) was distributed to each relevant chapter.
+    Revisions to this chapter were further informed by a Data Governance webinar held in September 2023 with RWSC leadership and discussions with the Steering Committee and expert Subcommittees.
+
+-   The four caucuses co-wrote an Executive Summary that summarizes research recommendations the Subcommittees and presents a framework for collaboration to implement the Science Plan.
+
+## Frequently asked questions
+
+**Why wasn't \[group\] included in the development of the Science Plan?**
+
+The four sectors (federal agencies, states, eNGOs, and offshore wind companies) invited participation in Science Plan development from any individual or entity via public Subcommittee meetings and the 90-day public comment period.
+All are welcome to join RWSC Subcommittee discussions and to provide input on research recommendations.
+
+**Why is \[dataset\] not mentioned in the Science Plan?**
+
+It is the Subcommittees' recommendation that all available data are evaluated for usefulness in new analyses and research.
+The Science Plan and the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org) describe an incredible number of datasets and data collection efforts.
+Even so, the Subcommittees recognize that these compilations are likely incomplete, both because new efforts are being added continuously, and because there are so many potentially relevant ocean data collection efforts.
+
+One challenge encountered by all Subcommittees was to appropriately distinguish between data collection and research activities specifically funded and designed to study offshore wind and wildlife/environment interactions, versus those activities that were not designed to study the potential effects of offshore wind but might still provide useful data in such studies.
+The Database has been revised to reflect this distinction to the extent practicable, recognizing that some categorizations might not be clear in all cases.
+
+A consistent recommendation across all Subcommittees is for prospective funders and researchers planning new data collection activities related to offshore wind and wildlife to join a few Subcommittee meetings to ask about existing data and share ideas.
+These discussions could highlight new or additional datasets not yet described or included in RWSC materials and ensure their inclusion in new work.
+
+**Why aren't there any recommendations for fisheries research included in the Science Plan?**
+
+The scope of the RWSC Science Plan does not include fisheries or commercially managed fish species.
+For research needs and considerations on those topics, visit the Responsible Offshore Science Alliance (ROSA; <https://www.rosascience.org>).
+While both RWSC and ROSA are engaging in regional coordination and advancement of research and monitoring related to interactions between offshore wind and ecosystems, ROSA's focus is fisheries (commercial and recreational) and RWSC's focus is wildlife.
+Each organization exists because issues related to the intersection of offshore wind and fisheries often differ from those of wildlife and endangered species.
+To ensure close coordination on issues in the RWSC Science Plan that might relate with ROSA's work, ROSA staff participate in the RWSC Protected Fish Species and Habitat & Ecosystem Subcommittees.
+In addition, RWSC and ROSA Directors and staff meet monthly to share progress and build on opportunities to align work.
+
+**Who are "RWSC participants" or "RWSC partners"?**
+
+These phrases are RWSC's way of being as inclusive as possible in all of its work.
+Anyone who would like to participate in offshore wind and wildlife science discussions or work more closely with RWSC is invited to do so via public Subcommittee meetings, or by contacting RWSC staff directly.
+
+**How far offshore is the RWSC study area?**
+
+The entities that collaboratively lead RWSC have jurisdiction within the U.S.
+Exclusive Economic Zone (EEZ).
+However, RWSC recognizes that species and ecosystems are not limited by political boundaries.
+To accommodate this fact, the ecological focus of the Science Plan includes all habitats occupied by the species under study.
+This could require collaboration with entities outside of the U.S. at times.
+
+**How is RWSC going to implement the Science Plan?**
+
+The new Executive Summary of the Science Plan lays out actions that the four sectors will take to implement the Science Plan.
+It is likely that Science Plan recommendations will be funded by a combination of individual entities that collaborate via RWSC and by funding provided to RWSC specifically for Science Plan implementation.
+Funds provided to RWSC may be pooled from several individual sources.
+For funds provided to RWSC, funding decisions will reside with the Steering Committee, informed by the expert Subcommittees, considering any limitations on the use of funds, and funders' priorities.
+
+**When will the Science Plan be updated?**
+
+The RWSC Steering Committee will evaluate the Science Plan in five years (i.e., at the end of 2028) to determine whether it needs to be updated.
+At that time, the Steering Committee will likely request input from each Subcommittee and RWSC participants on whether updates to each chapter and/or the whole Plan are needed.
+The Steering Committee will then develop a work plan to accomplish any needed updates that specifies a process and timeline over which updates will be completed.

@@ -1,1 +1,235 @@
 # Habitat & Ecosystem - Seafloor {#sec-seafloor}
+
+*Authors: [Habitat & Ecosystem Subcommittee](append-rosters.qmd#he)*
+
+*For more detail on any of these topics, read [the](append-hes.qmd)*[ *Habitat & Ecosystem - Seafloor Appendix*](append-hes.qmd).
+
+The scope of this chapter includes physical and biological seafloor habitats (e.g., surficial sediments and benthic communities, deep sea corals and sponges, subsurface sediments and habitats), including the fauna and flora that may be attached to introduced structures on the seafloor and in the water column (including non-native and invasive taxa).
+This chapter builds on the research topics and questions related to seafloor habitat and offshore wind previously identified [@dannheim2020; @degraer2021; @regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup; @seer2022a].
+
+Commercially important and managed fish species, which are outside of the scope of this Science Plan, may rely on seafloor habitats at several life history stages.
+For research needs and considerations on fisheries and managed fish species, visit the [Responsible Offshore Science Alliance (ROSA)](https://www.rosascience.org/).
+To ensure close coordination on issues in the RWSC Science Plan that might relate with ROSA's work, ROSA staff participate in the RWSC Habitat & Ecosystem Subcommittee and the Protected Fish Species Subcommittee.
+
+Individuals and entities are strongly encouraged to consult with the Habitat & Ecosystem Subcommittee prior to collecting seafloor data along the U.S.
+Atlantic Coast or conducting novel data analyses relevant to offshore wind interactions to ensure that planned research does not duplicate existing efforts and is consistent with recommended tools and approaches.
+Any individual or entity may join public Habitat & Ecosystem Subcommittee meetings or ask to present materials at these meetings via the RWSC website. 
+
+## Data Management
+
+Understanding physical and biological seafloor habitats and processes near offshore wind developments will require close coordination among researchers, state and federal agencies, and industry.
+
+The Habitat & Ecosystem Subcommittee recommends that consistent data collection methods are applied across studies so that data can support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., species distribution models).
+
+To support these efforts, the Subcommittee recommends:
+
+-   Maintenance of an up-to-date resource list of recommended repositories, data and metadata standards, guidance, and protocols for use by all data collectors.
+    The current recommended resources are detailed in the table at the end of this section.
+
+-   Development of standard language for inclusion in requests for proposals and funding agreements to encourage or require the use of recommended resources.
+
+-   Identification of timelines around geophysical and sediment data sharing that consider protection of confidential business information and potential benefits to industry and other stakeholders from improving regional seafloor/habitat data products.
+
+-   NOAA NCEI is the only active U.S. repository that accepts and stores geophysical and seafloor data and metadata.
+    NCEI should consider streamlining the appraisal and approval process for incorporating data collected in wind energy areas that are funded by entities other than NOAA to ensure that data collection funded by states, offshore wind developers, and other federal agencies can be quickly and efficiently stored at NCEI.
+    This is especially important for the following types of data, for which no similar alternative repository was identified:
+
+    -   [Deep sea coral observations](https://www.ncei.noaa.gov/products/noaa-deep-sea-coral-and-sponge-map)
+
+    -   [Marine trackline geophysical data](https://www.ncei.noaa.gov/products/marine-trackline-geophysical-data) (single beam bathymetry, subbottom profiles, magnetic, gravity, side scan sonar)
+
+    -   [Other hydrographic data](https://www.ngdc.noaa.gov/mgg/surveys.html) (multibeam bathymetry, National Ocean Service hydrographic data, water column sonar data)
+
+    -   [Marine geology data](https://www.ncei.noaa.gov/products/marine-geology-geophysics/marine-geology/data)(surficial sediment grain size and other seabed data)
+
+-   In the absence of an expansion to an existing repository, new online platform(s) must be established to allow submission of and access to non-federal high-resolution seafloor mapping data, data products, and metadata (i.e., multibeam bathymetry and backscatter, side-scan sonar, geoform and substrate maps/data products).
+
+-   Establishment of a publicly available database/portal of coordinates and maps of boulder relocations associated with offshore wind development.
+
+-   Advance the recommendations for seafloor data formatting and sharing developed via the NROC/INSPIRE regional seafloor modeling project (funded by BOEM, Massachusetts Clean Energy Center, and Rhode Island Department of Environmental Management), specifically:
+
+Table 8.
+Recommended seafloor variables, file formats and resolutions to support the development of regional scale seafloor data products.
+
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| **Seafloor variable(s)**                                          | **Type/format**                       | **Desired resolution** |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Multibeam bathymetry                                              | Raster/tiff                           | 4m\*                   |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Multibeam backscatter                                             | Raster/tiff                           | 4m\*                   |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Boulder fields and/or picks (identification of boulder locations) | Vector-points/polygons Esri shapefile | N/A                    |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Seabed interpretation -- CMECS Substrate Group, Subgroup          | Vector-points/polygons/Esri shapefile | N/A                    |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Seabed interpretation -- Shell substrate                          | Vector-points/polygons/Esri shapefile | N/A                    |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Seabed interpretation -- Bedforms                                 | Vector-polygons/Esri shapefile        | N/A                    |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+| Seabed interpretation -- CMECS Biotic Subclass                    | Vector-points/Esri shapefile          | N/A                    |
++-------------------------------------------------------------------+---------------------------------------+------------------------+
+
+***\*Bathymetry and backscatter data sets may be provided at high resolutions and will be down-sampled to the desired 4 meter resolution by the project team; alternatively, down-sampling instructions will be provided to data providers to ensure consistent methodology.***
+
+The following table lists the existing repositories and standards that are recommended for use in seafloor habitat data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists. 
+
+Table 9.
+Recommended repositories and standards for seafloor data collection.
+
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Method(s) and data type(s)**                                                                               | **Repository**                                                                               | **Existing Standards**                                                                                                                                                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Marine trackline geophysical data, other hydrographic data, marine geology data, deep sea coral observations | [**NOAA National Centers for Environmental Information (NCEI)**](https://www.ncei.noaa.gov/) | Data collected without NOAA funding or support must go through a scientific appraisal process to be considered for the archive and is subject to the NESDIS non-NOAA data policy upon approval.                                                                |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              | ISO 19115 XML Metadata standard is required by NCEI and the U.S. Integrated Ocean Observing System (IOOS).                                                                                                                                                     |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              | (Draft) [Standard Ocean Mapping Protocol](https://iocm.noaa.gov/standards/Standard_Ocean_Mapping_Protocol_draft_Feb2023.pdf), Interagency Working Group on Ocean and Coastal Mapping for the National Ocean Mapping, Exploration, and Characterization Council |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              | [Coastal and Marine Ecological Classification Standard (CMECS)](https://iocm.noaa.gov/standards/cmecs-home.html)                                                                                                                                               |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Geophysical data; benthic habitat data                                                                       |                                                                                              | [BOEM guidelines for providing geophysical, geotechnical, and geohazard information](https://www.boem.gov/about-boem/gg-guidelines)                                                                                                                            |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              | [Guidelines for providing benthic habitat survey information for renewable energy development on the Atlantic OCS](https://www.boem.gov/newsroom/boem-renewable-benthic-habitat-guidelines)                                                                    |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              | [NOAA Fisheries information needs to assess Essential Fish Habitat impacts from offshore wind energy projects along the U.S. Atlantic](https://media.fisheries.noaa.gov/2022-02/EFH-InfoNeeds-OSW-GARFO.pdf)                                                   |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Surficial sediment characterizations from sediment grabs and imagery                                         | [**usSEABED**](https://www.usgs.gov/programs/cmhrp/science/usseabed)                         | This resource is not accepting new data.                                                                                                                                                                                                                       |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Bathymetry map products, seafloor habitat map products, sediment data map products                           | [Marine Cadastre National Viewer](https://marinecadastre.gov/nationalviewer/)                | [Coastal and Marine Ecological Classification Standard (CMECS)](https://iocm.noaa.gov/standards/cmecs-home.html)                                                                                                                                               |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              | [Northeast Ocean Data Portal](https://www.northeastoceandata.org/)                           |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              | [Mid-Atlantic Ocean Data Portal](https://portal.midatlanticocean.org/)                       |                                                                                                                                                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Boulder relocations                                                                                          | None -- needs development                                                                    | None -- needs development                                                                                                                                                                                                                                      |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Data Collection
+
+Seafloor data collection is funded and implemented by multiple entities that participate in RWSC.
+Ongoing and planned activities are captured in the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/). 
+For offshore wind companies, geophysical site characterization activities (i.e., seafloor mapping and data collection) inform multiple aspects of project development including engineering and risk assessment.
+Overall, the precise types of field data collection, processing, and analysis activities conducted by offshore wind companies are not well-known or consistent with respect to spatial coverage, applied methods, and sampled parameters.
+Geophysical site assessment information is often redacted in Construction and Operations Plans (COPs) posted to BOEM's website.
+From a review of publicly available COPs, seafloor acoustic, imagery, and grab methods are often not applied consistently, and the footprints of investigations vary from within the wind lease area and along proposed export cable paths to land, only areas with proposed wind turbine generator locations, and, in some cases, areas beyond the lease area's boundaries.
+This Subcommittee will lead the collaborative development of recommendations for improving the standardization of site assessment seafloor data collection and dissemination across offshore wind projects.
+
+Aside from data collected by commercial entities, the Subcommittee will coordinate with and leverage existing and ongoing efforts by multiple groups to identify geographic data gaps in high-resolution seafloor mapping data ([U.S. Interagency Working Group on Ocean and Coastal Mapping](https://iocm.noaa.gov/about/iwg-ocm.html); [National Ocean Mapping, Exploration, and Characterization Council](https://www.noaa.gov/ocean-science-and-technology-subcommittee/national-ocean-mapping-exploration-and-characterization-nomec-council) (NOMEC); [Northeast Regional Ocean Council Habitat Classification and Ocean Mapping Subcommittee](https://www.northeastoceancouncil.org/committees/ocean-and-coastal-ecosystem-health/hcom/)).
+These groups produce regular updates to data gaps assessments and publish map products that help guide new data collection.
+A current map showing survey coverage of digital soundings data (i.e., seafloor acoustic data) is available via the [NCEI Bathymetric Data Viewer](https://www.ncei.noaa.gov/maps/bathymetry/).
+In consideration of this information and evolving prioritizations, the Subcommittee recommends general areas where new seafloor data collection is needed:
+
+-   Outside the boundaries of offshore wind leases throughout the RWSC study area.
+
+-   Continental shelf waters further from shore, including central and eastern Gulf of Maine and offshore Southern New England waters.
+
+-   Waters off the shelf near the BOEM Central Atlantic Planning areas.
+
+The Subcommittee also recommends the following activities:
+
+-   Develop recommended practices for consistent post-construction benthic monitoring to ensure regional compatibility of site-specific data:
+
+    -   Statistical frameworks to guide sampling design, including the spatial and temporal extents over which effects can be detected.
+
+    -   Frequency of sampling, including adaptive sampling after storms or other acute disturbances (e.g., nearby construction activity).
+
+    -   Consistent methods to identify appropriate reference locations and to define "recovery from disturbance."
+
+    -   Benthic community variables, ecological functions, and processes of interest (e.g., spawning, larval habitat, recruitment, feeding, growth).
+
+-   Monitor the transport, occurrence, and prevalence of non-native and invasive species on/via offshore wind infrastructure.
+
+-   Characterize biological colonization (i.e., sessile, attached, and epiphytic flora and fauna) of new structures, the marine communities they attract and support, and any associated biogeochemical changes to the surrounding environment (e.g., nutrient enrichment, carbon burial).
+
+-   Periodically re-evaluate and standardize data collection and field methods to ensure collected data are suitable for regional needs.
+
+-   Advance, evaluate, and apply new technologies and techniques to support seafloor data collection and habitat mapping analyses:
+
+    -   Autonomous seafloor mapping platforms.
+
+    -   Non-extractive sampling techniques (e.g., imagery, video, eDNA).
+
+    -   Artificial intelligence for image classification (e.g., [NOAA NCCOS Enhancing Habitat Mapping Accuracy and Efficiency Using Artificial Intelligence](https://coastalscience.noaa.gov/project/enhancing-habitat-mapping-accuracy-and-efficiency-using-artificial-intelligence/)).
+
+In the **Gulf of Maine**, there is almost no modern high-resolution seafloor data overlapping with the newly released draft Wind Energy Area.
+A few groups are working to address this (NOAA Deep Sea Coral Research and Technology Program, Northeast Regional Ocean Council Habitat Classification and Ocean Mapping Subcommittee), but additional geophysical and seafloor sampling data should be collected to establish baseline seafloor habitat characterizations.
+
+Of the active offshore wind leases in **Southern New England** and the **New York/New Jersey Bight**, several publicly available COPs provide information about seafloor data collection.
+Collaborative work with respect to developing data sharing workflows and recommendations for standardization should leverage this available information as a case study.
+Lessons learned from the data collection and monitoring of the Block Island Wind Farm should be applied here.
+With construction ongoing in these subregions, studies should seek to characterize the effects of construction activities on seafloor environments and benthic communities, the colonization of new structures, and how far any effects are felt from these activities (spatially and temporally).
+
+Lessons learned from the seafloor data collection and monitoring of the Coastal Virginia Offshore Wind Pilot project should be applied to studies in the **U.S. Central Atlantic**.
+Data collection outside the active leases in the area is needed, as most active projects are currently focused in lease areas.
+
+There are limited field data collection activities occurring in the **U.S. Southeast Atlantic** and no publicly available COPs for offshore wind projects.
+
+## Data Analysis
+
+Data analyses should provide the environmental context and potential drivers of any changes observed in wildlife, seek to assess whether offshore wind is causing any observed changes, evaluate the efficacy of monitoring and mitigation strategies, and inform where new data collection is needed.
+The Subcommittee is especially interested in studies that seek to distinguish between climate change-driven shifts in seafloor/benthic community composition and processes and changes that may be driven by offshore wind construction and operation.
+Analyses and studies should:
+
+-   Leverage seafloor data collected by multiple entities and purposes, including for ongoing NOAA chart development, federal and state resource assessments, offshore wind Site Assessment Plans, Construction and Operation Plan development, and other purposes that can be appropriately down-sampled (if necessary) and shared with the RWSC Habitat & Ecosystem Subcommittee via publicly accessible repository for inclusion in regional-scale habitat data products in a timely fashion.
+
+-   Develop consistent regional-scale seafloor habitat maps that leverage existing and new data and that are reproducible:
+
+    -   Map seafloor habitat variables that are needed for megafauna species distribution modeling.
+
+    -   Map geoforms, substrates, and biotic assemblages using the Coastal and Marine Ecological Classification Standard (CMECS).
+
+    -   Continue to update products with new geophysical and ground-truth data every 3-5 years or as is practical.
+
+    -   Evaluate model performance and use results to guide new data collection.
+
+-   Identify sensitive seafloor habitats in the RWSC study area to inform offshore wind siting, permitting, and future assessments, including by advancing consistent methods for:
+
+    -   Hard bottom/substrate habitat modeling
+
+    -   Deep sea coral and sponge habitat suitability modeling, led by NOAA NCCOS
+
+    -   Coordination with the Responsible Offshore Science Alliance (ROSA) on applications to fisheries habitats and assessments
+
+-   Study physical and ecological effects on seafloor habitat and benthic communities related to construction activities:
+
+    -   Evaluate benthic community function and other relevant metrics both before and after the introduction of stressors.
+
+    -   Understand impacts of noise and vibration to the growth, behavior, and survival of benthic species under controlled laboratory conditions.
+
+    -   Work with other RWSC Subcommittees and partners characterizing soundscapes and evaluate effects on benthic communities.
+
+    -   Assess the effects of cable laying activities (e.g., sediment suspension and deposition related to jet plowing) across various habitats and subregions.
+
+    -   Assess the effects of seafloor preparation activities (e.g., jack-up barges, boulder relocation) across various habitats and subregions.
+
+    -   Characterize and compare the footprints of benthic disturbance between fixed and floating offshore wind developments.
+
+    -   Characterize benthic community recovery trajectories and times to recovery.
+
+-   Study physical and ecological effects on seafloor habitat and benthic communities related to operation and maintenance activities:
+
+    -   Evaluate benthic community function and other relevant metrics both before and after the introduction of stressors.
+
+    -   Understand how benthic species detect and respond to EMF in terms of growth, behavior, and survival under controlled laboratory conditions.
+
+    -   Characterize any alteration of seafloor habitat conditions due to EMF, sediment temperature changes, vibration from turbines during normal operation and various contexts (e.g., different substrate types, burial depth, floating vs. fixed technology).
+
+    -   Entrainment associated with high voltage direct current cooling systems.
+
+    -   Study potential effects on benthic-pelagic coupling and benthic habitat quality:
+
+        -   Alterations to hydrodynamics, stratification, and mixing as potential drivers of benthic habitat/process change.
+
+        -   Effects of increased organic matter on nutrient cycling and trophic linkages.
+
+    -   Examine how the introduction of new hard structures alters the geochemical and biological composition and ecological processes within benthic habitats.
+
+    -   Assess the cumulative/net effects of introduced structures on species richness, diversity, and ecosystem services in a consistent way across projects/sites.
+
+-   Conduct assessments of construction approaches/methods meant to limit benthic disturbance and/or augment benthic habitats (e.g., use of jackets vs. piles):
+
+    -   Leverage existing research and learnings from other ocean industries (e.g., oil and gas).
+
+    -   Develop standard metrics for assessing benthic disturbance.
+
+    -   Conduct comparative field studies using consistent methods.

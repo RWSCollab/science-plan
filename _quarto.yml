@@ -4,10 +4,14 @@ project:
 
 book:
   title: "Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters"
-  reader-mode: true
+  original-date: "25 January 2024"
+  version: "1.0"
+  navbar:
+    search: true
+    logo: "RWSC_Logo_notext.png"
   page-navigation: true
   page-footer:
-    left: "&copy; CC-By RWSC Steering Committee, 2024"
+    left: "&copy; CC-By-NC-ND RWSC Steering Committee, 2024"
     right: <img src="RWSC_Logo.png" width="125">
   search:
     location: sidebar
@@ -17,21 +21,21 @@ book:
     logo: "logo7.png"
     pinned: true
     align: "center"
-    tools:
-      - icon: globe
-        href: https://rwsc.org
-        text: "rwsc.org"
-      - icon: github
-        href: https://rwscollab.github.io/science-plan/
-        text: "github"
-      - icon: cloud-download
-        href: https://rwsc.org/
-        text: "download pdf"
+    #tools:
+    #  - icon: globe
+    #    href: https://rwsc.org
+    #   text: "rwsc.org"
+    #  - icon: github
+    #    href: https://github.com/RWSCollab/science-plan
+    #    text: "github"
   cover-image: RWSC_Logo.png
   favicon: logo7.png
   site-url: https://rwsc.org/science-plan
+  repo-url: https://github.com/RWSCollab/science-plan
   repo-branch: main
-  repo-actions: [edit, issue]
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+  #google-analytics:
   chapters:
     - index.qmd
     - executive-summary.qmd
@@ -50,7 +54,6 @@ book:
         - technology.qmd
         - review.qmd
     - text: "---"
-
   appendices:
     - append-rosters.qmd
     - append-intro.qmd
@@ -59,11 +62,19 @@ book:
     - append-birds.qmd
     - append-bats.qmd
     - append-st.qmd
+    - append-pf.qmd
     - append-heo.qmd
     - append-hes.qmd
+    - references.qmd
 
 bibliography: references.bib
 csl: elsevier-harvard
+
+citation:
+  type: article-journal
+  container-title: "Regional Wildlife Science Collaborative for Offshore Wind (RWSC)"
+  url: "https://rwsc.org"
+
 crossref:
   appendix-title: "Appendix"
   appendix-delim: ":"
@@ -75,6 +86,8 @@ format:
       - cosmo
       - rwsc.scss
     code-link: true
+    template-partials: [toc.html]
+    toc-title: "On this page"
     author-meta: "Regional Wildlife Science Collaborative for Offshore Wind"
     callout-appearance: simple
     link-external-newwindow: true

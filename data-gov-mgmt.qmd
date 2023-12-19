@@ -44,7 +44,7 @@ The remainder of this chapter provides guidance and resources for both the DGSC 
 
 ## Introduction to Data Governance & Management
 
-*For more background and context, read the Data Governance & Data Management Appendix.*
+*For more background and context, read the [Data Governance & Data Management Appendix](append-dgdm.qmd).*
 
 The RWSC's mission is:
 
@@ -68,10 +68,6 @@ Each of these partnerships and projects may be at a different stage of their dat
 Science Plan participants shared examples of data flows where there was a lack of clarity about how data would be structured or transmitted, inconsistent documentation of data practices, and questions about whether partners had the right agreements in place to allow data sharing.
 These are the types of questions data governance and management can answer, and the ideal time to discuss these topics is before data collection starts.
 This is why it is critical for the DGSC and other Subcommittees to coordinate on data governance and management, connecting the project-level guidance in the Subcommittee chapters to the broader data integration work of the DGSC.
-
-[^data-gov-mgmt-1]: We're using a version of the data lifecycle from the International Oceanographic Commission's [Data Management training](https://classroom.oceanteacher.org/).
-    There are many versions of the data lifecycle, with varying levels of detail, and we recommend the RWSC choose one to help guide the development of common terms across the group.
-    Other frameworks include [USGS](https://www.usgs.gov/data-management/data-lifecycle), the [NOAA Environmental Data Management Framework](https://nosc.noaa.gov/EDMC/framework.php), and [DataOne](https://dataoneorg.github.io/Education/bp_step/plan/).
 
 U.S. federal agencies, Atlantic coast states, and offshore wind companies are all funding individual data collection and research activities.
 Some of these activities are conducted collaboratively but the majority are funded, scoped, and managed under the purview of a single funder or entity.
@@ -229,7 +225,6 @@ The DGSC should explore creating a data handbook and glossary of key terms that 
 The DGSC could also write up case studies and examples showing how data governance works from different partner perspectives and for different data types and workflows, helping make the concept of data governance more tangible.
 This type of community education will help develop consistency and shared understanding across the RWSC's efforts and build the overall data capacity of the offshore wind and wildlife community.
 
-## References
-
-::: {#refs}
-:::
+[^data-gov-mgmt-1]: We're using a version of the data lifecycle from the International Oceanographic Commission's [Data Management training](https://classroom.oceanteacher.org/).
+    There are many versions of the data lifecycle, with varying levels of detail, and we recommend the RWSC choose one to help guide the development of common terms across the group.
+    Other frameworks include [USGS](https://www.usgs.gov/data-management/data-lifecycle), the [NOAA Environmental Data Management Framework](https://nosc.noaa.gov/EDMC/framework.php), and [DataOne](https://dataoneorg.github.io/Education/bp_step/plan/).

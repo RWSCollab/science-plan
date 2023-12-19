@@ -1,0 +1,48 @@
+name: Typo Found
+description: Tell us about a typo
+title: "[Typo]: "
+labels: ["typo"]
+projects: ["RWSCollab/science-plan"]
+assignees:
+  - eshumchenia
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to tell us about a typo!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: location
+    attributes:
+      label: In what section did you find the typo?
+      description: Scroll up from the typo to the first section heading. Hover
+      over the heading to reveal the 🔗. Copy and paste the URL below.
+      placeholder: Paste section URL here.
+      value: "Found a typo!"
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Provide us with the correction for the typo.
+      description: Copy and paste the incorrect sentence, update it, and any
+      description that you think will be helpful.
+      placeholder: Paste the corrected typo here.
+      value: "Correct a typo in this section!"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -66,10 +85,57 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./RWSC_Logo_notext.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="dropdown-header">
+ <span class="menu-text">menu</span></li>
+</ul>
+            <div class="quarto-navbar-tools">
+    <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+              <i class="bi bi-bi-linkedin pe-1"></i>
+            LinkedIn
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -85,26 +151,17 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">RWSC Science Plan</a> 
-        <div class="sidebar-tools-main tools-wide">
+      <div class="sidebar-tools-main">
     <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
-    <a href="https://rwscollab.github.io/science-plan/" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
-    <a href="https://rwsc.org/" rel="" title="download pdf" class="quarto-navigation-tool px-1" aria-label="download pdf"><i class="bi bi-cloud-download"></i></a>
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
+    <a href="https://github.com/RWSCollab/science-plan" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
 </div>
-    </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -257,14 +314,26 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./append-pf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Appendix - Protected Fish Species</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./append-heo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
+ <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-hes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+ <span class="menu-text"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">K</span>&nbsp; <span class="chapter-title">References</span></span></a>
   </div>
 </li>
       </ul>
@@ -275,7 +344,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The book is under final polishing 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC 🌐</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues">Open an issue ❔</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#data-management" id="toc-data-management" class="nav-link" data-scroll-target="#data-management"><span class="header-section-number">5.1</span> Data Management</a></li>
+    <li><a href="#data-collection" id="toc-data-collection" class="nav-link" data-scroll-target="#data-collection"><span class="header-section-number">5.2</span> Data Collection</a></li>
+    <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis"><span class="header-section-number">5.3</span> Data Analysis</a></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/bats.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -289,6 +371,12 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>RWSC Steering Committee </p>
+          </div>
+  </div>
     
   
     
@@ -297,8 +385,181 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p><em>Authors: <a href="./append-rosters.html#bb">Bird &amp; Bat Subcommittee</a></em></p>
+<p><em>For more detail on any of these topics, read</em> <a href="append-bats.html"><span>Appendix&nbsp;F</span></a>.</p>
+<p>Scientific understanding of bat activity and behavior in the offshore environment is relatively limited at present. At least six species of bat are known to occur offshore, including the long-distance migratory tree bats (hoary bat, silver-haired bat, eastern red bat), as well as Myotis species of conservation concern <span class="citation" data-cites="solick2021">(<a href="references.html#ref-solick2021" role="doc-biblioref">Solick and Newman, 2021</a>)</span>. These species are most often detected in the offshore environment during the fall migration season <span class="citation" data-cites="solick2021">(<a href="references.html#ref-solick2021" role="doc-biblioref">Solick and Newman, 2021</a>)</span>. Overall, in the absence of offshore wind facilities, bat activity is thought to be lower at isolated offshore sites compared to most coastal, island, and inland habitats <span class="citation" data-cites="peterson2021 solick2021">(<a href="references.html#ref-peterson2021" role="doc-biblioref">Peterson et al., 2021</a>; <a href="references.html#ref-solick2021" role="doc-biblioref">Solick and Newman, 2021</a>)</span>.</p>
+<p>Collisions with operating wind turbines are expected to be the main potential impact of offshore wind development on bats <span class="citation" data-cites="seer2022">(<a href="references.html#ref-seer2022" role="doc-biblioref">SEER, 2022</a>)</span>, although collision risk and fatality rates in the offshore environment are currently entirely unknown. In the terrestrial environment, bat mortality at wind facilities is a common occurrence <span class="citation" data-cites="awwi2020">(<a href="references.html#ref-awwi2020" role="doc-biblioref">AWWI, 2020</a>)</span>, and these fatalities are estimated to represent a population-level, and even existential, threat to some bat species <span class="citation" data-cites="frick2017 friedenberg2021">(<a href="references.html#ref-frick2017" role="doc-biblioref">Frick et al., 2017</a>; <a href="references.html#ref-friedenberg2021" role="doc-biblioref">Friedenberg and Frick, 2021</a>)</span>. Bats appear to be attracted to land-based wind turbines and other tall structures <span class="citation" data-cites="cryan2014 guest2022 jameson2014">(<a href="references.html#ref-cryan2014" role="doc-biblioref">Cryan et al., 2014</a>; <a href="references.html#ref-guest2022" role="doc-biblioref">Guest et al., 2022</a>; <a href="references.html#ref-jameson2014" role="doc-biblioref">Jameson and Willis, 2014</a>)</span>. Researchers have hypothesized that the greater height of offshore wind turbines and their prominence in an otherwise flat seascape could increase attraction of bats to offshore wind facilities <span class="citation" data-cites="solick2021">(<a href="references.html#ref-solick2021" role="doc-biblioref">Solick and Newman, 2021</a>)</span>, potentially increasing collision risk or leading to greater exposure to harsh weather conditions offshore <span class="citation" data-cites="wilson2023">(<a href="references.html#ref-wilson2023" role="doc-biblioref">Wilson et al., 2023</a>)</span>.</p>
+<p>Whether there is a need for on-site or off-site mitigation for impacts to bats at offshore facilities is not yet known, although researchers have highlighted the value of considering mitigation for bats early in the offshore wind development and monitoring process <span class="citation" data-cites="solick2021 true2023">(<a href="references.html#ref-solick2021" role="doc-biblioref">Solick and Newman, 2021</a>; <a href="references.html#ref-true2023" role="doc-biblioref">True et al., 2023</a>)</span>, both for conservation and regulatory reasons. Operational curtailment during environmental conditions when bat activity is expected to be high (e.g., low wind speed nights) has proven effective at terrestrial wind facilities <span class="citation" data-cites="adams2021 whitby2021">(<a href="references.html#ref-adams2021" role="doc-biblioref">Adams et al., 2021</a>; <a href="references.html#ref-whitby2021" role="doc-biblioref">Whitby et al., 2021</a>)</span>. Deterrent technologies continue to be developed and evaluated <span class="citation" data-cites="hein2021">(<a href="references.html#ref-hein2021" role="doc-biblioref">Hein and Straw, 2021</a>)</span>. In some studies, individual technologies have reduced overall bat fatalities <span class="citation" data-cites="hein2021 romano2019 weaver2020">(<a href="references.html#ref-hein2021" role="doc-biblioref">Hein and Straw, 2021</a>; <a href="references.html#ref-romano2019" role="doc-biblioref">Romano et al., 2019</a>; <a href="references.html#ref-weaver2020" role="doc-biblioref">Weaver et al., 2020</a>)</span>; however, no deterrent has shown consistent reductions in fatalities of eastern red bats, the most commonly detected species offshore <span class="citation" data-cites="solick2021">(<a href="references.html#ref-solick2021" role="doc-biblioref">Solick and Newman, 2021</a>)</span>.</p>
+<p>The following subsections address near-term recommendations for data management, field data collection, and data analysis actions to help characterize bat activity and movements in the offshore environment, assess collision risk, and further the development of new or improved technologies for monitoring and mitigation. These recommendations are based primarily on Bird &amp; Bat Subcommittee discussions, the <a href="https://www.nyetwg.com/_files/ugd/78f0c4_fe36c3c091724b14a884851859966ad1.pdf">2020 State of the Science Workshop on Wildlife and Offshore Wind Energy Bat Workgroup Report</a>, and the <a href="https://www.nyetwg.com/regional-synthesis-workgroup">NYSERDA E-TWG Synthesis of Regional Research Recommendations</a>, with an eye towards past, current, and planned science activities relevant to offshore wind development and bats, as catalogued in the <a href="https://database.rwsc.org/">Offshore Wind &amp; Wildlife Research Database</a> (recent, current, and planned studies), the <a href="https://tethys.pnnl.gov/knowledge-base">Tethys Knowledge Base</a> (publications, reports, and presentations relevant to offshore wind) and <a href="https://tethys.pnnl.gov/offshore-wind-metadata">Tethys Offshore Wind metadata</a> (information on environmental monitoring conducted at offshore wind energy projects around the world).</p>
+<p>Individuals and entities are strongly encouraged to consult with the Bird &amp; Bat Subcommittee prior to collecting bat data along the U.S. Atlantic Coast or conducting novel data analyses relevant to offshore wind interactions to ensure that planned research does not duplicate existing efforts and is consistent with recommended tools and approaches. Any individual or entity may join public Bird &amp; Bat Subcommittee meetings or ask to present materials at these meetings via the RWSC website.</p>
+<section id="data-management" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="data-management"><span class="header-section-number">5.1</span> Data Management</h2>
+<p>Understanding bat activity around offshore wind facilities and regionally along the U.S. Atlantic Coast will require close coordination among researchers, state and federal agencies, and industry. The Bird &amp; Bat Subcommittee wishes to work with individuals and entities who collect data relevant to bat-offshore wind research to ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC Study Area. This standardization is intended to support regional-scale assessments, data products, and tools (e.g., NABat occupancy and abundance estimates; evaluations of collision risk relative to wind facility, temporal, and environmental characteristics).</p>
+<p>To support these efforts, the Bird &amp; Bat Subcommittee recommends:</p>
+<ul>
+<li><p>Maintenance of an up-to-date resource list of recommended standard databases, data repositories, guidelines, and protocols for use by all data collectors. The current recommended resources are detailed in the table below.</p></li>
+<li><p>Development of standard language for inclusion in funding and contract documents to encourage or require the use of recommended resources.</p></li>
+<li><p>Establishment of an Offshore Bat Working Group to address gaps in existing databases (detailed in the table below), including development of recommended protocols/standards where absent, suggestions for the structure/content of new databases, and identification of pilot study parameters where too little is currently known to provide specific methodological guidance. This Working Group has recently been established and, as a first step, will address methodological recommendations and pilot study parameters for passive acoustic detector deployment on offshore infrastructure.</p></li>
+<li><p>Establishment of data sharing frameworks to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., acoustic data collected on offshore wind turbines, bat-turbine interactions, and collision data; associated turbine status and local meteorological conditions).</p></li>
+<li><p>Identification, solicitation, and compilation of historic data into recommended databases to inform baseline understanding of bat distributions in coastal and offshore areas of the U.S. Atlantic Coast. In some cases, this may require re-formatting and QA/QC procedures to ensure species codes, units, and other metadata are entered consistently.</p></li>
+</ul>
+<p>The following table lists the existing centralized or accepted repositories and standards that are recommended for use in bat data collection, as well as identifying data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists.</p>
+<p>Table 3. Recommended repositories and standards for bat data collection.</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><strong>Method(s) and data type(s)</strong></td>
+<td><strong>Repository</strong></td>
+<td><strong>Existing Guidance/Standards</strong></td>
+</tr>
+<tr class="even">
+<td>Acoustic data (passive or active); Bat observations (colony and roost counts, capture records, incidental observations)</td>
+<td><a href="https://sciencebase.usgs.gov/nabat/"><strong>North American Bat Monitoring Program (NABat)</strong></a></td>
+<td><ul>
+<li><p>Use <a href="https://www.fs.usda.gov/treesearch/pubs/48442">A Plan for the North American Bat Monitoring Program</a> for survey protocols and field study guidance.</p></li>
+<li><p>Visit <a href="https://www.nabatmonitoring.org/resources">NABat Resources</a> for detailed guidance on data preparation, processing, uploading, and QA/QC procedures. NABat also provides a <a href="https://rwscorg-my.sharepoint.com/personal/admin_rwsc_org/Documents/FINAL%20Science%20Plan%20Chapters%20November%202023/NABat%20also%20provides%20a%20grid-based,%20offshore%20sampling%20frame">grid-based offshore sampling frame</a>.</p></li>
+<li><p><em>Development of offshore-specific protocols for passive and active acoustics are recommended.</em></p></li>
+<li><p><em>NABat has confirmed that it can incorporate contemporaneous local meteorological data and turbine operational status with bat acoustic detection data.</em></p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Automated VHF tagging/tracking studies</td>
+<td><a href="https://motus.org/about/"><strong>Motus Wildlife Tracking System</strong></a></td>
+<td><ul>
+<li><p>Use <a href="https://motus.org/groups/atlantic-offshore-wind">Monitoring Protocols and Guidance for Automated Radio Telemetry Studies at Offshore Wind Farms</a> for study design and data collection</p></li>
+<li><p><a href="https://motus.org/resources/">Motus Wildlife Tracking System resources</a> provide extensive additional documentation on data collection, upload, and analysis</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Other tagging/tracking studies</td>
+<td><a href="https://www.movebank.org/cms/movebank-main"><strong>Movebank</strong></a></td>
+<td><ul>
+<li><a href="https://www.movebank.org/cms/movebank-content/manual">Movebank User Manual</a> provides step-by-step guidance on adding, managing, sharing, and accessing tracking data</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Carcasses and tissue samples</td>
+<td><a href="https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center/science/renewables-wildlife-solutions"><strong>Renewables-Wildlife Solutions Initiative</strong></a></td>
+<td><ul>
+<li><p>Contact the <a href="https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center/science/renewables-wildlife-solutions">Renewables-Wildlife Solutions Initiative</a> to submit samples</p></li>
+<li><p><em>Note that these repositories have limited capacity but are currently accepting samples.</em></p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Observed interactions with wind turbines, collisions, fatalities (e.g., via turbine-mounted cameras, multi-sensor systems)</td>
+<td>No central repository – requires development</td>
+<td><em>Development of a database and standard protocols is recommended as an action.</em></td>
+</tr>
+<tr class="odd">
+<td>Large raw file types (e.g., high-definition aerial photos, thermal video, raw acoustic files)</td>
+<td>No central repository – requires development</td>
+<td><ul>
+<li><p><em>Retention of large, raw file types could allow for future QA/QC and re-evaluation with updated analysis or automated identification tools.</em></p></li>
+<li><p><em>Development of a data repository, with standard protocols and data-handling procedures, is recommended as a cross-taxa action.</em></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="data-collection" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="data-collection"><span class="header-section-number">5.2</span> Data Collection</h2>
+<p>In coastal and marine environments, several field research methods can inform our scientific understanding of bat interactions with offshore wind facilities (for common methodologies, see <span class="citation" data-cites="seer2022">(<a href="references.html#ref-seer2022" role="doc-biblioref">SEER, 2022</a>)</span>. As part of Construction and Operations Plans (COPs), offshore wind developers are developing and submitting avian and bat monitoring plans. Of relevance to bats, current available draft monitoring plans typically include deploying passive acoustic detectors on turbines or other offshore wind facility infrastructure, deploying active acoustic detectors on work vessels accessing the facility, and deploying and maintaining Motus receiver stations for a specified number of years post-construction. State agencies, federal agencies, and research organizations regularly deploy acoustic detectors in coastal environments. Motus or standard VHF tags have also been deployed on bats utilizing habitat in coastal areas <span class="citation" data-cites="dowling2018 peterson2021 true2023">(<a href="references.html#ref-dowling2018" role="doc-biblioref">Dowling, 2018</a>; <a href="references.html#ref-peterson2021" role="doc-biblioref">Peterson et al., 2021</a>; <a href="references.html#ref-true2023" role="doc-biblioref">True et al., 2023</a>)</span>.</p>
+<p>As part of addressing near and long-term goals, the Bird &amp; Bat Subcommittee recommends the following field research, data interpretation, and technology advancement activities:</p>
+<ul>
+<li><p><strong>Data collection to characterize bat activity and collision risk in the rotor-swept zone of offshore wind turbines.</strong></p>
+<ul>
+<li><p>Using passive acoustic detectors mounted on turbine platforms, towers, and nacelles to document bat activity year-round.</p></li>
+<li><p>Deploying multi-modal systems on turbines to assess bat interactions with wind turbine infrastructure (including micro-avoidance and collision risk). Combinations of acoustic detectors, radar systems, impact detection sensors, and/or visual, thermal, and infrared cameras are recommended to document bat behavior around wind turbines, detect impacts, and, in some cases, provide species-specific identification.</p></li>
+<li><p>Recording contemporaneous turbine operational status and local meteorological data to inform patterns of bat activity, behavior, and collision risk relative to turbine operation and environmental conditions.</p></li>
+</ul></li>
+<li><p><strong>Use of acoustics to better understand onshore-to-offshore gradients of bat activity pre- and post-construction.</strong> Leveraging existing platforms (e.g., vessels which already make regular trips through offshore waters, offshore buoys, other offshore infrastructure) and coastal and island sites will aid in this effort.</p></li>
+<li><p><strong>Use of Motus tagging/tracking systems to characterize patterns of bat movement offshore</strong> (Acoustic studies alone may fail to fully capture bat activity if bats regularly refrain from &nbsp;echolocation while flying over the ocean <span class="citation" data-cites="corcoran2021 corcoran2018">(<a href="references.html#ref-corcoran2021" role="doc-biblioref">Corcoran et al., 2021</a>; <a href="references.html#ref-corcoran2018" role="doc-biblioref">Corcoran and Weller, 2018</a>)</span>.</p>
+<ul>
+<li><p>Deploying Motus tags on migratory tree bats (hoary bats, eastern red bats, silver-haired bats) to evaluate patterns of movement during the spring and late summer-fall migration seasons.</p></li>
+<li><p>Deploying Motus tags on <em>Perimyotis</em> and <em>Myotis</em> species of conservation concern in coastal areas and on islands in late summer to evaluate dispersal from maternity colonies to swarming or overwintering sites.</p></li>
+<li><p>Coordinating deployment of Motus stations to streamline calibration and optimize placement (see <a href="birds.html"><span>Chapter&nbsp;4</span></a>).</p></li>
+</ul></li>
+<li><p>Development, testing, and advancement of new, emerging, or under-utilized technologies for monitoring and mitigation.</p>
+<ul>
+<li><p><strong>Testing and validating bat collision detection systems</strong> (recognizing that initial validation may need to focus on land-based wind facilities, where carcass counts are possible).</p></li>
+<li><p><strong>Improving access to remote wildlife monitoring data and integrating wildlife monitoring equipment</strong> on wind turbine platforms or other offshore infrastructure. This could include identifying workflows to allow for the transmission of wildlife monitoring data using existing wind facility fiber-optic networks.</p></li>
+<li><p><strong>Designing and improving auto-classification of acoustic data to identify species or taxa.</strong></p></li>
+<li><p><strong>Improving tagging technologies and attachment methods</strong> to allow for lighter tags and longer-term tracking.</p></li>
+<li><p><strong>If mitigation is deemed necessary, testing and validating the efficacy of on-site mitigation strategies</strong> (e.g., feathering, curtailment, deterrents). As noted above, validation of mitigation in the offshore environment will be difficult, and the development of effective bat collision detection systems, validated at land-based wind facilities, would be necessary for validation of mitigation measures in the offshore environment. Alternatively, efficacy would need to be estimated based on land-based proxies and the best available science.</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="data-analysis" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="data-analysis"><span class="header-section-number">5.3</span> Data Analysis</h2>
+<p>Data analyses and summaries should inform where new data collection is needed, characterize bat activity and distribution patterns in coastal and offshore environments, and/or address the efficacy of monitoring or mitigation strategies.</p>
+<p>To address near-term needs, the Bird &amp; Bat Subcommittee recommends:</p>
+<ul>
+<li><p>As data are collected, analysis to evaluate collision risk and relate offshore bat activity and collision risk to meteorological conditions, turbine characteristics, and turbine operational status. If mitigation is deemed necessary in the future, these analyses could be used to design and implement efficient operational mitigation measures, such as curtailment.</p></li>
+<li><p>Contributions of new and historical data to the NABat database to allow for the extension of seasonal occupancy and abundance maps/estimates offshore.</p></li>
+<li><p>Development of a framework to evaluate population-scale risks of offshore collision mortality to bats, in a context of great uncertainty. Identification of the data needed to inform and validate models.</p></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-adams2021" class="csl-entry" role="listitem">
+Adams, E.M., Gulka, J., Williams, K.A., 2021. A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in north america. PLOS ONE. https://doi.org/<a href="https://doi.org/10.1371/journal.pone.0256382">https://doi.org/10.1371/journal.pone.0256382</a>
+</div>
+<div id="ref-awwi2020" class="csl-entry" role="listitem">
+AWWI, 2020. <a href="https://rewi.org/resources/awwic-bat-technical-report/">Summary of bat fatality monitoring data contained in AWWIC</a>. Washington, DC.
+</div>
+<div id="ref-corcoran2018" class="csl-entry" role="listitem">
+Corcoran, A.J., Weller, T.J., 2018. Inconspicuous echolocation in hoary bats (lasiurus cinereus). Proceedings of the Royal Society B: Biological Sciences 285. https://doi.org/<a href="https://doi.org/10.1098/rspb.2018.0441">https://doi.org/10.1098/rspb.2018.0441</a>
+</div>
+<div id="ref-corcoran2021" class="csl-entry" role="listitem">
+Corcoran, A.J., Weller, T.J., Hopkins, A., Yovel, Y., 2021. Silence and reduced echolocation during flight are associated with social behaviors in male hoary bats (Lasiurus cinereus). Scientific Reports 11, 18637. <a href="https://doi.org/10.1038/s41598-021-97628-2">https://doi.org/10.1038/s41598-021-97628-2</a>
+</div>
+<div id="ref-cryan2014" class="csl-entry" role="listitem">
+Cryan, P.M., Gorresen, P.M., Hein, C.D., Schirmacher, M.R., Diehl, R.H., Huso, M.M., Hayman, D.T.S., Fricker, P.D., Bonaccorso, F.J., Johnson, D.H., Heist, K., Dalton, D.C., 2014. Behavior of bats at wind turbines. Proceedings of the National Academy of Sciences 111, 15126–15131. <a href="https://doi.org/10.1073/pnas.1406672111">https://doi.org/10.1073/pnas.1406672111</a>
+</div>
+<div id="ref-dowling2018" class="csl-entry" role="listitem">
+Dowling, Z., 2018. <a href="https://tethys.pnnl.gov/publications/not-gone-wind-addressing-effects-offshore-wind-development-bat-species-northeastern">Not gone with the wind: Addressing effects of offshore wind development on bat species in the northeastern united states</a> (PhD thesis).
+</div>
+<div id="ref-frick2017" class="csl-entry" role="listitem">
+Frick, W.F., Baerwald, E.F., Pollock, J.F., Barclay, R.M.R., Szymanski, J.A., Weller, T.J., Russell, A.L., Loeb, S.C., Medellin, R.A., McGuire, L.P., 2017. Fatalities at wind turbines may threaten population viability of a migratory bat. Biological Conservation 209, 172–177. <a href="https://doi.org/10.1016/j.biocon.2017.02.023">https://doi.org/10.1016/j.biocon.2017.02.023</a>
+</div>
+<div id="ref-friedenberg2021" class="csl-entry" role="listitem">
+Friedenberg, N.A., Frick, W.F., 2021. Assessing fatality minimization for hoary bats amid continued wind energy development. Biological Conservation 262. https://doi.org/<a href="https://doi.org/10.1016/j.biocon.2021.109309">https://doi.org/10.1016/j.biocon.2021.109309</a>
+</div>
+<div id="ref-guest2022" class="csl-entry" role="listitem">
+Guest, Stamps, Durish, Hale, Hein, Morton, Weaver, Fritts, 2022. <a href="https://www.mdpi.com/2076-2615/12/3/343">An updated review of hypotheses regarding bat attraction to wind turbines</a>.
+</div>
+<div id="ref-hein2021" class="csl-entry" role="listitem">
+Hein, C., Straw, B., 2021. <a href="https://www.nrel.gov/docs/fy21osti/78975.pdf">Proceedings from the state of the science and technology for minimizing impacts to bats from wind energy</a>. Golden, CO.
+</div>
+<div id="ref-jameson2014" class="csl-entry" role="listitem">
+Jameson, J., Willis, C., 2014. Activity of tree bats at anthropogenic tall structures: Implications for mortality of bats at wind turbines. Animal Behavior 97, 145–152. https://doi.org/<a href="https://doi.org/10.1016/j.anbehav.2014.09.003">https://doi.org/10.1016/j.anbehav.2014.09.003</a>
+</div>
+<div id="ref-peterson2021" class="csl-entry" role="listitem">
+Peterson, T.S., Mcgill, B., Hein, C.D., Rusk, A., 2021. Acoustic Exposure to Turbine Operation Quantifies Risk to Bats at Commercial Wind Energy Facilities. Wildlife Society Bulletin 45, 552–565. <a href="https://doi.org/10.1002/wsb.1236">https://doi.org/10.1002/wsb.1236</a>
+</div>
+<div id="ref-romano2019" class="csl-entry" role="listitem">
+Romano, W.B., Skalski, J.R., Townsend, R.L., Kinzie, K.W., Coppinger, K.D., Miller, M.F., 2019. Evaluation of an acoustic deterrent to reduce bat mortalities at an Illinois wind farm. Wildlife Society Bulletin 43, 608–618. <a href="https://doi.org/10.1002/wsb.1025">https://doi.org/10.1002/wsb.1025</a>
+</div>
+<div id="ref-seer2022" class="csl-entry" role="listitem">
+SEER, 2022. <a href="https://tethys.pnnl.gov/sites/default/files/summaries/SEER-Educational-Research-Brief-Bat-Bird-Interactions.pdf">Bird and bat interactions with offshore wind farms</a>.
+</div>
+<div id="ref-solick2021" class="csl-entry" role="listitem">
+Solick, D.I., Newman, C.M., 2021. Oceanic records of North American bats and implications for offshore wind energy development in the United States. Ecology and Evolution 11, 14433–14447. <a href="https://doi.org/10.1002/ece3.8175">https://doi.org/10.1002/ece3.8175</a>
+</div>
+<div id="ref-true2023" class="csl-entry" role="listitem">
+True, M.C., Gorman, K.M., Taylor, H., Reynolds, R.J., Ford, W.M., 2023. Fall migration, oceanic movement, and site residency patterns of eastern red bats (lasiurus borealis) on the mid-atlantic coast. Movement Ecology 11, 35. <a href="https://doi.org/10.1186/s40462-023-00398-x">https://doi.org/10.1186/s40462-023-00398-x</a>
+</div>
+<div id="ref-weaver2020" class="csl-entry" role="listitem">
+Weaver, S., Hein, C., Simpson, T., Evans, J., Castro-Arellano, I., 2020. Ultrasonic acoustic deterrents significantly reduce bat fatalities at wind turbines. Global Ecology and Conservation 24. https://doi.org/<a href="https://doi.org/10.1016/j.gecco.2020.e01099">https://doi.org/10.1016/j.gecco.2020.e01099</a>
+</div>
+<div id="ref-whitby2021" class="csl-entry" role="listitem">
+Whitby, M.D., Schirmacher, M.R., Frick, W.F., 2021. <a href="https://tethys.pnnl.gov/sites/default/files/publications/Whitby-et-al-2021.pdf">The state of the science on operational minimization to reduce bat fatality at wind energy facilities</a>. Austin, Texas.
+</div>
+<div id="ref-wilson2023" class="csl-entry" role="listitem">
+Wilson, A.K., Kurta, A., Kovacs, T., Westrich, B., Benavidez Westrich, K., Kurta, R., 2023. <a href="https://www.researchgate.net/profile/Allen-Kurta/publication/374779046_Death_on_the_Beach_Mass_Mortality_of_Eastern_Red_Bats_over_Lake_Michigan/links/652ee5cf0ebf091c48fd43fa/Death-on-the-Beach-Mass-Mortality-of-Eastern-Red-Bats-over-Lake-Michigan.pdf">Death on the beach: Mass mortality of eastern red bats over lake michigan</a>. Journal of North American Bat Research Notes 1.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,7 +824,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By RWSC Steering Committee, 2024</div>   
+    <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
