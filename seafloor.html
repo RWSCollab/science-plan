@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -66,10 +85,48 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./RWSC_Logo_notext.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools ms-auto">
+    <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+              <i class="bi bi-bi-linkedin pe-1"></i>
+            LinkedIn
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -85,26 +142,13 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">RWSC Science Plan</a> 
-        <div class="sidebar-tools-main tools-wide">
-    <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
-    <a href="https://rwscollab.github.io/science-plan/" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
-    <a href="https://rwsc.org/" rel="" title="download pdf" class="quarto-navigation-tool px-1" aria-label="download pdf"><i class="bi bi-cloud-download"></i></a>
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
-</div>
-    </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -257,14 +301,26 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./append-pf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Appendix - Protected Fish Species</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./append-heo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
+ <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-hes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+ <span class="menu-text"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">K</span>&nbsp; <span class="chapter-title">References</span></span></a>
   </div>
 </li>
       </ul>
@@ -275,7 +331,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The Science Plan is under construction 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC website 🌐</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues">Open an issue ❔</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#data-management" id="toc-data-management" class="nav-link" data-scroll-target="#data-management"><span class="header-section-number">9.1</span> Data Management</a></li>
+    <li><a href="#data-collection" id="toc-data-collection" class="nav-link" data-scroll-target="#data-collection"><span class="header-section-number">9.2</span> Data Collection</a></li>
+    <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis"><span class="header-section-number">9.3</span> Data Analysis</a></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/seafloor.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -297,8 +366,225 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p><em>Authors: <a href="./append-rosters.html#he">Habitat &amp; Ecosystem Subcommittee</a></em></p>
+<p><em>For more detail on any of these topics, read <a href="./append-hes.html">the</a></em><a href="./append-hes.html"><em>Habitat &amp; Ecosystem - Seafloor Appendix</em></a>.</p>
+<p>The scope of this chapter includes physical and biological seafloor habitats (e.g., surficial sediments and benthic communities, deep sea corals and sponges, subsurface sediments and habitats), including the fauna and flora that may be attached to introduced structures on the seafloor and in the water column (including non-native and invasive taxa). This chapter builds on the research topics and questions related to seafloor habitat and offshore wind previously identified <span class="citation" data-cites="dannheim2020 degraer2021 regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup seer2022a">(<a href="references.html#ref-dannheim2020" role="doc-biblioref">Dannheim et al., 2020</a>; <a href="references.html#ref-degraer2021" role="doc-biblioref">Degraer et al., 2021</a>; <a href="references.html#ref-regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup" role="doc-biblioref">Regional Synthesis Workgroup of the Environmental Technical Working Group, n.d.</a>; <a href="references.html#ref-seer2022a" role="doc-biblioref">SEER, 2022</a>)</span>.</p>
+<p>Commercially important and managed fish species, which are outside of the scope of this Science Plan, may rely on seafloor habitats at several life history stages. For research needs and considerations on fisheries and managed fish species, visit the <a href="https://www.rosascience.org/">Responsible Offshore Science Alliance (ROSA)</a>. To ensure close coordination on issues in the RWSC Science Plan that might relate with ROSA’s work, ROSA staff participate in the RWSC Habitat &amp; Ecosystem Subcommittee and the Protected Fish Species Subcommittee.</p>
+<p>Individuals and entities are strongly encouraged to consult with the Habitat &amp; Ecosystem Subcommittee prior to collecting seafloor data along the U.S. Atlantic Coast or conducting novel data analyses relevant to offshore wind interactions to ensure that planned research does not duplicate existing efforts and is consistent with recommended tools and approaches. Any individual or entity may join public Habitat &amp; Ecosystem Subcommittee meetings or ask to present materials at these meetings via the RWSC website.&nbsp;</p>
+<section id="data-management" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="data-management"><span class="header-section-number">9.1</span> Data Management</h2>
+<p>Understanding physical and biological seafloor habitats and processes near offshore wind developments will require close coordination among researchers, state and federal agencies, and industry.</p>
+<p>The Habitat &amp; Ecosystem Subcommittee recommends that consistent data collection methods are applied across studies so that data can support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., species distribution models).</p>
+<p>To support these efforts, the Subcommittee recommends:</p>
+<ul>
+<li><p>Maintenance of an up-to-date resource list of recommended repositories, data and metadata standards, guidance, and protocols for use by all data collectors. The current recommended resources are detailed in the table at the end of this section.</p></li>
+<li><p>Development of standard language for inclusion in requests for proposals and funding agreements to encourage or require the use of recommended resources.</p></li>
+<li><p>Identification of timelines around geophysical and sediment data sharing that consider protection of confidential business information and potential benefits to industry and other stakeholders from improving regional seafloor/habitat data products.</p></li>
+<li><p>NOAA NCEI is the only active U.S. repository that accepts and stores geophysical and seafloor data and metadata. NCEI should consider streamlining the appraisal and approval process for incorporating data collected in wind energy areas that are funded by entities other than NOAA to ensure that data collection funded by states, offshore wind developers, and other federal agencies can be quickly and efficiently stored at NCEI. This is especially important for the following types of data, for which no similar alternative repository was identified:</p>
+<ul>
+<li><p><a href="https://www.ncei.noaa.gov/products/noaa-deep-sea-coral-and-sponge-map">Deep sea coral observations</a></p></li>
+<li><p><a href="https://www.ncei.noaa.gov/products/marine-trackline-geophysical-data">Marine trackline geophysical data</a> (single beam bathymetry, subbottom profiles, magnetic, gravity, side scan sonar)</p></li>
+<li><p><a href="https://www.ngdc.noaa.gov/mgg/surveys.html">Other hydrographic data</a> (multibeam bathymetry, National Ocean Service hydrographic data, water column sonar data)</p></li>
+<li><p><a href="https://www.ncei.noaa.gov/products/marine-geology-geophysics/marine-geology/data">Marine geology data</a>(surficial sediment grain size and other seabed data)</p></li>
+</ul></li>
+<li><p>In the absence of an expansion to an existing repository, new online platform(s) must be established to allow submission of and access to non-federal high-resolution seafloor mapping data, data products, and metadata (i.e., multibeam bathymetry and backscatter, side-scan sonar, geoform and substrate maps/data products).</p></li>
+<li><p>Establishment of a publicly available database/portal of coordinates and maps of boulder relocations associated with offshore wind development.</p></li>
+<li><p>Advance the recommendations for seafloor data formatting and sharing developed via the NROC/INSPIRE regional seafloor modeling project (funded by BOEM, Massachusetts Clean Energy Center, and Rhode Island Department of Environmental Management), specifically:</p></li>
+</ul>
+<p>Table 8. Recommended seafloor variables, file formats and resolutions to support the development of regional scale seafloor data products.</p>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 29%">
+<col style="width: 18%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Seafloor variable(s)</strong></td>
+<td><strong>Type/format</strong></td>
+<td><strong>Desired resolution</strong></td>
+</tr>
+<tr class="even">
+<td>Multibeam bathymetry</td>
+<td>Raster/tiff</td>
+<td>4m*</td>
+</tr>
+<tr class="odd">
+<td>Multibeam backscatter</td>
+<td>Raster/tiff</td>
+<td>4m*</td>
+</tr>
+<tr class="even">
+<td>Boulder fields and/or picks (identification of boulder locations)</td>
+<td>Vector-points/polygons Esri shapefile</td>
+<td>N/A</td>
+</tr>
+<tr class="odd">
+<td>Seabed interpretation – CMECS Substrate Group, Subgroup</td>
+<td>Vector-points/polygons/Esri shapefile</td>
+<td>N/A</td>
+</tr>
+<tr class="even">
+<td>Seabed interpretation – Shell substrate</td>
+<td>Vector-points/polygons/Esri shapefile</td>
+<td>N/A</td>
+</tr>
+<tr class="odd">
+<td>Seabed interpretation – Bedforms</td>
+<td>Vector-polygons/Esri shapefile</td>
+<td>N/A</td>
+</tr>
+<tr class="even">
+<td>Seabed interpretation – CMECS Biotic Subclass</td>
+<td>Vector-points/Esri shapefile</td>
+<td>N/A</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>*Bathymetry and backscatter data sets may be provided at high resolutions and will be down-sampled to the desired 4 meter resolution by the project team; alternatively, down-sampling instructions will be provided to data providers to ensure consistent methodology.</em></strong></p>
+<p>The following table lists the existing repositories and standards that are recommended for use in seafloor habitat data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists.&nbsp;</p>
+<p>Table 9. Recommended repositories and standards for seafloor data collection.</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><strong>Method(s) and data type(s)</strong></td>
+<td><strong>Repository</strong></td>
+<td><strong>Existing Standards</strong></td>
+</tr>
+<tr class="even">
+<td>Marine trackline geophysical data, other hydrographic data, marine geology data, deep sea coral observations</td>
+<td><a href="https://www.ncei.noaa.gov/"><strong>NOAA National Centers for Environmental Information (NCEI)</strong></a></td>
+<td><p>Data collected without NOAA funding or support must go through a scientific appraisal process to be considered for the archive and is subject to the NESDIS non-NOAA data policy upon approval.</p>
+<p>ISO 19115 XML Metadata standard is required by NCEI and the U.S. Integrated Ocean Observing System (IOOS).</p>
+<p>(Draft) <a href="https://iocm.noaa.gov/standards/Standard_Ocean_Mapping_Protocol_draft_Feb2023.pdf">Standard Ocean Mapping Protocol</a>, Interagency Working Group on Ocean and Coastal Mapping for the National Ocean Mapping, Exploration, and Characterization Council</p>
+<p><a href="https://iocm.noaa.gov/standards/cmecs-home.html">Coastal and Marine Ecological Classification Standard (CMECS)</a></p></td>
+</tr>
+<tr class="odd">
+<td>Geophysical data; benthic habitat data</td>
+<td></td>
+<td><p><a href="https://www.boem.gov/about-boem/gg-guidelines">BOEM guidelines for providing geophysical, geotechnical, and geohazard information</a></p>
+<p><a href="https://www.boem.gov/newsroom/boem-renewable-benthic-habitat-guidelines">Guidelines for providing benthic habitat survey information for renewable energy development on the Atlantic OCS</a></p>
+<p><a href="https://media.fisheries.noaa.gov/2022-02/EFH-InfoNeeds-OSW-GARFO.pdf">NOAA Fisheries information needs to assess Essential Fish Habitat impacts from offshore wind energy projects along the U.S. Atlantic</a></p></td>
+</tr>
+<tr class="even">
+<td>Surficial sediment characterizations from sediment grabs and imagery</td>
+<td><a href="https://www.usgs.gov/programs/cmhrp/science/usseabed"><strong>usSEABED</strong></a></td>
+<td>This resource is not accepting new data.</td>
+</tr>
+<tr class="odd">
+<td>Bathymetry map products, seafloor habitat map products, sediment data map products</td>
+<td><p><a href="https://marinecadastre.gov/nationalviewer/">Marine Cadastre National Viewer</a></p>
+<p><a href="https://www.northeastoceandata.org/">Northeast Ocean Data Portal</a></p>
+<p><a href="https://portal.midatlanticocean.org/">Mid-Atlantic Ocean Data Portal</a></p></td>
+<td><a href="https://iocm.noaa.gov/standards/cmecs-home.html">Coastal and Marine Ecological Classification Standard (CMECS)</a></td>
+</tr>
+<tr class="even">
+<td>Boulder relocations</td>
+<td>None – needs development</td>
+<td>None – needs development</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="data-collection" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="data-collection"><span class="header-section-number">9.2</span> Data Collection</h2>
+<p>Seafloor data collection is funded and implemented by multiple entities that participate in RWSC. Ongoing and planned activities are captured in the <a href="https://database.rwsc.org/">Offshore Wind &amp; Wildlife Research Database</a>.&nbsp; For offshore wind companies, geophysical site characterization activities (i.e., seafloor mapping and data collection) inform multiple aspects of project development including engineering and risk assessment. Overall, the precise types of field data collection, processing, and analysis activities conducted by offshore wind companies are not well-known or consistent with respect to spatial coverage, applied methods, and sampled parameters. Geophysical site assessment information is often redacted in Construction and Operations Plans (COPs) posted to BOEM’s website. From a review of publicly available COPs, seafloor acoustic, imagery, and grab methods are often not applied consistently, and the footprints of investigations vary from within the wind lease area and along proposed export cable paths to land, only areas with proposed wind turbine generator locations, and, in some cases, areas beyond the lease area’s boundaries. This Subcommittee will lead the collaborative development of recommendations for improving the standardization of site assessment seafloor data collection and dissemination across offshore wind projects.</p>
+<p>Aside from data collected by commercial entities, the Subcommittee will coordinate with and leverage existing and ongoing efforts by multiple groups to identify geographic data gaps in high-resolution seafloor mapping data (<a href="https://iocm.noaa.gov/about/iwg-ocm.html">U.S. Interagency Working Group on Ocean and Coastal Mapping</a>; <a href="https://www.noaa.gov/ocean-science-and-technology-subcommittee/national-ocean-mapping-exploration-and-characterization-nomec-council">National Ocean Mapping, Exploration, and Characterization Council</a> (NOMEC); <a href="https://www.northeastoceancouncil.org/committees/ocean-and-coastal-ecosystem-health/hcom/">Northeast Regional Ocean Council Habitat Classification and Ocean Mapping Subcommittee</a>). These groups produce regular updates to data gaps assessments and publish map products that help guide new data collection. A current map showing survey coverage of digital soundings data (i.e., seafloor acoustic data) is available via the <a href="https://www.ncei.noaa.gov/maps/bathymetry/">NCEI Bathymetric Data Viewer</a>. In consideration of this information and evolving prioritizations, the Subcommittee recommends general areas where new seafloor data collection is needed:</p>
+<ul>
+<li><p>Outside the boundaries of offshore wind leases throughout the RWSC study area.</p></li>
+<li><p>Continental shelf waters further from shore, including central and eastern Gulf of Maine and offshore Southern New England waters.</p></li>
+<li><p>Waters off the shelf near the BOEM Central Atlantic Planning areas.</p></li>
+</ul>
+<p>The Subcommittee also recommends the following activities:</p>
+<ul>
+<li><p>Develop recommended practices for consistent post-construction benthic monitoring to ensure regional compatibility of site-specific data:</p>
+<ul>
+<li><p>Statistical frameworks to guide sampling design, including the spatial and temporal extents over which effects can be detected.</p></li>
+<li><p>Frequency of sampling, including adaptive sampling after storms or other acute disturbances (e.g., nearby construction activity).</p></li>
+<li><p>Consistent methods to identify appropriate reference locations and to define “recovery from disturbance.”</p></li>
+<li><p>Benthic community variables, ecological functions, and processes of interest (e.g., spawning, larval habitat, recruitment, feeding, growth).</p></li>
+</ul></li>
+<li><p>Monitor the transport, occurrence, and prevalence of non-native and invasive species on/via offshore wind infrastructure.</p></li>
+<li><p>Characterize biological colonization (i.e., sessile, attached, and epiphytic flora and fauna) of new structures, the marine communities they attract and support, and any associated biogeochemical changes to the surrounding environment (e.g., nutrient enrichment, carbon burial).</p></li>
+<li><p>Periodically re-evaluate and standardize data collection and field methods to ensure collected data are suitable for regional needs.</p></li>
+<li><p>Advance, evaluate, and apply new technologies and techniques to support seafloor data collection and habitat mapping analyses:</p>
+<ul>
+<li><p>Autonomous seafloor mapping platforms.</p></li>
+<li><p>Non-extractive sampling techniques (e.g., imagery, video, eDNA).</p></li>
+<li><p>Artificial intelligence for image classification (e.g., <a href="https://coastalscience.noaa.gov/project/enhancing-habitat-mapping-accuracy-and-efficiency-using-artificial-intelligence/">NOAA NCCOS Enhancing Habitat Mapping Accuracy and Efficiency Using Artificial Intelligence</a>).</p></li>
+</ul></li>
+</ul>
+<p>In the <strong>Gulf of Maine</strong>, there is almost no modern high-resolution seafloor data overlapping with the newly released draft Wind Energy Area. A few groups are working to address this (NOAA Deep Sea Coral Research and Technology Program, Northeast Regional Ocean Council Habitat Classification and Ocean Mapping Subcommittee), but additional geophysical and seafloor sampling data should be collected to establish baseline seafloor habitat characterizations.</p>
+<p>Of the active offshore wind leases in <strong>Southern New England</strong> and the <strong>New York/New Jersey Bight</strong>, several publicly available COPs provide information about seafloor data collection. Collaborative work with respect to developing data sharing workflows and recommendations for standardization should leverage this available information as a case study. Lessons learned from the data collection and monitoring of the Block Island Wind Farm should be applied here. With construction ongoing in these subregions, studies should seek to characterize the effects of construction activities on seafloor environments and benthic communities, the colonization of new structures, and how far any effects are felt from these activities (spatially and temporally).</p>
+<p>Lessons learned from the seafloor data collection and monitoring of the Coastal Virginia Offshore Wind Pilot project should be applied to studies in the <strong>U.S. Central Atlantic</strong>. Data collection outside the active leases in the area is needed, as most active projects are currently focused in lease areas.</p>
+<p>There are limited field data collection activities occurring in the <strong>U.S. Southeast Atlantic</strong> and no publicly available COPs for offshore wind projects.</p>
+</section>
+<section id="data-analysis" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="data-analysis"><span class="header-section-number">9.3</span> Data Analysis</h2>
+<p>Data analyses should provide the environmental context and potential drivers of any changes observed in wildlife, seek to assess whether offshore wind is causing any observed changes, evaluate the efficacy of monitoring and mitigation strategies, and inform where new data collection is needed. The Subcommittee is especially interested in studies that seek to distinguish between climate change-driven shifts in seafloor/benthic community composition and processes and changes that may be driven by offshore wind construction and operation. Analyses and studies should:</p>
+<ul>
+<li><p>Leverage seafloor data collected by multiple entities and purposes, including for ongoing NOAA chart development, federal and state resource assessments, offshore wind Site Assessment Plans, Construction and Operation Plan development, and other purposes that can be appropriately down-sampled (if necessary) and shared with the RWSC Habitat &amp; Ecosystem Subcommittee via publicly accessible repository for inclusion in regional-scale habitat data products in a timely fashion.</p></li>
+<li><p>Develop consistent regional-scale seafloor habitat maps that leverage existing and new data and that are reproducible:</p>
+<ul>
+<li><p>Map seafloor habitat variables that are needed for megafauna species distribution modeling.</p></li>
+<li><p>Map geoforms, substrates, and biotic assemblages using the Coastal and Marine Ecological Classification Standard (CMECS).</p></li>
+<li><p>Continue to update products with new geophysical and ground-truth data every 3-5 years or as is practical.</p></li>
+<li><p>Evaluate model performance and use results to guide new data collection.</p></li>
+</ul></li>
+<li><p>Identify sensitive seafloor habitats in the RWSC study area to inform offshore wind siting, permitting, and future assessments, including by advancing consistent methods for:</p>
+<ul>
+<li><p>Hard bottom/substrate habitat modeling</p></li>
+<li><p>Deep sea coral and sponge habitat suitability modeling, led by NOAA NCCOS</p></li>
+<li><p>Coordination with the Responsible Offshore Science Alliance (ROSA) on applications to fisheries habitats and assessments</p></li>
+</ul></li>
+<li><p>Study physical and ecological effects on seafloor habitat and benthic communities related to construction activities:</p>
+<ul>
+<li><p>Evaluate benthic community function and other relevant metrics both before and after the introduction of stressors.</p></li>
+<li><p>Understand impacts of noise and vibration to the growth, behavior, and survival of benthic species under controlled laboratory conditions.</p></li>
+<li><p>Work with other RWSC Subcommittees and partners characterizing soundscapes and evaluate effects on benthic communities.</p></li>
+<li><p>Assess the effects of cable laying activities (e.g., sediment suspension and deposition related to jet plowing) across various habitats and subregions.</p></li>
+<li><p>Assess the effects of seafloor preparation activities (e.g., jack-up barges, boulder relocation) across various habitats and subregions.</p></li>
+<li><p>Characterize and compare the footprints of benthic disturbance between fixed and floating offshore wind developments.</p></li>
+<li><p>Characterize benthic community recovery trajectories and times to recovery.</p></li>
+</ul></li>
+<li><p>Study physical and ecological effects on seafloor habitat and benthic communities related to operation and maintenance activities:</p>
+<ul>
+<li><p>Evaluate benthic community function and other relevant metrics both before and after the introduction of stressors.</p></li>
+<li><p>Understand how benthic species detect and respond to EMF in terms of growth, behavior, and survival under controlled laboratory conditions.</p></li>
+<li><p>Characterize any alteration of seafloor habitat conditions due to EMF, sediment temperature changes, vibration from turbines during normal operation and various contexts (e.g., different substrate types, burial depth, floating vs.&nbsp;fixed technology).</p></li>
+<li><p>Entrainment associated with high voltage direct current cooling systems.</p></li>
+<li><p>Study potential effects on benthic-pelagic coupling and benthic habitat quality:</p>
+<ul>
+<li><p>Alterations to hydrodynamics, stratification, and mixing as potential drivers of benthic habitat/process change.</p></li>
+<li><p>Effects of increased organic matter on nutrient cycling and trophic linkages.</p></li>
+</ul></li>
+<li><p>Examine how the introduction of new hard structures alters the geochemical and biological composition and ecological processes within benthic habitats.</p></li>
+<li><p>Assess the cumulative/net effects of introduced structures on species richness, diversity, and ecosystem services in a consistent way across projects/sites.</p></li>
+</ul></li>
+<li><p>Conduct assessments of construction approaches/methods meant to limit benthic disturbance and/or augment benthic habitats (e.g., use of jackets vs.&nbsp;piles):</p>
+<ul>
+<li><p>Leverage existing research and learnings from other ocean industries (e.g., oil and gas).</p></li>
+<li><p>Develop standard metrics for assessing benthic disturbance.</p></li>
+<li><p>Conduct comparative field studies using consistent methods.</p></li>
+</ul></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-dannheim2020" class="csl-entry" role="listitem">
+Dannheim, J., Bergström, L., Birchenough, S.N.R., Brzana, R., Boon, A.R., Coolen, J.W.P., Dauvin, J.-C., De Mesel, I., Derweduwen, J., Gill, A.B., Hutchison, Z.L., Jackson, A.C., Janas, U., Martin, G., Raoux, A., Reubens, J., Rostin, L., Vanaverbeke, J., Wilding, T.A., Wilhelmsson, D., Degraer, S., 2020. Benthic effects of offshore renewables: Identification of knowledge gaps and urgently needed research. ICES Journal of Marine Science 77, 1092–1108. <a href="https://doi.org/10.1093/icesjms/fsz018">https://doi.org/10.1093/icesjms/fsz018</a>
+</div>
+<div id="ref-degraer2021" class="csl-entry" role="listitem">
+Degraer, S., Hutchinson, C., LoBue, C., Williams, K.A., Gulka, J., Jenkins, E., 2021. <a href="http://www.nyetwg.com/2020-workgroups">Benthos workgroup report for the state of the science workshop on wildlife and offshore wind energy 2020: Cumulative impacts.</a> Albany, NY.
+</div>
+<div id="ref-regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup" class="csl-entry" role="listitem">
+Regional Synthesis Workgroup of the Environmental Technical Working Group, n.d. U.s. Atlantic offshore wind environmental research recommendations database.
+</div>
+<div id="ref-seer2022a" class="csl-entry" role="listitem">
+SEER, 2022. Environmental effects of u.s. Offshore wind energy development: Compilation of educational research briefs [booklet].
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,7 +849,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By RWSC Steering Committee, 2024</div>   
+    <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>

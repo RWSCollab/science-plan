@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -66,10 +85,48 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./RWSC_Logo_notext.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools ms-auto">
+    <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+              <i class="bi bi-bi-linkedin pe-1"></i>
+            LinkedIn
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -85,26 +142,13 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">RWSC Science Plan</a> 
-        <div class="sidebar-tools-main tools-wide">
-    <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
-    <a href="https://rwscollab.github.io/science-plan/" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
-    <a href="https://rwsc.org/" rel="" title="download pdf" class="quarto-navigation-tool px-1" aria-label="download pdf"><i class="bi bi-cloud-download"></i></a>
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
-</div>
-    </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -257,14 +301,26 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./append-pf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Appendix - Protected Fish Species</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./append-heo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
+ <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Oceanography</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./append-hes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+ <span class="menu-text"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Habitat &amp; Ecosystem - Seafloor</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">K</span>&nbsp; <span class="chapter-title">References</span></span></a>
   </div>
 </li>
       </ul>
@@ -275,7 +331,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The Science Plan is under construction 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC website 🌐</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues">Open an issue ❔</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#data-management" id="toc-data-management" class="nav-link" data-scroll-target="#data-management"><span class="header-section-number">4.1</span> Data Management</a></li>
+    <li><a href="#data-collection" id="toc-data-collection" class="nav-link" data-scroll-target="#data-collection"><span class="header-section-number">4.2</span> Data Collection</a></li>
+    <li><a href="#birds_dataanalysis" id="toc-birds_dataanalysis" class="nav-link" data-scroll-target="#birds_dataanalysis"><span class="header-section-number">4.3</span> Data Analysis</a></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/birds.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -297,8 +366,204 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p><em>Authors: <a href="./append-rosters.html#bb">Bird &amp; Bat Subcommittee</a></em></p>
+<p><em>For more detail on any of these topics, read</em> <a href="append-birds.html"><span>Appendix&nbsp;E</span></a>.</p>
+<p>Over 400 bird species regularly occur along the U.S. Atlantic Coast, representing a variety of life histories and interactions with the offshore environment. A number of these species can be expected to experience impacts from offshore wind development, including collision fatalities, displacement, attraction, barrier effects associated with avoidance, and effects on abiotic habitat features and prey populations <span class="citation" data-cites="nrel2022">(<a href="references.html#ref-nrel2022" role="doc-biblioref">NREL and PNNL, 2022</a>)</span>; indirect effects of offshore wind energy development, like climate change mitigation, can also be expected. To identify, quantify, monitor, and mitigate interactions between birds and offshore wind facilities, a wide variety of data management, data analysis, and field data collection activities will be necessary over the coming decades. The following subsections address near-term recommendations for science actions in these categories. These recommendations are based primarily on Bird &amp; Bat Subcommittee discussions, the <a href="https://www.nyetwg.com/_files/ugd/78f0c4_1bb7d0c9d38a4417b54f40c66248562a.pdf">2020 State of the Science Workshop on Wildlife and Offshore Wind Energy Bird Workgroup Report</a>, and the <a href="https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations">NYSERDA E-TWG Synthesis of Regional Research Recommendations</a>, with an eye towards past, current, and planned science activities relevant to offshore wind development and birds, as catalogued in the <a href="https://database.rwsc.org/">Offshore Wind &amp; Wildlife Research Database</a> (recent, current, and planned studies), the <a href="https://tethys.pnnl.gov/knowledge-base">Tethys Knowledge Base</a> (publications, reports, and presentations relevant to offshore wind) and <a href="https://tethys.pnnl.gov/offshore-wind-metadata">Tethys Offshore Wind metadata</a> (information on environmental monitoring conducted at offshore wind energy projects around the world).</p>
+<p>Individuals and entities are strongly encouraged to consult with the Bird &amp; Bat Subcommittee prior to collecting avian data along the U.S. Atlantic Coast or conducting novel data analyses relevant to offshore wind interactions to ensure that planned research does not duplicate existing efforts and is consistent with recommended tools and approaches. Any individual or entity may join public Bird &amp; Bat Subcommittee meetings or ask to present materials at these meetings via the RWSC website.</p>
+<section id="data-management" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="data-management"><span class="header-section-number">4.1</span> Data Management</h2>
+<p>Understanding avian interactions with offshore wind infrastructure – from the scale of individual wind turbines and facilities to the scale of the entire Atlantic Flyway – will require close coordination among researchers, state and federal agencies, and industry. The Bird &amp; Bat Subcommittee aims to work with individuals and entities who collect data relevant to avian offshore wind research to ensure that data are collected and stored in consistent formats that allow for comparisons among and pooling across individual projects in the RWSC study area.&nbsp; This standardization is intended to support regional-scale assessments and the development and maintenance of regional data products and tools.</p>
+<p>In support of these efforts, the Bird &amp; Bat Subcommittee recommends:</p>
+<ul>
+<li><p>Maintenance of an up-to-date resource list of recommended standard databases, data repositories, guidelines, and protocols for use by all data collectors. The current recommended resources are detailed in the table below.</p></li>
+<li><p>Development of standard language for inclusion in funding and contract documents to encourage or require the consistent use of recommended resources.</p></li>
+<li><p>Establishment of an Avian Data Standards Working Group to address gaps in existing data infrastructure (detailed in the table below), including development of recommended protocols/standards where absent, recommendations for the structure/content of new databases, and identification of pilot study parameters where too little is currently known to provide specific methodological guidance. The order in which gaps are addressed will be prioritized by the Bird &amp; Bat Subcommittee and working group members, taking care to avoid duplicating efforts by outside groups.</p></li>
+<li><p>Establishment of data sharing frameworks to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., avian-turbine interaction, micro-avoidance, and collision data; turbine status and local environmental conditions; turbine specifications relevant to placement of monitoring equipment).</p></li>
+<li><p>Compilation of new and historic data into recommended databases to inform scientific understanding of behavior, distribution, and population dynamics of birds of the U.S. Atlantic Coast.</p></li>
+</ul>
+<p>The following table lists the existing centralized and accepted repositories and standards that are recommended for use in avian data collection, as well as identifying data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists.</p>
+<p>Table 2. Recommended repositories and standards for avian data collection.</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><strong>Method(s) and data type(s)</strong></td>
+<td><strong>Database/Repository</strong></td>
+<td><strong>Guidance/Standards</strong></td>
+</tr>
+<tr class="even">
+<td>At-sea surveys (aerial, stationary, boat-based; visual observation, photography, video)</td>
+<td><a href="https://www.boem.gov/environment/environmental-studies/14-x07pdf-0"><strong>Northwest Atlantic Seabird Catalog</strong></a></td>
+<td><ul>
+<li><p>Follow <a href="https://www.nyetwg.com/avian-displacement-guidance">Guidance for Pre- and Post-Construction Monitoring to Detect Changes in Marine Bird Distributions and Habitat Use Related to Offshore Wind Development</a></p></li>
+<li><p>Ensure compliance with <a href="https://www.boem.gov/Avian-Survey-Guidelines/">BOEM Avian Survey Guidelines</a></p></li>
+<li><p>Use <a href="https://briwildlife.org/seascribe/">SeaScribe</a> or <a href="https://www.usgs.gov/software/sealog">SeaLog</a> for data collection</p></li>
+<li><p><em>Development of a public-facing interface for the Northwest Atlantic Seabird Catalog is recommended as an action.</em><br>
+<br>
+</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Automated VHF tagging/tracking studies</td>
+<td><a href="https://motus.org/about/"><strong>Motus Wildlife Tracking System</strong></a></td>
+<td><ul>
+<li><p>Use <a href="https://motus.org/groups/atlantic-offshore-wind">Monitoring Protocols and Guidance for Automated Radio Telemetry Studies at Offshore Wind Farms</a> for study design and data collection</p></li>
+<li><p><a href="https://motus.org/resources/">Motus Wildlife Tracking System resources</a> provide extensive additional documentation on data collection, upload, and analysis</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Other tagging/tracking studies</p>
+<p>(e.g., PTT, GPS, geolocator tags)</p></td>
+<td><a href="https://www.movebank.org/"><strong>Movebank</strong></a></td>
+<td><ul>
+<li><p>Follow interim <a href="https://rwscorg.sharepoint.com/:b:/s/BirdandBatSubcommittee/EWiyjaGje4tOsn7YjpJ13P8B8jQRQP9b2nUt9y4dRwpV6g?e=Ew3LOO">USFWS Guidance for Coordination of Data from Avian Tracking Studies</a></p></li>
+<li><p><a href="https://www.movebank.org/cms/movebank-content/manual">Movebank User Manual</a> provides step-by-step guidance on adding, managing, sharing, and accessing tracking data</p></li>
+<li><p>Ensure shorebird tracking data are accessible to the <a href="https://nationalzoo.si.edu/migratory-birds/shorebird-collective">Shorebird Conservation Collective</a></p></li>
+<li><p><em>Development of more in-depth guidance is recommended as an action</em></p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Bird banding, band identification and reporting</td>
+<td><a href="https://www.usgs.gov/labs/bird-banding-laboratory"><strong>USGS Bird Banding Laboratory</strong></a></td>
+<td><ul>
+<li><p>Follow Federal Bird Banding and Marking Permit requirements (as required by law)</p></li>
+<li><p>Identified bands can be reported at <a href="file:///Users/christianlaspada/Downloads/www.reportband.gov">www.reportband.gov</a></p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Carcasses and tissue samples</td>
+<td><a href="https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center/science/renewables-wildlife-solutions"><strong>Renewables-Wildlife Solutions Initiative</strong></a></td>
+<td><ul>
+<li><p>Contact the <a href="https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center/science/renewables-wildlife-solutions">Renewables-Wildlife Solutions Initiative</a> to submit samples</p></li>
+<li><p><em>Note that these repositories have limited capacity but are currently accepting samples.</em></p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Colony and shorebird population and distribution data</td>
+<td><p><strong>Atlantic Flyway Colonial Waterbird Database</strong> is currently under development by the <a href="https://avianknowledge.net">Avian Knowledge Network</a></p>
+<p><a href="https://www.manomet.org/project/international-shorebird-survey/"><strong>International Shorebird Survey</strong></a> allows for data entry of shorebird survey data collected using established protocol</p></td>
+<td><ul>
+<li><p>Follow <a href="https://avianknowledge.net/index.php/upload-enter-manage-data/">Avian Knowledge Network data upload and management guidance</a> for data submission to this database.</p></li>
+<li><p>Use species- and study-appropriate protocols as applicable, e.g.,</p>
+<ul>
+<li><p><a href="https://www.manomet.org/project/international-shorebird-survey/">International Shorebird Survey</a> protocol</p></li>
+<li><p><a href="https://iwmmprogram.org/protocols-data-forms/">IWMM protocols</a> for monitoring habitat conditions and waterbird use during the nonbreeding season</p></li>
+<li><p><a href="https://ecos.fws.gov/ServCat/DownloadFile/101125">USFWS framework</a> for surveys for secretive marsh birds</p></li>
+</ul></li>
+<li><p><em>Development/standardization of additional guidance is recommended as an action.</em></p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Other observational survey data (e.g., from land-based surveys for transmission cable routes)</p>
+<p>*Note: This is not intended to include standardized survey data collected as part of regular annual surveys (such as the <a href="https://www.pwrc.usgs.gov/bbs/">Breeding Bird Survey</a> or <a href="https://www.audubon.org/conservation/science/christmas-bird-count">Christmas Bird Count</a>).</p></td>
+<td><a href="https://ebird.org/home"><strong>eBird</strong></a></td>
+<td><ul>
+<li><p>Use <a href="https://support.ebird.org/en/support/solutions/articles/48000950859-guide-to-ebirdprotocols">eBird Protocols</a> or other <a href="https://rcngrants.org/content/development-avian-indicators-and-measures-monitoring-threats-and-effectiveness-conservation">accepted standards and practices</a> as appropriate</p></li>
+<li><p>Note: Use establishedsurvey protocols and data entry points for standardized annual surveys (such as the <a href="https://www.pwrc.usgs.gov/bbs/">Breeding Bird Survey</a> or <a href="https://www.audubon.org/conservation/science/christmas-bird-count">Christmas Bird Count</a>).</p></li>
+<li><p><em>Development/standardization of additional guidance regarding land-based observations may be needed but is a lower priority in the context of offshore wind development.</em></p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Observed interactions with wind turbines, collisions, fatalities (e.g., via turbine-mounted cameras, impact detection systems)</td>
+<td><p><a href="https://ecos.fws.gov/imr/welcome"><strong>Injury and Mortality Reporting database</strong></a> tracks reports of dead and injured birds.</p>
+<p>No central repository exists for other types of bird-turbine interaction data or more detailed collision/fatality data and associated metadata– requires development</p></td>
+<td><ul>
+<li><p>Report dead or injured birds to the <a href="https://ecos.fws.gov/imr/welcome">Injury and Mortality Reporting database</a>.</p></li>
+<li><p><em>Development of a database and standard protocols is recommended as an action.</em></p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Seabird diet data</td>
+<td>No central repository – requires development</td>
+<td><em>Development of a database and standard protocols is recommended as an action.</em></td>
+</tr>
+<tr class="odd">
+<td>Passive acoustic monitoring</td>
+<td>No central repository – requires development</td>
+<td><em>Development of a database and standard protocols is recommended as an action.</em></td>
+</tr>
+<tr class="even">
+<td>Radar/lidar studies</td>
+<td>No central repository – requires development</td>
+<td><em>Development of a database with the flexibility to accommodate multiple technologies, study designs, and data outputs is recommended as an action.</em></td>
+</tr>
+<tr class="odd">
+<td>Large raw file types (e.g., high definition aerial photos, thermal video, raw acoustic files)</td>
+<td>No central repository – requires development</td>
+<td><ul>
+<li><p><em>Retention of large, raw file types could allow for future QA/QC and re-evaluation with updated analysis or automated identification tools.</em></p></li>
+<li><p><em>Development of a data repository is recommended as a cross-taxa action.</em></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="data-collection" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="data-collection"><span class="header-section-number">4.2</span> Data Collection</h2>
+<p>In coastal and marine environments, a wide variety of field research methods can inform scientific understanding of avian interactions with offshore wind facilities (for common methods and recent advances, see <span class="citation" data-cites="courbis2023 orjip2022 nrel2022">(<a href="references.html#ref-courbis2023" role="doc-biblioref">Courbis et al., 2023</a>; <a href="references.html#ref-nrel2022" role="doc-biblioref">NREL and PNNL, 2022</a>; <a href="references.html#ref-orjip2022" role="doc-biblioref">ORJIP, 2022</a>)</span>. As part of Construction and Operations Plans (COPs), offshore wind developers are developing and submitting avian monitoring plans. Current available draft monitoring plans typically include deploying Motus and/or satellite tags on birds of conservation concern for a specified number of years post-construction, deploying and maintaining Motus receiver stations for a specified number of years, deploying passive acoustic or multi-sensor detectors on turbines or other offshore wind facility infrastructure, and conducting boat-based or aerial surveys. State agencies, federal agencies, and conservation and research organizations regularly deploy tags, deploy and maintain Motus stations, and conduct surveys of nesting birds within the RWSC Study Region. Standardized boat-based and aerial surveys are also conducted with state and federal funding.</p>
+<p>As part of addressing near and long-term goals, and in the context of ongoing work, the Bird &amp; Bat Subcommittee recommends the following field research, data interpretation, and technology advancement activities:</p>
+<ul>
+<li><p><strong>Using appropriate methods to further characterize movements, distributions, and abundance of wide-ranging bird species offshore, before and after construction.</strong></p>
+<ul>
+<li><p><strong>The Bird &amp; Bat Subcommittee will convene regularly to coordinate tagging/tracking efforts for species of interest</strong> in the context of offshore wind along the U.S. Atlantic Coast. Activities will include identifying general focal locations and focal species for tag deployment, exploring the potential to centralize tag deployment efforts, and coordinating deployment, calibration, and maintenance of Motus receiver network infrastructure.</p></li>
+<li><p><strong>Coordinating and conducting regular digital aerial surveys that cover multiple lease areas and appropriate buffer zones</strong> using a standardized methodology. As wind energy areas are leased and developed, aerial surveys covering individual lease areas plus appropriate buffers (see <a href="https://www.nyetwg.com/avian-displacement-guidance">draft guidance</a>) can be expected to survey portions of adjacent lease areas, so coordination could provide cost-efficiencies, as well as supporting standardized data products.</p></li>
+<li><p><strong>Deploying passive acoustics and multi-modal systems at offshore wind facilities and on other offshore infrastructure</strong> to monitor for nocturnal migrants.</p></li>
+</ul></li>
+<li><p><strong>Continuing standardized breeding bird surveys along coastlines and on islands</strong> to understand population dynamics, assess species distributions, and inform population models (see <a href="#birds_dataanalysis">Data Analysis</a>).</p></li>
+<li><p><strong>Expanding seabird diet and foraging studies</strong> to inform understanding of offshore wind facility effects. Conducting laboratory analyses of previously stored samples, as needed.</p></li>
+<li><p><strong>Deploying multi-modal systems on turbines to assess bird interactions with wind turbine infrastructure</strong> (including micro-avoidance and collision risk). Combinations of acoustic detectors, radar systems, impact detection sensors, and/or visual, thermal, and infrared cameras are recommended to document bird behavior around wind turbines, detect impacts, and, to the extent possible, provide species-specific identification.</p></li>
+<li><p>In addition to the methods detailed above, <strong>deployment of radar or lidar systems</strong> to document bird passage rates and flight heights is also recommended.</p></li>
+<li><p><strong>Developing, testing, and advancing new, emerging, or under-utilized technologies for monitoring and mitigation.</strong></p>
+<ul>
+<li><p><strong>Testing and validating bird collision detection systems</strong> (recognizing that initial validation may need to focus on land-based wind facilities, where carcass counts are possible).</p></li>
+<li><p><strong>Testing and validating the efficacy of on-site mitigation strategies</strong> (e.g., lighting, painted blades), including evaluation in both land-based and offshore environments.</p></li>
+<li><p><strong>Testing and validating the efficacy of off-site mitigation strategies or voluntary conservation offsets.</strong> (This is expected to take place only after the planning for and identification of appropriate options as described under <a href="#birds_dataanalysis">Data Analysis</a>.)</p></li>
+<li><p><strong>Improving remote access to wildlife monitoring equipment</strong> on wind turbine platforms or other offshore infrastructure. This could include identifying workflows to allow for the transmission of wildlife monitoring data using existing wind facility fiber-optic networks.</p></li>
+<li><p><strong>Scoping and designing standardized spaces on offshore wind infrastructure to support wildlife monitoring equipment,</strong> including physical access, electrical power, data transfer capabilities, etc. This will require cross-sector and cross-taxa coordination.</p></li>
+<li><p><strong>Designing and improving automated methods to efficiently derive data from raw data files</strong>, such as deriving species identification and counts from digital aerial photographs, species identification within acoustic recordings, or tracking movement paths on radar and video recordings.</p></li>
+<li><p><strong>Developing and improving tagging technologies</strong> to allow for lighter tags, longer-term tracking, measurement of additional parameters, or more precise measurement (e.g., of flight height).</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="birds_dataanalysis" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="birds_dataanalysis"><span class="header-section-number">4.3</span> Data Analysis</h2>
+<p>Data analyses and summaries should 1) inform where new data collection is needed, 2) characterize avian distribution patterns, density, movements, behavior, and population dynamics, 3) assess whether offshore wind is causing any observed changes, 4) assess the impacts of those changes on bird populations, and/or 5) evaluate the efficacy of monitoring or mitigation strategies.</p>
+<p>To address current needs, the Bird &amp; Bat Subcommittee recommends:</p>
+<ul>
+<li><p>Compilation and synthesis of best available information to build, maintain, and regularly update a shared exposure/risk vulnerability matrix for both marine and land-based bird species. This matrix will be used to identify focal species by geography, lease area, and potential impact of research interest.</p></li>
+<li><p>Continued development and updating of models of bird density, movements, behavior, and population dynamics in coastal and marine ecosystems, including:</p>
+<ul>
+<li><p>Regularly updating marine bird distribution models and maps based on at-sea observations.</p></li>
+<li><p>Analyzing existing tracking data from multiple sources to develop pre-construction baselines (e.g., movements, distributions, behavior) for focal species.</p></li>
+<li><p>Incorporating data from multiple methods (e.g., at-sea surveys, tracking, radar) and covariates (oceanographic, meteorological, prey distribution estimates) into integrated models.</p></li>
+<li><p>Identifying key metrics and summarizing relevant data (e.g., movement metrics, distribution and abundance, flight height, flight speed, micro-avoidance, meso-avoidance) to inform vulnerability assessments and collision risk models.</p></li>
+<li><p>Analyzing and summarizing available seabird diet data to inform potential effects of offshore wind energy on foraging.</p></li>
+<li><p>Summarizing available population demographic data to develop updated population models and assess potential population-level impacts for focal species.</p></li>
+<li><p>Developing regional-scale power analyses to inform regional-scale study designs.</p></li>
+</ul></li>
+<li><p>Advanced planning, development, and assessment of off-site conservation measures to provide compensatory mitigation (“no net loss”) or support voluntary conservation efforts.</p></li>
+<li><p>Review of available cumulative effects literature and adoption of a clear framework for assessing cumulative effects.</p></li>
+<li><p>Consultation with the Bird &amp; Bat Subcommittee prior to conducting analyses of coastal and offshore avian data to ensure that the research leverages all available data and contributes to addressing key issues and data gaps.</p></li>
+<li><p>Collaboration among Subcommittees and with outside experts to ensure cross-taxa issues are being addressed. For example:</p>
+<ul>
+<li><p>Supporting information sharing and consistency in offshore study recommendations across Subcommittees, where possible.</p></li>
+<li><p>Working with the Habitat &amp; Ecosystem Subcommittee and fish experts to ensure that collected data and data products include important bird habitat variables and prey species.</p></li>
+<li><p>Working with the Marine Mammal Subcommittee to coordinate with and train Protected Species Observers/Marine Mammal Observers to monitor and report dead and injured birds found on vessels.</p></li>
+</ul></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-courbis2023" class="csl-entry" role="listitem">
+Courbis, S., Pacini, A., Williams, K., Dodgin, S., Jenkins, E., 2023. <a href="https://nationaloffshorewind.org/projects/technology-development-priorities-for-scientifically-robust-and-operationally-compatible-wildlife-monitoring-and-adaptive-management/">Technology development priorities for scientifically robust and operationally compatible wildlife monitoring and adaptive management</a>.
+</div>
+<div id="ref-nrel2022" class="csl-entry" role="listitem">
+NREL, PNNL, 2022. <a href="https://tethys.pnnl.gov/sites/default/files/summaries/SEER-Educational-Research-Brief-Bat-Bird-Interactions.pdf">Bird and bat interactions with offshore wind farms</a>.
+</div>
+<div id="ref-orjip2022" class="csl-entry" role="listitem">
+ORJIP, 2022. <a href="https://tethys.pnnl.gov/sites/default/files/publications/ORJIP-2022-OffshoreTech.pdf">Review of seabird monitoring technologies for offshore wind farms</a>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,7 +828,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By RWSC Steering Committee, 2024</div>   
+    <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
