@@ -12,12 +12,12 @@ Given this ongoing work, the Marine Mammal Subcommittee is making recommendation
 
 Marine mammals include baleen whales and toothed whales (together, cetaceans), seals (pinnipeds), and manatees (sirenians).
 Distributions of marine mammals have been shifting in response to changes in their environment, including human activities, climate change, and conservation measures.
-For a current list of marine mammal species and their status in the RWSC study area, visit the NOAA Fisheries Species Directory at <https://www.fisheries.noaa.gov/species-directory/> and apply filters for \"New England/Mid-Atlantic\" and \"Southeast\". 
+For a current list of marine mammal species and their status in the RWSC study area, visit the NOAA Fisheries Species Directory at <https://www.fisheries.noaa.gov/species-directory/> and apply filters for "New England/Mid-Atlantic" and "Southeast". 
 
 All marine mammal species are protected under the Marine Mammal Protection Act (MMPA) which prohibits intentional or incidental killing, injuring, or harassment of marine mammals and specifies the circumstances and rules under which permits may be issued for such activities.
 Under the MMPA, NOAA Fisheries has developed [stock assessment reports](https://www.fisheries.noaa.gov/national/marine-mammal-protection/marine-mammal-stock-assessments) for all marine mammals in U.S. waters since 1994.
 These reports contain estimates of current species population sizes and population trends.
-Six marine mammal species are also listed as endangered or threatened under the Endangered Species Act (ESA), which prohibits \"take\" of these species and requires conservation of their habitat.
+Six marine mammal species are also listed as endangered or threatened under the Endangered Species Act (ESA), which prohibits "take" of these species and requires conservation of their habitat.
 In addition to stock assessment reports, NOAA Fisheries generates authoritative and up-to-date information on marine mammal status and trends via the following webpages: 
 
 -   [Marine Mammal Unusual Mortality Event](https://www.fisheries.noaa.gov/national/marine-mammal-protection/marine-mammal-unusual-mortality-events)
@@ -28,12 +28,98 @@ In addition to stock assessment reports, NOAA Fisheries generates authoritative 
 
 Environmental Impact Statements (EISs) associated with the U.S.
 National Environmental Policy Act (NEPA) review of offshore wind projects provide detailed descriptions of the affected environment, impact analysis, and cumulative effects.
-Each proposed offshore wind project\'s Final EIS should be considered an important reference for focal marine mammal species, recent trends, habitat considerations, and potential impacts.
-Final EISs are posted to BOEM\'s website. 
+Each proposed offshore wind project's Final EIS should be considered an important reference for focal marine mammal species, recent trends, habitat considerations, and potential impacts.
+Final EISs are posted to BOEM's website. 
 
 From a regional and global perspective, natural and anthropogenic climate change are recognized as major drivers of changes in marine mammal distribution, and in some cases, abundance as well [@chavez-rosales2022; @ganley2022; @meyer-gutbrod2022; @pendelton2022; @thorne2022].
-Baleen whales\' prey in particular-- which include zooplankton and small fish species--are susceptible to ocean warming and changes in ocean circulation.
+Baleen whales' prey in particular-- which include zooplankton and small fish species--are susceptible to ocean warming and changes in ocean circulation.
 In response to climate-driven shifts in their prey, baleen whales have shifted foraging locations into places where fewer protections are available [@davies2019], or where conflicts with more human uses are likely.
-NOAA\'s 2023 State of the Ecosystem New England report [@lucey2023] describes the slow movement of several marine mammal species to the northeast and into generally deeper water [@chavez-rosales2022] (and see figure below). 
+NOAA's 2023 State of the Ecosystem New England report [@lucey2023] describes the slow movement of several marine mammal species to the northeast and into generally deeper water [@chavez-rosales2022] (and see figure below). 
 
-ADD FIGURE
+![](figures/mm/Chavez-Rosales%202022.png)
+
+Figure 1. 
+Direction and magnitude of core habitat shifts, represented by the length of the line of the seasonal weighted centroid for species with more than 70 km difference between 2010 and 2017 (tip of arrow) [@chavez-rosales2022].
+
+The following data products and tools provide relevant context to inform where new data collection is needed and which research questions are most urgent to address given present status and trends in marine mammal distribution, abundance, behavior as observed in the field or understood by the most recent analyses.
+These sources are updated frequently.
+Visit the links below for the latest data and information.
+
+[**Habitat-based Marine Mammal Density Models for the U.S. Atlantic:**](https://seamap.env.duke.edu/models/Duke/EC/)The Duke Marine Geospatial Ecology Laboratory leads an ongoing collaboration of federal, state, academic, and independent research organizations who pool scientific data and expertise to develop marine mammal species density models spanning the U.S. east coast and southeast Canada.
+
+[**Passive Acoustic Cetacean Map:**](https://apps-nefsc.fisheries.noaa.gov/pacm/#/) This map shows when and where specific whale, dolphin, and other cetacean species were acoustically detected in the North Atlantic Ocean based on Passive Acoustic Monitoring (PAM).
+The dataset was compiled by the NOAA NEFSC Passive Acoustic Research Program using detection data collected by many collaborators.
+
+[**WhaleMap**](https://whalemap.org/WhaleMap/)**:** Designed to communicate the latest whale survey results to scientific, regulatory, and industrial sectors to inform more effective, dynamic planning of research and conservation activities.
+The map is synchronized with data repositories from several different survey groups such that results are reported in near-real time.
+
+[**Whale Alert app**](https://www.whalealert.org/)**:** Launched in 2012 as a citizen science tool aimed at reducing the risk of vessel strikes.
+The free app uses whale presence data including verified sightings, acoustic detections from buoys and gliders, and aerial surveys to display a user-friendly map based on nautical charts from country-specific government agencies.
+
+**Right Whale Seasonal Management Areas & Dynamic Management Areas (Slow Zones):** Seasonal Management Areas (SMAs) for North Atlantic right whales are zones and times of year when all vessels 65 feet or longer must travel at 10 knots or less to reduce the threat of vessel collisions[^append-mm-1].
+Dynamic Management Areas (DMAs) are trigged when groups of whales are sighted outside of active SMAs.
+NOAA Fisheries has proposed several modifications to North Atlantic right whale vessel speed regulations which will likely take effect in 2024.
+Please check NOAA's website for updated information: <https://www.fisheries.noaa.gov/national/endangered-species-conservation/reducing-vessel-strikes-north-atlantic-right-whales#current-vessel-speed-restrictions>.
+There are multiple ways to be notified or to view active Right Whale Slow Zones:
+
+-   Sign up for [email or text notifications](https://public.govdelivery.com/accounts/USNOAAFISHERIES/signup/31395) from NOAA Fisheries
+
+-   Follow relevant NOAA Fisheries Facebook (\@NOAAFisheriesNEMA) and Twitter (\@NOAAFish_GARFO) accounts for announcements
+
+-   Whalemap.org [online right whale sightings map](https://apps-nefsc.fisheries.noaa.gov/psb/surveys/MapperiframeWithText.html)
+
+-   [Whale Alert app](http://www.whalealert.org/) (free) which will automatically notify you when you enter one of these areas
+
+-   Maps and GIS data of SMAs on the U.S. east coast can be obtained on the [NOAA Fisheries GIS page](https://www.fisheries.noaa.gov/resource/map/north-atlantic-right-whale-seasonal-management-areas-sma-map-gis-data) and are available to view in the regional data portals
+
+-   The [Northeast Ocean Data Portal Data Explorer map](https://www.northeastoceandata.org/RAVmNx4l) includes current DMAs as a layer that can be overlaid with many other datasets depicting the footprints of ocean resources and activities, including offshore wind lease areas and vessel traffic
+
+**Atlantic Large Whale Take Reduction Plan (ALWTRP):** NOAA Fisheries implemented the [Atlantic Large Whale Take Reduction Plan](https://www.fisheries.noaa.gov/new-england-mid-atlantic/marine-mammal-protection/atlantic-large-whale-take-reduction-plan) (ALWTRP) to reduce injuries and deaths of large whales due to incidental entanglement in fishing gear.
+For the most recent requirements, see the outreach guide for each location and gear type on the [ALWTRP webpage](https://www.fisheries.noaa.gov/new-england-mid-atlantic/marine-mammal-protection/atlantic-large-whale-take-reduction-plan).
+The complete plan is published in [the Code of Federal Regulations](https://www.ecfr.gov/current/title-50/chapter-II/subchapter-C/part-229/subpart-C) (§ 229.32 Atlantic large whale take reduction plan regulations).
+
+**Biologically Important Areas (BIAs) for Cetaceans within U.S. Waters:** BIAs represent areas and times in which cetaceans (whales, dolphins, and porpoises) are known to concentrate for activities related to reproduction, feeding, and migration, as well as the known ranges of small and resident populations [@noaacetsound2015].
+Updated descriptions and maps for U.S.
+East Coast BIAs are not yet available (as of October 2023) but will be incorporated by reference once they are published [@harrison2023].
+
+**Prey and habitat data:** Marine mammal prey species (e.g., zooplankton, forage fish) are driven by oceanographic factors and in turn drive mammal distribution, abundance, and behavior.
+Recent studies of hydrodynamic and oceanographic factors that are impacted by climate change and may also change due to the introduction of offshore wind structures summarize key issues and data gaps:
+
+-   Potential Hydrodynamic Impacts of Offshore Wind Energy on Nantucket Shoals Regional Ecology: An Evaluation from Wind to Whales [@nasem2023a]
+
+-   Oceanographic Effects of Offshore Wind Structures and Their Potential Impacts on the North Atlantic Right Whale and Their Prey [@acp2023a]
+
+Several sources of prey data exist across multiple groups:
+
+-   [NOAA Fisheries EcoMon Plankton Data](https://www.fisheries.noaa.gov/resource/data/ecosystem-monitoring-northeast-us-continental-shelf-plankton-dataset)
+
+-   Continuous Plankton Recorder
+
+-   Gulf of Maine MBON
+
+-   BOEM-funded zooplankton ecology study
+
+-   [Atlantic Zone Monitoring Program (AZMP) Maritimes Region zooplankton](https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html) (Canada)
+
+-   Center for Coastal Studies
+
+-   [Northeast U.S. Shelf LTER](https://nes-lter.whoi.edu/data/)
+
+-   Forage fish distribution models [@friedland2023]
+
+**North Atlantic right whale status and trends:**
+
+-   [North Atlantic right whale Critical Habitat](https://www.federalregister.gov/documents/1994/06/03/94-13500/designated-critical-habitat-northern-right-whale): The [NOAA Fisheries Biological Source Document](https://media.fisheries.noaa.gov/dam-migration/16narwchbiologicalsourcedocument122115-508.pdf) describes these habitat features in detail.
+    Maps and GIS data of right whale critical habitat can be obtained on the [NOAA Fisheries GIS page](https://www.fisheries.noaa.gov/resource/map/north-atlantic-right-whale-critical-habitat-map-and-gis-data) and are available to view in the regional data portals.
+
+-   [North Atlantic Right Whale Consortium Annual Report Card](https://www.narwc.org/report-cards.html): Includes updates on the status of the cataloged population, mortalities and entanglement events, and a summary of current management and research efforts that have occurred over the previous 12 months.
+
+-   [NOAA Fisheries North Atlantic right whale Priority Action Plan 2021-2025](https://www.fisheries.noaa.gov/resource/document/species-spotlight-priority-actions-2021-2025-north-atlantic-right-whale)
+
+-   [NOAA Fisheries Recovery Plan for North Atlantic right whale](https://www.fisheries.noaa.gov/resource/document/recovery-plan-north-atlantic-right-whale-eubalaena-glacialis)
+
+-   [BOEM and NOAA Fisheries Draft North Atlantic right whale and offshore wind strategy](https://www.regulations.gov/docket/BOEM-2022-0066/document)
+
+### Potential effects with respect to offshore wind
+
+[^append-mm-1]: https://www.fisheries.noaa.gov/national/endangered-species-conservation/reducing-ship-strikes-north-atlantic-right-whales
