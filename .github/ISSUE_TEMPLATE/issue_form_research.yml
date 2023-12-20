@@ -1,5 +1,5 @@
 name: Research Recommendation
-description: Suggest a revised or new research recommendation
+description: Suggest a revised or new research recommendation.
 title: "[Research Recommendation]: "
 labels: ["research"]
 projects: ["RWSCollab/science-plan"]
@@ -22,8 +22,7 @@ body:
     id: location
     attributes:
       label: Where should the new or updated recommendation be added?
-      description: Scroll up from the typo to the first section heading. Hover
-      over the heading to reveal the 🔗. Copy and paste the URL below.
+      description: Scroll up from the typo to the first section heading. Hover over the heading to reveal the 🔗. Copy and paste the URL below.
       placeholder: Paste section URL here.
       value: "This section needs a new or updated recommendation!"
     validations:
@@ -32,9 +31,7 @@ body:
     id: update
     attributes:
       label: Provide us with the recommendation that you'd like to see.
-      description: Suggest some wording for an updated or new recommendation,
-      reasons why it should be included, and any additional information that you
-      think will be helpful.
+      description: Suggest some wording for an updated or new recommendation, reasons why it should be included, and any additional information that you think will be helpful.
       placeholder: Write your suggestion here.
       value: "Consider this recommendation!"
     validations:

@@ -1,8 +1,1 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Report a Typo
-    url: https://github.com/RWSCollab/science-plan/blob/main/.github/ISSUE_TEMPLATE/issue_form_typo.yml
-    about: Tell us about where and how to fix the typo.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.

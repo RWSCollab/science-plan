@@ -1,5 +1,5 @@
-name: Update or Provide Missing Link or Reference
-description: Provide new/updated URLs or references.
+name: Update a Missing Link or Citation
+description: Suggest new/updated URLs or references.
 title: "[Update or add citation]: "
 labels: ["reference"]
 projects: ["RWSCollab/science-plan"]
@@ -22,8 +22,7 @@ body:
     id: location
     attributes:
       label: In what section is the outdated or missing citation?
-      description: Scroll up from the typo to the first section heading. Hover
-      over the heading to reveal the 🔗. Copy and paste the URL below.
+      description: Scroll up from the typo to the first section heading. Hover over the heading to reveal the 🔗. Copy and paste the URL below.
       placeholder: Paste section URL here.
       value: "Update or add a citation in this section!"
     validations:
@@ -32,8 +31,7 @@ body:
     id: update
     attributes:
       label: Provide us with the new or updated citation.
-      description: Copy and paste the new or updated URL, reference, and/or any
-      description that you think will be helpful.
+      description: Copy and paste the new or updated URL, reference, and/or any description that you think will be helpful.
       placeholder: Paste the new info here.
       value: "Update or add this citation!"
     validations:

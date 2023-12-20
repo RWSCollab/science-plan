@@ -1,5 +1,5 @@
-name: Typo Found
-description: Tell us about a typo
+name: Report a Typo
+description: Suggest how to fix a typo and where you found it.
 title: "[Typo]: "
 labels: ["typo"]
 projects: ["RWSCollab/science-plan"]
