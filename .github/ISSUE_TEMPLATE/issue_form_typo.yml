@@ -22,8 +22,7 @@ body:
     id: location
     attributes:
       label: In what section did you find the typo?
-      description: Scroll up from the typo to the first section heading. Hover
-      over the heading to reveal the 🔗. Copy and paste the URL below.
+      description: Scroll up from the typo to the first section heading. Hover over the heading to reveal the 🔗. Copy and paste the URL below.
       placeholder: Paste section URL here.
       value: "Found a typo!"
     validations:
@@ -32,8 +31,7 @@ body:
     id: update
     attributes:
       label: Provide us with the correction for the typo.
-      description: Copy and paste the incorrect sentence, update it, and any
-      description that you think will be helpful.
+      description: Copy and paste the incorrect sentence, update it, and any description that you think will be helpful.
       placeholder: Paste the corrected typo here.
       value: "Correct a typo in this section!"
     validations:
