@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -80,33 +99,25 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="dropdown-header">
- <span class="menu-text">menu</span></li>
-</ul>
-            <div class="quarto-navbar-tools">
+        <div class="quarto-navbar-tools ms-auto">
     <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://twitter.com/intent/tweet?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://twitter.com/intent/tweet?url=|url|">
               <i class="bi bi-bi-twitter pe-1"></i>
             Twitter
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
               <i class="bi bi-bi-facebook pe-1"></i>
             Facebook
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
               <i class="bi bi-bi-linkedin pe-1"></i>
             LinkedIn
             </a>
@@ -114,7 +125,6 @@ ul.task-list li input[type="checkbox"] {
       </ul>
     </div>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
@@ -139,10 +149,6 @@ ul.task-list li input[type="checkbox"] {
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-      <div class="sidebar-tools-main">
-    <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/RWSCollab/science-plan" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
-</div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -325,7 +331,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The Science Plan is under construction 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC website 🌐</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues">Open an issue ❔</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#data-management" id="toc-data-management" class="nav-link" data-scroll-target="#data-management"><span class="header-section-number">D.1</span> Data Management</a></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-mm.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -339,12 +356,6 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>RWSC Steering Committee </p>
-          </div>
-  </div>
     
   
     
@@ -353,8 +364,100 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>This chapter builds on the research topics and questions related to marine mammals and offshore wind proposed by several groups over the last decade that should be addressed by a regional collaborative <span class="citation" data-cites="kershaw2023 kraus2019">(<a href="references.html#ref-kershaw2023" role="doc-biblioref">Kershaw et al., 2023</a>; <a href="references.html#ref-kraus2019" role="doc-biblioref">Kraus et al., 2019</a>)</span>. The RWSC Marine Mammal Subcommittee considered these previous bodies of work in developing the following recommendations. In doing so, they have also highlighted these concepts:</p>
+<ul>
+<li><p>A key contribution of the RWSC Science Plan is the ability to look across all the various data collection activities and identify opportunities for synthesis.</p></li>
+<li><p>Assigning causality to observed changes may not be possible in all <a href="oceanography.html"><span>Chapter&nbsp;8</span></a>.</p></li>
+</ul>
+<section id="data-management" class="level2" data-number="D.1">
+<h2 data-number="D.1" class="anchored" data-anchor-id="data-management"><span class="header-section-number">D.1</span> Data Management</h2>
+<p>Understanding marine mammal movement and behavior near offshore wind developments will require close coordination among researchers, state and federal agencies, and industry. The Marine Mammal Subcommittee will work with individuals and entities who conduct research to ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC study area. This standardization is intended to support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., marine mammal density models).</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><strong>Method(s) and data type(s)</strong></td>
+<td><strong>Repository</strong></td>
+<td><strong>Existing Standards</strong></td>
+</tr>
+<tr class="even">
+<td>Raw passive acoustic data and passive acoustic data products (ambient noise metrics, species detections)</td>
+<td><p><a href="https://www.ncei.noaa.gov/products/passive-acoustic-data"><strong>NOAA NCEI Passive Acoustic Data Archive</strong></a></p>
+<p><a href="https://www.fisheries.noaa.gov/resource/document/passive-acoustic-reporting-system-templates"><strong>NOAA Passive Acoustics Reporting System</strong></a></p></td>
+<td><p>Use <a href="https://rwscollab.github.io/pam-data-mgmt/">RWSC Data Management and Storage Best Practices for Long-term and Archival Passive Acoustic Monitoring Data</a></p>
+<ul>
+<li><p>Detection data, metadata, GPS data, and ambient noise data should be provided via the&nbsp;<a href="https://www.fisheries.noaa.gov/resource/document/passive-acoustic-reporting-system-templates">formatted spreadsheets</a>&nbsp;to the Northeast Passive Acoustic Reporting System via&nbsp;<a href="mailto:nmfs.nec.pacmdata@noaa.gov">nmfs.nec.pacmdata@noaa.gov</a> within 90 days of the retrieval of the recorder or data collection. The data will be displayed on the Passive Acoustic Cetacean Map and shared with RWSC.</p></li>
+<li><p>Use <a href="https://www.ncei.noaa.gov/products/passivepacker">PassivePacker</a> to submit raw acoustic data and metadata to NCEI.</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Real-time marine mammal sightings (including live, dead, or distressed whales)</td>
+<td><a href="https://www.whalealert.org/"><strong>Whale Alert</strong></a></td>
+<td><a href="https://www.whalealert.org" class="uri">https://www.whalealert.org</a>. The report should include time, location, and number of animals.</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Observational surveys; line-transect data; telemetry data; acoustic monitoring; photo identification; oceanographic data products; model outputs</td>
+<td><a href="https://seamap.env.duke.edu/"><strong>OBIS-SEAMAP</strong></a>(Ocean Biogeographic Information System – Spatial Ecological Analysis of Megavertebrate Populations)</td>
+<td><a href="https://seamap.env.duke.edu/content/provider_faq">OBIS-SEAMAP minimum data fields and acceptable formats,</a> Duke Marine Geospatial Ecology Lab</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tagging data, oceanographic data</td>
+<td><a href="https://oceantrackingnetwork.org/"><strong>Ocean Tracking Network</strong></a> <strong>(</strong>OTN) Data Centre</td>
+<td><p><a href="https://members.oceantrack.org/data/policies/otn-data-policy">OTN Data Policy</a></p>
+<p><a href="https://members.oceantrack.org/data/data-collection">OTN Data Templates</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Satellite tagging data</td>
+<td><a href="https://ioos.noaa.gov/project/atn/"><strong>Animal Telemetry Network</strong></a> (ATN)</td>
+<td><a href="https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf">Animal Telemetry Network DAC Data Management Policy Guidance</a>: includes data <a href="https://atn.ioos.us/help/submit-data/">submission requirements</a> and instructions for submitting project-level metadata and deployment records.</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Observational data; Photography</td>
+<td><a href="https://www.narwc.org/"><strong>North Atlantic Right Whale Consortium</strong></a> (NARWC)</td>
+<td>Use NARWC <a href="https://www.narwc.org/photo-and-data-submission.html">data and metadata submission guidelines</a></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-kershaw2023" class="csl-entry" role="listitem">
+Kershaw, F., Jones, A., Folsom-O’Keefe, C., Johnson, E., Newman, B., Liner, J., Clarkson, C., Swanson, R., Fuller, E., Krakoff, N., Johnson, A., Kelly, K., Hislop, K., Frignoca, I., Sarthou, C., Donaghue, E., Haggerty, S., Ricci, H., Walsh, J., Humphries, E., Weiler, C., Felton, S., George, G., Haney, C., Lyons, D., Weinstein, A., Bibza, J., Hewett, A., Murphy, J., Muth, D., Renfro, A., Aylesworth, S., Chase, A., Davis, E., Trice, A., Stocker, M., Conley, M., Jedele, T., LoBue, C., Runnebaum, J., Feinberg, P., 2023. <a href="https://www.nrdc.org/sites/default/files/ow_marine-life_monitoring_guidelines.pdf">Monitoring of marine life during offshore wind energy development<span></span>guidelines and recommendations</a>.
+</div>
+<div id="ref-kraus2019" class="csl-entry" role="listitem">
+Kraus, S., Kenney, R., Thomas, L., 2019. <a href="https://www.masscec.com/resources/related-wildlife-analyses">A framework for studying the effects of offshore wind development on marine mammals and turtles</a>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -622,7 +725,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-mm.qmd" class="toc-action">Edit this page</a></p></div></div></div>
+    </div>
     <div class="nav-footer-right"><img src="RWSC_Logo.png" width="125"></div>
   </div>
 </footer>
