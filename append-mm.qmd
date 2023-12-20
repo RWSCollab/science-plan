@@ -122,4 +122,53 @@ Several sources of prey data exist across multiple groups:
 
 ### Potential effects with respect to offshore wind
 
+As migratory species, many marine mammals\' ranges overlap the areas proposed for offshore wind development in the Atlantic Ocean.
+In addition, most marine mammal species are exposed to many other types of stressors in these areas.
+The cumulative effect of several stressors may create a biologically significant population level response [@kraus2019a].
+
+Of the large whale species listed in Table 1 that are of greatest concern, baleen whales have typically been prioritized for attention with respect to offshore wind research [@southall2021a], due to their distribution and abundance in the study area, behavior, and life history characteristics that make them susceptible to some of the specific stressors potentially associated with offshore wind.
+That being said, the majority of studies describing the effects of construction and operation of windfarms on cetaceans come from Europe, where small odontocetes (dolphins and porpoise mainly) are the most common cetaceans.
+Avoidance and displacement effects, at ranges up to 10-26 km from the whole footprint of offshore windfarms during construction have been reported [@benhemmalegall2021; @brandt2016; @brandt2018; @dähne2013; @dähne2017; @graham2019; @graham2023]. 
+These studies indicate that the distance and duration of avoidance is related to received noise, which is further influenced by source level, sound propagation conditions, hearing range of the studied species, distance to the noise source, duration of exposure, level and type of mitigation and presence of other noise sources like construction vessels.
+There is variation among studies in the time reported for animal behaviour to return to pre-construction levels, from hours [@dähne2017a] and days [@brandt2018a] to years [@teilmann2012], which also suggest that operation of offshore windfarms may also affect cetacean behavior.
+Tagging data from Europe around wind energy sites suggest that harbor and grey seals either habituate quickly or may take advantage of the wind farm physical structures as a foraging opportunity [@russell2016].
+
+Kraus et al. 2019 summarized the potential short-term and long-term effects of offshore wind development on marine mammals and sea turtles in Massachusetts and Rhode Island Wind Energy Areas.
+The list of potential effects below from this report is relevant to the entire RWSC study area.
+Any concerns related to marine mammal species that are specific to each subregion will be further described in the following sections of this chapter.
+
+Overall, climate change increases the uncertainty surrounding marine mammal behavior, distribution and demography, which can abruptly and unexpectedly increases the risks associated with offshore wind development if marine mammals begin to use new areas and habitats or existing habitat more frequently or during different times of year.
+
+**Potential short-term effects of offshore wind construction activities**
+
+Potential short-term effects include noise from pile driving, vessel operating noise, and the increased vessel activity to/from and near turbine fields.
+These stressors could influence:
+
+-   Displacement of marine mammals from wind energy areas
+
+-   Increased risk of vessel strike
+
+-   Disruption to critical behaviors of marine mammals such as feeding, socializing, or nursing
+
+-   Elevation of stress hormone levels in marine mammals
+
+-   Changes in vertical distribution, density, or patch structure of zooplankton and/or fish prey
+
+**Potential long-term effects of offshore wind operation**
+
+Potential long-term effects include wind turbine presence, and increased vessel activity to/from and near turbine fields.
+These stressors could influence:
+
+-   Marine mammal exclusion from or attraction to wind energy areas
+
+-   Increased risk of vessel strike
+
+-   Changes to feeding opportunities
+
+-   Enhancements to marine productivity due to artificial reef effect around wind turbine foundations
+
+-   Increased risk of entanglement from abandoned, lost, or otherwise discarded fishing gear attached to underwater offshore wind structures
+
+## Recommendations: Marine mammals and offshore wind in the U.S. Atlantic Ocean
+
 [^append-mm-1]: https://www.fisheries.noaa.gov/national/endangered-species-conservation/reducing-ship-strikes-north-atlantic-right-whales
