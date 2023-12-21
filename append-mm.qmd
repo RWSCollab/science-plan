@@ -362,4 +362,21 @@ The following types of analyses are recommended:
 
 ### Data Management
 
+Understanding marine mammal movement and behavior near offshore wind developments will require close coordination among researchers, state and federal agencies, and industry. 
+The Marine Mammal Subcommittee will work with individuals and entities who conduct marine mammals and offshore wind monitoring and research to ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC study area. 
+This standardization is intended to support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., marine mammal density models).
+
+To support these efforts, the Marine Mammal Subcommittee recommends: 
+
+-   Maintenance of an up-to-date resource list of recommended repositories, data and metadata standards, guidance, and protocols for use by all data collectors. 
+    The current recommended resources are detailed in the table below. 
+
+-   Development of standard language for inclusion in requests for proposals and funding agreements to encourage or require the use of recommended resources. 
+
+-   Establishment of data sharing frameworks to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., acoustic data, Protected Species Observer data).
+
+-   Collaboratively establish timelines for marine mammal detection data upload and dissemination, especially through public platforms and apps, e.g., WhaleAlert, WhaleMap.
+
+The following table lists the repositories and standards that are recommended for use in marine mammal data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists.
+
 [^append-mm-1]: https://www.fisheries.noaa.gov/national/endangered-species-conservation/reducing-ship-strikes-north-atlantic-right-whales
