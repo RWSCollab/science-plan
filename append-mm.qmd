@@ -122,7 +122,7 @@ Several sources of prey data exist across multiple groups:
 
 ### Potential effects with respect to offshore wind
 
-As migratory species, many marine mammals\' ranges overlap the areas proposed for offshore wind development in the Atlantic Ocean.
+As migratory species, many marine mammals' ranges overlap the areas proposed for offshore wind development in the Atlantic Ocean.
 In addition, most marine mammal species are exposed to many other types of stressors in these areas.
 The cumulative effect of several stressors may create a biologically significant population level response [@kraus2019a].
 
@@ -178,7 +178,7 @@ In doing so, they have also highlighted the following concepts:
 -   Future work will be aligned and coordinated with research needs and actions described in the NOAA Fisheries and BOEM Draft North Atlantic Right Whale Offshore Wind Strategy [@noaafisheries2022a].
 
 -   Climate change: Disentangling the impacts to marine mammals from climate change from any potential effects from offshore wind development will be a major challenge.
-    For example, any attempt to establish a \"baseline\" representative of the past several decades must acknowledge that the environment changed rapidly over that time and continues to change rapidly.
+    For example, any attempt to establish a "baseline" representative of the past several decades must acknowledge that the environment changed rapidly over that time and continues to change rapidly.
     In addition, climate change increases the uncertainty surrounding marine mammal behavior, distribution and demography, which can abruptly and unexpectedly increases the risks associated with offshore wind development if marine mammals begin to use new areas and habitats or existing habitat more frequently or during different times of year.
 
 -   A key contribution of the RWSC Science Plan is the ability to look across all the various data collection activities and identify opportunities for synthesis.
@@ -207,7 +207,7 @@ For example, pairing passive acoustics with visual observations can provide more
 -   Tagging methods are typically applied to understand fine-scale movement and behavior of individuals.
     Tags may be difficult to deploy but can provide useful information about an animal's responses to oceanographic conditions or known stressors that are being measured simultaneously.
 
-BOEM requires various types of marine mammal data collection and monitoring as part of the approval process for each offshore wind project\'s Construction and Operations Plans (COPs).
+BOEM requires various types of marine mammal data collection and monitoring as part of the approval process for each offshore wind project's Construction and Operations Plans (COPs).
 These activities may include:
 
 -   Visual and passive acoustic monitoring of vessel transit corridors to/from the project site
@@ -242,7 +242,7 @@ Additional recommendations for the implementation of a regional scale passive ac
 
 The Subcommittee recommends the following regional-scale data collection efforts:
 
--   (Cross taxa) Leveraging BOEM\'s and NOAA\'s ongoing efforts, ensure that the required Protected Species Observer data collected by offshore wind companies during construction and operations via Pile Driving Monitoring Plans and Vessel Strike Avoidance Plans (and any other mitigation plans) follows a consistent reporting approach and is eventually submitted to a Master Protected Species Observer Sightings Database for use in marine mammal analyses and research.
+-   (Cross taxa) Leveraging BOEM's and NOAA's ongoing efforts, ensure that the required Protected Species Observer data collected by offshore wind companies during construction and operations via Pile Driving Monitoring Plans and Vessel Strike Avoidance Plans (and any other mitigation plans) follows a consistent reporting approach and is eventually submitted to a Master Protected Species Observer Sightings Database for use in marine mammal analyses and research.
 
 -   Ensure that other marine mammal and environmental data collection required by the agencies during installation (e.g., sound fields, visual monitoring, PAM, thermal/infrared camera systems) are collected using consistent methods such that data can be used in other analyses and research including broader scale analyses of potential impacts across many projects.
 
@@ -273,7 +273,7 @@ The Subcommittee recommends the following regional-scale data collection efforts
 There is a need to advance technologies that improve marine mammal detection during all phases of offshore wind development, and to ensure that the performance of new technologies is evaluated consistently (see Technology chapter recommendations): @sec-technology
 
 -   Develop, evaluate performance, and apply existing and emerging technologies that enhance marine mammal detection, including thermal cameras, infrared cameras, passive acoustics systems, and systems that integrate multiple methods for use during construction and operational monitoring and mitigation.
-    Test \"smart\" mitigation methods triggered by marine mammal presence as determined by these systems.
+    Test "smart" mitigation methods triggered by marine mammal presence as determined by these systems.
 
 -   Advance quieting technologies meant to mitigate construction noise (piledriving, vessel traffic) and operational noise (vessel traffic, operational vibratory sound).
 
@@ -308,5 +308,58 @@ Pregnant and nursing North Atlantic right whales and their calves are particular
 Calving females and their calves may also be at greater risk of exposure to acoustic impacts because of their long residency times [@krzystanam2018a].
 More information is needed about the ways that reproductively active female right whales respond (or do not respond) to physical structures, noise, and vessels in their environment before wind projects are implemented in the Southeast right whale calving habitat.
 Characterizations of marine mammal distribution, abundance, and movement should continue in these subregions using multiple methods as offshore wind planning and development advances.
+
+### Data Analysis
+
+Data analyses should inform where new data collection is needed, characterize oceanographic and habitat drivers of marine mammal distribution, abundance, and behavior, seek to assess whether offshore wind is causing any observed changes, and evaluate the efficacy of monitoring and mitigation strategies.
+The Subcommittee is especially interested in studies that seek to distinguish between climate change-driven shifts in marine mammal distribution, abundance, and behavior and changes that may be driven by offshore wind construction and operation.
+Related changes of interest include:
+
+-   Whether construction activities displace or attract marine mammals
+
+-   Whether offshore wind structures displace or attract marine mammals
+
+-   Whether marine mammal feeding is altered due to changes to hydrodynamics or prey distribution/abundances caused by offshore wind structures
+
+Individuals and entities should consult with the Marine Mammal Subcommittee prior to conducting analyses of marine mammal data with respect to offshore wind to ensure that the study leverages all of the available data and contributes to addressing the key recommendations described below to the extent possible.
+
+**In particular, researchers are strongly encouraged to leverage extensive existing and long-term data sources.** These include but are not limited to AMAPPS, NOAA Fisheries North Atlantic Right Whale Aerial Surveys, Southern New England Aerial Megafauna Surveys, long-term/archival PAM, as well as shorter-duration observational studies (aerial, boat-based, tagging) as foundational elements of any analysis.
+
+The following types of analyses are recommended:
+
+-   **Conduct a synthetic baseline assessment of marine mammals over the past several decades to characterize pre-development levels of spatial and temporal variability in marine mammal distribution and abundance patterns, from which to measure and assess any potential changes after the onset of offshore wind construction and regional-scale operation activities.** Integrate density modeling and/or visual survey data, passive acoustic monitoring data, tagging data, oceanography/habitat data, and climate data to characterize pre-development levels of spatial and temporal variability in marine mammal distribution and abundance patterns.
+
+-   **Continue to update and improve marine mammal density models.** Use outputs to understand drivers of marine mammal distribution and movement and to assess/detect change, displacement, and/or potential impacts.
+    Periodically evaluate model performance and use validation and evaluation results to continually inform and advance model/framework development and applications.
+
+    -   Integrate the latest observational and environmental data every 2-3 years.
+
+    -   Integrate data from multiple additional methods (strandings, digital aerial surveys, passive acoustic data, tagging) and covariates (oceanographic and prey distribution).
+        Apply results to inform research designs, determine baseline abundance/distribution estimates, best practices, etc.
+
+    -    Consider how to structure future model \"eras\" to reflect offshore wind pre-construction and construction/operation.
+
+    -   The modeling framework should be scalable to individual projects and the whole region such that individual project-specific outputs could be pooled into regional-scale versions of the model.
+
+-   **Repeat a power analysis to optimize the design of the long-term archival passive acoustic monitoring network every 3-5 years.** Ensure that new monitoring assets and analysis results are accounted for and that existing or new hypotheses and questions can be addressed by the regional network.
+
+-   **Inform and evaluate the effectiveness of mitigation strategies meant to minimize impacts resulting from increases in vessel traffic (i.e., noise, collision, displacement) from construction and maintenance of offshore wind projects.**
+
+    -   Develop or update existing vessel and marine mammal co-occurrence models with information from the offshore wind industry regarding vessel types and numbers.
+        Validate models with AIS and effort-corrected whale sightings data.
+
+    -   Conduct studies to assess the effectiveness of mitigation strategies such as speed restrictions, establishment of traffic corridors, etc.
+
+-   **Model and assess entanglement risks associated with floating offshore wind.**
+
+-   **Build off [Project WOW](https://offshorewind.env.duke.edu/) and apply lessons learned to studies in and around other lease areas outside Southern New England and NY/NJ Bight.** Use Project WOW Frameworks to identify stressors, species, and geographic areas to conduct assessments of displacement, attraction, or other changes to wildlife abundance, distribution, behavior, and/or health.
+
+-   **Integrate multiple types of data (e.g., acoustic, visual, stable isotopes, bycatch estimates, vessel trip reports) to understand potential changes in marine mammal feeding behaviors.**
+
+-   **Determine whether prey distribution, abundance and/or behavior is altered due to hydrodynamic changes caused by offshore wind structures and from EMF/cables (heat and electromagnetic field).**
+
+-   **Scope studies of EMF and marine mammals.** Include studies of whether animals can detect EMF, what the sensing capabilities are, and over what distance.
+
+### Data Management
 
 [^append-mm-1]: https://www.fisheries.noaa.gov/national/endangered-species-conservation/reducing-ship-strikes-north-atlantic-right-whales
