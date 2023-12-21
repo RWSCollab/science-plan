@@ -54,10 +54,10 @@ The dataset was compiled by the NOAA NEFSC Passive Acoustic Research Program usi
 The map is synchronized with data repositories from several different survey groups such that results are reported in near-real time.
 
 [**Whale Alert app**](https://www.whalealert.org/)**:** Launched in 2012 as a citizen science tool aimed at reducing the risk of vessel strikes.
-The free app uses whale presence data including verified sightings, acoustic detections from buoys and gliders, and aerial surveys to display a user-friendly map based on nautical charts from country-specific government agencies.
+The free app uses whale presence data including verified sightings, acoustic detection from buoys and gliders, and aerial surveys to display a user-friendly map based on nautical charts from country-specific government agencies.
 
 **Right Whale Seasonal Management Areas & Dynamic Management Areas (Slow Zones):** Seasonal Management Areas (SMAs) for North Atlantic right whales are zones and times of year when all vessels 65 feet or longer must travel at 10 knots or less to reduce the threat of vessel collisions[^append-mm-1].
-Dynamic Management Areas (DMAs) are trigged when groups of whales are sighted outside of active SMAs.
+Dynamic Management Areas (DMAs) are triggered when groups of whales are sighted outside of active SMAs.
 NOAA Fisheries has proposed several modifications to North Atlantic right whale vessel speed regulations which will likely take effect in 2024.
 Please check NOAA's website for updated information: <https://www.fisheries.noaa.gov/national/endangered-species-conservation/reducing-vessel-strikes-north-atlantic-right-whales#current-vessel-speed-restrictions>.
 There are multiple ways to be notified or to view active Right Whale Slow Zones:
@@ -112,7 +112,7 @@ Several sources of prey data exist across multiple groups:
 -   [North Atlantic right whale Critical Habitat](https://www.federalregister.gov/documents/1994/06/03/94-13500/designated-critical-habitat-northern-right-whale): The [NOAA Fisheries Biological Source Document](https://media.fisheries.noaa.gov/dam-migration/16narwchbiologicalsourcedocument122115-508.pdf) describes these habitat features in detail.
     Maps and GIS data of right whale critical habitat can be obtained on the [NOAA Fisheries GIS page](https://www.fisheries.noaa.gov/resource/map/north-atlantic-right-whale-critical-habitat-map-and-gis-data) and are available to view in the regional data portals.
 
--   [North Atlantic Right Whale Consortium Annual Report Card](https://www.narwc.org/report-cards.html): Includes updates on the status of the cataloged population, mortalities and entanglement events, and a summary of current management and research efforts that have occurred over the previous 12 months.
+-   [North Atlantic Right Whale Consortium Annual Report Card](https://www.narwc.org/report-cards.html): Includes updates on the status of the cataloged population, mortality and entanglement events, and a summary of current management and research efforts that have occurred over the previous 12 months.
 
 -   [NOAA Fisheries North Atlantic right whale Priority Action Plan 2021-2025](https://www.fisheries.noaa.gov/resource/document/species-spotlight-priority-actions-2021-2025-north-atlantic-right-whale)
 
@@ -126,11 +126,11 @@ As migratory species, many marine mammals' ranges overlap the areas proposed for
 In addition, most marine mammal species are exposed to many other types of stressors in these areas.
 The cumulative effect of several stressors may create a biologically significant population level response [@kraus2019a].
 
-Of the large whale species listed in Table 1 that are of greatest concern, baleen whales have typically been prioritized for attention with respect to offshore wind research [@southall2021a], due to their distribution and abundance in the study area, behavior, and life history characteristics that make them susceptible to some of the specific stressors potentially associated with offshore wind.
+Of the large whale species that are of greatest concern listed in Table 1, baleen whales have typically been prioritized for attention with respect to offshore wind research [@southall2021a], due to their distribution and abundance in the study area, behavior, and life history characteristics that make them susceptible to some of the specific stressors potentially associated with offshore wind.
 That being said, the majority of studies describing the effects of construction and operation of windfarms on cetaceans come from Europe, where small odontocetes (dolphins and porpoise mainly) are the most common cetaceans.
-Avoidance and displacement effects, at ranges up to 10-26 km from the whole footprint of offshore windfarms during construction have been reported [@benhemmalegall2021; @brandt2016; @brandt2018; @dähne2013; @dähne2017; @graham2019; @graham2023]. 
+Avoidance and displacement effects, at ranges up to 10-26 km from the whole footprint of offshore windfarms during construction have been reported [@benhemmalegall2021; @brandt2016; @brandt2018; @dähne2013; @dähne2017; @graham2019; @graham2023].
 These studies indicate that the distance and duration of avoidance is related to received noise, which is further influenced by source level, sound propagation conditions, hearing range of the studied species, distance to the noise source, duration of exposure, level and type of mitigation and presence of other noise sources like construction vessels.
-There is variation among studies in the time reported for animal behaviour to return to pre-construction levels, from hours [@dähne2017a] and days [@brandt2018a] to years [@teilmann2012], which also suggest that operation of offshore windfarms may also affect cetacean behavior.
+There is variation among studies in the time reported for animal behavior to return to pre-construction levels, from hours [@dähne2017a] and days [@brandt2018a] to years [@teilmann2012], which also suggest that operation of offshore windfarms may also affect cetacean behavior.
 Tagging data from Europe around wind energy sites suggest that harbor and grey seals either habituate quickly or may take advantage of the wind farm physical structures as a foraging opportunity [@russell2016].
 
 Kraus et al. 2019 summarized the potential short-term and long-term effects of offshore wind development on marine mammals and sea turtles in Massachusetts and Rhode Island Wind Energy Areas.
@@ -242,7 +242,7 @@ Additional recommendations for the implementation of a regional scale passive ac
 
 The Subcommittee recommends the following regional-scale data collection efforts:
 
--   (Cross taxa) Leveraging BOEM's and NOAA's ongoing efforts, ensure that the required Protected Species Observer data collected by offshore wind companies during construction and operations via Pile Driving Monitoring Plans and Vessel Strike Avoidance Plans (and any other mitigation plans) follows a consistent reporting approach and is eventually submitted to a Master Protected Species Observer Sightings Database for use in marine mammal analyses and research.
+-   (Cross taxa) Leveraging BOEM and NOAA's ongoing efforts, ensure that the required Protected Species Observer data collected by offshore wind companies during construction and operations via Pile Driving Monitoring Plans and Vessel Strike Avoidance Plans (and any other mitigation plans) follows a consistent reporting approach and is eventually submitted to a Master Protected Species Observer Sightings Database for use in marine mammal analyses and research.
 
 -   Ensure that other marine mammal and environmental data collection required by the agencies during installation (e.g., sound fields, visual monitoring, PAM, thermal/infrared camera systems) are collected using consistent methods such that data can be used in other analyses and research including broader scale analyses of potential impacts across many projects.
 
@@ -254,7 +254,7 @@ The Subcommittee recommends the following regional-scale data collection efforts
 
 -   Collect marine mammal behavioral and health data through tagging and visual observations to determine how individuals interact with wind farm structures and whether changes to foraging, socializing, or reproduction are occurring.
 
--   In collaboration with NOAA Fisheries, continue and expand stranding data collection and analysis with respect to strandings and mortality data time series analysis for the U.S.
+-   In collaboration with NOAA Fisheries, continue and expand stranding data collection and analysis with respect to stranding and mortality data time series analysis for the U.S.
     Atlantic Ocean.
 
 -   Monitor entanglement with subsea structure of floating offshore wind structures and monitor secondary entanglement where derelict fishing gear/marine debris may attach to subsurface offshore wind structures.
@@ -275,7 +275,7 @@ There is a need to advance technologies that improve marine mammal detection dur
 -   Develop, evaluate performance, and apply existing and emerging technologies that enhance marine mammal detection, including thermal cameras, infrared cameras, passive acoustics systems, and systems that integrate multiple methods for use during construction and operational monitoring and mitigation.
     Test "smart" mitigation methods triggered by marine mammal presence as determined by these systems.
 
--   Advance quieting technologies meant to mitigate construction noise (piledriving, vessel traffic) and operational noise (vessel traffic, operational vibratory sound).
+-   Advance quieting technologies meant to mitigate construction noise (pile driving, vessel traffic) and operational noise (vessel traffic, operational vibratory sound).
 
 -   Develop and deploy safe long-duration satellite tagging telemetry technology for tracking high-resolution movements of marine mammals in and around offshore wind structures.
 
