@@ -1,1 +1,199 @@
 # Birds {#sec-append-birds}
+
+## Introduction
+
+This chapter of the RWSC Science Plan addresses bird research and associated scientific needs in the context of offshore wind development.
+The plan is intended to reflect the research and data collection needs of RWSC\'s four Sectors with input from the science community.
+The plan will provide a path forward to ensure appropriate data collection protocols and standards are in place to support scientific research; this document can also provide a framework that can aid RWSC participants in coordinating and aligning funding to carry out necessary scientific activities.
+
+This plan benefits greatly from the contributions of RWSC Bird & Bat Subcommittee members; researchers, managers, and other practitioners who joined Subcommittee calls; and the many scientists who conducted research or developed reference materials referenced throughout this plan.
+
+Following this introduction, the first section of the chapter discusses the species of birds which occur within the RWSC Study Area.
+The species section is followed by a brief section summarizing primary sources of information about species\' distributions.
+The next section of this chapter discusses potential effects (negative or positive) of offshore wind development on bird species.
+The following section summarizes common field research methods for the study of birds, with a focus on the offshore environment.
+The subsequent section addresses the major research topics relevant to birds in the context of offshore wind development. 
+The remainder of the chapter addresses recommended science actions of value to the four sectors that make up RWSC (state and federal agencies, eNGOs, and the offshore wind industry), in the context of recent, ongoing, and pending scientific activities relevant to recommended actions.
+
+## Species
+
+This chapter addresses bird species (Class Aves) which could be at risk from offshore wind development occurring in the Northwest Atlantic within U.S. waters. 
+For the purposes of this plan, the geographic area of interest comprises the Atlantic Coast of the United States, extending from Maine\'s northern border with Canada south to the Florida Keys, and from coastal areas extending 200 nm east into the ocean, including state waters (3 nm from shore) and federal waters of the Outer Continental Shelf (3-200 nm).
+This area is referred to in this plan as the RWSC Study Area. 
+
+Hundreds of bird species occur within this area. 
+At least 416 native species are regularly found in the 14 coastal states of the U.S.
+Atlantic Coast, based on state [eBird](https://ebird.org/home) lists, U.S.
+Atlantic Coast ranges in [*Birds of the World*](https://birdsoftheworld.org/bow/home), and [Information for Planning and Consultation (IPaC)](https://ipac.ecosphere.fws.gov/) identifications of birds using North Atlantic offshore areas. 
+Many of these bird species inhabit the RWSC Study Area throughout the year. 
+Others may occur in this area exclusively during the breeding or nonbreeding season, or utilize the Atlantic Flyway for migratory movements between Canada and the Caribbean, Central America, and South America (see [@afsi2015; @newton2007; @usfws2023]).
+
+A number of these species can be expected to experience impacts from offshore wind development, including collision fatalities, displacement, attraction, barrier effects associated with avoidance, and effects on abiotic habitat features and prey populations (see [@seer2022a]); indirect effects of offshore wind energy development, like climate change mitigation, can also be expected.
+While the focus of this plan is on offshore impacts of offshore wind development, potential onshore impacts of offshore wind on bird species are also possible.
+For example, excavation efforts where transmission cables are coming ashore from offshore facilities could affect beach-nesting birds. 
+Therefore, bird species which primarily or solely occur in the onshore environment along the U.S.
+Atlantic Coast are also included within the scope of this plan, although they are not the focus of the bulk of this chapter.
+
+All 416 species that occur in the RWSC Study Area are included in [RWSC\'s Bird List,](https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d) a spreadsheet intended to be updated regularly to provide a complete listing of and basic information about the current regulatory and conservation status of relevant bird species, as well as characteristics relevant to exposure and vulnerability to offshore wind impacts.
+Vagrants, rare visitors to U.S.
+Atlantic waters, and non-native species are not included in the list. 
+
+For additional summary information about the types of birds that occur in the RWSC Study Area, see RWSC\'s *Bird Descriptions by Category* \[forthcoming in 2024\].
+Bird \"categories\" are loosely based on taxonomy, but also incorporate considerations relevant to offshore wind.
+This resource provides basic information about categories of birds and their life histories as relevant to their exposure and potential vulnerability to offshore wind development. 
+These sections also address other conservation threats facing these species, which could be of interest in investigating potential impacts of offshore wind or offsetting its effects. 
+Species at particular risk from offshore wind development due to their life histories or conservation status are highlighted. 
+
+Within this plan, some science recommendations are discussed within the context of five subregions of the RWSC Study Area: the Gulf of Maine, Southern New England, New York/New Jersey Bight, U.S. Central Atlantic, and U.S.
+Southeast Atlantic (see @sec-intro). 
+Avian assemblages and ecology may vary considerably over this geographic area. 
+The Gulf of Maine subregion, located at the northern edge of the Study Area, with deeper water depths and a complex coastal topography (many islands, peninsulas, and inlets), includes a suite of species adapted to colder waters and more northern climes.
+Several alcid species breed along the Maine coast but are not found breeding in other states; colonies of breeding Arctic Terns and Black Terns, likewise, are only found in Maine.
+At the opposite end of the Study Area, many birds of more tropical regions, like whistling-ducks, Limpkins, and American Flamingos, are only found in Florida. 
+
+### Regulatory Status
+
+Many bird species are protected via federal regulations. 
+Important and relevant federal laws include the following:
+
+[**Endangered Species Act (ESA).** ](https://www.fws.gov/law/endangered-species-act)Currently 16 bird species that regularly occur in the RWSC Study Area are listed as Threatened or Endangered under the federal ESA (see [RWSC Bird List](https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d)), including two shorebird species (the Piping Plover, Red Knot) and three seabirds (Roseate Tern, Bermuda Petrel, Band-rumped Storm-petrel). 
+In addition, the [Black-capped Petrel](https://ecos.fws.gov/ecp/species/4748) has been proposed for listing as Threatened [@usfws2023a].
+The ESA places strict limits on the import, export, sale, possession, transportation, or \"take\" of listed species, with \"take\" defined as \"to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct.\" The ESA also allows for the designation of critical habitat for a species and prohibits the destruction of that habitat.
+
+[**Migratory Bird Treaty Act (MBTA).**](https://www.fws.gov/law/migratory-bird-treaty-act-1918) Nearly all the birds that occur in the RWSC Study Area are afforded protection under the MBTA (see [RWSC Bird List](https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d)).
+The MBTA was enacted in 1918 to implement four international conservation treaties that the U.S. entered into with Canada, Mexico, Japan, and Russia (several of which were amended in more recent years).
+The MBTA covers over 1,000 bird species and is intended to ensure the sustainability of their populations.
+The MBTA prohibits the take (including killing, capturing, selling, trading, and transport) of protected migratory bird species without prior authorization by the USFWS.
+Of greatest relevance to offshore wind development is the prohibition of incidental take, that is the taking or killing of migratory birds that results from, but is not the purpose of, a lawful activity [@usfws2021].
+The USFWS prioritizes for enforcement incidental take that results from activities by a public- or private-sector entity that are otherwise legal and foreseeable, and occurs where known general or activity-specific beneficial practices were not implemented [@usfws2021].
+The USFWS is currently in a rulemaking process as the Service considers developing proposed regulations to authorize the incidental take of migratory birds [@usfws2023a].
+
+[**Bald and Golden Eagle Protection Act (BGEPA).** ](https://www.fws.gov/law/bald-and-golden-eagle-protection-act)The BGEPA is more limited in scope than the two proceeding regulations.
+It protects Bald and Golden Eagles, both of which occur in the RWSC Study Area, prohibiting take of individuals, as well as their parts (e.g., feathers), nests, or eggs.
+The Act defines "take" as "pursue, shoot, shoot at, poison, wound, kill, capture, trap, collect, molest or disturb." Regulations further define "disturb" as \"to agitate or bother a bald or golden eagle to a degree that causes, or is likely to cause, based on the best scientific information available, 1) injury to an eagle, 2) a decrease in its productivity, by substantially interfering with normal breeding, feeding, or sheltering behavior, or 3) nest abandonment, by substantially interfering with normal breeding, feeding, or sheltering behavior" (50 CFR 22.6).
+
+In addition to federal regulations, most states maintain a list of rare species which are afforded special protections under a state-level Endangered Species Act or other state statute.
+Over 150 bird species are protected by these state laws in the 14 states of the RWSC Study Area.
+Individual State Wildlife Action Plans also identify Species of Greatest Conservation Need (SGCN) which serve as foci for research and conservation efforts.
+At least two-thirds of U.S.
+Atlantic Coast birds are listed as SGCN in one or more states (see [RWSC Bird List](https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d)).
+
+### Defining Focal Species
+
+While some scientific research methods will provide information about a variety of taxa (e.g., aerial surveys), other research methods (e.g., tagging) must by nature be species-specific. 
+Since over 400 bird species occur regularly or occasionally in the 14 states of the U.S.
+Atlantic Coast, it is not practicable to study all these species using species-specific methods. 
+For certain purposes, therefore, there is a need to identify birds which should serve as focal species for species-specific field research studies and other scientific activities.
+
+In developing a framework to guide identification of focal species for these types of studies, the RWSC Bird & Bat Subcommittee began with criteria identified in a NYSERDA Stakeholder Workshop [@gulka2020]. 
+Through Subcommittee discussions, the list of criteria was slightly expanded to read as follows. 
+Focal species could include:
+
+-   **Threatened and endangered species** (federal and/or state-listed)
+
+-   **Species otherwise designated as of conservation concern** (e.g., Species of Greatest Conservation Need \[SGCN\] in State Wildlife Action Plans, regional SGCN \[[Northeast](https://northeastwildlifediversity.org/rsgcn) and [Southeast](https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species)\], state-listed \"special concern\" species, or proposed/candidate endangered species)
+
+-   **Other federally regulated species** (i.e., species protected under MBTA or BGEPA)
+
+-   **Surrogates for rare species**, which may be the best available proxy to study and understand rare species\' movements, behaviors, or expected effects of offshore wind development.
+    (The Subcommittee recognizes that there are not perfect surrogates for the rare species themselves, but for some rare species, using a surrogate may be the best available option.)
+
+-   **Species or taxa known or suspected of being sensitive to impacts from offshore wind development** due to existing information and/or aspects of their life history which might render them susceptible to offshore wind. 
+    (Existing information could come from pilot studies in North America, or from longer-term studies in Europe, where more research has been conducted to date.  Life history aspects that inform risk could include foraging strategy, flight height distributions, sensitivity to other anthropogenic disturbances, or overlap between areas of high densities for a species and Wind Energy Areas). 
+    Focusing on species for which significant impacts are anticipated can increase the likelihood of having the power to detect change in a given study or studies [@nyserdaetwg].
+
+-   Within a taxon or guild anticipated to be sensitive to offshore wind, **species with high levels of existing baseline data**, and whose population parameters (e.g., productivity, survival) can more easily be measured.
+
+-   **Species or taxa for which very little is known about potential impacts**, because there has not yet been significant offshore development in their habitats (e.g., pelicans).
+
+As noted previously, at least two-thirds of bird species that occur in the RWSC Study Area are listed as Species of Greatest Conservation Need in one or more states.
+This categorization therefore is not particularly helpful in developing a limited list of species for consideration as focal species. 
+In addition, the category of \"other federally regulated species\" includes species protected under the Migratory Bird Treaty Act.
+The regulation covers nearly all bird species in the RWSC Study Area, with the exception of some species in the Orders Gruiformes and Galliformes. 
+This protection is important from a regulatory and conservation standpoint, but it is not helpful in developing a priority list of focal species.
+
+Geography is important to consider when identifying focal species. 
+Species distributions, abundance, and seasons of occurrence vary broadly across the five subregions of the RWSC Study Area. 
+These differences are important to consider when identifying focal species for species-specific studies within a given subregion. 
+If a particular marine bird or shorebird, for example, only breeds within one or two subregions, these areas will naturally be the focus for breeding season studies.
+In addition, it may be important to focus studies in certain subregions where a species of interest is most common and abundant, so as to obtain a sufficient sample size The state listing status of a species and associated level of conservation concern may also vary by state and is important to factor into decision-making.
+
+This Science Plan recommends that the RWSC Bird & Bat Subcommittee develop and maintain a shared bird exposure/risk vulnerability matrix to aid in the periodic prioritization of focal species by geography, lease area, and research topic (see Section 6).
+
+### Regional Coastal and Offshore Distribution Information
+
+This section addresses sources of mapped bird distributions in coastal and offshore environments which span the entire RWSC Study Area region. 
+The resources detailed below have been developed based on data drawn from many smaller-scale studies and incorporated into larger databases or (in the case of defining critical habitat) collated as part of regulatory review. 
+
+In addition to these sources, many individual organizations and researchers collect and analyze bird distribution data relevant to one or more species for use at a local, state, or subregional scale. 
+For example, many states survey nesting birds (including shorebirds and marine birds) and some, like New York, maintain a [Breeding Bird Atlas](https://www.dec.ny.gov/animals/7312.html). 
+The USGS and Environment Canada maintain data from the North American [Breeding Bird Survey](https://www.pwrc.usgs.gov/bbs/) (BBS), covering the continental U.S. and Canada. 
+Some of this information is also captured in National Audubon efforts, including the [Christmas Bird Count](https://www.audubon.org/conservation/science/christmas-bird-count) and [Important Bird Areas](https://gis.audubon.org/portal/apps/sites/?_gl=1*1ghr9zs*_ga*MTg2ODM4MzY2NS4xNjk4Njc5Njgz*_ga_X2XNL2MWTT*MTY5ODc3NTExNS4yLjEuMTY5ODc3NTExNi41OS4wLjA.#/nas-hub-site). 
+
+A compilation of all of these individual sources of bird distribution data is outside the scope of this Science Plan. 
+However, this plan includes recommendations to include all newly collected survey and tracking data in regional databases, as well as recommendations for further compilation of historic data into these databases (see Section 6).
+
+#### Marine Bird Distribution Maps
+
+One of the most comprehensive analyses of marine bird distributions in the RWSC Study Area was conducted by Winship et al. [@winship2018].
+Over 30 years of survey data contained in the Northwest Atlantic Seabird Catalog database, along with Eastern Canada Seabirds at Sea data from Canadian Wildlife Service, were analyzed using spatial predictive modeling to derive seasonal maps of the spatial distributions of 47 marine bird species in U.S.
+Atlantic Outer Continental Shelf and adjacent waters from Florida to Maine.
+Model predictions are presented as seasonal maps of the relative density of each study species, indicating where they are anticipated to be more or less abundant. 
+The analysis was designed to provide relative density, and does not purport to estimate the actual number of individuals/density of a given species that would be expected in any specific location.
+The maps were reviewed by experts with experience and knowledge of marine birds in the study area and their comments were incorporated into the accompanying report.
+
+Through funding from BOEM, these maps were updated by NCCOS between 2020-2023 [@**review].
+As an additional component of this project, predicted changes in oceanographic conditions were used to project changes in distribution of several marine bird species in the context of climate change.
+
+#### eBird Maps
+
+eBird is a project of the Cornell Lab of Ornithology and collaborators which collects and analyzes information about bird sightings by expert and citizen scientists in terrestrial and marine environments. 
+Birders enter when, where, and how they went birding, and then fill out a checklist of all the birds seen and heard. 
+In some cases, data submitters may be following specific protocols, such as that of the [International Shorebird Survey](https://www.manomet.org/project/international-shorebird-survey/). 
+The eBird Science team uses statistical models and machine learning to analyze patterns of abundance, distribution, and migratory movements.
+Raw [eBird data](https://science.ebird.org/en) are combined with high-resolution satellite imagery from NASA, NOAA, and USGS to estimate population trends and to predict distribution and abundance of bird species for every week of the year.
+
+Because these data are often collected based on incidental observations and include limited offshore data, the marine bird distribution maps described above are considered of greater value for the marine birds included in that analysis than eBird maps. 
+eBird data are nevertheless valuable for species not modelled in the maps described above. 
+Additionally, they can provide valuable information about coastal distributions of marine birds, shorebirds, and other species.
+
+#### Tracking Data
+
+[Motus](https://motus.org/) and [Movebank](https://www.movebank.org/cms/movebank-main) are two databases that house data collected from automated VHF tagging/tracking and other types of tagging/tracking respectively. 
+These databases provide centralized locations for viewing tracking data from multiple studies, although summary products are fairly simplistic and comprehensive analyses of bird distributions are not available through these sites. 
+They are described in more detail in [Recommended Database Summaries](https://rwscorg.sharepoint.com/:w:/s/BirdandBatSubcommittee/EYdNwelv5IBHp6_EQPGFGPQBnsqkagkaHGNpaXUDnqfYRQ?e=wK1CV9).
+
+#### Identified Critical Habitat
+
+For bird species listed as Threatened or Endangered under the federal Endangered Species Act, the USFWS is required to determine whether there are identifiable areas that meet the definition of \"critical habitat\" [@usfws2003]. 
+Critical habitat is defined as:
+
+-   Specific areas within the geographical area occupied by the species at the time of listing that contain physical or biological features essential to conservation of the species and that may require special management considerations or protection; and
+
+-   Specific areas outside the geographical area occupied by the species if the agency determines that the area itself is essential for conservation.
+
+There are 16 bird species occurring along the U.S.
+Atlantic that are identified as Threatened or Endangered across some or all of their range. 
+In addition, the Black-capped Petrel has been proposed for listing as Threatened. 
+Of these species, most either do not have critical habitat defined, or identified habitats do not occur in coastal areas. 
+Defined critical terrestrial habitats could be relevant to where cables come ashore to connect to grid infrastructure, but are not broadly relevant to offshore wind infrastructure development. 
+Critical habitat for the five listed and one proposed shorebird and marine bird species that occur along the Atlantic Coast is summarized below:
+
+-   The Atlantic Coast breeding population of [**Piping Plovers**](https://ecos.fws.gov/ecp/species/6039) is considered Threatened. 
+    Critical habitat for the wintering population of Piping Plovers along the U.S.
+    Atlantic Coast was designated in 2001 and updated in 2008 (see[@usfws2008]).
+
+-   A new definition of critical habitat for the Threatened [**Red Knot**](https://ecos.fws.gov/ecp/species/1864) was proposed in April 2023. 
+    The proposed revised definition includes coastal areas of Massachusetts, New York, New Jersey, Delaware, Virginia, North Carolina, South Carolina, Georgia, and Florida, which are described in detail [here](https://www.govinfo.gov/content/pkg/FR-2023-04-13/pdf/2023-06619.pdf).
+     
+
+-   The northeastern breeding population of the [**Roseate Tern**](https://www.fws.gov/species/roseate-tern-sterna-dougallii-dougallii) is considered Endangered; it occurs through much of the RWSC Study Area, from Maine south to South Carolina (breeding Maine to New York). 
+    The [Caribbean breeding population](https://ecos.fws.gov/ecp/species/B07O), which is considered Threatened, occurs north into the Florida Keys. 
+    No critical habitat has been defined for this species.
+
+-   No critical habitat has been defined for the [Bermuda Petrel](https://ecos.fws.gov/ecp/species/3507) or [Band-rumped Storm-Petrel](https://ecos.fws.gov/ecp/species/1226), both of which nest outside of the RWSC Study Area.
+
+-   The [Black-capped Petrel](https://ecos.fws.gov/ecp/species/4748) has been proposed for Threatened status. 
+    No critical habitat has been defined for this species.
+
+## Potential Effects of Offshore Wind on Birds

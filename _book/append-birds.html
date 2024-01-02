@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -80,33 +99,25 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="dropdown-header">
- <span class="menu-text">menu</span></li>
-</ul>
-            <div class="quarto-navbar-tools">
+        <div class="quarto-navbar-tools ms-auto">
     <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://twitter.com/intent/tweet?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://twitter.com/intent/tweet?url=|url|">
               <i class="bi bi-bi-twitter pe-1"></i>
             Twitter
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
               <i class="bi bi-bi-facebook pe-1"></i>
             Facebook
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
               <i class="bi bi-bi-linkedin pe-1"></i>
             LinkedIn
             </a>
@@ -114,7 +125,6 @@ ul.task-list li input[type="checkbox"] {
       </ul>
     </div>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
@@ -139,10 +149,6 @@ ul.task-list li input[type="checkbox"] {
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-      <div class="sidebar-tools-main">
-    <a href="https://rwsc.org" rel="" title="rwsc.org" class="quarto-navigation-tool px-1" aria-label="rwsc.org"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/RWSCollab/science-plan" rel="" title="github" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
-</div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -325,7 +331,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The Science Plan is under construction 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC website 🌐</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues">Open an issue ❔</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction"><span class="header-section-number">E.1</span> Introduction</a></li>
+    <li><a href="#species" id="toc-species" class="nav-link" data-scroll-target="#species"><span class="header-section-number">E.2</span> Species</a>
+    <ul class="collapse">
+    <li><a href="#regulatory-status" id="toc-regulatory-status" class="nav-link" data-scroll-target="#regulatory-status"><span class="header-section-number">E.2.1</span> Regulatory Status</a></li>
+    <li><a href="#defining-focal-species" id="toc-defining-focal-species" class="nav-link" data-scroll-target="#defining-focal-species"><span class="header-section-number">E.2.2</span> Defining Focal Species</a></li>
+    <li><a href="#regional-coastal-and-offshore-distribution-information" id="toc-regional-coastal-and-offshore-distribution-information" class="nav-link" data-scroll-target="#regional-coastal-and-offshore-distribution-information"><span class="header-section-number">E.2.3</span> Regional Coastal and Offshore Distribution Information</a></li>
+    </ul></li>
+    <li><a href="#potential-effects-of-offshore-wind-on-birds" id="toc-potential-effects-of-offshore-wind-on-birds" class="nav-link" data-scroll-target="#potential-effects-of-offshore-wind-on-birds"><span class="header-section-number">E.3</span> Potential Effects of Offshore Wind on Birds</a></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-birds.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -339,12 +363,6 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>RWSC Steering Committee </p>
-          </div>
-  </div>
     
   
     
@@ -353,8 +371,122 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="introduction" class="level2" data-number="E.1">
+<h2 data-number="E.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">E.1</span> Introduction</h2>
+<p>This chapter of the RWSC Science Plan addresses bird research and associated scientific needs in the context of offshore wind development. The plan is intended to reflect the research and data collection needs of RWSC's four Sectors with input from the science community. The plan will provide a path forward to ensure appropriate data collection protocols and standards are in place to support scientific research; this document can also provide a framework that can aid RWSC participants in coordinating and aligning funding to carry out necessary scientific activities.</p>
+<p>This plan benefits greatly from the contributions of RWSC Bird &amp; Bat Subcommittee members; researchers, managers, and other practitioners who joined Subcommittee calls; and the many scientists who conducted research or developed reference materials referenced throughout this plan.</p>
+<p>Following this introduction, the first section of the chapter discusses the species of birds which occur within the RWSC Study Area. The species section is followed by a brief section summarizing primary sources of information about species' distributions. The next section of this chapter discusses potential effects (negative or positive) of offshore wind development on bird species. The following section summarizes common field research methods for the study of birds, with a focus on the offshore environment. The subsequent section addresses the major research topics relevant to birds in the context of offshore wind development.&nbsp; The remainder of the chapter addresses recommended science actions of value to the four sectors that make up RWSC (state and federal agencies, eNGOs, and the offshore wind industry), in the context of recent, ongoing, and pending scientific activities relevant to recommended actions.</p>
+</section>
+<section id="species" class="level2" data-number="E.2">
+<h2 data-number="E.2" class="anchored" data-anchor-id="species"><span class="header-section-number">E.2</span> Species</h2>
+<p>This chapter addresses bird species (Class Aves) which could be at risk from offshore wind development occurring in the Northwest Atlantic within U.S. waters.&nbsp; For the purposes of this plan, the geographic area of interest comprises the Atlantic Coast of the United States, extending from Maine's northern border with Canada south to the Florida Keys, and from coastal areas extending 200 nm east into the ocean, including state waters (3 nm from shore) and federal waters of the Outer Continental Shelf (3-200 nm). This area is referred to in this plan as the RWSC Study Area.&nbsp;</p>
+<p>Hundreds of bird species occur within this area.&nbsp; At least 416 native species are regularly found in the 14 coastal states of the U.S. Atlantic Coast, based on state <a href="https://ebird.org/home">eBird</a> lists, U.S. Atlantic Coast ranges in <a href="https://birdsoftheworld.org/bow/home"><em>Birds of the World</em></a>, and <a href="https://ipac.ecosphere.fws.gov/">Information for Planning and Consultation (IPaC)</a> identifications of birds using North Atlantic offshore areas.&nbsp; Many of these bird species inhabit the RWSC Study Area throughout the year.&nbsp; Others may occur in this area exclusively during the breeding or nonbreeding season, or utilize the Atlantic Flyway for migratory movements between Canada and the Caribbean, Central America, and South America (see <span class="citation" data-cites="afsi2015 newton2007 usfws2023">(<a href="references.html#ref-afsi2015" role="doc-biblioref">AFSI, 2015</a>; <a href="references.html#ref-newton2007" role="doc-biblioref">Newton, 2007</a>; <a href="references.html#ref-usfws2023" role="doc-biblioref">USFWS, 2023a</a>)</span>).</p>
+<p>A number of these species can be expected to experience impacts from offshore wind development, including collision fatalities, displacement, attraction, barrier effects associated with avoidance, and effects on abiotic habitat features and prey populations (see <span class="citation" data-cites="seer2022a">(<a href="references.html#ref-seer2022a" role="doc-biblioref">SEER, 2022</a>)</span>); indirect effects of offshore wind energy development, like climate change mitigation, can also be expected. While the focus of this plan is on offshore impacts of offshore wind development, potential onshore impacts of offshore wind on bird species are also possible. For example, excavation efforts where transmission cables are coming ashore from offshore facilities could affect beach-nesting birds.&nbsp; Therefore, bird species which primarily or solely occur in the onshore environment along the U.S. Atlantic Coast are also included within the scope of this plan, although they are not the focus of the bulk of this chapter.</p>
+<p>All 416 species that occur in the RWSC Study Area are included in <a href="https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d">RWSC's Bird List,</a> a spreadsheet intended to be updated regularly to provide a complete listing of and basic information about the current regulatory and conservation status of relevant bird species, as well as characteristics relevant to exposure and vulnerability to offshore wind impacts. Vagrants, rare visitors to U.S. Atlantic waters, and non-native species are not included in the list.&nbsp;</p>
+<p>For additional summary information about the types of birds that occur in the RWSC Study Area, see RWSC's <em>Bird Descriptions by Category</em> [forthcoming in 2024]. Bird "categories" are loosely based on taxonomy, but also incorporate considerations relevant to offshore wind. This resource provides basic information about categories of birds and their life histories as relevant to their exposure and potential vulnerability to offshore wind development.&nbsp; These sections also address other conservation threats facing these species, which could be of interest in investigating potential impacts of offshore wind or offsetting its effects.&nbsp; Species at particular risk from offshore wind development due to their life histories or conservation status are highlighted.&nbsp;</p>
+<p>Within this plan, some science recommendations are discussed within the context of five subregions of the RWSC Study Area: the Gulf of Maine, Southern New England, New York/New Jersey Bight, U.S. Central Atlantic, and U.S. Southeast Atlantic (see <a href="intro.html"><span>Chapter&nbsp;1</span></a>).&nbsp; Avian assemblages and ecology may vary considerably over this geographic area.&nbsp; The Gulf of Maine subregion, located at the northern edge of the Study Area, with deeper water depths and a complex coastal topography (many islands, peninsulas, and inlets), includes a suite of species adapted to colder waters and more northern climes. Several alcid species breed along the Maine coast but are not found breeding in other states; colonies of breeding Arctic Terns and Black Terns, likewise, are only found in Maine. At the opposite end of the Study Area, many birds of more tropical regions, like whistling-ducks, Limpkins, and American Flamingos, are only found in Florida.&nbsp;</p>
+<section id="regulatory-status" class="level3" data-number="E.2.1">
+<h3 data-number="E.2.1" class="anchored" data-anchor-id="regulatory-status"><span class="header-section-number">E.2.1</span> Regulatory Status</h3>
+<p>Many bird species are protected via federal regulations.&nbsp; Important and relevant federal laws include the following:</p>
+<p><a href="https://www.fws.gov/law/endangered-species-act"><strong>Endangered Species Act (ESA).</strong></a>Currently 16 bird species that regularly occur in the RWSC Study Area are listed as Threatened or Endangered under the federal ESA (see <a href="https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d">RWSC Bird List</a>), including two shorebird species (the Piping Plover, Red Knot) and three seabirds (Roseate Tern, Bermuda Petrel, Band-rumped Storm-petrel).&nbsp; In addition, the <a href="https://ecos.fws.gov/ecp/species/4748">Black-capped Petrel</a> has been proposed for listing as Threatened <span class="citation" data-cites="usfws2023a">(<a href="references.html#ref-usfws2023a" role="doc-biblioref">USFWS, 2023b</a>)</span>. The ESA places strict limits on the import, export, sale, possession, transportation, or "take" of listed species, with "take" defined as "to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct." The ESA also allows for the designation of critical habitat for a species and prohibits the destruction of that habitat.</p>
+<p><a href="https://www.fws.gov/law/migratory-bird-treaty-act-1918"><strong>Migratory Bird Treaty Act (MBTA).</strong></a> Nearly all the birds that occur in the RWSC Study Area are afforded protection under the MBTA (see <a href="https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d">RWSC Bird List</a>). The MBTA was enacted in 1918 to implement four international conservation treaties that the U.S. entered into with Canada, Mexico, Japan, and Russia (several of which were amended in more recent years). The MBTA covers over 1,000 bird species and is intended to ensure the sustainability of their populations. The MBTA prohibits the take (including killing, capturing, selling, trading, and transport) of protected migratory bird species without prior authorization by the USFWS. Of greatest relevance to offshore wind development is the prohibition of incidental take, that is the taking or killing of migratory birds that results from, but is not the purpose of, a lawful activity <span class="citation" data-cites="usfws2021">(<a href="references.html#ref-usfws2021" role="doc-biblioref">USFWS, 2021</a>)</span>. The USFWS prioritizes for enforcement incidental take that results from activities by a public- or private-sector entity that are otherwise legal and foreseeable, and occurs where known general or activity-specific beneficial practices were not implemented <span class="citation" data-cites="usfws2021">(<a href="references.html#ref-usfws2021" role="doc-biblioref">USFWS, 2021</a>)</span>. The USFWS is currently in a rulemaking process as the Service considers developing proposed regulations to authorize the incidental take of migratory birds <span class="citation" data-cites="usfws2023a">(<a href="references.html#ref-usfws2023a" role="doc-biblioref">USFWS, 2023b</a>)</span>.</p>
+<p><a href="https://www.fws.gov/law/bald-and-golden-eagle-protection-act"><strong>Bald and Golden Eagle Protection Act (BGEPA).</strong></a>The BGEPA is more limited in scope than the two proceeding regulations. It protects Bald and Golden Eagles, both of which occur in the RWSC Study Area, prohibiting take of individuals, as well as their parts (e.g., feathers), nests, or eggs. The Act defines “take” as “pursue, shoot, shoot at, poison, wound, kill, capture, trap, collect, molest or disturb.” Regulations further define “disturb” as "to agitate or bother a bald or golden eagle to a degree that causes, or is likely to cause, based on the best scientific information available, 1) injury to an eagle, 2) a decrease in its productivity, by substantially interfering with normal breeding, feeding, or sheltering behavior, or 3) nest abandonment, by substantially interfering with normal breeding, feeding, or sheltering behavior” (50 CFR 22.6).</p>
+<p>In addition to federal regulations, most states maintain a list of rare species which are afforded special protections under a state-level Endangered Species Act or other state statute. Over 150 bird species are protected by these state laws in the 14 states of the RWSC Study Area. Individual State Wildlife Action Plans also identify Species of Greatest Conservation Need (SGCN) which serve as foci for research and conservation efforts. At least two-thirds of U.S. Atlantic Coast birds are listed as SGCN in one or more states (see <a href="https://rwscorg.sharepoint.com/:x:/s/BirdandBatSubcommittee/ERAsPuFonjdGoLxtIeiMYdYBxV7d1avTZ7JmZvvGkAx0Kw?e=Ojl88d">RWSC Bird List</a>).</p>
+</section>
+<section id="defining-focal-species" class="level3" data-number="E.2.2">
+<h3 data-number="E.2.2" class="anchored" data-anchor-id="defining-focal-species"><span class="header-section-number">E.2.2</span> Defining Focal Species</h3>
+<p>While some scientific research methods will provide information about a variety of taxa (e.g., aerial surveys), other research methods (e.g., tagging) must by nature be species-specific.&nbsp; Since over 400 bird species occur regularly or occasionally in the 14 states of the U.S. Atlantic Coast, it is not practicable to study all these species using species-specific methods.&nbsp; For certain purposes, therefore, there is a need to identify birds which should serve as focal species for species-specific field research studies and other scientific activities.</p>
+<p>In developing a framework to guide identification of focal species for these types of studies, the RWSC Bird &amp; Bat Subcommittee began with criteria identified in a NYSERDA Stakeholder Workshop <span class="citation" data-cites="gulka2020">(<a href="references.html#ref-gulka2020" role="doc-biblioref">Gulka and Williams, 2020</a>)</span>.&nbsp; Through Subcommittee discussions, the list of criteria was slightly expanded to read as follows.&nbsp; Focal species could include:</p>
+<ul>
+<li><p><strong>Threatened and endangered species</strong> (federal and/or state-listed)</p></li>
+<li><p><strong>Species otherwise designated as of conservation concern</strong> (e.g., Species of Greatest Conservation Need [SGCN] in State Wildlife Action Plans, regional SGCN [<a href="https://northeastwildlifediversity.org/rsgcn">Northeast</a> and <a href="https://www.nwf.org/Our-Work/Wildlife-Conservation/southeast-regional-priority-species">Southeast</a>], state-listed "special concern" species, or proposed/candidate endangered species)</p></li>
+<li><p><strong>Other federally regulated species</strong> (i.e., species protected under MBTA or BGEPA)</p></li>
+<li><p><strong>Surrogates for rare species</strong>, which may be the best available proxy to study and understand rare species' movements, behaviors, or expected effects of offshore wind development. (The Subcommittee recognizes that there are not perfect surrogates for the rare species themselves, but for some rare species, using a surrogate may be the best available option.)</p></li>
+<li><p><strong>Species or taxa known or suspected of being sensitive to impacts from offshore wind development</strong> due to existing information and/or aspects of their life history which might render them susceptible to offshore wind.&nbsp; (Existing information could come from pilot studies in North America, or from longer-term studies in Europe, where more research has been conducted to date.&nbsp; Life history aspects that inform risk could include foraging strategy, flight height distributions, sensitivity to other anthropogenic disturbances, or overlap between areas of high densities for a species and Wind Energy Areas).&nbsp; Focusing on species for which significant impacts are anticipated can increase the likelihood of having the power to detect change in a given study or studies <span class="citation" data-cites="nyserdaetwg">(<a href="references.html#ref-nyserdaetwg" role="doc-biblioref">NYSERDA ETWG, n.d.</a>)</span>.</p></li>
+<li><p>Within a taxon or guild anticipated to be sensitive to offshore wind, <strong>species with high levels of existing baseline data</strong>, and whose population parameters (e.g., productivity, survival) can more easily be measured.</p></li>
+<li><p><strong>Species or taxa for which very little is known about potential impacts</strong>, because there has not yet been significant offshore development in their habitats (e.g., pelicans).</p></li>
+</ul>
+<p>As noted previously, at least two-thirds of bird species that occur in the RWSC Study Area are listed as Species of Greatest Conservation Need in one or more states. This categorization therefore is not particularly helpful in developing a limited list of species for consideration as focal species.&nbsp; In addition, the category of "other federally regulated species" includes species protected under the Migratory Bird Treaty Act. The regulation covers nearly all bird species in the RWSC Study Area, with the exception of some species in the Orders Gruiformes and Galliformes.&nbsp; This protection is important from a regulatory and conservation standpoint, but it is not helpful in developing a priority list of focal species.</p>
+<p>Geography is important to consider when identifying focal species.&nbsp; Species distributions, abundance, and seasons of occurrence vary broadly across the five subregions of the RWSC Study Area.&nbsp; These differences are important to consider when identifying focal species for species-specific studies within a given subregion.&nbsp; If a particular marine bird or shorebird, for example, only breeds within one or two subregions, these areas will naturally be the focus for breeding season studies. In addition, it may be important to focus studies in certain subregions where a species of interest is most common and abundant, so as to obtain a sufficient sample size The state listing status of a species and associated level of conservation concern may also vary by state and is important to factor into decision-making.</p>
+<p>This Science Plan recommends that the RWSC Bird &amp; Bat Subcommittee develop and maintain a shared bird exposure/risk vulnerability matrix to aid in the periodic prioritization of focal species by geography, lease area, and research topic (see Section 6).</p>
+</section>
+<section id="regional-coastal-and-offshore-distribution-information" class="level3" data-number="E.2.3">
+<h3 data-number="E.2.3" class="anchored" data-anchor-id="regional-coastal-and-offshore-distribution-information"><span class="header-section-number">E.2.3</span> Regional Coastal and Offshore Distribution Information</h3>
+<p>This section addresses sources of mapped bird distributions in coastal and offshore environments which span the entire RWSC Study Area region.&nbsp; The resources detailed below have been developed based on data drawn from many smaller-scale studies and incorporated into larger databases or (in the case of defining critical habitat) collated as part of regulatory review.&nbsp;</p>
+<p>In addition to these sources, many individual organizations and researchers collect and analyze bird distribution data relevant to one or more species for use at a local, state, or subregional scale.&nbsp; For example, many states survey nesting birds (including shorebirds and marine birds) and some, like New York, maintain a <a href="https://www.dec.ny.gov/animals/7312.html">Breeding Bird Atlas</a>.&nbsp; The USGS and Environment Canada maintain data from the North American <a href="https://www.pwrc.usgs.gov/bbs/">Breeding Bird Survey</a> (BBS), covering the continental U.S. and Canada.&nbsp; Some of this information is also captured in National Audubon efforts, including the <a href="https://www.audubon.org/conservation/science/christmas-bird-count">Christmas Bird Count</a> and <a href="https://gis.audubon.org/portal/apps/sites/?_gl=1*1ghr9zs*_ga*MTg2ODM4MzY2NS4xNjk4Njc5Njgz*_ga_X2XNL2MWTT*MTY5ODc3NTExNS4yLjEuMTY5ODc3NTExNi41OS4wLjA.#/nas-hub-site">Important Bird Areas</a>.&nbsp;</p>
+<p>A compilation of all of these individual sources of bird distribution data is outside the scope of this Science Plan.&nbsp; However, this plan includes recommendations to include all newly collected survey and tracking data in regional databases, as well as recommendations for further compilation of historic data into these databases (see Section 6).</p>
+<section id="marine-bird-distribution-maps" class="level4" data-number="E.2.3.1">
+<h4 data-number="E.2.3.1" class="anchored" data-anchor-id="marine-bird-distribution-maps"><span class="header-section-number">E.2.3.1</span> Marine Bird Distribution Maps</h4>
+<p>One of the most comprehensive analyses of marine bird distributions in the RWSC Study Area was conducted by Winship et al. <span class="citation" data-cites="winship2018">(<a href="references.html#ref-winship2018" role="doc-biblioref">Winship et al., 2018</a>)</span>. Over 30 years of survey data contained in the Northwest Atlantic Seabird Catalog database, along with Eastern Canada Seabirds at Sea data from Canadian Wildlife Service, were analyzed using spatial predictive modeling to derive seasonal maps of the spatial distributions of 47 marine bird species in U.S. Atlantic Outer Continental Shelf and adjacent waters from Florida to Maine. Model predictions are presented as seasonal maps of the relative density of each study species, indicating where they are anticipated to be more or less abundant.&nbsp; The analysis was designed to provide relative density, and does not purport to estimate the actual number of individuals/density of a given species that would be expected in any specific location. The maps were reviewed by experts with experience and knowledge of marine birds in the study area and their comments were incorporated into the accompanying report.</p>
+<p>Through funding from BOEM, these maps were updated by NCCOS between 2020-2023 [<span class="citation" data-cites="*"></span>*review]. As an additional component of this project, predicted changes in oceanographic conditions were used to project changes in distribution of several marine bird species in the context of climate change.</p>
+</section>
+<section id="ebird-maps" class="level4" data-number="E.2.3.2">
+<h4 data-number="E.2.3.2" class="anchored" data-anchor-id="ebird-maps"><span class="header-section-number">E.2.3.2</span> eBird Maps</h4>
+<p>eBird is a project of the Cornell Lab of Ornithology and collaborators which collects and analyzes information about bird sightings by expert and citizen scientists in terrestrial and marine environments.&nbsp; Birders enter when, where, and how they went birding, and then fill out a checklist of all the birds seen and heard.&nbsp; In some cases, data submitters may be following specific protocols, such as that of the <a href="https://www.manomet.org/project/international-shorebird-survey/">International Shorebird Survey</a>.&nbsp; The eBird Science team uses statistical models and machine learning to analyze patterns of abundance, distribution, and migratory movements. Raw <a href="https://science.ebird.org/en">eBird data</a> are combined with high-resolution satellite imagery from NASA, NOAA, and USGS to estimate population trends and to predict distribution and abundance of bird species for every week of the year.</p>
+<p>Because these data are often collected based on incidental observations and include limited offshore data, the marine bird distribution maps described above are considered of greater value for the marine birds included in that analysis than eBird maps.&nbsp; eBird data are nevertheless valuable for species not modelled in the maps described above.&nbsp; Additionally, they can provide valuable information about coastal distributions of marine birds, shorebirds, and other species.</p>
+</section>
+<section id="tracking-data" class="level4" data-number="E.2.3.3">
+<h4 data-number="E.2.3.3" class="anchored" data-anchor-id="tracking-data"><span class="header-section-number">E.2.3.3</span> Tracking Data</h4>
+<p><a href="https://motus.org/">Motus</a> and <a href="https://www.movebank.org/cms/movebank-main">Movebank</a> are two databases that house data collected from automated VHF tagging/tracking and other types of tagging/tracking respectively.&nbsp; These databases provide centralized locations for viewing tracking data from multiple studies, although summary products are fairly simplistic and comprehensive analyses of bird distributions are not available through these sites.&nbsp; They are described in more detail in <a href="https://rwscorg.sharepoint.com/:w:/s/BirdandBatSubcommittee/EYdNwelv5IBHp6_EQPGFGPQBnsqkagkaHGNpaXUDnqfYRQ?e=wK1CV9">Recommended Database Summaries</a>.</p>
+</section>
+<section id="identified-critical-habitat" class="level4" data-number="E.2.3.4">
+<h4 data-number="E.2.3.4" class="anchored" data-anchor-id="identified-critical-habitat"><span class="header-section-number">E.2.3.4</span> Identified Critical Habitat</h4>
+<p>For bird species listed as Threatened or Endangered under the federal Endangered Species Act, the USFWS is required to determine whether there are identifiable areas that meet the definition of "critical habitat" <span class="citation" data-cites="usfws2003">(<a href="references.html#ref-usfws2003" role="doc-biblioref">USFWS, 2003</a>)</span>.&nbsp; Critical habitat is defined as:</p>
+<ul>
+<li><p>Specific areas within the geographical area occupied by the species at the time of listing that contain physical or biological features essential to conservation of the species and that may require special management considerations or protection; and</p></li>
+<li><p>Specific areas outside the geographical area occupied by the species if the agency determines that the area itself is essential for conservation.</p></li>
+</ul>
+<p>There are 16 bird species occurring along the U.S. Atlantic that are identified as Threatened or Endangered across some or all of their range.&nbsp; In addition, the Black-capped Petrel has been proposed for listing as Threatened.&nbsp; Of these species, most either do not have critical habitat defined, or identified habitats do not occur in coastal areas.&nbsp; Defined critical terrestrial habitats could be relevant to where cables come ashore to connect to grid infrastructure, but are not broadly relevant to offshore wind infrastructure development.&nbsp; Critical habitat for the five listed and one proposed shorebird and marine bird species that occur along the Atlantic Coast is summarized below:</p>
+<ul>
+<li><p>The Atlantic Coast breeding population of <a href="https://ecos.fws.gov/ecp/species/6039"><strong>Piping Plovers</strong></a> is considered Threatened.&nbsp; Critical habitat for the wintering population of Piping Plovers along the U.S. Atlantic Coast was designated in 2001 and updated in 2008 (see<span class="citation" data-cites="usfws2008">(<a href="references.html#ref-usfws2008" role="doc-biblioref">USFWS, 2008</a>)</span>).</p></li>
+<li><p>A new definition of critical habitat for the Threatened <a href="https://ecos.fws.gov/ecp/species/1864"><strong>Red Knot</strong></a> was proposed in April 2023.&nbsp; The proposed revised definition includes coastal areas of Massachusetts, New York, New Jersey, Delaware, Virginia, North Carolina, South Carolina, Georgia, and Florida, which are described in detail <a href="https://www.govinfo.gov/content/pkg/FR-2023-04-13/pdf/2023-06619.pdf">here</a>. &nbsp;</p></li>
+<li><p>The northeastern breeding population of the <a href="https://www.fws.gov/species/roseate-tern-sterna-dougallii-dougallii"><strong>Roseate Tern</strong></a> is considered Endangered; it occurs through much of the RWSC Study Area, from Maine south to South Carolina (breeding Maine to New York).&nbsp; The <a href="https://ecos.fws.gov/ecp/species/B07O">Caribbean breeding population</a>, which is considered Threatened, occurs north into the Florida Keys.&nbsp; No critical habitat has been defined for this species.</p></li>
+<li><p>No critical habitat has been defined for the <a href="https://ecos.fws.gov/ecp/species/3507">Bermuda Petrel</a> or <a href="https://ecos.fws.gov/ecp/species/1226">Band-rumped Storm-Petrel</a>, both of which nest outside of the RWSC Study Area.</p></li>
+<li><p>The <a href="https://ecos.fws.gov/ecp/species/4748">Black-capped Petrel</a> has been proposed for Threatened status.&nbsp; No critical habitat has been defined for this species.</p></li>
+</ul>
+</section>
+</section>
+</section>
+<section id="potential-effects-of-offshore-wind-on-birds" class="level2" data-number="E.3">
+<h2 data-number="E.3" class="anchored" data-anchor-id="potential-effects-of-offshore-wind-on-birds"><span class="header-section-number">E.3</span> Potential Effects of Offshore Wind on Birds</h2>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-afsi2015" class="csl-entry" role="listitem">
+AFSI, 2015. <a href="https://www. atlanticflywayshorebirds.org">Atlantic flyway shorebird initiative business plan</a>.
+</div>
+<div id="ref-gulka2020" class="csl-entry" role="listitem">
+Gulka, J., Williams, K., 2020. <a href="https://www.nyetwg.com/_files/ugd/78f0c4_201120060f394e9f967cfab207fb1d59.pdf">Stakeholder workshop: Scientific research framework to understand the effects of offshore wind energy development on birds and bats in the eastern united states</a>.
+</div>
+<div id="ref-newton2007" class="csl-entry" role="listitem">
+Newton, I., 2007. <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/flyway">Raptors and other soaring birds</a>. The Migration Ecology of Birds.
+</div>
+<div id="ref-nyserdaetwg" class="csl-entry" role="listitem">
+NYSERDA ETWG, n.d. <a href="https://www.nyetwg.com/avian-displacement-guidance">Development of guidance for pre- and post-construction monitoring to detect changes in marine bird distributions and habitat use related to offshore wind energy development</a>.
+</div>
+<div id="ref-seer2022a" class="csl-entry" role="listitem">
+SEER, 2022. Environmental effects of u.s. Offshore wind energy development: Compilation of educational research briefs [booklet].
+</div>
+<div id="ref-usfws2023" class="csl-entry" role="listitem">
+USFWS, 2023a. <a href="https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&amp;kingdom=I&amp;status=E&amp;status=T&amp;status=EmE&amp;status=EmT&amp;status=EXPE&amp;status=EXPN&amp;status=SAE&amp;status=SAT&amp;mapstatus=3&amp;fcrithab=on&amp;fstatus=on&amp;fspecrule=on&amp;finvpop=on&amp;fgroup=on&amp;header=Listed+Animals">Listed animals</a>.
+</div>
+<div id="ref-usfws2023a" class="csl-entry" role="listitem">
+USFWS, 2023b. <a href="https://ecos.fws.gov/ecp/report/species-listings-proposed-listing?statusCategory=Proposed%20for%20Listing">Proposed for listing species</a>.
+</div>
+<div id="ref-usfws2021" class="csl-entry" role="listitem">
+USFWS, 2021. <a href="https://www.fws.gov/guidance/sites/guidance/files/documents/do225.pdf">Director’s order NO.: 225</a>.
+</div>
+<div id="ref-usfws2008" class="csl-entry" role="listitem">
+USFWS, 2008. <a href="https://www.govinfo.gov/content/pkg/FR-2008-10-21/pdf/E8-23206.pdf#page=1">Revised designation of critical habitat for the wintering population of the piping plover (charadrius melodus) in north carolina</a>. Federal Register 73.
+</div>
+<div id="ref-usfws2003" class="csl-entry" role="listitem">
+USFWS, 2003. <a href="https://www.fws.gov/sites/default/files/documents/endangered-species-act-accessible.pdf">Endangered species act</a>.
+</div>
+<div id="ref-winship2018" class="csl-entry" role="listitem">
+Winship, A., Kinlan, B., White, T., Leirness, J., Christensen, J., 2018. <a href="https://coastalscience.noaa.gov/data_reports/modeling-at-sea-density-of-marine-birds-to-support-atlantic-marine-renewable-energy-planning-final-report/">Modeling at-sea density of marine birds to support atlantic marine renewable energy planning: Final report</a>. Sterling, VA.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -622,7 +754,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-birds.qmd" class="toc-action">Edit this page</a></p></div></div></div>
+    </div>
     <div class="nav-footer-right"><img src="RWSC_Logo.png" width="125"></div>
   </div>
 </footer>
