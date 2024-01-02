@@ -33,7 +33,7 @@ book:
   site-url: https://rwsc.org/science-plan
   repo-url: https://github.com/RWSCollab/science-plan
   repo-branch: main
-  repo-actions: [edit]
+  repo-actions: [edit, issue]
   sharing: [twitter, facebook, linkedin]
   #google-analytics:
   chapters:

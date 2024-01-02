@@ -1,17 +1,14 @@
 # Introduction and Reader's Guide {#sec-intro}
 
-*For more background and context, read the extended Introduction in the Appendix.*
+*For more background and context, read [the extended Introduction in the Appendix](append-intro.qmd).*
 
 To develop the Science Plan, the RWSC Steering Committee convened six expert Subcommittees---Marine Mammal, Bird & Bat, Sea Turtle, Habitat & Ecosystem, Protected Fish Species, and Technology[^intro-1].
 Contributors spanned the federal agencies, states, offshore wind companies, environmental nonprofits, academic and research institutions, and other private entities.
 RWSC received comments and input from these groups and the public that greatly improved this Plan (see [Science Plan Review & Revision Process](#_Science_Plan_Review)).
 
-[^intro-1]: The scope of the RWSC Science Plan does not include fisheries or commercially managed fish species.
-    For research needs and considerations on those topics, visit the Responsible Offshore Science Alliance (ROSA; https://www.rosascience.org).
-
 ## Species focus {.unnumbered}
 
-The Science Plan is separated into chapters that align with the Subcommittees\' expertise on species and habitat groups:
+The Science Plan is separated into chapters that align with the Subcommittees' expertise on species and habitat groups:
 
 -   Marine Mammals
 
@@ -42,11 +39,11 @@ This could require collaboration with entities outside of the U.S. at times.
 
 The RWSC study area is divided into smaller subregions to facilitate coordination and planning.
 The subregions are not necessarily ecologically or politically relevant and should not be used to bound or limit data collection and research activities.
-The subregions align and are named to correspond with the Bureau of Ocean Energy Management\'s (BOEM\'s) offshore wind planning areas:
+The subregions align and are named to correspond with the Bureau of Ocean Energy Management's (BOEM's) offshore wind planning areas:
 
 ![Map of RWSC study area and subregions in U.S. Atlantic waters that align with federal offshore wind planning areas.](figures/subregions_map.pdf){fig-align="center"}
 
-**Gulf of Maine:** This subregion\'s boundaries follow the offshore EEZ from downeast Maine to a line extending southeast from Hyannis, MA. The subregion includes the Gulf of Maine and Great South Channel.
+**Gulf of Maine:** This subregion's boundaries follow the offshore EEZ from downeast Maine to a line extending southeast from Hyannis, MA. The subregion includes the Gulf of Maine and Great South Channel.
 
 **Southern New England:** This subregion extends from the southern border of the Gulf of Maine subregion to a line extending directly south from the Connecticut/Rhode Island state border, running roughly through the eastern border of Montauk, New York.
 
@@ -63,7 +60,7 @@ Central Atlantic subregion up to and including the Florida Keys.
 Each Subcommittee referenced and leveraged existing efforts to identify regional research needsrelated to offshore wind and wildlife.
 They also developed the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) to hold information about ongoing and planned research and data collection efforts in U.S.
 Atlantic waters that are being funded by federal agencies, states, offshore wind companies, and other entities.
-The Database displays information about each project\'s overall goal(s), geographic area of focus, methods used, principal investigators, and other details.
+The Database displays information about each project's overall goal(s), geographic area of focus, methods used, principal investigators, and other details.
 This information is being shared to encourage collaboration and reduce the likelihood of duplication.
 The intent of the Subcommittees and Steering Committee is to consider these ongoing and planning projects---including any relevant results---prior to planning new offshore wind and wildlife research.
 The Subcommittees continue to update the Database as projects are completed and new projects commence.
@@ -78,3 +75,6 @@ The number of active projects differs among RWSC subregions and taxa/topics:
 There are another \>140 Database entries that capture pre-existing or long-term monitoring programs that are relevant to the study of offshore wind and wildlife but were not designed specifically to address the assessment of potential impacts.
 
 The Subcommittee developed recommendations that consider past, current, and planned science activities relevant to offshore wind development and wildlife as catalogued in the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/), and informed by existing publications, reports, presentations, and environmental monitoring conducted at offshore wind energy projects around the world.
+
+[^intro-1]: The scope of the RWSC Science Plan does not include fisheries or commercially managed fish species.
+    For research needs and considerations on those topics, visit the Responsible Offshore Science Alliance (ROSA; https://www.rosascience.org).
