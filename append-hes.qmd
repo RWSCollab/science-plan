@@ -56,11 +56,11 @@ The Mid-Atlantic Bight Cold Pool is a characteristic of the region, where strong
 
 Finally, the **Southern Zone** extends southward from Cape Hatteras, NC to the Florida Keys (Figure 5) and aligns with the RWSC U.S. Southeast Atlantic subregion.
 The continental margin in the southeastern U.S. is unique in its overall dimensions and submarine features when compared to more northern regions.
-The shallow continental shelf in this region, for instance, is relatively wide to the north (100 km width) but contracts significantly as it approaches the Straits of Florida (11 km width) (Conley et al., 2017).
+The shallow continental shelf in this region, for instance, is relatively wide to the north (100 km width) but contracts significantly as it approaches the Straits of Florida (11 km width) [@conley2017].
 In contrast to steep continental slopes, the slope in the southeastern U.S. is unusually wide and dominated by the Blake Plateau, a broad marginal plateau (184,000 km^2^ area; 400-1,250 m depth), which is flanked by the Florida-Hatteras Slope on its western margin and the Blake Escarpment on its southeastern margin (descending to about 4,800 m).
-Sand-shell sediments dominate the southwestern end of the continental shelf, whereas foraminiferal sands or silts characterize the top of Blake Plateau (Emery, 1966).
-Although no major canyons cut across the slope in this area, the Gulf Stream is and has been a dominant force shaping the seafloor, scouring steep channel along most of the southeast region and often exposing hard substrates that create rugged topography (Ross and Nizinski, 2007).
-Sandy habitats on the shelf sustain important fish species while rocky outcrops on the seafloor provide substrate for sponges, corals, and algae (Conley et al., 2017).
+Sand-shell sediments dominate the southwestern end of the continental shelf, whereas foraminiferal sands or silts characterize the top of Blake Plateau [@emery1966].
+Although no major canyons cut across the slope in this area, the Gulf Stream is and has been a dominant force shaping the seafloor, scouring steep channel along most of the southeast region and often exposing hard substrates that create rugged topography [@ross2007].
+Sandy habitats on the shelf sustain important fish species while rocky outcrops on the seafloor provide substrate for sponges, corals, and algae [@conley2017].
 
 *Figure 5. Topographic overview of the U.S. Atlantic continental margin within the identified Southern Zone. The dotted white line represents the U.S. Exclusive Economic Zone (EEZ; 200 nautical mile limit). Vertical exaggeration of colored relief is approximately 5x. Data provided by The Nature Conservancy's South Atlantic Bight Marine Assessment (Conley et al., 2017).*
 
