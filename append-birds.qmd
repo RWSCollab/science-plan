@@ -839,3 +839,154 @@ However, the system could benefit from a more coordinated and less piecemeal app
 In addition, centralized calibration and maintenance efforts, to ensure stations are functioning and to measure detection ranges systematically, would also be of benefit for scientific rigor and cost savings.
 In summer 2020, USFWS organized initial meetings among stakeholders to discuss the value of coordinating and possibly centralizing calibration of Motus stations, as well as deployment of both Motus stations and VHF radiotags for automated telemetry in the offshore environment. 
 Phase 1 of the project would include efforts by RWSC to develop a plan for coordination and centralization, incorporating the [*Offshore Motus Framework*](https://motus.org/groups/atlantic-offshore-wind/), highlighting subregions/sites and species of interest, proposing a design or framework for optimal or strategic tag deployment, listing key participants (tag project funders, species and land managers, etc.), and describing data standardization practices.
+
+##### Understanding Baseline Conditions
+
+**Marine Bird Distribution Maps.** Through funding from BOEM, these maps were updated by NCCOS between 2020-2023 [@winship2023].
+As an additional component of this project, predicted changes in oceanographic conditions were used to project changes in distribution of several marine bird species in the context of climate change.
+The final report and maps should be available in late 2023 or early 2024 through BOEM and regional data portals.
+
+[**Forage Fish and Marine Predators**](https://briwildlife.org/wildlife-and-renewable-energy-program/wildlife-and-renewable-energy-directory/predator-prey-relationships-exploring-how-forage-fish-availability-affects-seabirds/)**.** Through NYSERDA funding, BRI used movement and survey data, spatial modelling, and forage fish modelling to examine ecological relationships between forage fish and their marine predators, including birds.
+The project utilized data collected by BRI, Normandeau, NOAA, and others to examine the extent to which abiotic environmental factors shape forage fish communities, what local conditions promote visible surface aggregations of forage fish, and associations between forage fish aggregations and abundance of marine predators along portions of the NW Atlantic seaboard.
+A brief summary of these efforts were provided in [Meeting 10 of the RWSC Bird & Bat Subcommittee](https://rwscorg.sharepoint.com/:f:/s/BirdandBatSubcommittee/EgwyZosEVJtDluc-HPGBFJwB9Kq690vRgavMZHabQXKSCg?e=UPNMoo).
+Peer-reviewed scientific publications are available or soon to be forthcoming:
+
+-   [@goetsch2022]
+
+-   [@gulka2023]
+
+-   (forthcoming) New York State Energy Research and Development Authority (NYSERDA).
+    2023.
+    “Multi-scale relationships between marine predators and prey,” NYSERDA Report Number xx-yy.
+    Prepared by Biodiversity Research Institute.
+    <https://www.nyserda.ny.gov/About/Publications>
+
+##### Informing Pre-Construction Risk Assessments
+
+**Vulnerability Assessments for North Atlantic Seabirds:  Collision and Displacement.** Robinson Wilmott et al. prepared a report for BOEM in 2013 assessing the vulnerability to and risk of collision and displacement for seabirds of the Atlantic OCS [@robinsonwillmott2013].
+Subsequent studies have examined collision and displacement vulnerability on the Pacific Coast [@kelsey2018] or modelled collision risk for individual species.
+However, no comprehensive review of collision risk has been conducted for U.S.
+Atlantic waters in the last decade.
+
+Normandeau recently finished a report on bird activity in the rotor-swept zone at two CVOW turbines which may inform/improve collision risk models.
+Three seasonal surveys were conducted, looking at micro-avoidance.
+The draft report will be available in a few months, after BOEM and the client have reviewed its contents.
+
+On behalf of the NYSERDA E-TWG [Avian Displacement Guidance Committee](https://www.nyetwg.com/avian-displacement-guidance) in 2023, Juliet Lamb conducted a literature review of studies related to bird displacement, avoidance, and/or attraction to offshore wind facilities.
+The review included publications from Europe (where most of the existing literature comes from) as well as the U.S.
+A manuscript for publication in a peer-reviewed journal is in preparation.
+See [Appendix C](https://www.nyetwg.com/_files/ugd/78f0c4_e1ecb121e1c644c481ce2accfea6530f.pdf) of the Committee’s draft guidance for summary results.
+
+**Collision Risk Model Development.** USFWS, BRI, and URI recently completed development of a user-friendly collision risk model that can inform risk assessments of offshore wind development to listed and rare shorebird species.
+The model is known as “[SCRAM](https://briwildlife.org/scram/)” and made available as an R [Shiny web application](https://briloon.shinyapps.io/SCRAM/).
+The collaboration is continuing to improve functionality of the application, update features (including species-specific algorithms for Red Knot), and start a cross-Atlantic group on collision risk models [@**review2023].
+
+##### Assessing Impacts of Offshore Wind Facilities
+
+**BAG Modelling.** In addition to the data gaps analysis described above, in the later stages of Project WOW, BRI will be utilizing Bayesian spatial modelling framework to integrate before and after survey data to better understand displacement effects at offshore wind facilities, using extant data.
+
+##### Identifying and Evaluating Mitigation Strategies
+
+**Off-Site Mitigation Options.** The Atlantic Marine Bird Cooperative is an international group of resource managers, scientists, and other professionals with a specific focus and expertise in marine birds.
+Members include agency staff, non-governmental organizations, industry, and universities.
+The [Marine Spatial Planning Working Group](https://atlanticmarinebirds.org/working-groups/) within the AMBC identified a need for advance planning regarding compensatory mitigation and voluntary conservation offsets.
+Specifically, the group realized that the scale and pace of deployment of offshore wind may not allow for a thorough understanding of potential negative impacts to birds prior to widespread offshore wind deployment, and that once turbines are in the water, they are unlikely to be removed.
+Where on-site mitigation is not sufficient, effective off-site mitigation measures must be identified and validated.
+The AMBC MSP has taken several steps to move this process forward.
+A presentation and dialogue were held at the most recent (2022) [State of the Science Workshop on Wildlife and Offshore Wind Energy](https://www.nyetwg.com/past-workshops) regarding needs for off-site mitigation planning.
+Most recently, a subset of Working Group members submitted letters to the USFWS and BOEM, detailing recommendations.
+These included developing a menu of research projects that include, as a deliverable, the metrics needed to calculate impacts/offsets and/or quantify birds grown/saved.
+Impacts should cover not only take from collision but also fitness consequences of displacement.
+USFWS and BOEM have now initiated this planning process.
+
+### Technology Advancement
+
+Technological advances can lead to more effective and more cost-efficient monitoring and mitigation strategies for birds in coastal and marine environments.
+Section 6.3.1 summarizes recommended science actions.
+Section 6.3.2 provides detail on current and recent efforts related to technological advancement.
+
+#### Recommended Science Actions
+
+-   **Testing and validating bird collision detection systems** (recognizing that initial validation may need to focus on land-based wind facilities, where carcass counts are possible).
+
+-   **Testing and validating the efficacy of on-site mitigation strategies** (e.g., lighting, painted blades), including evaluation in both land-based and offshore environments.
+
+-   **Testing and validating the efficacy of off-site mitigation strategies or voluntary conservation offsets.** (This is expected to take place only after the planning for and identification of appropriate options as described under *Data Analysis*.)
+
+-   **Improving remote access to wildlife monitoring equipment** on wind turbine platforms or other offshore infrastructure.
+    This could include identifying workflows to allow for the transmission of wildlife monitoring data using existing wind facility fiber-optic networks.
+
+-   **Scoping and designing standardized spaces on offshore wind infrastructure to support wildlife monitoring equipment,** including physical access, electrical power, data transfer capabilities, etc.
+    This will require cross-sector and cross-taxa coordination.
+
+-   **Designing and improving automated methods to efficiently derive data from raw data files**, such as deriving species identification and counts from digital aerial photographs, species identification within acoustic recordings, or tracking movement paths on radar and video recordings.
+
+-   **Developing and improving tagging technologies** to allow for lighter tags, longer-term tracking, measurement of additional parameters, or more precise measurement (e.g., of flight height).
+
+#### Current and Recent Efforts
+
+##### [Research and Development (R&D) Needs for Wildlife Monitoring](https://nationaloffshorewind.org/projects/technology-development-priorities-for-scientifically-robust-and-operationally-compatible-wildlife-monitoring-and-adaptive-management/)
+
+A recent study carried out by Advisian and BRI, through funding by the National Offshore Wind R&D Consortium, focused on identifying technology gaps for monitoring birds and marine mammals in relation to offshore wind farms, including the capabilities of available monitoring technologies to collect statistically robust data and to be integrated into typical offshore wind infrastructure and operations.
+The end goal of the project, which included assessment of existing systems as well as workshops with expert stakeholders, was to develop targeted recommendations for technology innovation where further tech development or coordination could improve the capabilities of monitoring to answer key research questions and better inform future mitigation and adaptive management of offshore wind development.
+
+##### Position Estimation within Motus
+
+As part of Project WOW, collaborators will be working on Motus position estimation modelling, with the goal of developing a more accurate and effective method for estimating positions of tagged birds, based on signal strength and series of detections at one or more Motus towers/antennae.
+
+##### Bird-Turbine Interaction & Collision Detection Technologies
+
+As detailed in Section 4, there are a multitude of systems to detect collisions and, in some cases, bird behavior around turbines, which incorporate some combination of cameras, acoustics, radar and/or impact detection systems. 
+  These systems are in various stages of development, field-testing, and validation at land-based and/or offshore wind facilities.
+
+##### Artificial Intelligence for Species Identification
+
+Use of artificial intelligence to identify visual or acoustic detections of birds can significantly speed up processing time, reduce costs, and potentially increase accuracy for field-collected data.
+It can also allow for real-time identification of birds captured in video or acoustic recordings.
+
+USFWS and USGS are working on development of [AI software](https://eros.usgs.gov/doi-remote-sensing-activities/2021/usgs/automated-detection-wildlife-targets-aerial-imagery) for use in identifying species detected in aerial surveys, including seabirds and waterfowl.
+Initial machine learning algorithm development has achieved the extraction of targets (individual birds and other wildlife) from imagery; current algorithm development is focused on classifying detected targets to the species level.
+This project has involved the development of an online feature annotation tool (based on the open-source annotation tool Computer Vision Annotation Tool - CVAT) for easy, streamlined labeling of training data by biologists and to serve as an imagery and annotation database for online data archiving and sharing.
+
+Auto-classification software for the identification of bird calls in acoustic data are also being developed and improved (e.g., see [@kahl2021; @vandorena]).
+
+For tracking of new technologies, see the Tethys [database of monitoring technologies](https://tethys.pnnl.gov/wind-energy-monitoring-mitigation-technologies-tool).
+
+### Field Data Collection
+
+Numerous entities have active or planned field projects related to bird ecology in coastal and offshore ecosystems.
+
+#### Recommended Science Actions
+
+As part of addressing near and long-term goals, [and in the context of ongoing work]{.underline}, the Bird & Bat Subcommittee recommends the following field research, data interpretation, and technology advancement activities:
+
+-   **Utilizing appropriate methods to further characterize movements, distributions, and abundance of wide-ranging bird species offshore, before and after construction.**
+
+    -   **The Bird & Bat Subcommittee will convene regularly to coordinate tagging/tracking efforts for species of interest** in the context of offshore wind along the U.S.
+        Atlantic Coast.
+        Activities will include identifying general focal locations and focal species for tag deployment, exploring the potential to centralize tag deployment efforts, and coordinating deployment, calibration, and maintenance of Motus receiver network infrastructure.
+
+    -   **Coordinating and conducting regular digital aerial surveys that cover multiple lease areas and appropriate buffer zones** using a standardized methodology.
+        (As wind energy areas are leased and developed, aerial surveys covering individual lease areas plus appropriate buffers (see [draft guidance](https://www.nyetwg.com/avian-displacement-guidance)) can be expected to survey portions of adjacent lease areas, so coordination could provide cost-efficiencies, as well as supporting standardized data products.)
+
+    -   **Deploying passive acoustic detectors at offshore wind facilities and on other offshore infrastructure** to develop appropriate methodologies and monitor for nocturnal migrants.
+
+    -   **Conducting targeted surveys along offshore transmission line corridors** to explore potential effects on foraging and habitat use.
+
+-   **Continuing standardized breeding bird surveys along coastlines and on islands** to understand population dynamics, assess species distributions, and inform population models (see *Data Analysis* section).
+
+-   **Expanding seabird diet and foraging studies** to inform understanding of offshore wind facility effects.
+    Conducting laboratory analyses of previously stored samples, as needed.
+
+-   **Encouraging continued funding for long-term, standardized surveys,** such as AMAPPS.
+
+-   **Deploying multi-modal systems on turbines to assess bird interactions with wind turbine infrastructure (including micro-avoidance and collision risk).** Combinations of acoustic detectors, radar systems, impact detection sensors, and/or visual, thermal, and infrared cameras are recommended to document bird behavior around wind turbines, detect impacts, and, to the extent possible, provide species-specific identification.
+
+-   In addition to the methods detailed above, **deployment of radar or lidar systems** to document bird passage rates and flight heights is also recommended.
+
+#### Current and Recent Efforts
+
+Because of the number of individual researchers and organizations conducting avian research in coastal and marine environments, as well as the rapid development of offshore wind energy and associated Avian Monitoring Plans, any summary of coastal and offshore avian field research would be incomplete and would quickly become dated.
+Instead, as noted above, readers are directed to the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) for a compilation of recent, on-going, and pending projects.
+For projects not listed, researchers are strongly encouraged to submit a new entry for inclusion in the database.
+Planned research at offshore wind facilities, as outlined in Avian Monitoring Plans, is best tracked through [Tethys Offshore Wind metadata](https://tethys.pnnl.gov/offshore-wind-metadata).
