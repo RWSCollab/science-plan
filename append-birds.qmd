@@ -310,3 +310,221 @@ The use of this technology for measuring bird flight height is effective offshor
 Cook et al. (2018) provides recommendations on use, but uncertainties remain regarding Lidar capabilities for wildlife monitoring, particularly for detection of small-bodied birds [@sloan2023].
 
 ### Acoustics
+
+**Acoustic surveys** using acoustic detectors (a combination of microphones and recording devices) to record calls of birds are becoming increasingly common [@pérez-granados2021], although they remain more frequently used for bats.
+This method of monitoring can provide information about migration phenology, species composition, acoustic soundscapes for communication, and, in some cases, numbers of passing individuals.
+Acoustic surveys for birds in the offshore environment are most commonly used for night migrants [@hill2008], and typically use passive, stationary detectors configured to sample primarily in the audible frequency range (e.g. 1-12 kHz).
+Passive surveys offshore utilize stationary detectors deployed on ocean buoys, meteorological towers, offshore wind turbines, other offshore infrastructure (such as electrical service platforms \[ESPs\], also commonly referred to as offshore substations \[OSSs\]).
+
+Acoustic surveys are only effective when study animals are vocalizing.
+Ambient noise can interfere with detection of vocalizing animals and limit the distance over which calls will be recorded, an important factor to consider in deploying acoustic detectors on operating turbines. 
+Challenges also remain in differentiating among flight calls of different species [@bioacous2020; @priyadarshani2018].
+However, software for the detection, classification, and analysis of field-collected audio files continues to be improved [@vandoren].
+Some new software can address suboptimal signal-noise ratios and evaluate areas of masking interference to speed and to refine analyses [@vandoren2023].
+The extent to which acoustic survey technologies can be counted upon to operate continuously in harsh offshore conditions also requires further evaluation.
+
+### Banding, Tagging, and Tracking
+
+**Capture-mark-recapture** studies can be used to assess population size, evaluate survival, and study migratory movements of long-ranging birds.
+**Bird banding** is a very common practice for birds of all sizes, with banding information typically going to a central repository, the [Bird Banding Laboratory (BBL)](https://www.usgs.gov/labs/bird-banding-laboratory).
+(Note that the BBL database cannot handle data on birds that are not fit with metal USGS bands, which includes most piping plovers on the Atlantic Coast. Those data are instead housed locally on project-level databases.)
+
+There are a variety of different types of **tags** which can be attached to birds to gather information about their movements.
+Birds can be outfitted with **geolocator tags**, which measure daylight versus time, allowing for estimates of latitude and longitude, approximating bird positions.
+An advantage of these tags is that they are very lightweight.
+However, they have an accuracy range of only ± 200 km, and the animal must be recaptured in order to retrieve the data.
+
+GPS dataloggers receive information from a satellite system known as the Global Positioning System, which is maintained by the U.S. government [@smithsonianinstitute2023].
+Wherever a GPS receiver has unobstructed line-of-sight to four or more GPS satellites, it can use the information transmitted by the satellites to calculate accurate time and location.
+GPS dataloggers are set to record data at regular intervals (rather than continuously) to generate a dotted movement track.
+In order to access the data, the animal must be recaptured and the tag recovered.
+Alternatively, GPS receivers can be paired with a transmitter that sends the data to a particular server, which can be a satellite system (for global coverage) or cellular phone system (where cell tower coverage is expected to be available).
+For these types of tags, the animal does not need to be recaptured; however, the use of a transmitter requires a larger battery, which means that they cannot be deployed on smaller bird species.
+Geofencing is the practice of creating a specific study area defined by a virtual perimeter; this methodology can allow for the collection of a higher frequency of recorded GPS data locations within wind facility boundaries.
+
+[**Satellite tags**](https://nationalzoo.si.edu/migratory-birds/what-satellite-telemetry) are also deployed on birds.
+Platform Transmitting Terminals (PTT) tags send periodic messages to a global satellite system called Argos, which is dedicated to ecological and environmental research [@smithsonianinstitute2023].
+Argos Service satellites pick up and store signals, relaying them in real-time back to earth, where data are processed and delivered to researchers.
+As with GPS transmitters, battery size currently limits the size of bird on which these tags can be deployed.
+Spatial uncertainty of Argos data is 250 m to \>1500 m, and flight height data cannot be recorded; thus, these data are less accurate than GPS data.
+
+**VHF (Very High Frequency) and UHF (Ultra High Frequency) radiotags** transmit signals in the radio frequency range, which can be detected with a receiver.
+These types of tags are regularly deployed on birds.
+Historically, tags with different frequencies were deployed on animals within one research study to allow for easy identification of different individuals.
+The animals were then tracked, often via manual telemetry with a hand-held receiver.
+Manual tracking could be conducted on-foot, using a vehicle, boat, or aircraft.
+Study animals could also be tracked via a receiver attached to a stationary tower with antennae pointed in multiple directions, which could be automated to detect signals periodically or rotated manually by a researcher to detect a signal with an associated bearing.
+Manual telemetry is limited by the search effort available for finding and pinpointing the radio signal, and hence faces significant challenges in tracking animals that range over long distances.
+
+In recent years, the development of the [Motus Wildlife Tracking System](http://www.motus.org) has allowed for much more widespread use of coordinated automated radiotelemetry for tracking of wide-ranging and/or migrating birds.
+This system relies on coded radiotransmitters which all operate on one of two common frequencies, but which emit unique ID codes to identify different individuals.
+Signals from the tags are received by a network of automated radiotelemetry stations consisting of antennas, a receiver, a power source, memory storage, and sometimes data transmission infrastructure. 
+Telemetry stations can be deployed on land, on coastal locations, or on offshore infrastructure, including ocean buoys and offshore wind turbine platforms.
+Advantages of this system include that tags are small and stations deployed by one research group can detect passage of animals by other researchers operating in the same network, allowing for development of a widespread network with more likelihood of detecting wide-ranging study animals.
+This system also has the distinct advantage over manual telemetry that signals can be monitored for continuously.
+Motus system technology has limitations, including limited range of some telemetry stations (typically 15 km) and, in most cases, an ability to determine only general proximity or bearing from the station rather than precise location.
+Efforts to improve triangulation capabilities are underway (see Section 6).
+Offshore wind developers are including deployment and maintenance of Motus stations, as well as tag deployment, as part of Avian Monitoring Plans developed for review by BOEM and USFWS.
+Motus station deployment and research efforts in the U.S.
+Atlantic are coordinated through the [Atlantic Offshore Motus Project](https://motus.org/groups/atlantic-offshore-wind/).
+
+### Bird-Turbine Interaction & Collision Detection Systems
+
+On turbine platforms, turbine nacelles, or other offshore infrastructure, **cameras** can be used to record bird presence and behavior in the vicinity of turbines, which can inform when and where animals are present in portions of the rotor-swept zone and document bird interactions with turbines, including perching, roosting, attraction, micro-avoidance, lack of response, or collisions.
+Cameras differ in their mode of action, resolution, and the frequencies of electromagnetic radiation they use, from conventional cameras that operate in the visual range, to so-called “infrared” cameras that operate in the near infrared range, to so-called “thermal” cameras that operate in the far infrared range.
+Continuously operating cameras provides unique information about bird behavior in the vicinity of wind turbines.
+These systems can also be employed in conjunction with other sensors (e.g., acoustics, radar) to deliver additional information about behavior or collisions (see below).
+However, many of these systems are expensive at present and often only deployed at one or a few turbines in a study area.
+The field of view of a particular camera is often not sufficient to encompass the full rotor-swept zone, at least with sufficient granularity to identify birds throughout that zone.
+The extent to which these technologies can be counted upon to operate continuously in the harsh offshore environment is currently being evaluated.
+
+At onshore wind facilities, **carcass surveys** are commonly used to document mortality and estimate fatality rates for a variety of bird species that collide with wind turbines.
+Offshore, carcasses of individuals can be expected to fall into the ocean in most instances and so **collision detection systems** are needed.
+Collision detections systems may incorporate visual range, thermal, or infrared cameras as described above (e.g., see [@happ2021]), as well as acoustic detectors, radar systems, and/or accelerometers for impact detection.
+Over a dozen multi-sensor systems for documenting collisions and other bird interactions with wind turbines are under evaluation or currently in use at wind facilities [@dirksen2017; @nrel2022], and at least three have been deployed on offshore turbines [@lagerveld2020; @markdesholm2003; @tjørnløv2023; @willmott2023].
+Efforts are currently underway at land-based wind facilities to develop, improve, and validate collision monitoring technologies.
+At present, validation activities are limited to the terrestrial environment, where results can be compared with carcass searches.
+
+There are a number of technologies in various stages of development or deployment intended for **automated real-time identification of bird species or groups**.
+In addition to monitoring uses, these can be integrated with active curtailment or deterrent systems.
+Technologies that have been tested in the offshore environment include [Spoor](https://group.vattenfall.com/uk/newsroom/pressreleases/2023/vattenfall-launches-an-expanded-trial-of-spoor-ai-technology-at-aberdeen-bay-offshore-wind-farm) and [DT Bird](https://www.dtbird.com/).
+
+Beach carcass surveys for the bodies of birds killed at offshore turbines have been proposed, but are only likely to be effective, if at all, in locations with very specific geographies and patterns of ocean currents.
+Occasionally, birds that collide with turbines may fall to the turbine platform.
+Birds may also collide with ships accessing wind energy facilities for construction or maintenance.
+Carcasses can be collected from turbine platforms, boats, and offshore infrastructure; when identified and documented, they provide incidental information about species’ occurrence in the marine environment, possible offshore wind facility impacts, and effects of increased vessel traffic in these areas.
+
+### Other Monitoring Methodologies
+
+There are a range of **tissue sampling** methods from live-caught birds, or their feces, which provide a variety of information about individuals’ migratory status, diet, and health, as well as population-level genetic structure. 
+These include collections of feathers, blood, skin, stomach contents, and fecal matter, to variously conduct stable isotope analysis, physiological analyses (e.g., for stress hormones), diet assays, genetic analyses, or others (e.g., see [@cook2012; @robuck2021; @steenweg2017].
+
+In addition to direct sampling of individuals, collection of DNA from the ambient environment (**eDNA**) also has the potential to provide information about species present marine areas [@closek2019; @zhang2020].
+This is a relatively new technology and the utility of this technique to address various research questions is not yet fully understood.
+
+## Research Topics: Birds and Offshore Wind in the U.S. Atlantic 
+
+Research questions about offshore wind development and wildlife are centered around two common themes.
+First, there is a need to measure, estimate, model, or otherwise assess the scale of impacts of offshore wind development on birds, in order to determine which impacts are significant at an individual, subpopulation, or population scale.
+Second, there is a need to understand how to address any impacts that may occur via effective mitigation.
+In the context of this chapter, “mitigation” is used broadly, as defined by the Council on Environmental Quality (CEQ) National Environmental Policy Act (NEPA) regulations ([40 CFR § 1508.20](https://www.ecfr.gov/current/title-40/chapter-V/subchapter-A/part-1508)). 
+Thus, mitigation in this context includes:
+
+-   **Avoiding the impact** altogether by not taking a certain action or parts of an action.
+    This could include strategies like siting wind facilities with setbacks from colonial breeding sites of birds of conservation concern or outside of areas with high densities of particular marine bird species.
+
+-   **Minimizing impacts** by limiting the degree or magnitude of the action and its implementation.
+    This could include strategies like implementing lighting regimes that minimize bird attraction to turbines.
+
+-   **Rectifying the impact** by repairing, rehabilitating, or restoring the affected environment.
+    This could include projects like stabilizing or revegetating areas affected where trenching occurred to allow for laying of a transmission cable.
+
+-   **Reducing or eliminating the impact** over time by preservation and maintenance operations during the life of the action.
+
+-   **Compensating for the impact** by replacing or providing substitute resources or environments.
+    This could include off-site efforts like supporting predator control at a nesting site to increase populations of a breeding tern species that is affected by collision mortality.
+
+The goal of mitigation measures could be to meet regulatory requirements to negate or offset any negative impacts of offshore wind development, or to meet voluntary goals of providing a net benefit to the species.
+
+From the perspective of a regulator, conservationist, or offshore wind developer, the progress of research would ideally proceed from development of accurate and cost-effective technologies for wildlife monitoring, standardized systems for data collection and analysis, and understanding of baseline conditions, moving then to evaluation of impacts and mitigation strategies, and finally to widespread development of offshore wind in the context of implementation of effective mitigation measures.
+However, given the rapid pace of offshore wind development [@u.s.departmentofenergy2023], this slow and measured progression is not a realistic timeline.
+Rather, multiple areas of research will need to be advanced simultaneously.
+In the meantime, regulators must necessarily rely on the best available science, both in identifying areas that should be avoided in siting of wind facilities (mitigation via avoidance) and in assessing potential risks to protected and vulnerable species.
+Tools must continue to be developed to help inform these efforts.
+While many conservationists prefer focusing on earlier steps in the mitigation hierarchy [@arlidge2018], the reality is that the impacts of offshore wind development will not be fully evaluated until many hundreds of turbines are installed.
+This suggests that effective on-site and off-site mitigation measures will also need to be an early focus, because once turbines are in the water, they are unlikely to be removed or turned off completely.
+On-site mitigation options may be employed, where feasible.
+However, off-site mitigation to compensate for or voluntarily offset impacts may be the only viable option, in some cases, for addressing documented or probable impacts.
+
+Research topics of interest for birds and offshore wind include:
+
+-   **Creating a structure in which to collaboratively conduct and share scientific research and advances, through discussion, coordination, and planning.**
+
+-   **Improving data collection and distribution methods.**  This includes standardization of data workflows, refinement of structures for data sharing, and technological advances.
+
+-   **Understanding baseline conditions of bird populations and bird ecology offshore.** 
+
+    -   This includes addressing questions about how distribution patterns, density, and movements vary by time of year, with meteorological conditions, across seasons (i.e., breeding, migration, nonbreeding seasons), by sex, age, and reproductive status, with interannual variation, and especially in the context of global climate change. 
+        Understanding distribution and abundance during the breeding season is of particular interest for colonial nesters that may be tied to only a few historic breeding areas.
+        Movement metrics of interest include speed, distance and longevity of flights, flight height, and starting points and destinations.
+
+    -   This also includes assessing important variables relative to population dynamics (e.g., fecundity, survival, population structure) and interactions among bird species and with prey populations.
+
+-   **Informing pre-construction risk assessments of potential impacts to birds.** This includes considering exposure of birds to offshore wind development, based on baseline distributions noted above.
+    Collecting data to inform collision risk models and developing these models are also included.
+
+-   **Assessing impacts of construction and operation of offshore wind facilities.** This includes assessing changes from baseline conditions (e.g., distribution patterns, movements, population dynamics and trajectories, ecological interactions) in the context of climate change and other environmental changes.
+    It also includes documenting collision fatalities, where possible.
+
+-   **Evaluating on-site mitigation strategies**.
+    This could include mitigation activities effective during construction (e.g., noise reduction measures) or operation (e.g., painting turbine blades).
+
+-   **Identifying and evaluating off-site mitigation strategies.** As noted above, due to the rapid pace of offshore wind development relative to the pace of research on impacts, off-site mitigation could represent an important aspect of offshore wind development, if significant impacts are found.
+    These could be implemented to meet “no net loss” regulatory requirements or involve voluntary conservation offsets providing a net benefit to species.
+
+Specific research questions are detailed in the [Atlantic Offshore Wind Environmental Research Recommendations database](https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations), which summarizes data gaps and questions from a variety of peer-reviewed and technical report publications.
+
+One recommendation of this plan is to reconcile broad research topics with specific research questions through the identification of focal species, major potential areas of offshore wind impact, and focal research questions by subregion and lease area (see Section 6).
+
+## Regional-scale Ongoing, Pending, and Recommended Science Actions in the U.S. Atlantic
+
+This section of the Science Plan discusses science actions recommended to further the scientific understanding of effects of offshore wind infrastructure on birds and to address mitigation strategies in the context of identified impacts.
+
+This section is structured by the type of science action, including:
+
+-   Data management
+
+    -   Standardization of data collection, analysis, and reporting
+
+    -   Historical data compilation
+
+-   Data analysis & planning
+
+    -   Model development and statistical frameworks
+
+    -   Meta-analysis and literature review
+
+    -   Optimizing research, monitoring, and mitigation
+
+-   Technology advancement
+
+-   Field data collection and analysis
+
+Recent, current, and pending science activities are discussed throughout as necessary to provide a context for current recommendations.
+These and other recent activities are tracked in the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
+
+Other resources for learning about recent and on-going offshore wind-wildlife research include the [Tethys Knowledge Base](https://tethys.pnnl.gov/knowledge-base), a Pacific Northwest National Laboratory database, which houses publications, reports, and presentations relevant to offshore wind, and the [Tethys Offshore Wind metadata](https://tethys.pnnl.gov/offshore-wind-metadata), which compiles information on environmental monitoring conducted at offshore wind energy projects around the world.
+The [New York State Energy Research and Development Authority Environmental Technical Working Group (NYSERDA E-TWG)](https://www.nyetwg.com/) hosts [State of the Science Workshops on Wildlife and Offshore Wind Energy](https://www.nyetwg.com/past-workshops), which provide an opportunity for researchers to present and discuss updates on the state of knowledge regarding wildlife and offshore wind energy development and to promote collaboration and regional coordination.
+Both the [E-TWG](https://www.nyetwg.com/webinar-library) and [Tethys](https://tethys.pnnl.gov/environmental-webinars?content=467) have webinar libraries regarding environmental issues and offshore wind.
+
+### Data Management: Data Collection, Processing, Housing, and Compilation
+
+This section addresses data collection, processing, and housing for the types of data collected as part of studies to inform potential impacts of offshore wind development on bird species in the Northwest Atlantic.
+Section 6.1.1 summarizes recommended data standards and recommended science actions relevant to each data type.
+Section 6.1.2 provides detail on current and recent efforts related to recommended data standards and infrastructure.
+Section 6.1.3 provides detail on current gaps in data infrastructure.
+
+#### Data Standards & Recommended Science Actions
+
+Understanding avian behavior around offshore wind turbines, at the scale of entire wind facilities, and regionally along the Atlantic Flyway, will require close coordination among researchers, state and federal agencies, and industry.
+The Bird & Bat Subcommittee wishes to work with individuals and entities who collect data relevant to avian-offshore wind research to ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC Study Area.
+This standardization is intended to support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., marine bird distribution models, collision risk models).
+
+In order to support these efforts, the Bird & Bat Subcommittee recommends:
+
+-   Maintenance of an up-to-date resource list of recommended standard databases, data repositories, guidelines, and protocols for use by all data collectors. 
+    The current recommended resources are detailed in the table below.
+
+-   Development of standard language for inclusion in funding and contract documents to encourage or require the consistent use of recommended resources.
+
+-   Establishment of an Avian Data Standards Working Group to address gaps in existing data infrastructure (detailed in the table below), including development of recommended protocols/standards where absent, recommendations for the structure/content of new databases, and identification of pilot study parameters where too little is currently known to provide specific methodological guidance.
+    The order in which gaps are addressed will be prioritized by the Bird & Bat Subcommittee and working group members, taking care to avoid duplicating efforts by outside groups.
+
+-   Establishment of data sharing frameworks to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., avian-turbine interaction, micro-avoidance, and collision data; turbine status and local environmental conditions; turbine specifications relevant to placement of monitoring equipment).
+
+-   Compilation of new and historic data into recommended databases to inform scientific understanding of behavior, distribution, and population dynamics of birds of the U.S.
+    Atlantic Coast.
+
+-   Review of workflows to ensure processes are in place to facilitate transfer of data products from wildlife databases to appropriate regional data portals: Northeastern Regional Association of Coastal Ocean Observing Systems (NERACOOS), Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS), and Southeast Coastal Ocean Observing Regional Association (SECOORA)
+
+**The following table summarizes the existing centralized or accepted repositories and standards that are recommended for use in avian data collection, identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists, and lists recommendations for expansion of data standards and/or historic data compilation.**
