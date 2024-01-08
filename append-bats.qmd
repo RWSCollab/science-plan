@@ -1,1 +1,78 @@
 # Bats {#sec-append-bats}
+
+## Introduction
+
+This chapter of the RWSC Science Plan addresses bat research and associated scientific needs in the context of offshore wind development.
+The plan is intended to reflect the research and data collection needs of RWSC’s four Sectors with input from the science community.
+The plan will provide a path forward to ensure appropriate data collection protocols and standards are in place to support scientific research; this document can also provide a framework that can aid RWSC participants in coordinating and aligning funding to carry out necessary scientific activities.
+
+This plan benefits greatly from the contributions of RWSC Bird and Bat Subcommittee members; researchers, managers, and other practitioners who joined Subcommittee calls; and the many scientists who conducted research or developed reference materials cited throughout this plan.
+
+Following this introduction, the first section of the chapter discusses the geographic extent of the area considered within this chapter, the species of bats which occur within this geographic range, and a summary of primary sources of information about species’ distributions.
+The next section of this chapter discusses potential effects of offshore wind development on bat species.
+The following section summarizes common field research methods for the study of bats, with a focus on the offshore environment. 
+The subsequent section addresses the major research topics and questions relevant to bats in the context of offshore wind development.
+The remainder of the chapter addresses recommended science actions of value to the four sectors that make up RWSC (state and federal agencies, eNGOs, and the offshore wind industry), in the context of recent, ongoing, and pending scientific activities relevant to recommended actions.
+
+## Species
+
+This chapter addresses bat (Class Mammalia, Order Chiroptera) species which could be at risk from offshore wind development occurring in the Northwest Atlantic within U.S. waters.
+For the purposes of this plan, the geographic area of interest comprises the Atlantic Coast of the United States, extending from Maine’s northern border with Canada south to the Florida Keys, and from coastal areas extending 200 nm east into the ocean, including state waters (3 nm from shore) and federal waters of the Outer Continental Shelf (3-200 nm).
+This area is referred to in this plan as the RWSC Study Area.
+While the focus of this plan is offshore impacts of offshore wind development, potential onshore impacts of offshore wind on bat species are also possible.
+For example, clearing of transmission line corridors could remove trees used by summer maternity colonies.
+Therefore, bat species which primarily or solely occur in the onshore environment along the Atlantic Coast are nevertheless included within the scope of this plan, although they are not the focus of this chapter.
+
+### Bat Species occurring in the Northwest Atlantic 
+
+There are 17 species of bat which commonly or occasionally occur within the 14 states of the U.S.
+Atlantic Coast (**Table 1**).
+They are all insectivorous species that belong to the family Vespertilionidae.
+Three additional species, the velvety free-tailed bat (*Molossus molossus*), big free-tailed bat (*Nyctinomops macrotis*), and the Virginia big-eared bat (*Corynorhinus townsendii virginianus*), are either only rarely encountered in the RWSC Study Area or are only found inland and are not likely to interact with coastal or offshore activities related to offshore wind.
+
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| **Scientific Name**                 | **Common Name**                    | **Federal ESA Status** | **IUCN Red List Status** | **State ESA** | **SGCN** |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Corynorhinus rafinesquii macrotis* | Rafinesque's eastern big-eared bat |                        | Least Concern            | 3             | 5        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Eptesicus fuscus*                  | big brown bat                      |                        | Least Concern            | 0             | 10       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Eumops floridanus*                 | Florida bonneted bat               | Endangered             | Vulnerable               | 1             | 1        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Lasionycteris noctivagans*         | silver-haired bat                  |                        | Least Concern            | 1             | 12       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Lasiurus borealis*                 | eastern red bat                    |                        | Least Concern            | 1             | 12       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Lasiurus cinereus*                 | hoary bat                          | In USFWS Workplan      | Least Concern            | 1             | 12       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Lasiurus intermedius*              | northern yellow bat                |                        | Least Concern            | 2             | 4        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Lasiurus seminolus*                | Seminole bat                       |                        | Least Concern            | 0             | 3        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Myotis austroriparius*             | southeastern myotis                |                        | Least Concern            | 2             | 6        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Myotis grisescens*                 | gray bat                           | Endangered             | Vulnerable               | 3             | 4        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Myotis leibii*                     | eastern small-footed bat           |                        | Endangered               | 8             | 13       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Myotis lucifugus*                  | little brown bat                   | Under Review           | Endangered               | 6             | 13       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Myotis septentrionalis*            | northern long-eared bat            | Endangered             | Near Threatened          | 10            | 13       |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Myotis sodalis*                    | Indiana bat                        | Endangered             | Near Threatened          | 7             | 7        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Nycticeius humeralis*              | evening bat                        |                        | Least Concern            | 0             | 3        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Perimyotis subflavus*              | tri-colored bat                    | proposed Endangered \  | Vulnerable               | 4             | 14       |
+|                                     |                                    | (Sept 2022)            |                          |               |          |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+| *Tadarida brasiliensis*             | Brazilian free-tailed bat          |                        | Least Concern            | 0             | 1        |
++-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
+
+: **Table 1.** Bats regularly occurring in the 14 states of the RWSC Study Area. The state ESA column indicates the number of Atlantic Coast states in which the species is listed as state endangered, threatened, or of special concern. The SGCN column indicates the number of Atlantic Coast states in which the species is listed as a Species of Greatest Conservation Need.
+
+For more information about the species in Table 1, see *Bat Species Descriptions* \[forthcoming in 2024\].
+
+#### Regulatory Status
+
+#### 
