@@ -2,7 +2,7 @@
 
 *Authors: [Habitat & Ecosystem Subcommittee](append-rosters.qmd#he)*
 
-*For more detail on any of these topics, read [the](append-hes.qmd)*[ *Habitat & Ecosystem - Seafloor Appendix*](append-hes.qmd).
+*For more detail on any of these topics, read [theHabitat & Ecosystem - Seafloor Appendix](append-hes.qmd)*.
 
 The scope of this chapter includes physical and biological seafloor habitats (e.g., surficial sediments and benthic communities, deep sea corals and sponges, subsurface sediments and habitats), including the fauna and flora that may be attached to introduced structures on the seafloor and in the water column (including non-native and invasive taxa).
 This chapter builds on the research topics and questions related to seafloor habitat and offshore wind previously identified [@dannheim2020; @degraer2021; @regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup; @seer2022a].
@@ -51,23 +51,16 @@ To support these efforts, the Subcommittee recommends:
 Table 8.
 Recommended seafloor variables, file formats and resolutions to support the development of regional scale seafloor data products.
 
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
+|                                                                   |                                       |                        |
+|-------------------------------------------------------------------|---------------------------------------|------------------------|
 | **Seafloor variable(s)**                                          | **Type/format**                       | **Desired resolution** |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Multibeam bathymetry                                              | Raster/tiff                           | 4m\*                   |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Multibeam backscatter                                             | Raster/tiff                           | 4m\*                   |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Boulder fields and/or picks (identification of boulder locations) | Vector-points/polygons Esri shapefile | N/A                    |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Seabed interpretation -- CMECS Substrate Group, Subgroup          | Vector-points/polygons/Esri shapefile | N/A                    |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Seabed interpretation -- Shell substrate                          | Vector-points/polygons/Esri shapefile | N/A                    |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Seabed interpretation -- Bedforms                                 | Vector-polygons/Esri shapefile        | N/A                    |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 | Seabed interpretation -- CMECS Biotic Subclass                    | Vector-points/Esri shapefile          | N/A                    |
-+-------------------------------------------------------------------+---------------------------------------+------------------------+
 
 ***\*Bathymetry and backscatter data sets may be provided at high resolutions and will be down-sampled to the desired 4 meter resolution by the project team; alternatively, down-sampling instructions will be provided to data providers to ensure consistent methodology.***
 
@@ -92,6 +85,8 @@ Recommended repositories and standards for seafloor data collection.
 |                                                                                                              |                                                                                              | [Guidelines for providing benthic habitat survey information for renewable energy development on the Atlantic OCS](https://www.boem.gov/newsroom/boem-renewable-benthic-habitat-guidelines)                                                                    |
 |                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
 |                                                                                                              |                                                                                              | [NOAA Fisheries information needs to assess Essential Fish Habitat impacts from offshore wind energy projects along the U.S. Atlantic](https://media.fisheries.noaa.gov/2022-02/EFH-InfoNeeds-OSW-GARFO.pdf)                                                   |
+|                                                                                                              |                                                                                              |                                                                                                                                                                                                                                                                |
+|                                                                                                              |                                                                                              | [NOAA Fisheries Technical Guidance for Offshore Wind Energy Projects in the Greater Atlantic Region](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/technical-guidance-offshore-wind-energy-projects-greater-atlantic-region)            |
 +--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Surficial sediment characterizations from sediment grabs and imagery                                         | [**usSEABED**](https://www.usgs.gov/programs/cmhrp/science/usseabed)                         | This resource is not accepting new data.                                                                                                                                                                                                                       |
 +--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
