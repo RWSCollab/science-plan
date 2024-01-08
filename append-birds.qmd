@@ -606,7 +606,7 @@ In order to support these efforts, the Bird & Bat Subcommittee recommends:
 
 #### Current and Recent Efforts
 
-#### At-Sea Surveys
+##### At-Sea Surveys
 
 Historical offshore survey data in the Northwest Atlantic were compiled as part of the establishment of the [Northwest Atlantic Seabird Catalog](https://www.boem.gov/environment/environmental-studies/14-x07pdf-0).
 This effort represented a collaboration of BOEM, USGS, USFWS, and NOAA, with many researchers and organizations contributing data. 
@@ -617,7 +617,7 @@ The [Avian Displacement Guidance Committee](https://www.nyetwg.com/avian-displac
 In its draft guidance, this Workgroup identified key displacement and attraction-related questions, highlighted appropriate methodologies to address those questions, and provided specific study design and analytical recommendations for boat-based and aerial surveys.
 Final guidance is expected by the end of 2023.
 
-#### Tracking via Automated Telemetry
+##### Tracking via Automated Telemetry
 
 Automated telemetry data collected via the [Motus Wildlife Tracking Network](https://motus.org/) are automatically stored in the Motus system.
 Hence, historical data for birds are naturally stored alongside data collected from current and recent projects. 
@@ -630,3 +630,212 @@ Final products, released to the public in 2023, include 1) a Guidance Document d
 
 Development of the IDIOMS tool was informed by recent work on the optimization of Motus infrastructure conducted by Juliet Lamb of The Nature Conservancy.
 This effort included analysis and modelling of Motus tower layout and bird sampling strategies resulting in recommendations for appropriate tower layout and sampling of breeding shorebirds and seabirds to maximize Motus detections [@lamb2023].
+
+##### Tracking via other Tagging Systems
+
+Use of geolocators, satellite tags, and VHF tags on birds in coastal and offshore environments is a common practice, currently and historically.
+While some efforts have been made to organize tracking data in a central location, these efforts are by no means exhaustive.
+Review and analysis of these data would benefit from a focused effort to pull recent and historic data into Movebank.
+[Movebank](https://www.movebank.org/cms/movebank-main) is a free, online platform hosted by the Max Planck Institute of Animal Behavior that allows researchers and wildlife managers worldwide to manage, share, analyze and archive animal tracking and other animal-borne sensor data. 
+The USFWS has developed basic guidance on metadata standards for non-Motus tagging efforts, but this is another area that could benefit from additional work to create more comprehensive guidance.
+
+##### Bird Banding
+
+As noted in Section 4, banding information and band identifications are typically housed in a central repository, the [Bird Banding Laboratory](https://www.usgs.gov/labs/bird-banding-laboratory) (BBL).
+The BBL database includes most banding data, but cannot handle data on birds that are not fit with metal USGS bands, which includes most piping plovers on the Atlantic Coast.
+Those data are instead housed locally on project-level databases.
+
+The Bird & Bat Subcommittee is not aware of any recent data standardization projects by the BBL relevant to offshore wind and birds.
+
+##### Other Observational Data
+
+[eBird](https://ebird.org/about) data document bird distribution, abundance, habitat use, and trends through checklist data collected within a simple, scientific framework.
+Birders enter when, where, and how they went birding, and then fill out a checklist of all the birds seen and heard.
+[Specific protocols](https://support.ebird.org/en/support/solutions/articles/48000950859-guide-to-ebird-protocols) for some types of surveys are available.
+Given the availability of other databases, this database is recommended primarily for land-based surveys currently not accommodated by the Northwest Atlantic Seabird Catalog or the Coastal Waterbird Database.
+
+#### Current Gaps in Data Infrastructure
+
+There are a number of identified gaps in infrastructure to support standardized data collection and workflows.
+The major gaps identified for birds are as follows:
+
+##### Coastal Waterbirds Data
+
+Regular monitoring of marine birds, shorebirds, and long-legged wading birds breeding along the Atlantic Coast is relevant to offshore wind development for a number of reasons.These types of data provide important metrics, including demographics, survivorship, fecundity, nest success, and population health.
+These data are useful in evaluating how offshore wind may be affecting populations.
+For example, lower juvenile survival could be associated with reduced foraging near wind facilities.
+These data are also needed to understand other longer-term trends or factors affecting populations, which may have nothing to do with wind development, but can help isolate the impacts of offshore wind through comparing regional to local data and recent to historic trends.
+
+For colonial nesting seabirds (terns and skimmers, petrels and shearwaters, gulls, alcids, pelicans, cormorants, and anhingas) and long-legged wading birds (herons, egrets, ibises), in particular, breeding survey data can provide the locations of breeding colonies that are in close proximity to proposed or existing offshore wind facilities.
+These surveys can also help assess risk to adults and fledged young that may spend time in, around or pass through wind farms to forage or when traveling to and from wintering grounds. 
+
+Historically, many states individually collected breeding survey data for colonial nesting seabirds and long-legged wading birds, species groupings collectively referred to as colonial waterbirds (CWB).
+There have been occasional regionally coordinated CWB surveys conducted by two or more states simultaneously.
+However, historically, these data were stored in separate state-managed databases, since there was no central location for these data. 
+Some states’ data were eventually collated into a database managed by USGS Patuxent.
+This database was updated by collaborators from USGS, USFWS, and the University of Maine, who inventoried the data and [created]{.underline} an ArcGIS Shiny App to explore and summarize these data at multiple spatial scales.
+The Maine Seabird Atlas, Seabird Colony Registry and Atlas for the Southeastern U.S. and other CWB survey data were also incorporated into the database at that time.
+In 2020, the Atlantic Flyway Council began funding the development of an Atlantic Flyway CWB data management system as part of the Avian Knowledge Network.
+This system is intended to securely house historic, contemporary, and future CWB breeding data collected by Atlantic Flyway states and provinces and provide mapping, analytical and other decision support tools to inform CWB management at multiple spatial scales.
+Some protocols exist for surveying particular species or groups of coastal waterbirds, as summarized in Section 6.1.1.
+However, in general, studies across multiple states do not use consistent and standardized protocols, in part due to difficulties in coordination and in part due to the wide variety of habitats and species assemblages occurring along the Atlantic Coast.
+
+In recent years, the Atlantic Flyway Nongame Migratory Bird Technical Section led an effort to promote coordinated CWB breeding surveys within the Atlantic Flyway.
+The first flyway-wide survey started in 2023 and will finish in 2024.
+Because colonial waterbirds encompass many species that occupy a wide variety of habitat types, some of which are difficult to access, survey planners identified five focal species that states and provinces with limited capacity and/or funding constraints agreed to survey.
+The focal species include Common Terns, Least Terns, Black Skimmers, Laughing Gulls and Double-crested Cormorants; all species are either of high conservation or management concern in most Atlantic Flyway states and provinces.
+This pilot effort could serve as a template for future, regularly recurring coordinated surveys that cover increasing numbers of species, as states and provinces institutionalize CWB breeding surveys in their work plans.
+
+##### Marine Bird Diet Data
+
+Marine bird diet data provide important information associated with adult and fledgling survival, health, and forage fish availability. 
+One potential impact of offshore wind could be to change foraging patterns as well as forage fish abundance, distribution, and species composition – potentially having important ramifications for feeding marine birds and shorebirds.
+Collection of these historic data in a centralized database is a need that has been identified by other avian working groups; the data are relevant for many purposes, and not for an understanding of offshore wind impacts alone.
+
+Marine bird diet data (terns and alcids) collected by NAS and USFWS in Maine are all in an ACCESS database, but this has not been publicly shared and does not currently include data from other states or other projects.
+Recently, the Atlantic Marine Bird Cooperative (AMBC) forage fish and seabird colonies and adjacent waters working groups embarked on a coordinated seabird diet monitoring project along the Atlantic and Gulf coasts.
+The initial focus will be on collecting fecal samples from Common Tern and Black Skimmer adults and chicks, using a consistent protocol. 
+Maine Coastal Islands NWR staff also initiated development of seabird diet monitoring guidance (L. Welch and R. Boettcher, personal communication).
+Other than these recent efforts, there are some older recommendations for reporting diet study results (e.g., [@barrett2007]), but the Bird & Bat Subcommittee is not aware of widely used marine bird diet data protocols.
+
+##### Collision & Bird-Turbine Interaction Database
+
+As discussed in Section 4, some incidental collision fatalities may be identified during visits to offshore turbine platforms.
+Currently, there is no standard, cost-effective way to rigorously monitor for collisions offshore. 
+However, unimodal and multi-modal systems to document bird interactions with wind turbines, including behavior, micro-avoidance, and collisions, are being developed and validated at land-based wind facilities and pilot-tested on offshore turbines.
+Where fatalities are only documented in an incidental fashion, fatality data may be of limited value, but are nevertheless important, given our limited scientific understanding of potential offshore impacts.
+In the future, as technologies allow for collection of data in a more scientific and rigorous fashion, collision, micro-avoidance, and other turbine interaction data will be critical for evaluating impacts of offshore wind and (if necessary) identifying effective mitigation strategies. 
+The need for a designated database and availability of detailed data for scientific analysis will hence become crucial. 
+
+There is some sensitivity regarding reporting of fatality and collision information, as well as sharing of videos and photographs of bird interactions with wind energy infrastructure.
+Reporting of these data is related to regulatory requirements under federal law, and public reporting of collision data could result in negative publicity.
+In addition, important covariates to use in analyses include potentially sensitive business information, like wind speed and the operational status of the turbine.
+Some wind companies consider these items to be proprietary information, although practices differ among companies and are dependent on company policies, permitting and development stage, and the granularity/specificity of the data provided. 
+
+There is no central database currently available for the collection of fatality information, or more generally for the disposition of video, photo, radar, acoustic, or impact detection data related to bird behavior, avoidance, and collisions associated with offshore wind infrastructure. 
+In the terrestrial environment, there are two databases which could inform development of an offshore database, Nature Counts and AWWIC.
+[The Nature Counts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwicu-HG9KOCAxUGjokEHUgHBlcQFnoECBEQAQ&url=https%3A%2F%2Fwww.naturecounts.ca%2F&usg=AOvVaw3jXdmAAIWe0ZoJp-K-GKBJ&opi=89978449) database collects bird fatality information from Canadian land-based wind facilities.
+The [American Wind Wildlife Information Center](https://rewi.org/about-us/our-work/awwic/) (AWWIC) collects post-construction fatality data from land-based wind facilities in the United States.
+Database managers work with wind industry collaborators to compile both publicly available and privately contributed fatality data, including important covariates (e.g., effort, methodology, meteorological conditions), and to allow for the analysis of this data by Renewable Energy Wildlife Institute (REWI) staff, as well as other researchers.
+Careful limitations on data sharing and requirements for sharing aggregated data ensure that no data from private sources could lead to identification of individual wind facilities.
+
+One challenge associated with the AWWIC database is that it includes tailored non-disclosure agreements negotiated with each wind facility operator individually, and new data analyses and studies must often be negotiated with data contributors.
+An offshore collision fatality database for birds should instead include standard protocols for how data are collected, entered, and reported, including which covariates are necessary for interpretation.
+The database should also include clear data sharing standards to allow access for federal regulators and simplify sharing of data with outside researchers for analysis and synthesis, while addressing developer concerns regarding data security, confidentiality, and aggregation in reporting results publicly.
+
+##### Bird Acoustic Database
+
+Acoustic monitoring of birds is typically conducted for nocturnal migrants.
+It can be valuable in the offshore environment, where there is little information available about smaller bird species, particularly those moving at night.
+This methodology is of interest as a cost-efficient strategy to assess bird activities offshore [@normandeauassociatesinc.2014], and it is included as a part of some Avian Monitoring Plans.
+There is currently no centralized database to house such data or clear guidance on deployment.
+
+##### Radar and Lidar Data Results
+
+While NEXRAD and other large radar data are archived in government databases, there is currently no centralized database to house radar or lidar data results from smaller-scale systems.
+There are also no clear guidelines on appropriate systems for deployment offshore, deployment methodology, or specific study goals.
+As discussed in Section 4, radar and lidar can provide information about bird passage rates and flight heights.
+
+##### Tissue Sample Repository 
+
+There is an identified need for a tissue repository to store tissue samples, including carcasses of birds recovered from offshore wind facilities or boat strikes.
+These remnants are much less likely to be found at offshore facilities than at terrestrial facilities, since carcasses are most likely to fall into the ocean and not be recoverable and regular carcass searches are not likely to be proscribed.
+However, carcasses of birds may occasionally be recovered on offshore wind facility infrastructure incidentally.
+In addition, tissue samples may be collected from birds in offshore or coastal areas for various research purposes, including genetic, physiological, stable isotope, or disease dynamics studies.
+If not destructively sampled for analysis as part of the initial study, these samples could be stored for later use and to benefit future analyses.
+
+At present, there is one repository which accepts bird carcasses recovered at renewable energy facilities.
+The [Renewables-Wildlife Solutions Initiative](https://www.usgs.gov/centers/forest-and-rangeland-ecosystem-science-center/science/renewables-wildlife-solutions) (RWSI), organized by Todd Katzner (USGS) and Mark Davis (University of Illinois), has established a successful system for collecting and tracking bird samples from wind facilities, including sample storage and an Access database.
+The organizers are open to accepting samples and carcasses from offshore wind facilities.
+However, this small-scale repository could easily be overwhelmed if all bird carcasses and tissue samples currently collected or stored by state agencies, federal agencies, wind developers, and environmental consultants were to suddenly begun to be shipped to these locations.
+
+USGS researchers, working with colleagues, have mapped out a hierarchical structure for a database that could allow for the tracking of carcasses and tissue subsamples throughout the country.
+There has also been discussion of logistical needs – for example, the establishment of regional collection centers to reduce transportation/shipping challenges for frozen samples.
+As of 2023, this plan has not been implemented.
+While development of a tissue sample repository would be of great value to renewable energy-wildlife research, it is likely of lower priority for offshore wind facilities where, as noted, collection of carcasses and tissue samples is likely to occur less frequently.
+
+##### Raw File Data Repository
+
+In addition to databases, there is a need for a data repository to store raw data with large file types – e.g., radar data, thermal video, digital aerial survey photos and videos, and acoustic files.
+Derived data from these types of files should be made available in relational databases as relevant; however, the raw data should also be retained in a central location for quality control, re-analysis, and future re-evaluations with better tools.
+For example, future machine learning advances may allow for faster and more effective automated identification of bird species.
+
+### Data Analysis & Planning
+
+Data analyses and summaries should 1) inform where new data collection is needed, 2) characterize avian distribution patterns, density, movements, behavior, and population dynamics, 3) assess whether offshore wind is causing any observed changes, 4) assess the impacts of those changes on bird populations, and/or 5) evaluate the efficacy of monitoring or mitigation strategies.
+
+Section 6.2.1 summarizes recommended science actions. 
+Section 6.2.2 provides context for recommended actions in the form of current and recent activities.
+These sections are structured based on the broad research topics laid out in Section 5.
+Note that improvements to data collection and distribution methods are also addressed in Sections 6.1 and 6.3.
+
+#### Recommended Science Actions
+
+In order to address current needs, the Bird & Bat Subcommittee recommends:
+
+-   **Coordinating and planning for scientific research**
+
+    -   Using best available information to build, maintain, and regularly update a shared exposure/risk vulnerability matrix for both marine and land-based bird species. 
+        This matrix will be used to identify focal species by geography, lease area, potential impact of research interest, and research question.
+
+    -   Review of available cumulative effects literature and adoption of a clear framework for assessing cumulative effects.
+
+    -   Consultation with the Bird & Bat Subcommittee prior to conducting analyses of coastal and offshore avian data to ensure that the research leverages all available data and contributes to addressing key issues and data gaps.
+
+    -   Collaborating among Subcommittees and with outside experts to ensure cross-taxa issues are being addressed. 
+        Two examples:
+
+        -   Working with the Habitat & Ecosystem Subcommittee and fish experts to ensure that collected data and data products include important bird habitat variables and prey species. 
+
+        -   Working with the Marine Mammal Subcommittee to coordinate with and train Protected Species Observers/Marine Mammal Observers to monitor and report dead and injured birds found on vessels.
+
+    -   Developing a user-friendly guidance document on different bird research methods, summarizing the costs and benefits of each in terms of types and quality of data collected, effort required, financial costs, and options available. 
+        (One guide that could be built upon is available [here](https://tethys.pnnl.gov/publications/bat-bird-monitoring-guidance).)
+
+-   **Informing pre-construction risk assessments**
+
+    -   Identifying key metrics and summarizing relevant data (e.g., movement metrics, distribution and abundance, flight height, flight speed, micro-avoidance) to inform collision risk models.
+
+-   **Understanding baseline conditions and assessing impacts**
+
+    -   Regularly updating marine bird distribution models and maps based on at-sea observations.
+
+    -   Analyzing existing tracking data from multiple sources to develop pre-construction baselines (e.g., movements, distributions, behavior) for focal species.
+
+    -   Incorporating data from multiple methods (e.g., at-sea surveys, tracking, radar) and covariates (oceanographic, meteorological, prey distribution estimates) into integrated models.
+
+    -   Identifying key metrics and summarizing relevant data (e.g., movement metrics, distribution and abundance, flight height, flight speed, micro-avoidance, meso-avoidance) to inform vulnerability assessments and collision risk models.
+
+    -   Analyzing and summarizing available seabird diet data to inform potential effects of offshore wind energy on foraging.
+
+    -   Summarizing available population demographic data to develop updated population models and assess potential population-level impacts for focal species.
+
+    -   Developing regional-scale power analyses to inform regional-scale study designs.
+
+-   **Identifying and evaluating mitigation strategies**
+
+    -   Advanced planning, development, and assessment of off-site conservation measures to provide compensatory mitigation (“no net loss”) or support voluntary conservation efforts.
+
+#### Current and Recent Efforts
+
+##### Coordination and Planning for Scientific Research
+
+**Summary of Research Priorities**.
+The [NYSERDA E-TWG Regional Synthesis Workgroup](https://www.nyetwg.com/regional-synthesis-workgroup) was organized to inform and provide interim guidance for regional-scale research and monitoring of offshore wind energy and wildlife in the eastern United States.
+With technical support from BRI, the group compiled [a database](https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations) of research needs and data gaps from existing sources, including published, peer-reviewed synthesis papers, State of the Science Workgroups, federal and state agency efforts, and previous E-TWG Specialist Committees, etc..
+The database was designed to synthesize existing data gaps and research needs so that researchers and funders can easily access, sort, and further prioritize topics.
+The database specifies focal taxa, spatial scale, and other information relating to each priority research topic.
+The Workgroup also drafted written guidance, including definitions of common terminology to support regional communications, general suggested criteria for prioritization of regional research topics, and general recommendations on study design and data transparency for regional-scale research efforts.
+
+**Data Gaps Analysis**.
+[Project WOW](https://offshorewind.env.duke.edu/), a Wildlife and Offshore Wind study led by Duke University, with collaborators, is performing a data gaps analysis to understand where sufficient data exist to generate meaningful estimates of likely impacts, and where they do not.
+This analysis will be based on a quantitative scoring of literature, based on species names and taxa. 
+For a preliminary summary of this analysis, see [Meeting 4 in the public RWSC files](https://rwscorg.sharepoint.com/:b:/s/BirdandBatSubcommittee/EfR6tZUhTTFDiKP_l-tSNPABmt9dRbouoFnsxkcxurIGJA?e=OBpxXh).
+
+**Cumulative Effects Framework.** Croll et al. recently published a proposed framework for assessing and mitigating impacts of offshore wind development on marine birds [@croll2022].
+
+**Motus Network Coordination.** The Motus network continues to expand through the work of Birds Canada, USFWS, and many other collaborators.
+However, the system could benefit from a more coordinated and less piecemeal approach towards deployment of Motus stations, in an arrangement that maximizes detection probabilities for focal species.
+In addition, centralized calibration and maintenance efforts, to ensure stations are functioning and to measure detection ranges systematically, would also be of benefit for scientific rigor and cost savings.
+In summer 2020, USFWS organized initial meetings among stakeholders to discuss the value of coordinating and possibly centralizing calibration of Motus stations, as well as deployment of both Motus stations and VHF radiotags for automated telemetry in the offshore environment. 
+Phase 1 of the project would include efforts by RWSC to develop a plan for coordination and centralization, incorporating the [*Offshore Motus Framework*](https://motus.org/groups/atlantic-offshore-wind/), highlighting subregions/sites and species of interest, proposing a design or framework for optimal or strategic tag deployment, listing key participants (tag project funders, species and land managers, etc.), and describing data standardization practices.
