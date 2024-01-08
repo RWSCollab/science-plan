@@ -241,3 +241,11 @@ Off-site mitigation planning is discussed later in this chapter.
 In addition, a greater scientific interest and research focus on certain species in the context of offshore wind development might lead to a better scientific understanding that elucidates unrelated conservation issues and opportunities and ultimately better serves these species.
 
 ## Common Data Collection Methods and Approaches
+
+A wide variety of scientific methods are used for studying birds in coastal and offshore environments, which are summarized below.
+This section is intended to provide a brief description of different study methods, rather than a detailed assessment of the pros/cons and current state of development of each technology/methodology.
+For tracking of new technologies, see the Tethys [database of monitoring technologies](https://tethys.pnnl.gov/wind-energy-monitoring-mitigation-technologies-tool).
+
+Note that this brief review focuses on technologies or methods which can be used in the offshore environment or at coastal/island nesting sites of seabirds and shorebirds.
+There are many additional survey techniques and protocols used in the onshore environment.
+These are relevant to the study of terrestrial effects of offshore wind -- such as effects of trenching for cables where they are brought ashore, or clearing of transmission corridors to connect offshore wind with onshore grid infrastructure -- but for the sake of brevity and a focus on novel offshore issues, they are not addressed here.
