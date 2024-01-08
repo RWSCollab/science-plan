@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Birds {#sec-append-birds}
 
 ## Introduction
@@ -249,4 +253,60 @@ For tracking of new technologies, see the Tethys [database of monitoring technol
 Note that this brief review focuses on technologies or methods which can be used in the offshore environment or at coastal/island nesting sites of seabirds and shorebirds.
 There are many additional survey techniques and protocols used in the onshore environment.
 These are relevant to the study of terrestrial effects of offshore wind -- such as effects of trenching for cables where they are brought ashore, or clearing of transmission corridors to connect offshore wind with onshore grid infrastructure -- but for the sake of brevity and a focus on novel offshore issues, they are not addressed here.
-test.
+
+### Observational Surveys
+
+**At-sea aerial surveys for seabirds** were historically conducted using airplanes flying at roughly 60-200 m over the ocean surface, with live observers recording observations within a certain distance from the line of transect.
+In more recent years, some at-sea surveys have transitioned over to the use of aerial photos or videos, including high-definition photos or video, which can be conducted at a higher flight altitude.
+High-definition aerial photography has some advantages over live observers, including reduced bird disturbance due to the higher flight altitude, less effect of observer bias, and the availability of raw data for quality control and future re-analysis. 
+In addition, there is some evidence that aerial video can cover a larger area, provide greater spatial accuracy, lead to higher numbers of sightings, and more frequently identify birds to species [@zydelis2019].
+Of greatest importance to offshore wind studies is the higher flight altitude – conducting at-sea surveys at no more than 100 m over the ocean surface will not be possible at offshore wind facilities once turbines are installed.
+In order to be able to accurately compare before/after survey results in the vicinity of offshore wind facilities, high-definition aerial photography (still photos or video) are recommended for all offshore surveys of seabirds moving forward. 
+
+Censusing birds at sea is the primary objective of this research method; however, flight height estimates can in some cases be gleaned from the data.
+In addition, with digital aerial photographs, or particularly video, it is sometimes possible to identify obvious behaviors, like foraging dives.
+However, even with video, recordings are only brief (e.g., 6-8 frames of a bird over 1 second), and therefore not particularly informative regarding behavior.
+
+**Boat-based** **surveys** can also be used to inventory/census bird species present at sea.
+At smaller spatial scales, they can be more cost-effective than aerial surveys.
+They can provide a higher level of accuracy in identifying species, age, and behavior of seabirds at sea [@camphuysen2004].
+As lease areas become larger and locations further offshore, aerial surveys may naturally become more cost-effective and more common.
+While all study methods have some biases, boat-based surveys tend not to be as good as aerial surveys for detecting some taxa – particularly seaducks and loons, which can be disturbed by boats [@camphuysen2004].
+
+Boat-based or stationary (e.g., turbine platform-based) observations using live observers can also be used to estimate flight height and collect behavioral data, such as documenting foraging behavior or responses to turbines.
+
+In coastal areas and on islands, **population surveys** of colonial nesting seabirds, long-legged wading birds, or shorebirds are common.
+These surveys are sometimes aerial [@bakó2014] (using aerial still photographs or video), or may be ground-based, including surveys at nesting colonies to census the entire population at a particular site and, in some cases, to assess survival of marked individuals.
+At nesting sites, other observational studies may also be conducted, including **nest monitoring to document nest productivity over time, behavioral studies, and observations of adults feeding young** to document diet.
+
+**Incidental observations** can also provide useful information about species presence and behavior, particularly for those infrequently observed at sea.
+Citizen science can also be used to collect these types of data – eBird is one database that capitalizes on this type of data to generate useful information about timing and distributions of bird occurrence, although offshore data of this type are quite limited.
+
+### Radar and Lidar
+
+**Radar systems** (RAdio Detection And Ranging) come in a range of types, sizes, frequencies, and modes of action, which affect the spatial and temporal scales of detection, resolution, and types of data collected.
+They detect birds by emitting pulses or continuous streams of radiowaves which are scattered from any object encountered, producing an “echo” in returned energy which is detected and interpreted by the radar equipment.
+They can be used to study a variety of aspects of avian ecology [@hüppop2019].
+
+NEXRAD (WSR-88D) towers are large, S-band, Doppler weather radar stations deployed across the United States to provide information on a broad set of weather conditions, including precipitation and wind speed [@diehl2005].
+These radars have a lower resolution than some, but can detect flocks of birds, including migrants leaving stopover sites for high-altitude nocturnal flights in the spring and fall, trans-Gulf of Mexico movements, and broad- and narrow-front migrations.
+They have been used to identify stopover, passage, and roosting areas [@buler2014; @chilson2019], as well as to study changes in total bird abundance (measured as biomass) and phenology over time (e.g., see [@chilson2019; @horton2020; @rosenberg2019]. In addition, there are applications for behavioral ecology describing flight speed, direction, orientation, and altitude. NEXRAD coverage does extend offshore in some portions of Atlantic coast, but the radar beam typically samples altitudes above most bird migration in this region. BOEM is currently funding [a study](https://www.boem.gov/sites/default/files/documents/environment/environmental-studies/GM-22-02_1.pdf) to create a database of terrestrial migrating birds moving to and from the offshore environment including through use of NEXRAD along the U.S. Atlantic Coast. Note that Canadian weather radars deployed in the maritime provinces could also provide data valuable for studies at the northern end of the RWSC Study Area.
+
+X-band radars use smaller antennae and have a smaller spatial range.
+They operate using a shorter wavelength, and hence have a higher target resolution.
+These radars also scan the atmosphere more regularly, increasing temporal resolution.
+Mobile X-band radar units can be deployed on coastal and island sites, boats, or offshore infrastructure to monitor for passage rates of commuting or migrating birds.
+They cannot identify animals to species, but can provide information about wingbeat frequency and body size, which can inform classification, as well as information about flight height, direction, and speed.
+
+Many ships are equipped with S-band or X-band radars (or both) to aid in navigation, with S-band systems providing longer-range data and better functioning in fog, and X-band radars, as noted above, providing greater precision.
+These “marine” radars can also be used to detect birds, with precise applications and data dependent on the type of system.
+
+The use of portable radars for avian research offshore is currently being explored through [a BOEM-funded study](https://www.boem.gov/sites/default/files/documents/environment/environmental-studies/GM-23-01.pdf).
+
+**Lidar** (Light Detection and Ranging) systems work by a similar mechanism, but use a different frequency on the electromagnetic spectrum.
+In this technology, a laser beam is emitted, which bounces back after it encounters an object.
+Lidar systems are more precise than radar, but operate over a shorter range, and are obstructed by fog or rain [@bilik2023].
+The use of this technology for measuring bird flight height is effective offshore and can be accurate to within 1 meter [@cook2018].
+Cook et al. (2018) provides recommendations on use, but uncertainties remain regarding Lidar capabilities for wildlife monitoring, particularly for detection of small-bodied birds [@sloan2023].
+
+### Acoustics
