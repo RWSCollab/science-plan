@@ -46,10 +46,10 @@ Species at particular risk from offshore wind development due to their life hist
 
 Within this plan, some science recommendations are discussed within the context of five subregions of the RWSC Study Area: the Gulf of Maine, Southern New England, New York/New Jersey Bight, U.S. Central Atlantic, and U.S.
 Southeast Atlantic (see @sec-intro). 
-Avian assemblages and ecology may vary considerably over this geographic area. 
+Avian assemblages and ecology may vary considerably over this geographic area.
 The Gulf of Maine subregion, located at the northern edge of the Study Area, with deeper water depths and a complex coastal topography (many islands, peninsulas, and inlets), includes a suite of species adapted to colder waters and more northern climes.
 Several alcid species breed along the Maine coast but are not found breeding in other states; colonies of breeding Arctic Terns and Black Terns, likewise, are only found in Maine.
-At the opposite end of the Study Area, many birds of more tropical regions, like whistling-ducks, Limpkins, and American Flamingos, are only found in Florida. 
+At the opposite end of the Study Area, many birds of more tropical regions, like whistling-ducks, Limpkins, and American Flamingos, are only found in Florida.
 
 ### Regulatory Status
 
@@ -211,12 +211,12 @@ Birds could also be affected in less direct ways through changes in the local en
 These impacts could occur via many mechanisms, including the physical presence of turbine infrastructure, increased lighting, changes in sound (including infrasound), changes in pressure, changes to local electromagnetic fields, effects on prey species, or effects on how humans use the area of the wind facility. 
 These changes in the local environment could lead birds to be attracted to or avoid offshore wind facility infrastructure at the macro-, meso-, or micro-scale [@dierschke2016].
 For example, phototaxis, the attraction of birds to lit structures [@adams2021], could attract birds to lighted offshore wind infrastructure or boats, increasing collision risk as well as changing movement patterns and distributions.
-Increased sound and infrasound could affect the hearing abilities of birds both above and below the water\'s surface, with potential impacts on foraging, navigation, intraspecies communication, or predator avoidance [@andersonhansen2020; @mooney2019; @patrick2021].
+Increased sound and infrasound could affect the hearing abilities of birds both above and below the water's surface, with potential impacts on foraging, navigation, intraspecies communication, or predator avoidance [@andersonhansen2020; @mooney2019; @patrick2021].
 Increased vessel traffic could increase anthropogenic disturbances of some bird species [@burger2019; @schwemmer2011].
 
 Macro- and meso-scale avoidance of offshore wind turbines could lead to habitat loss or degradation.
-Habitat displacement effects caused by offshore wind facilities have been observed in a variety of bird taxa, [@dierschke2016](also see [Appendix C](https://www.nyetwg.com/_files/ugd/78f0c4_e1ecb121e1c644c481ce2accfea6530f.pdf) of the Avian Displacement Guidance Committee\'s draft survey guidelines for a recent literature review).
-Habitat degradation could occur if birds are less comfortable foraging within a wind facility, foraging efficiency is lower near turbine infrastructure, and/or the presence of the turbines cause stress levels to be higher, reducing birds\' physiological condition.
+Habitat displacement effects caused by offshore wind facilities have been observed in a variety of bird taxa, [\@dierschke2016](also%20see%20%5BAppendix%20C%5D(https://www.nyetwg.com/_files/ugd/78f0c4_e1ecb121e1c644c481ce2accfea6530f.pdf)%20of%20the%20Avian%20Displacement%20Guidance%20Committee's%20draft%20survey%20guidelines%20for%20a%20recent%20literature%20review).
+Habitat degradation could occur if birds are less comfortable foraging within a wind facility, foraging efficiency is lower near turbine infrastructure, and/or the presence of the turbines cause stress levels to be higher, reducing birds' physiological condition.
 Habitat connectivity could also be reduced via avoidance, although connectivity impacts are more likely to be a concern when considered cumulatively at the scale of multiple wind facilities [@masden2009].
 Meanwhile, some species, such as cormorants, show attraction to turbine structures [@dierschke2016].
 Certain bird species may therefore benefit from increased roosting and foraging opportunities around turbines -- although offshore wind facilities could also serve as ecological traps if attraction increases collision risk.
@@ -236,7 +236,7 @@ On a global scale, the development of offshore wind facilities could serve as a 
 The mitigation of climate change is a major conservation action affecting many bird species, including those that breed or forage at high latitudes [@bateman2020].
 Because oil spills and other pollution-related impacts from fossil fuels are major stressors for many marine birds [@troisi2016], moving to a clean energy framework could also reduce direct impacts from fossil fuel use.
 
-Offshore wind development could indirectly benefit avian species if wind facility developers implement effective voluntary off-site mitigation efforts, conducted in such a way and to such an extent that they actually provide a net benefit to species\' populations.
+Offshore wind development could indirectly benefit avian species if wind facility developers implement effective voluntary off-site mitigation efforts, conducted in such a way and to such an extent that they actually provide a net benefit to species' populations.
 Off-site mitigation planning is discussed later in this chapter.
 In addition, a greater scientific interest and research focus on certain species in the context of offshore wind development might lead to a better scientific understanding that elucidates unrelated conservation issues and opportunities and ultimately better serves these species.
 
@@ -249,3 +249,4 @@ For tracking of new technologies, see the Tethys [database of monitoring technol
 Note that this brief review focuses on technologies or methods which can be used in the offshore environment or at coastal/island nesting sites of seabirds and shorebirds.
 There are many additional survey techniques and protocols used in the onshore environment.
 These are relevant to the study of terrestrial effects of offshore wind -- such as effects of trenching for cables where they are brought ashore, or clearing of transmission corridors to connect offshore wind with onshore grid infrastructure -- but for the sake of brevity and a focus on novel offshore issues, they are not addressed here.
+test.
