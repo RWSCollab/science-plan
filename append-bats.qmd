@@ -23,7 +23,7 @@ While the focus of this plan is offshore impacts of offshore wind development, p
 For example, clearing of transmission line corridors could remove trees used by summer maternity colonies.
 Therefore, bat species which primarily or solely occur in the onshore environment along the Atlantic Coast are nevertheless included within the scope of this plan, although they are not the focus of this chapter.
 
-### Bat Species occurring in the Northwest Atlantic 
+### Bat Species occurring in the Northwest Atlantic
 
 There are 17 species of bat which commonly or occasionally occur within the 14 states of the U.S.
 Atlantic Coast (**Table 1**).
@@ -63,7 +63,7 @@ Three additional species, the velvety free-tailed bat (*Molossus molossus*), big
 +-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
 | *Nycticeius humeralis*              | evening bat                        |                        | Least Concern            | 0             | 3        |
 +-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
-| *Perimyotis subflavus*              | tri-colored bat                    | proposed Endangered \  | Vulnerable               | 4             | 14       |
+| *Perimyotis subflavus*              | tri-colored bat                    | proposed Endangered\   | Vulnerable               | 4             | 14       |
 |                                     |                                    | (Sept 2022)            |                          |               |          |
 +-------------------------------------+------------------------------------+------------------------+--------------------------+---------------+----------+
 | *Tadarida brasiliensis*             | Brazilian free-tailed bat          |                        | Least Concern            | 0             | 1        |
@@ -75,4 +75,15 @@ For more information about the species in Table 1, see *Bat Species Descriptions
 
 #### Regulatory Status
 
-#### 
+Currently four bat species that regularly occur in the RWSC Study Area are listed as Endangered under the [federal Endangered Species Act (ESA)](https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals), one is [under review](https://ecos.fws.gov/ecp/species/9051), and one has [been proposed](https://ecos.fws.gov/ecp/species/10515) for listing as Endangered.
+In addition, the hoary bat has been added to the USFWS National Domestic Listing Workplan to undergo a status review at the discretion of the Service in FY2027 [@usfws2023].
+The ESA places strict limits on the import, export, sale, possession, transportation, or “take” of listed species, with “take” defined as “to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct.” [@unitedstates1983].
+The ESA also allows for the designation of critical habitat for a species and prohibits the destruction of that habitat.
+
+In addition to federal regulations, most states have a state Endangered Species List, which offers its own protections. 
+Fourteen bat species are protected by state statutes in the 14 states of the RWSC Study Area. 
+Individual State Wildlife Action Plans also identify [Species of Greatest Conservation Need (SGCN)](https://www1.usgs.gov/csas/swap/) which serve as foci for research and conservation efforts; all of the bat species that regularly occur along the Atlantic Coast are listed as SGCN in one or more states [@usgs2023].
+
+Hoary bats, silver-haired bats, and eastern red bats were designated as Endangered in 2023 by Canada’s Committee on the Status of Endangered Wildlife in Canada (COSEWIC) due to land-based wind energy impacts on these species [@cosewic2023].
+
+#### Focal Species 
