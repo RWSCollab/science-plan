@@ -1,3 +1,235 @@
 # Sea Turtles {#sec-append-st}
 
-test
+Note: Scientific and ecological terminology and agency/organization acronyms are used throughout this chapter.
+A[ List of Definitions and Acronyms](#Definitions_and_Acronyms) is included at the end of the chapter.
+
+## Sea turtle species in the RWSC study area
+
+All sea turtles in the U.S. are federally protected by the Endangered Species Act (ESA) and most states adopt the federal status for management purposes.
+In the U.S., sea turtles in water (foraging, migrating, oceanic dispersal, mating, disentanglement and stranding response) are managed federally by NOAA Fisheries and on land (nesting, rehabilitation and captive display) by the U.S.
+Fish and Wildlife Service.
+
+Sea turtles have a unique life history.
+They are generally long lived and, besides incubating eggs and emergent hatchlings, only adult females spend a brief period on beaches while nesting.
+For all six species found in U.S. waters combined, sea turtles can be found in the northwest Atlantic from shallow coastal waters, including brackish and inshore bays, sounds and river mouths to offshore pelagic waters.
+Collectively sea turtles may be the ESA listed species most commonly affected by offshore wind.
+They range in size from \<10cm Kemp’s ridley hatchlings to \>2m adult leatherbacks.
+In the oceanic dispersal stage, they feed in surface waters often associated with floating algae such as sargassum, as larger juveniles-adults, diets range from herbivorous adult green turtles to leatherbacks feeding primarily on gelatinous prey to Kemp’s ridley and loggerhead turtles that feed primarily on benthic crustaceans and mollusks.
+
+In the U.S.
+Atlantic, sea turtles are migratory in temperate and northern sub-tropical areas and may live in relatively static or seasonally shifting home ranges in sub-tropical and tropical waters depending on the species and habitat.
+
+On the U.S.
+Atlantic coast, loggerhead and green turtles regularly nest from Florida to North Carolina.
+Loggerheads nesting in the U.S. belong to the NW Atlantic DPS, and greens belong to the N Atlantic DPS. Small numbers of loggerheads annually nest in southeastern Virginia and occasional nests of both species have been reported north of Virginia.
+In the same region, leatherback turtles nest primarily in [Florida](https://myfwc.com/research/wildlife/sea-turtles/nesting/nesting-atlas/) and numbers have fluctuated at index beaches but have generally increased since the late 1980s.
+Occasional Kemp’s ridley and hawksbill turtles nest on the U.S.
+Atlantic coast, hawksbills in Florida and Kemp’s ridleys from FL to VA.
+Extralimital nesting outside of known nesting areas have been documented for all turtle species.
+
+There is no parental investment after a nest is laid and hatchlings emerge from nests, make their way to the water and swim frenetically until they reach offshore habitat where they spend several years to over a decade in an oceanic dispersal stage.
+For northwest Atlantic green and loggerhead turtles, we believe this life stage is spent primarily in the Gulf Stream and Sargasso Sea.
+Little is known about NW Atlantic leatherbacks in the oceanic dispersal stage.
+Most Kemp’s ridleys nest in the Gulf of Mexico and some of these turtles exit the Gulf and are dispersed into the northwest Atlantic most likely via the Gulf Stream.
+
+Healthy juvenile through adult life stage sea turtles are considered ‘surfacers’ instead of ‘divers’ meaning that most of their time is spent below the surface, and, with a couple of exceptions, they only come to the surface briefly to breathe [@kooyman1989].
+One exception to this mostly subsurface lifestyle is basking behavior which has been exhibited by loggerhead turtles on the outer continental shelf, mostly in the spring months as they are migrating north to summer foraging areas [@hochscheid2010].
+Post-hatchling turtles in the dispersal phase [@phillips2022] also appear to spend most of their time in the top several meters of the water column.
+
+Movement from the oceanic dispersal life stage to the juvenile-adult neritic life stages occurs at different age and size for loggerhead, green, and Kemp’s ridley turtles.
+Little is known about leatherback distribution from hatchling to sub-adult life stages.
+
+Because their behavior and distribution varies among life stages, the Science Plan will address research priorities by species, life stage and subregion (Table 1).
+Thus, for the remainder of this document, sea turtle life stages will be defined as:
+
+[Egg/hatchling]{.underline} – for the conservation purposes of the RWSC, we are combining incubating egg in nests with hatchling emergence and swimming frenzy; beach phase including incubation, emergence & swim frenzy that results in arrival in offshore pelagic habitat.
+
+[Juvenile dispersal]{.underline} – ‘lost years’ life stage, post-hatching dispersal where turtles are near the surface, in open water.
+Off the U.S.
+Atlantic coast these small turtles are thought to be distributed primarily in the Gulf Stream and Sargasso Sea.
+Little is known about the dispersal life stage for leatherback turtles, and this life stage primarily occurs in the Gulf of Mexico for Kemp ridley turtles \[@phillips2022\].
+
+[Juvenile-subadult]{.underline} (post dispersal)– foraging phase of sexually immature turtles (neritic habitat for Kemp’s ridley, green and loggerhead turtles in the NW Atlantic; pelagic and neritic for NW Atlantic leatherbacks), characterized in some species and subregions by north/south and/or inshore offshore seasonal migrations or seasonally shifting home ranges.
+
+[Adult]{.underline} – sexually mature; loggerheads nest in the Central Atlantic and Southern Atlantic subregions, green and leatherback turtles almost exclusively in the Southern Atlantic, occasional nests of all species are found outside normal nesting areas.
+Females of most populations have an inter-nesting period of \>1 year.
+Non-breeding and post-breeding/nesting adults may behave seasonally much like juveniles and sub-adults.
+Tracking data suggest foraging occurs outside of nesting areas in post-nesting females.
+
+Table 1: Sea turtle species and life stage covered by this plan by subregion (UN=unknown, NA=not applicable, Winter=Jan-Mar, Spring=Apr-Jun, Summer=Jul-Sep, Fall=Oct-Dec).
+
+Gulf of Maine
+
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+|               |                  | **Life stage(s)**  |                        |                       |           |                     |                         |
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+| **Species**   | **ESA Status**   | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence**   |
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+| leatherback   | endangered       | NA                 | UN                     | ü                     | ü         | NA                  | common                  |
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+| loggerhead    | threatened       | NA                 | NA                     | ü                     | ü         | NA                  | common                  |
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+| Kemp's ridley | endangered       | NA                 | NA                     | ü                     | NA        | NA                  | rare                    |
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+| green         | threatened       | NA                 | NA                     | ü                     | NA        | NA                  | rare                    |
++---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+
+### Focal species and notable recent trends
+
+Because there are only five sea turtle species that can be found off the United States Atlantic coast: 1) [loggerhead](https://www.fisheries.noaa.gov/species/loggerhead-turtle#seafood) (*Caretta caretta*), 2) [green](file:///C:/Users/Susan%20Barco/Desktop/RWSC/;%20https:/www.fisheries.noaa.gov/species/green-turtle#seafood) (*Chelonia mydas*), 3) [leatherback](https://www.fisheries.noaa.gov/species/leatherback-turtle#seafood) (*Dermochelys coriacea*), 4) [Kemp’s ridley](https://www.fisheries.noaa.gov/species/kemps-ridley-turtle#seafood) (*Lepidochelys kempii*), and 5) [hawksbill](https://www.fisheries.noaa.gov/species/hawksbill-turtle#seafood) (*Eretmochelys imbricata*), the first four species, which occur consistently in the RWSC study area, are considered focal species for this chapter.
+The first three species regularly nest on U.S.
+Atlantic coast beaches, and the other two occasionally nest on U.S.
+Atlantic beaches.
+Table 1 indicates that the sea turtle species, occurrence, and life stages in the RWSC study that will be considered in this plan by sub-region.
+Of the five species that occur in the NW Atlantic, the plan will cover four of them, all but hawksbill.
+Sea turtles occur from inshore bays and river mouths to pelagic waters and use habitats in different ways during their life stages.
+Table 2 indicates the life stage and behavioral states of the species considered under the plan as well as the estimated inshore and offshore boundaries of the plan.
+
+### RWSC Sub-regions and regional scale sea turtle distribution
+
+RWSC is organized by subregion along the U.S.
+Atlantic coast, roughly aligned with current offshore wind development planning areas.
+RWSC subregions and map are described on page 2 of [Chapter 2: Science Plan Organization](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EbuoNED_rydAskBAl58fbroB746EAi0GASy-NzLEta8pvA?e=Qdqvo7).
+
+In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described on pages 2-4 of [Chapter 2: Science Plan Organization](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EbuoNED_rydAskBAl58fbroB746EAi0GASy-NzLEta8pvA?e=Qdqvo7).
+Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable [RWSC Offshore Wind and Wildlife Research Database](https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI), and links to queries for each research project are included in the tables describing projects in the chapter.
+Following regionwide field research, is discussion of field research specific to each subregion.
+Following subregion field data collection discussion, are on-going, pending and recommended non-field efforts by research theme and action.
+Non-field data collection actions include: 1) outreach and platforms to provide data products/results to stakeholders; 2) coordination and planning; 3) standardizing data collection, analysis, and reporting; 4) study optimization; 5) historic data collection/compilation; 6) model development and statistical frameworks; 7) technology advancement; 8) manipulative experiments, and 9) meta-analysis and literature review and are further described in [Chapter 3: Science Plan Actions](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EY-LUU7PXBdMtvTJxFO2HEoBr087P2I7oa4Q7FJBFnCQHw?e=sghdfU).
+
+#### Regional-scale distribution information
+
+Consistent data to capture spatial and temporal distribution is provided via survey effort.
+In addition, tag, sighting, stranding and bycatch data contribute to distribution information, especially in areas and times where survey effort is limited and under conditions where turtles are not likely to be detected.
+While there has been a substantial amount of survey effort conducted to detect large sea turtles in the NW Atlantic, turtle distribution and behavior is variable both within and between seasons and is likely affected directly and indirectly by a combination of environmental factors.
+As such, abundance estimates should be based on multiple years and seasons of data [@noaafisheries2020].
+Currently, a thorough understanding of surface availability and abundance is lacking for all species in much of the NW Atlantic.
+For some species and subregions, especially sub-adult loggerheads in shelf waters of USCA through SNE subregions, availability estimates are based on relatively large data sets, but still contain some data gaps [@hatch2022].
+Importantly, most recent distance sampling aerial surveys (AMAPPS) have been conducted using parameters appropriate for detecting a variety of species.
+The speed and altitude at which most of these surveys were conducted prevent detection of smaller turtles (\<40cm carapace length) [@noaafisheries2020; @palka2021], and all turtle detections decrease in sub-optimal conditions, especially with increasing sea state.
+Regardless of the survey effort level, substantial data gaps on sea turtle distribution and abundance exist for all species, seasons and subregions.
+
+Efforts to develop an index of abundance and distribution using satellite tag data for loggerhead turtles by month were conducted by Winton et al. [@winton2018].
+Loggerheads used nearly all shelf waters from Long Island, NY south to near the tip of peninsular FL.
+In winter months, loggerhead turtles were largely south of the Virginia-North Carolina border.
+This analysis was possible due to a large tag dataset with similarly programmed tags for animals captured and tagged with broad temporal and spatial variation.
+Similar efforts may yield better results for other species if undertaken as a coordinated effort.
+
+The U.S. Navy recently completed a sea turtle surface density modeling project along the U.S.
+Atlantic coast from shore to the EEZ which produced estimates for the NW Atlantic for juvenile-adult stage turtles large enough to be detected from a variety of platforms [@dimatteo2022], those surveys are available as [East Coast Turtle Density Models](https://seamap.env.duke.edu/models/NUWC/EC/) on OBIS SEAMAP. Estimates of sea turtle abundance are not yet available from AMAPPS surveys.
+Tagging results of loggerhead and leatherback turtles from AMAPPS surveys are available in AMAPPS reports [@palka2021].
+
+#### Biologically Important Areas for sea turtles within U.S. Waters
+
+Biologically important areas in the United States for NW Atlantic sea turtle species/populations have not been determined.
+State space modeling applied to telemetry studies suggest that inshore and coastal continental shelf habitat are important foraging areas for loggerhead [@braun-mcneill2008; @evans2019] and Kemp’s ridley [@bean2019] turtles in the Central Atlantic and New York Bight subregions.
+Work is underway through AMAPPS research to establish similar areas of importance for leatherback turtles (C. Sasso *pers comm*).
+Although all established Kemp’s ridley nesting areas are in the Gulf of Mexico, the coastal and inshore waters of the NW Atlantic appear to be important foraging areas for juvenile and subadult Kemp’s ridley turtles although the contribution of this region to the population remained unclear in the 2015 status review for the species [@noaa2015].
+A new proposed critical habitat designation for N Atlantic green turtles was released in July 2023 [@noaafisheries2023].
+It is expected that findings will discuss the northward expansion of the species as well as increases in nesting on Southern Atlantic beaches since the previous review in 2015 [@seminoff2015].
+
+Better understanding of biologically important in-water sea turtle habitat is needed for all species in US Atlantic waters.
+
+## Potential effects of offshore wind on sea turtles
+
+The subcommittee recognizes that there may be positive, negative and/or mixed impacts of offshore wind development and operation on sea turtles.
+These effects may directly affect individual animals or indirectly affect them through changes to the environment, prey/predator distribution and/or changes in human activities.
+Animals and populations may be impacted by multiple, cumulative, effects, some positive and some negative.
+
+As ectothermic, mostly migratory populations in U.S.
+Atlantic waters, some sea turtle population’s foraging, breeding, nesting, and migratory ranges overlap the areas proposed for offshore wind development in the Atlantic Ocean.
+In addition, sea turtle species are exposed to multiple and cumulative stressors throughout their life cycles, including climate and non-climate threats [@fuentes2013; @fuentes2020].
+The cumulative effect of these and other stressors are likely to create biologically significant population level responses.
+
+There have been no studies describing the effects of construction and operation of windfarms on sea turtles, largely because most research has come from European and U.K.
+waters, where sea turtles do not commonly occur.
+Discussion of potential impacts of offshore wind on each sea turtle species are, therefore, based on data from other species groups or other potential stressors.
+The subcommittee is concerned that this lack of knowledge for sea turtle species, which have a very different life history, compared to other species groups, plays into sea turtle risk assessments and adds potential for more unexpected results, compared to other wildlife impacted by OSW.
+Without risk assessment specific to sea turtles, unidentified impacts cannot be assessed or mitigated with enhanced monitoring and adaptive management.
+The subcommittee recommended exploring the use of cumulative impact assessment whereby multiple threats to sea turtles were quantified allowing for effective mitigation and restoration recommendations following the Gulf of Mexico Deep Water Horizon Oil Spill.
+Love et al. [@love2017] categorized, quantified, and assessed the threats to (stressors) sea turtles to identify the most effective restoration actions for the recovery of sea turtle populations in the Gulf of Mexico.
+The authors were able to quantify poor and missing information in their assessment through use of proxy and modeled data.
+A similar approach to identifying sea turtle threats and quantifying the potential impact of OSW may be helpful in determining the most effective methods for assessing and addressing threats in U.S.
+Atlantic waters.
+
+OSW, like other human activities in the marine environment, will have effects on sea turtles.
+Positive effects will most likely be related to reef effects of physical structures supporting turbines.
+Structures are expected to attract invertebrate fouling organisms and reef/wreck fishes, which will likely attract small schooling fishes [@glarou2020].
+Sea turtles have been documented around underwater structures and are likely attracted to them [@broadbent12020; @reimer2023].
+These structures will also attract anglers and some commercial fishers such as pot/trap fishers which may increase the likelihood of interactions with active and discarded gear.
+The most probable direct negative effects of offshore wind construction and operation are serious injury and mortality from increased vessel interaction and increase in fishery interaction because of attraction to turbines due to reef effects.
+It is likely that there will be direct, indirect and/or temporary negative effects related to noise, EMF, as well as changes in prey distribution, oceanographic parameters, fishing and shipping distribution.
+Other oceanographic and substrate impacts are not well understood, and impacts are yet to be determined.
+
+Since little is known about effects of OSW on sea turtles, the subcommittee must look to studies on large marine vertebrates for comparison.
+In European waters, researchers have documented avoidance and displacement effects, primarily of harbor porpoises (*Phocoena phocoena*).
+These effects occurred at ranges of 10-26 km from the whole footprint of offshore windfarms during construction [@benhemmalegall2021; @brandt2018; @dähne2013a; @graham2019; @graham2023].
+All of these studies indicate that the distance and duration of avoidance is related to received noise, which is further influenced by source level, sound propagation conditions (environmental parameters, substrate type, etc.), hearing range of the studied species, distance to the noise source, duration of exposure, level and type of mitigation, and presence of other noise sources like construction vessels.
+
+For harbor and grey seals, tagging data around wind energy sites in Europe showed behavior consistent with foraging after construction was completed [@russell2014; @russell2016].
+Pinnipeds appeared to either habituate quickly or to take advantage of wind farm physical structures as a foraging opportunity, whereas small dolphins and porpoises showed high variability in displacement and recovery response to wind farm construction and operations.
+Considerable research is still needed to understand sea turtle hearing sensitivity and behavioral responses to noise.
+Effects of noise associated with OSW construction and operation may be more similar to pinnipeds than cetaceans, which, as a species group, are more highly auditory and vocal in nature than sea turtles.
+To date, however, there is not a complete understanding of the ranges of sea turtle hearing or their physiological and behavioral responses to underwater noise such as pile driving associated with turbine construction or that associated with turbine operation.
+
+Kraus et al. [@kraus2019] summarized the potential short-term and long-term effects of offshore wind development on marine mammals and sea turtles in Massachusetts and Rhode Island Wind Energy Areas.
+The list below is also relevant to the entire Atlantic coast.
+Any specific concerns related to sea turtle species in each subregion will be further described in the following sections of this chapter.
+
+**Potential short-term effects of offshore wind construction activities** [@kraus2019]
+
+Potential short-term effects include reaction to noise from pile driving, vessel operating noise, and impacts of an increased presence of vessels.
+These stressors could influence:
+
+-   Displacement from wind energy areas 
+
+-   Disruption to critical behaviors such as feeding, socializing, or nesting 
+
+-   Elevation of stress hormone levels
+
+-   Changes in vertical distribution, density, or patch structure of prey
+
+**Potential long-term effects of offshore wind operation** [@kraus2019]
+
+Potential long-term effects include wind turbine presence, and increased vessel activity to/from and near turbine fields.
+These stressors could influence: 
+
+-   Exclusion from or attraction to wind energy areas 
+
+-   Changes to feeding opportunities 
+
+-   Enhancements to marine productivity due to artificial reef effect around wind turbine foundations 
+
+The Sea Turtle Subcommittee also discussed potential impacts to sea turtles across the entire RWSC region.
+The Kraus et al. [@kraus2019] report addressed MA and Rhode Island, and thus only listed potential impacts in the GOM and SNE subregions which are limited to seasonal foraging habitat for neritic hard-shelled and leatherback turtles.
+Loggerhead, green and leatherback turtles have mating and nesting habitat in the USCA and USSEA subregions in addition to foraging and migratory habitat.
+
+Below is an additional list of potential effects of concern identified by the subcommittee
+
+-   Increased vessel interactions, lethal and non-lethal
+
+-   Acoustic disturbance
+
+-   EMF effects from underwater cables linking turbines and distributing electricity to shore
+
+    -   Prey distribution – Some evidence of attraction to EMF [@albert2020]
+
+    -   Navigation disturbance in foraging and migratory areas
+
+    -   Nesting disturbance (south of Chesapeake Bay)
+
+    -   Hatchling dispersal disturbance (south of Chesapeake Bay)
+
+-   Other
+
+    -   Changes in habitat from structure effects on water column stratification, frontal field, current velocity/direction, thermocline, halocline
+
+    -   Reef effects
+
+    -   Temporal and/or spatial changes in turtle and/or prey distribution due to warm water effluent from underwater DC substations
+
+    -   Changes in entanglement/ingestion risk because of changes in distribution of fishing gear and aquaculture structures (especially increased fixed gear in lease areas)
+
+    -   Interaction with floating/surface components and/or rotor intakes that could trap sargassum in off shelf planning areas
+
+##  Methods and approaches
