@@ -173,3 +173,84 @@ There are additional survey techniques and protocols used in the terrestrial env
 Those are relevant to the study of terrestrial effects of offshore wind – such as effects of clearing transmission corridors to connect offshore wind with onshore grid infrastructure – but for the sake of brevity and a focus on novel offshore issues, they are not addressed here.
 
 ### Acoustic Surveys
+
+Acoustic surveys can be conducted using acoustic detectors to record calls of bats \[@loeb2015\].
+Surveys may be conducted using passive (stationary) methods or active methods.
+Active surveys onshore are typically conducted using a vehicle; at sea, they are often boat-based (e.g., see [@sjollema2014]), although drones are beginning to be used experimentally [@workboatstaff2023].
+Passive surveys offshore utilize stationary detectors deployed on ocean buoys, meteorological towers, offshore wind turbines, other offshore infrastructure (such as electrical service platforms or “ESPs”); use of coastal and island sites are also common for understanding timing and locations of bat movements in the coastal and marine environments (e.g., see [@peterson2014]).
+Acoustic surveys for bats utilize detectors which operate in the ultrasonic range in which most echolocation calls fall.
+Note that acoustic surveys are only effective when study animals are vocalizing, and ultrasound does not travel far through the atmosphere.
+Ambient noise can also interfere with detection of vocalizing animals and limit the distance over which calls will be recorded.
+Differentiating among species can also be difficult for certain taxa [@nocera2019].
+
+### Tagging and Tracking
+
+Tagging and tracking can be a useful way to understand bat movements and activity.
+**VHF (Very High Frequency) and UHF (Ultra High Frequency) radiotags** transmit signals in the radio frequency range, which can be detected with a receiver.
+These types of tags are regularly deployed on bats.
+Historically, tags with different frequencies were deployed on animals within one research study to allow for easy identification of different individuals.
+The animals were then tracked, often via manual telemetry with a hand-held receiver.
+Manual tracking could be conducted on foot, or using a vehicle or aircraft.
+Study animals could also be tracked via a receiver attached to a stationary tower with antennae pointed in multiple directions, which could be automated to detect signals periodically or rotated manually by a researcher to detect a signal with an associated bearing.
+Manual telemetry is limited by the search effort available for finding and pinpointing the radio signal, and hence faces significant challenges in tracking animals that range over long distances.
+
+In recent years, the development of the [Motus network](http://www.motus.org) has allowed for much more widespread use of coordinated automated radiotelemetry for tracking of wide-ranging and/or migrating bats.
+This system relies on coded radio transmitters which all operate on one of two common frequencies, but which emit unique ID codes to identify different individuals.
+Signals from the tags are received by a network of automated radiotelemetry stations consisting of antennas, a receiver, a power source, memory storage, and sometimes data transmission infrastructure.
+Telemetry stations can be deployed on land, on coastal locations, or on offshore infrastructure, including ocean buoys and offshore wind turbine platforms.
+Advantages of this system include that tags are small and stations deployed by one research group can detect passage of animals by other researchers operating in the same network, allowing for development of a widespread network with more likelihood of detecting wide-ranging study animals.
+This system also has the distinct advantage over manual telemetry that signals can be monitored for continuously.
+Motus system technology has limitations, including limited range of some telemetry stations (typically 15 km) and, in most cases, an ability to determine only general proximity or bearing from the station rather than precise location.
+Efforts to improve triangulation capabilities are underway.
+Offshore wind developers are including deployment and maintenance of Motus stations as part of wildlife monitoring plans developed for review by BOEM and USFWS.
+While these stations are being deployed primarily to support avian studies, they can also benefit bats.
+Motus stations in the U.S.
+Atlantic are coordinated through the [Atlantic Offshore Motus Project](https://motus.org/groups/atlantic-offshore-wind/).
+
+Tag battery life and retention on the bat can be limited, reducing the length of time that individual bats are successfully tracked via this system.
+
+At present, other types of tags, including geolocators, GPS dataloggers, and satellite tags are not regularly deployed on bats in the RWSC Study Area.
+Satellite tags are currently too heavy to be placed on the bat species that occur along the Atlantic Coast of the United States.
+GPS dataloggers are only practicable for species that regularly return to the same roost, where the animal can be recaptured.
+They have been used in studies of the Florida bonneted bat [@webb2018], one of the largest bats on the Atlantic Coast, but other species are not as large or not as predictable in roost location.
+Geolocators require exposure to daylight to function, which is not necessarily available in bat roosts.
+
+### Banding and PIT Tags
+
+**Capture-mark-recapture** studies can be used to assess longevity and survival of bats.
+While bird banding is a very common practice for birds of all sizes, bat banding is less common.
+Banding of bats (on the forearm, rather than the leg) is carried out by some researchers, but there are concerns that this practice could result in injuries to the animal (e.g., see [@lobato-bailón2023]).
+The USFWS has convened a working group to study this issue in bats and come up with recommendations.
+PIT (passive integrated transponder) tags are also used on bats in some instances and have good retention rates (e.g., see [@vanharten2021]).
+These tags are implanted into the animal using an injector.
+These types of identification systems are most useful in situations where an animal is expected to return to a given site where it may be easily captured, such as maternity colonies or hibernacula.
+
+### Bat-Turbine Interaction & Collision Detection Systems
+
+On turbine platforms, turbine nacelles, or other offshore infrastructure, **cameras** can be used to record bat presence and behavior in the vicinity of turbines, which can inform when and where animals are present in portions of the rotor-swept zone and document bat interactions with turbines, including roosting, attraction, micro-avoidance, lack of response, or collisions.
+Cameras differ in their mode of action, resolution, and the frequencies of electromagnetic radiation they use, from conventional cameras that operate in the visual range, to so-called “infrared” cameras that operate in the near infrared range, to so-called “thermal” cameras that operate in the far infrared range.
+The information provided by continuously operating cameras is unique and of great value to bat-offshore wind research.
+However, many of these systems are expensive at present and often only deployed at one or a few turbines in a study area.
+The field of view of a particular camera is often not sufficient to encompass the full rotor-swept zone.
+The extent to which these technologies can be counted upon to operate continuously in the harsh offshore environment is currently being evaluated.
+
+At onshore wind facilities, **carcass surveys** are commonly used to document mortality and estimate fatality rates for a variety of bat species that collide with wind turbines.
+Offshore, carcasses of individuals can be expected to fall into the ocean in most instances and so **collision detection systems** are needed.
+Collision detection systems may incorporate visual range, thermal, or infrared cameras as described above [@happ2021a], as well as acoustic detectors, radar systems, and/or accelerometers for impact detection.
+Over a dozen multi-sensor systems for documenting collisions and other bat interactions with wind turbines are under evaluation or currently in use at wind facilities [@dirksen2017; @nrel2022], and at least three have been deployed on offshore turbines [@lagerveld2020; @markdesholm2003; @tjørnløv2023; @willmott2023].
+Efforts are currently underway at land-based wind facilities to develop, improve, and validate collision monitoring technologies.
+At present, validation activities are limited to the terrestrial environment, where results can be compared with carcass searches.
+The development of new and emerging technologies in this category can be tracked using the [Wind Energy Monitoring and Mitigation Technologies Tool](https://tethys.pnnl.gov/wind-energy-monitoring-mitigation-technologies-tool).
+
+### Tissue Sampling
+
+There are a range of **tissue sampling** methods from live-caught bats, or their feces, which provide a variety of information about individuals’ migratory status, diet, and health, as well as population-level genetic structure.
+These can include collections of blood, hair, wing membrane, and fecal matter, to variously conduct stable isotope analysis, physiological analyses, diet assays, detection of *Pseudogymnoascus destructans* (the fungus responsible for WNS), genetic analyses, or others.
+
+### Incidental Observations
+
+**Incidental observations** can also provide useful information about species presence and behavior, particularly for bats, which are infrequently observed at sea.
+These observations have in some cases been collected via literature review [@pelletier2013].
+**At-sea aerial and boat-based surveys for seabirds** have in some cases recorded bat activity offshore on an incidental basis [@hatch2013].
+
+## Research Themes: Bats and Offshore Wind in the U.S. Atlantic 
