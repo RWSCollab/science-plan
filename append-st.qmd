@@ -1,7 +1,7 @@
 # Sea Turtles {#sec-append-st}
 
 Note: Scientific and ecological terminology and agency/organization acronyms are used throughout this chapter.
-A[ List of Definitions and Acronyms](#Definitions_and_Acronyms) is included at the end of the chapter.
+A [List of Definitions and Acronyms](#Definitions_and_Acronyms) is included at the end of the chapter.
 
 ## Sea turtle species in the RWSC study area
 
@@ -47,7 +47,7 @@ Thus, for the remainder of this document, sea turtle life stages will be defined
 [Juvenile dispersal]{.underline} – ‘lost years’ life stage, post-hatching dispersal where turtles are near the surface, in open water.
 Off the U.S.
 Atlantic coast these small turtles are thought to be distributed primarily in the Gulf Stream and Sargasso Sea.
-Little is known about the dispersal life stage for leatherback turtles, and this life stage primarily occurs in the Gulf of Mexico for Kemp ridley turtles \[@phillips2022\].
+Little is known about the dispersal life stage for leatherback turtles, and this life stage primarily occurs in the Gulf of Mexico for Kemp ridley turtles [@phillips2022].
 
 [Juvenile-subadult]{.underline} (post dispersal)– foraging phase of sexually immature turtles (neritic habitat for Kemp’s ridley, green and loggerhead turtles in the NW Atlantic; pelagic and neritic for NW Atlantic leatherbacks), characterized in some species and subregions by north/south and/or inshore offshore seasonal migrations or seasonally shifting home ranges.
 
@@ -60,19 +60,14 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 
 Gulf of Maine
 
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
-|               |                  | **Life stage(s)**  |                        |                       |           |                     |                         |
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
-| **Species**   | **ESA Status**   | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence**   |
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
-| leatherback   | endangered       | NA                 | UN                     | ü                     | ü         | NA                  | common                  |
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
-| loggerhead    | threatened       | NA                 | NA                     | ü                     | ü         | NA                  | common                  |
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
-| Kemp's ridley | endangered       | NA                 | NA                     | ü                     | NA        | NA                  | rare                    |
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
-| green         | threatened       | NA                 | NA                     | ü                     | NA        | NA                  | rare                    |
-+---------------+------------------+--------------------+------------------------+-----------------------+-----------+---------------------+-------------------------+
+|               |                |                    |                        |                       |           |                     |                       |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+|               |                | **Life stage(s)**  |                        |                       |           |                     |                       |
+| **Species**   | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** |
+| leatherback   | endangered     | NA                 | UN                     | ü                     | ü         | NA                  | common                |
+| loggerhead    | threatened     | NA                 | NA                     | ü                     | ü         | NA                  | common                |
+| Kemp's ridley | endangered     | NA                 | NA                     | ü                     | NA        | NA                  | rare                  |
+| green         | threatened     | NA                 | NA                     | ü                     | NA        | NA                  | rare                  |
 
 ### Focal species and notable recent trends
 
@@ -232,4 +227,7 @@ Below is an additional list of potential effects of concern identified by the su
 
     -   Interaction with floating/surface components and/or rotor intakes that could trap sargassum in off shelf planning areas
 
-##  Methods and approaches
+## Methods and approaches
+
+To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in [Chapter 3: Science Plan Actions](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EY-LUU7PXBdMtvTJxFO2HEoBr087P2I7oa4Q7FJBFnCQHw?e=4GKIYe).
+The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.
