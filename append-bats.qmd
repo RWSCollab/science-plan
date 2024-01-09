@@ -254,3 +254,128 @@ These observations have in some cases been collected via literature review [@pel
 **At-sea aerial and boat-based surveys for seabirds** have in some cases recorded bat activity offshore on an incidental basis [@hatch2013].
 
 ## Research Themes: Bats and Offshore Wind in the U.S. Atlantic 
+
+Research needs for offshore wind development and bats are centered around two common themes.
+First, there is a need to measure, estimate, model, or otherwise assess the scale of impacts of offshore wind development on bats, in order to determine whether impacts are significant at a subpopulation or population scale.
+Second, there is a need to understand how to address any impacts that may occur via effective mitigation.
+In the context of this chapter, “mitigation” is used broadly, as defined by the Council on Environmental Quality (CEQ) National Environmental Policy Act (NEPA) regulations.
+Thus, mitigation in this context includes:
+
+-   **Avoiding the impact** altogether by not taking a certain action or parts of an action.
+    This could include siting wind facilities in areas expected to have low bat activity [@usfws2012].
+    However, post-construction mortality is not strongly correlated with pre-construction bat activity [@hein2013].
+    If bat activity decreases with distance from the coast, siting turbines further from shore could be an avoidance strategy, but not enough is known at this time to determine where to site offshore wind facilities to reduce impacts to bats.
+
+-   **Minimizing impacts**.
+    This could include curtailing wind turbine operations during periods of high bat activity (e.g., low wind speed nights) so as to reduce the risk of collision fatalities, a practice determined to be effective at land-based wind facilities [@adams2021; @whitby2021].
+    Minimizing the impacts on-site could also include use of deterrent technologies, if deemed effective.
+    These technologies continue to be developed and evaluated at land-based wind facilities [@hein2021].
+    In some studies, individual technologies have reduced overall bat fatalities (e.g., see [@hein2021; @romano2019; @schirmacher2020; @weaver2020]); however, no deterrent has shown consistent reductions in fatalities of eastern red bats, the most commonly detected species offshore [@solick2021].
+
+-   **Rectifying the impact** by repairing, rehabilitating, or restoring the affected environment.
+    For example, this could include placing artificial roosting habitats [@mering2014] or creating snags in areas where maternity roost trees were cut to make way for a transmission corridor.
+
+-   **Reducing or eliminating the impact** over time by preservation and maintenance operations during the life of the action.
+
+-   **Compensating for the impact** **off-site**.
+    For example, this could include preserving foraging habitat, maternity roost sites, or hibernacula.
+    As stated above, effective off-site compensatory mitigation techniques for migratory tree bat mortality have not been evaluated.
+
+The goal of mitigation measures could be to meet regulatory requirements to negate or offset any negative impacts of offshore wind development, or to meet voluntary goals of providing a net benefit to the species.
+
+From the perspective of a regulator, conservationist, or offshore wind developer, the progress of research would ideally proceed from development of accurate and cost-effective technologies for wildlife monitoring, standardized systems for data collection and analysis, and understanding of baseline conditions, moving then to evaluation of impacts and mitigation strategies, and finally to widespread development of offshore wind in the context of implementation of effective mitigation measures.
+However, given the rapid pace of offshore wind development [@u.s.departmentofenergy2023a], this slow and measured progression is not a realistic timeline.
+Rather, multiple areas of research will need to be advanced simultaneously.
+In the meantime, regulators must necessarily rely on the best available science in assessing potential risks to protected and vulnerable species.
+Tools must continue to be developed to help inform these efforts.
+While many conservationists prefer focusing on earlier steps in the mitigation hierarchy [@arlidge2018], such as avoidance, the reality is that the impacts of offshore wind development will not be fully evaluated until many hundreds of turbines are installed.
+This suggests that effective on-site and off-site mitigation measures will also need to be an early focus, because once turbines are in the water, they are unlikely to be removed or fully turned off.
+On-site mitigation may be the most viable strategy for conserving migratory tree bats.
+
+Given this context, important science and research topics related to bats and offshore wind development include the following:
+
+-   **Developing structures and methods to effectively and collaboratively conduct and share scientific research**.
+    This includes coordination, planning, collaboration, the standardization of data workflows, and development of improved data collection and dissemination methods.
+
+-   **Understanding baseline conditions of bat occurrence, activity, and movements offshore.** This includes assessing species occurrence and relative activity of bats over different areas of the ocean, with particular attention towards whether relative bat activity declines over a gradient from coastal to offshore areas.
+    This also includes documenting characteristics of offshore flights, including timing (time of year, time of night), relationships to meteorological conditions, flight speed, and differences across species, sexes, or ages.
+    These types of data have the potential to inform mitigation efforts.
+    Because of the rapid pace of wind development compared to the pace of data collection, and because it is possible that attraction will lead bats to visit offshore lease areas more frequently once turbines are installed, near-term siting decisions are unlikely to be made based on collection of baseline data.
+
+-   **Determining if patterns of bat occurrence, activity, and movements change after construction of offshore wind facilities.** This includes continuing surveys of bat occurrence and activity post-construction to understand if patterns change and continuing to document characteristics of offshore flights.
+    Post-construction studies of this kind may help elucidate whether, and to what degree, attraction to turbines is occurring, and whether siting could be an effective mitigation strategy for future wind projects.
+
+-   **Assessing collision risk at offshore facilities.** Until validated and effective collision detection methods are widely available, proxies are necessary to assess collision risk.
+    For bats, acoustic activity, particularly recorded at nacelle height in conjunction with information regarding turbine operational status, may be the best indicator of potential collision risk [@peterson2021].
+    Assessing bat activity at turbine nacelle height relative to timing, meteorological conditions, turbine characteristics, turbine operational status, and species is an important research goal.
+    (Tracking data may also provide information about movements of non-echolocating bats.) Turbine-mounted cameras and multi-sensor collision detection technologies may be able to provide actual measures of collision risk and fatalities.
+    These data can help in understanding the relative risks to bat populations posed by collisions offshore as compared to fatalities at land-based wind facilities and other threats.
+
+-   **Designing and evaluating on-site minimization strategies.** Assessments of the conditions associated with heightened collision risk (previous bullet) can inform design of efficient, “smart” curtailment strategies for bats, if these methods are deemed necessary to avoid population-level impacts to bats.
+    If determined to be effective in the terrestrial environment, deterrents could also be tested offshore.
+
+-   **Evaluating off-site compensatory mitigation strategies.** If on-site mitigation measures are deemed insufficient or are cost-prohibitive, off-site mitigation measures could be considered. 
+    However, these measures would need to be evaluated carefully to determine if they are realistic and adequate to address negative impacts.
+
+A database of specific research questions related to bats and offshore wind is available through the [U.S. Atlantic Offshore Wind Environmental Research Recommendations Database](https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations)**.**
+
+## Regional-scale Ongoing, Pending, and Recommended science actions in the U.S. Atlantic for Bats and Offshore wind
+
+This section of the Science Plan discusses science actions recommended to further the scientific understanding of effects of offshore wind infrastructure on bats and to address mitigation strategies in the context of identified impacts.
+
+This section is structured by the type of science action, including:
+
+-   Data management
+
+    -   Standardization of data collection, analysis, and reporting
+
+    -   Historical data compilation
+
+-   Data analysis
+
+    -   Meta-analysis and literature review
+
+    -   Model development and statistical frameworks
+
+    -   Optimizing research, monitoring, and mitigation
+
+-   Technology advancement
+
+-   Field data collection and analysis
+
+Recent, current, and pending science activities are discussed throughout as necessary to provide a context for current recommendations.
+These and other recent activities are tracked in the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
+
+Other resources for learning about recent and on-going offshore wind-wildlife research include the [Tethys Knowledge Base](https://tethys.pnnl.gov/knowledge-base), a Pacific Northwest National Laboratory database, which houses publications, reports, and presentations relevant to offshore wind, and the [Tethys Offshore Wind metadata](https://tethys.pnnl.gov/offshore-wind-metadata), which compiles information on environmental monitoring conducted at offshore wind energy projects around the world.
+The New York State Energy Research and Development Authority Environmental Technical Working Group ([NYSERDA E-TWG](https://www.nyetwg.com/)) hosts [State of the Science Workshops on Wildlife and Offshore Wind Energy](https://www.nyetwg.com/past-workshops), which provide an opportunity for researchers to present and discuss updates on the state of knowledge regarding wildlife and offshore wind energy development and to promote collaboration and regional coordination.
+Both the E-TWG (<https://www.nyetwg.com/webinar-library>) and Tethys (<https://tethys.pnnl.gov/environmental-webinars?content=467>) have webinar libraries regarding environmental issues and offshore wind.
+
+### Data Management: Data Collection, Processing, Housing, and Compilation
+
+This section addresses data collection, processing, and housing for the types of data collected as part of studies to inform potential impacts of offshore wind development on bat species in the Northwest Atlantic.
+Section 6.1.1 summarizes recommended data standards and recommended science actions relevant to each data type.
+Section 6.1.2 provides detail on current gaps in data infrastructure.
+Section 6.1.3 provides detail on current and recent efforts related to recommended data standards and infrastructure.
+
+#### Data Standards & Recommended Science Actions
+
+Understanding bat activity around offshore wind facilities and regionally along the U.S.
+Atlantic Coast will require close coordination among researchers, state and federal agencies, and industry.
+The Bird & Bat Subcommittee wishes to work with individuals and entities who collect data relevant to bat-offshore wind research to ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC Study Area.
+This standardization is intended to support regional-scale assessments, data products, and tools (e.g., NABat occupancy and abundance estimates; evaluations of collision risk relative to wind facility, temporal, and environmental characteristics).
+
+In order to support these efforts, the Bird & Bat Subcommittee recommends:
+
+-   Maintenance of an up-to-date resource list of recommended standard databases, data repositories, guidelines, and protocols for use by all data collectors. 
+    The current recommended resources are detailed in the table below.
+
+-   Development of standard language for inclusion in funding and contract documents to encourage or require the use of recommended resources.
+
+-   Establishment of an Offshore Bat Working Group to address gaps in existing databases (detailed in the table below), including development of recommended protocols/standards where absent, suggestions for the structure/content of new databases, and identification of pilot study parameters where too little is currently known to provide specific methodological guidance.
+    This Working Group has recently been established and, as a first step, will address methodological recommendations and pilot study parameters for passive acoustic detector deployment on offshore infrastructure.
+
+-   Establishment of data sharing frameworks to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., acoustic data collected on offshore wind turbines, bat-turbine interactions, and collision data; associated turbine status and local meteorological conditions).
+
+-   Identification, solicitation, and compilation of historic data into recommended databases to inform baseline understanding of bat distributions in coastal and offshore areas of the U.S.
+    Atlantic Coast.
+    In some cases, this may require re-formatting and QA/QC procedures to ensure species codes, units, and other metadata are entered consistently.
