@@ -87,3 +87,52 @@ Individual State Wildlife Action Plans also identify [Species of Greatest Conser
 Hoary bats, silver-haired bats, and eastern red bats were designated as Endangered in 2023 by Canada’s Committee on the Status of Endangered Wildlife in Canada (COSEWIC) due to land-based wind energy impacts on these species [@cosewic2023].
 
 #### Focal Species 
+
+At least six bat species have been detected visually or acoustically over the waters of the Northwest Atlantic [@solick2021].
+The vast majority of detections identified to species were one of the three long-distance migratory tree bats (eastern red bat, hoary bat, silver-haired bat).
+Tricolored bats, big brown bats, and *Myotis* species have also been detected, albeit more rarely [@solick2021].
+Challenges in differentiating amongst species acoustically (e.g., see [@nocera2019]) means that it can be difficult to positively determine which *Myotis* spp.
+are detected offshore.
+
+While some scientific research methods will provide information about a variety of taxa (e.g., acoustic surveys), other research methods (e.g., tagging) provide species-specific data.
+In the offshore environment, the three long-distance migrants are the focal species of greatest interest for tagging efforts due to the greater likelihood of their exposure to offshore wind farms, as described above, as well as anticipated higher collision risk, based on fatalities at land-based wind farms [@awwi2020].
+Eastern red bats and hoary bats are of particular interest - eastern red bats because they are detected most frequently offshore, and hoary bats because they are the species considered at greatest risk from land-based wind development [@awwi2020; @friedenberg2021].
+Land-based wind fatalities would suggest these species are most at risk during the late summer-fall migration season [@lloyd2023], and offshore acoustic data support the idea that migratory bats are most common offshore during this season [@stantec2016].
+For *Perimyotis subflavus* and *Myotis* species of conservation concern (see Table 1), tagging of individuals occurring in coastal areas and on islands is also of interest, particularly during the late summer and early fall, when they may make longer-distance movements to hibernation sites, which could involve over-ocean travel.
+Spring migratory movements from hibernation sites could also involve over-ocean travel, although it could be more difficult to target for tagging individuals headed for coastal and island summer territories if captured at inland hibernation sites.
+Northern long-eared bats, little brown bats, and tricolored bats have been successfully captured at coastal and/or island locations [@hoff; @dowling2018; @zaradowling2017; @grider2016]; if other listed *Myotis* species are captured, they could also be considered potential focal species.
+At present, there are not identified sites where other *Myotis* could be captured in numbers large enough to represent a meaningful sample size.
+
+Other species could be affected if near-shore facilities are built in the future, or by tree clearing and construction where transmission cables come ashore.
+In these circumstances, federally listed and state-listed species would be of greatest concern during the development process.
+
+### Regional Coastal/Offshore Distribution Information
+
+Patterns of bat distribution and abundance in the offshore environment are poorly understood.
+Limited tagging/tracking efforts [@dowling2018; @true2023] (T. Peterson, personal communication) and a number of mobile and stationary acoustic surveys have been conducted, in addition to documentation of incidental visual observations during aerial and boat-based surveys for other taxa [@hatch2013].
+Studies conducted through 2021 were summarized in a recent literature review [@solick2021], which provides a thorough compilation as well as links to the various studies included in the review.
+For more recent studies (since 2021), see the [Tethys Knowledge Base](https://tethys.pnnl.gov/knowledge-base) and the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
+
+[The North American Bat Monitoring Program (NABat)](https://sciencebase.usgs.gov/nabat/#/results) provides seasonal occupancy and abundance maps for a number of bat species across the U.S., modelled based on data collected by a host of federal researchers and other collaborators.
+Because the data are sparse, these maps do not yet include the offshore environment.
+However, the NABat grid system has been extended offshore, and the database is prepared to collect coastal and offshore detections of bat species, which can be incorporated into future analyses and mapping of species distributions [@cox2022].
+
+Critical habitat for ESA-listed bat species, where designated, typically focuses on important hibernation sites or large summer maternity colonies.
+These could be relevant to onshore locations of transmission infrastructure for interconnection between offshore facilities and the electricity grid.
+Critical habitat designations for bats are available as part of USFWS species profiles, as follows:
+
+-   Indiana bat: <https://ecos.fws.gov/ecp/species/5949>
+
+-   Gray bat: <https://ecos.fws.gov/ecp/species/6329>
+
+-   Northern long-eared bat: [https://ecos.fws.gov/ecp/species/9045](#0)
+
+-   Tricolored bat: <https://ecos.fws.gov/ecp/species/10515>
+
+-   Florida bonneted bat: <https://ecos.fws.gov/ecp/species/8630>
+
+-   Hoary bat: <https://ecos.fws.gov/ecp/species/770>
+
+-   Little brown bat: <https://ecos.fws.gov/ecp/species/9051>
+
+## Potential Effects of Offshore Wind on Bats
