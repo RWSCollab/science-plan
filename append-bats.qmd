@@ -520,3 +520,129 @@ With technical support from BRI, the group compiled a [database](https://tethys.
 The database was designed to synthesize existing data gaps and research needs so that researchers and funders can easily access, sort, and further prioritize topics.
 The database specifies focal taxa, spatial scale, and other information relating to each priority research topic.
 The Workgroup also drafted written guidance, including definitions of common terminology to support regional communications, general suggested criteria for prioritization of regional research topics, and general recommendations on study design and data transparency for regional-scale research efforts.
+
+**Curtailment Efficacy.** In the terrestrial environment, several recent meta-analyses have considered the efficacy of curtailment in reducing bat fatalities at land-based facilities:
+
+-   Adams et al. (2021): [https://doi.org/10.1371/journal.pone.0256382](#0) 
+
+-   Whitby et al. (2021): <https://tethys.pnnl.gov/sites/default/files/publications/Whitby-et-al-2021.pdf>
+
+**Bat Attraction to Turbines.** Theories about causes of bat attraction to wind turbines have also been recently addressed.
+Guest et al. (2022) provided an updated review of hypotheses regarding bat attraction to wind turbines: [https://doi.org/10.3390/ani12030343](#0).
+
+**Motus Network Coordination.** The Motus network continues to expand through the work of Birds Canada, USFWS, and many other collaborators.
+However, the system could benefit from a more coordinated and less piecemeal approach towards deployment of Motus stations, in an arrangement that maximizes detection probabilities for focal species.
+In addition, centralized calibration and maintenance efforts, to ensure stations are functioning and to measure detection ranges systematically, would also be of benefit for scientific rigor and cost savings.
+In summer 2020, USFWS organized initial meetings among stakeholders to discuss the value of coordinating and possibly centralizing calibration of Motus stations, as well as deployment of both Motus stations and VHF radiotags for automated telemetry in the offshore environment.
+Phase 1 of the project would include efforts by RWSC to develop a plan for coordination and centralization, incorporating the [*Offshore Motus Framework*](https://motus.org/groups/atlantic-offshore-wind/), highlighting subregions/sites and species of interest, proposing a design or framework for optimal or strategic tag deployment, listing key participants (tag project funders, species and land managers, etc.), and describing data standardization practices.
+
+**Efficient Curtailment Regimes.** “Smart” curtailment systems incorporate algorithms that allow for cost-efficient operational curtailment regimes, which can reduce risk of bat collisions while also minimizing energy production losses due to curtailment.
+These algorithms and technologies are currently being developed for land-based facilities, but could be adapted for offshore use if need be. 
+One summary presentation of the various projects supported through recent U.S.
+Department of Energy funding is available from [Tethys](https://tethys.pnnl.gov/events/new-research-smart-curtailment-bats-wind-energy-facilities-supported-us-department-energy), but more recent individual updates are also available.
+
+**Estimating Population-Level Impacts.** Determining whether collision fatalities are likely to have population-level impacts on bat species can be difficult due to lack of knowledge about their current population sizes, as well as survival and fecundity metrics.
+Several recent analyses have provided statistical frameworks to evaluate potential impacts of land-based wind fatalities on hoary bat populations [@frick2017; @whitby2021].
+It would be valuable to agree upon a common framework for risk assessments to bat populations at land-based and offshore wind facilities, including thresholds for implementing mitigation.
+
+### Technology Advancement
+
+Technological advances can lead to more effective and more cost-efficient monitoring and mitigation strategies for bats in coastal and marine environments.
+Section 6.3.1 summarizes recommended science actions.
+Section 6.3.2 provides detail on current and recent efforts related to technological advancement.
+
+#### Recommended Science Actions
+
+**Recommended actions include:**
+
+-   **Testing and validating bat collision detection systems** (recognizing that initial validation may need to focus on land-based wind facilities, where carcass counts are possible).
+
+-   **Improving access to remote wildlife monitoring data and integrating wildlife monitoring equipment on wind turbine platforms or other offshore infrastructure.** This could include identifying workflows to allow for the transmission of wildlife monitoring data using existing wind facility fiber-optic networks.
+    This could also include developing a standard module that could be added on to turbines to house and provide power and data access for a variety of wildlife monitoring equipment.
+
+-   **Designing and improving auto-classification of acoustic data** to identify species or taxa.
+
+-   **Improving tagging technologies and attachment methods** to allow for lighter tags and longer-term tracking.
+
+-   **If mitigation is deemed necessary, testing and validating the efficacy of on-site mitigation strategies (e.g., feathering, curtailment, deterrents).** (As noted above, validation of mitigation in the offshore environment will be difficult, and the development of effective bat collision detection systems, validated at land-based wind facilities, would be necessary for validation of mitigation measures in the offshore environment. Alternatively, efficacy would need to be estimated based on land-based proxies and the best available science.)
+
+#### Current and Recent Efforts
+
+##### [Research and Development (R&D) Needs for Wildlife Monitoring](https://nationaloffshorewind.org/projects/technology-development-priorities-for-scientifically-robust-and-operationally-compatible-wildlife-monitoring-and-adaptive-management/)
+
+A recent study carried out by Advisian and BRI through funding by the National Offshore Wind R&D Consortium, focused on identifying technology gaps for monitoring birds and marine mammals in relation to offshore wind farms, including the capabilities of available monitoring technologies to collect statistically robust data and to be integrated into typical offshore wind infrastructure and operations.
+The end goal of the project, which included assessment of existing systems as well as workshops with expert stakeholders, was to develop targeted recommendations for technology innovation where further tech development or coordination could improve the capabilities of monitoring to answer key research questions and better inform future mitigation and adaptive management of offshore wind development.
+While not focused on bats, the results are of relevance to all taxa.
+
+##### Bat-Turbine Interaction & Collision Detection Technologies
+
+As described in Section 4, there are a multitude of systems to detect collisions and, in some cases, bat behavior around turbines, which incorporate some combination of cameras, acoustics, radar and/or impact detection systems.
+These systems are in various stages of development, field-testing, and validation at land-based and/or offshore wind facilities.
+As noted above, for tracking of new technologies, see the Tethys [database of monitoring technologies](https://tethys.pnnl.gov/wind-energy-monitoring-mitigation-technologies-tool).
+
+##### Artificial Intelligence for Species Identification
+
+Use of artificial intelligence to identify acoustic detections of bats can significantly speed up processing time, reduce costs, and potentially increase accuracy.
+A number of auto-classifiers for bat acoustic data exist (BCID, Kaleidoscope Pro, Sonobat, Echoclass), but some researchers have identified strategies or areas with potential for improvement [@khalighifar2022].
+Manual identification of calls is still common – a practice that is not easily scalable.
+
+Machine learning projects designed to allow for the automatic tracking of flight paths in videos and radar are also being developed.
+
+##### Improvements in Tag Technology
+
+Satellite, GPS datalogger, and VHF tags are constantly improving, becoming smaller and lighter, and with greater longevity.
+However, many tags are still too heavy to be deployed on bats or deployed for long periods of time.
+Development of lighter tags and/or tags with longer range, longevity, and reliability could aid in more efficient and effective data collection.
+In addition, alternative attachment methods could allow for better tag retention on the bat [@castle2015; @omara2014].
+
+### Field Data Collection 
+
+In coastal and marine environments, a number of field research methods can inform our scientific understanding of bat interactions with offshore wind facilities (for common methodologies, see Section 4).
+As part of Construction and Operations Plans (COPs), offshore wind developers are developing and submitting avian and bat monitoring plans.
+Of relevance to bats, current available draft monitoring plans typically include deploying passive acoustic detectors on turbines or other offshore wind facility infrastructure, deploying active acoustic detectors on work vessels accessing the facility, and deploying and maintaining Motus receiver stations for a specified number of years post-construction.
+State agencies, federal agencies, and research organizations regularly deploy acoustic detectors in coastal environments.
+Motus or standard VHF tags are also occasionally deployed on bats utilizing habitat in coastal areas.
+
+#### Recommended Science Actions
+
+As part of addressing near and long-term goals, the Bird & Bat Subcommittee recommends the following field research, data interpretation, and technology advancement activities:
+
+-   **Data collection to characterize bat activity and collision risk in the rotor-swept zone of offshore wind turbines.**
+
+    -   Utilizing passive acoustic detectors mounted on turbine platforms, towers, and nacelles to document bat activity year-round.
+
+    -   Deploying multi-modal systems on turbines to assess bat interactions with wind turbine infrastructure (including micro-avoidance and collision risk).
+        Combinations of acoustic detectors, radar systems, impact detection sensors, and/or visual, thermal, and infrared cameras are recommended to document bat behavior around wind turbines, detect impacts, and, in some cases, provide species-specific identification.
+
+    -   Recording contemporaneous turbine operational status and local meteorological data to inform patterns of bat activity, behavior, and collision risk relative to turbine operation and environmental conditions.
+
+-   **Use of acoustics to better understand onshore-to-offshore gradients of bat activity** pre- and post-construction.
+    Leveraging existing platforms (e.g., vessels which already make regular trips through offshore waters, offshore buoys, other offshore infrastructure) and coastal and island sites will aid in this effort.
+
+-   **Use of Motus tagging/tracking systems to characterize patterns of bat movement offshore** (Acoustic studies alone may fail to fully capture bat activity if bats regularly refrain from echolocation while flying over the ocean, see [@corcoran2018; @corcoran2021].
+
+-   Deploying Motus tags on migratory tree bats (hoary bats, eastern red bats, silver-haired bats) to evaluate patterns of movement during the spring and late summer-fall migration seasons.
+
+-   Deploying Motus tags on *Perimyotis* and *Myotis* species of conservation concern in coastal areas and on islands in late summer to evaluate dispersal from maternity colonies to swarming or overwintering sites.
+
+-   Coordinating deployment of Motus stations to streamline calibration and optimize placement (*see* @sec-append-birds).
+
+#### Current and Recent Efforts
+
+Because of the number of individual researchers and organizations conducting bat research in coastal and marine environments, as well as the rapid development of offshore wind energy and associated Bat Monitoring Plans, any summary of coastal and offshore bat field research would be incomplete and would quickly become dated.
+In general, as noted above, readers are directed to the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) for a compilation of recent, current, and pending projects.
+For projects not listed, researchers are strongly encouraged to submit a new entry for inclusion in the database.
+Planned research at offshore wind facilities, as outlined in Bat Monitoring Plans, is best tracked through [Tethys Offshore Wind metadata](https://tethys.pnnl.gov/offshore-wind-metadata).
+
+Several areas of field data collection are briefly noted, but not described in detail:
+
+**Motus:** There is a robust network of Motus telemetry stations along the Atlantic Coast, but this network requires maintenance, as well as further expansion in the offshore environment.
+As offshore wind facility operators develop wildlife monitoring plans for review by BOEM, many are including deployment of offshore Motus stations within the facility, as well as support for maintenance of adjacent coastal turbines.
+Several past studies used Motus tags to evaluate bat movements in coastal areas and offshore along the U.S.
+Atlantic Coast [@dowling2018; @peterson2021; @true2023].
+To date, offshore wind developers have not included deployment of Motus tags on bats as part of wildlife monitoring plans.
+
+**Acoustics:** Past use of acoustics along the Atlantic Coast is summarized by Solick & Newman (2021), as noted above.
+More recently, boat-based and stationary (on turbines or other facility infrastructure) acoustic monitoring for bats has occurred at multiple offshore wind farms (e.g., Block Island, Dominion CVOW), and plans for acoustic monitoring are included in many offshore wind facility wildlife monitoring plans.
+
+**Bat-Turbine Interactions:** Cameras and multi-modal systems have been deployed in the RWSC Study Area on turbines, including cameras used at the Block Island wind farm to assess nocturnal flight and collision risk and the Dominion CVOW project’s upgraded ATOM system, which includes two thermographic cameras operating in stereo to permit flight height calculations and document bat and bird activity in the rotor-swept zone.
