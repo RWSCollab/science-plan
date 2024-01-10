@@ -253,3 +253,94 @@ Poor understanding of both perception and availability bias increases uncertaint
 
 Because sea turtle abundance may be low and CV high for some species in some seasons of the RWSC study area, ability to detect changes in abundance and assigning causality to detected changes may be difficult.
 In a tech memo summarizing a workshop on estimating loggerhead turtle abundance in the NW Atlantic, NOAA estimated that ten years of survey data may be needed to develop robust loggerhead turtle abundance estimates in the NW Atlantic and that current protocols are unable to detect turtles less than 40cm carapace length [@noaafisheries2020].
+
+On page 15 of NOAA Tech Memo NMFS-OPR-67, authors list several next steps that are important elements in developing robust estimates for NW Atlantic loggerheads [@noaafisheries2020]:
+
+-   Define management needs relative to the ability of aerial surveys to detect changes in abundance across appropriate timeline(s).
+    Define desired level of confidence in those abundance estimates.
+
+-   Establish the optimal survey altitude for sea turtles by conducting additional experiments at altitudes between 500–1,000ft to examine/understand the size of turtles that can be seen and turtle behavior relative to the survey platform.
+
+-   Conduct additional field testing to determine detectability of a range of turtle sizes under varying water clarity and sea state conditions.
+
+-   Explore the pros and cons of high resolution aerial photogrammetry and use of automatic pattern recognition, considering likely improvements in the next 5-10 years.
+    Establish whether calibration or ground-truthing is needed for aerial photogrammetry using side-by-side flights with both photogrammetry and observers.
+
+-   Ensure relevant aspects of sea turtle life history (e.g., seasonal migrations, behavioral state) are considered appropriately in the development of the survey design.
+
+-   Design and conduct an experiment to assess variability of abundance estimates through repeat aerial surveys.
+
+-   Explore whether existing satellite telemetry data are sufficient to assess the effects of sea state on surfacing behavior.
+
+-   Refine measures of surface availability
+
+    -   Take stock of satellite telemetry data and identify data gaps relative to location, life stage, and behavioral state (foraging, migrating, interesting intervals).
+
+    -   Design appropriate satellite telemetry experiment(s) to fill identified data gaps.
+        o Assess the value of repeated counts to inform surface availability; compare to satellite telemetry approach; integrate methods to improve surface availability estimation.
+
+-   Mine data from all relevant existing aerial surveys to inform a new survey design, including block identification if appropriate.
+    Develop simulations to refine survey design.
+
+-   Coordinate survey design and implementation with other ongoing efforts to maximize efficiency and reduce duplication/overlap.
+
+-   Develop funding estimates and consider potential funding sources, including leveraging existing funding.
+    Develop a plan for and approach to seek funds.
+
+\[Note that loggerheads are the most abundant sea turtle species in the NW Atlantic, perhaps by an order of magnitude over other species, making the complexity of developing robust abundance estimates for other species greater than for loggerheads.\]
+
+The subcommittee believes that few of the suggestions made at the workshop in 2016 have been fully accomplished and believes that most are needed for loggerheads as well as other turtle species.
+Providing funding and effort to better understand which turtles are being detected under what conditions, small turtle occurrence for green and Kemp’s ridley turtles estimates, and developing robust surface time estimates for all sea turtle species, in all subregions and seasons is critical for developing baseline abundance of sea turtle species.
+
+Without this basic knowledge, assessing and mitigating impacts to sea turtles from a variety of sources, including offshore wind, will be extremely difficult.
+
+### Tagging
+
+For the purposes of this document, tagging refers to active tagging where tags transmit or archive data related to the tagged animal’s location, physiology and/or behavior.
+This is in contrast to passive tags such as flipper (Inconel) and subdermal (PIT) tags which are applied to an animal and must later be detected on that animal during subsequent observations.
+Tagging individual sea turtles includes the use of satellite and acoustic telemetry and may be paired with animal born and/or autonomous underwater cameras.
+The size of some turtles restricts the use of larger and heavier tags which limits battery life and additional instrumentation such as time depth recorders (TDRs) and GPS chips.
+To take advantage of the long battery life of tags used in acoustic telemetry, tags are often inserted internally into the target animals.
+Currently this methodology is not an accepted permit activity for research on wild turtles and has been experimentally allowed on stranded, rehabilitated and released turtles.
+The results of a recent pilot project conducted by the New England Aquarium may further the use of this method for sea turtle research [@innis2023].
+
+### eDNA
+
+Environmental DNA (eDNA) is DNA released from an organism into the environment via feces, mucus, shed skin, hair, etc.
+It is detected in air, water, and substrate samples and requires assays from the organisms to be detected.
+eDNA is useful for determining presence of a species, population, or individual, but its utility as an index of abundance is unclear.
+Several organizations are developing eDNA assays for sea turtles and are ground truthing use of this technology in providing an index of abundance.
+Pilot studies at several sites are pending.
+
+### Long-term monitoring - Stranding response, nest surveys, sightings databases, and observed takes (dredge & fishery)
+
+Sea turtles only come ashore to nest, at the time of hatching, and when stranded (sick, injured, or dead).
+Nesting sea turtles in the U.S. are monitored annually on many beaches from Virginia through the U.S.
+Gulf coast, and several index beaches are established to provide long term indices of nesting turtle presence which are correlated with abundance.
+Nesting trends from index beaches which have been consistently monitored over decades are the primary data available for long-term population trend analysis for sea turtles in the U.S.
+Atlantic.
+An index of abundance has been established from long term nest monitoring data at specific sites in the Southern Atlantic subregion and in areas where turtles are resident or have relatively small seasonally shifting home ranges through capture/recapture studies.
+
+Although many caveats exist with use of stranding data, the U.S.
+Sea Turtle Stranding and Salvage Network may be another source of distribution and phenological trend information.
+
+In addition, where survey data have few detections, citizen science sightings databases can add information on sea turtle presence.
+There is at least one curated long-term sightings database curated by Mass Audubon that can provide information about individual sightings of species that are small and are not easily detected with most survey methodologies.
+
+Finally, dredge and fishery observers record takes associated with permitted and authorized activities in many regions.
+Observers follow established protocols and receive substantial training.
+Though relatively rare, observed takes may also provide information on turtle presence in areas where abundance data are low.
+This is particularly true of offshore areas where distribution data may be poor for some species.
+
+Analyses of long-term data sets may provide the basis for future hypotheses regarding baseline population and distribution trends for sea turtle species, but these data sets have not always been consistently collected or reviewed and experience of data collectors for some monitoring data sets varies widely.
+
+## Sea turtle research topics
+
+The RWSC Sea Turtle Subcommittee recognizes that impacts to sea turtles associated with OSW have not been studied since much of the previous work has been done in European waters where sea turtles are not commonly observed.
+The subcommittee also recognizes that impacts to sea turtles individually and at population levels are likely to be indirect, cumulative, synergetic and difficult assign to a single cause.
+Disentangling the effects on sea turtles of climate change from any potential effects from offshore wind development will be a major challenge.
+
+RWSC has established several Research Themes for the study of impacts to wildlife by OSW that build on work conducted by previous groups, on other wildlife species.
+In subsequent sections, many of the detailed questions, hypotheses, and potential approaches that correspond to these Research Themes are described for regional-scale studies and for each subregion (Gulf of Maine-GOM; Southern New England-SNE; New York/New Jersey Bight-NYB; US Central Atlantic-USCA; US Southeast Atlantic-USSEA).
+
+### Regional Field data collection and analysis 
