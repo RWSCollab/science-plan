@@ -231,3 +231,25 @@ Below is an additional list of potential effects of concern identified by the su
 
 To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in [Chapter 3: Science Plan Actions](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EY-LUU7PXBdMtvTJxFO2HEoBr087P2I7oa4Q7FJBFnCQHw?e=4GKIYe).
 The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.
+
+### Aerial and vessel-based line transect observational surveys
+
+Large scale abundance data for sea turtles is generally collected using distance sampling surveys conducted from aerial, shipboard, and, in future, unmanned platforms such as drones.
+
+In order to accurately estimate turtle abundance and/or density, aerial and vessel surface turtle counts are corrected for bias including perception bias and availability bias.
+Perception bias is the likelihood that observers will detect a turtle at the surface.
+Unlike small cetaceans such as dolphins and porpoises, turtles do not travel in groups and are relatively cryptic at the surface with no visible blow (exhalation) to cue observers.
+Thus, it is likely that a proportion of turtles that are at the surface are missed by observers and the proportion that are missed is correlated with increasing sea state, turbidity and glare.
+Availability bias incorporates the likelihood that an animal will be at the surface and *available* to be detected compared with the likelihood it will be subsurface and unable to be detected (*unavailable*).
+It is imperative to understand the relationship between number of turtles detected at the surface, those that are available to be detected, and the proportion of the population that is below the surface and unavailable to be detected.
+Again, compared to cetaceans which often travel in groups, detection of one individual in a group cues the observer to focus on a particular area increasing the likelihood of detection.
+A single diving turtle may only be perceived as a surface disturbance and not be identified to the species level.
+
+Unlike cetaceans, sea turtles surface time is highly variable by species, season, habitat, behavioral state, and other co-variates such as depth and water temperature.
+Because they are ectothermic, surface time is variable for sea turtles and complicates abundance estimation for these marine vertebrates over other species [@hatch2022].
+Surface time is estimated using tagged individuals, and, for sea turtles, should ideally be assessed at the time and location that surveys are being conducted.
+Minimally, tag data used to determine availability should include multiple years and individuals of all species being detected and include a range of animal sizes in all survey strata and seasons.
+Poor understanding of both perception and availability bias increases uncertainty in abundance estimates.
+
+Because sea turtle abundance may be low and CV high for some species in some seasons of the RWSC study area, ability to detect changes in abundance and assigning causality to detected changes may be difficult.
+In a tech memo summarizing a workshop on estimating loggerhead turtle abundance in the NW Atlantic, NOAA estimated that ten years of survey data may be needed to develop robust loggerhead turtle abundance estimates in the NW Atlantic and that current protocols are unable to detect turtles less than 40cm carapace length [@noaafisheries2020].
