@@ -6,6 +6,13 @@ To develop the Science Plan, the RWSC Steering Committee convened six expert Sub
 Contributors spanned the federal agencies, states, offshore wind companies, environmental nonprofits, academic and research institutions, and other private entities.
 RWSC received comments and input from these groups and the public that greatly improved this Plan (see [Science Plan Review & Revision Process](#_Science_Plan_Review)).
 
+## Citations to existing work
+
+Readers will find parenthetical citations to reports and scientific literature throughout the Science Plan.
+A complete bibliography is provided in @sec-refs.
+
+RWSC also has a public [Science Plan Zotero library](https://www.zotero.org/groups/5235886/rwsc_science_plan) for all of the references in the Science Plan.
+
 ## Species focus {.unnumbered}
 
 The Science Plan is separated into chapters that align with the Subcommittees' expertise on species and habitat groups:
@@ -31,15 +38,25 @@ Two additional chapters---Data Governance & Data Management and Technology---dis
 The RWSC study area is defined as U.S.
 Atlantic waters where offshore wind is being developed, planned, and proposed.
 
-The entities that collaboratively lead RWSC have jurisdiction within the U.S.
-Exclusive Economic Zone (EEZ).
-However, the RWSC recognizes that species and ecosystems are not limited by political boundaries.
+The RWSC recognizes that species and ecosystems are not limited by political boundaries.
 To accommodate this fact, the ecological focus of the Science Plan includes all habitats occupied by the species under study.
 This could require collaboration with entities outside of the U.S. at times.
 
 The RWSC study area is divided into smaller subregions to facilitate coordination and planning.
 The subregions are not necessarily ecologically or politically relevant and should not be used to bound or limit data collection and research activities.
 The subregions align and are named to correspond with the Bureau of Ocean Energy Management's (BOEM's) offshore wind planning areas:
+
+```{r}
+
+#| label: fig-studyarea
+#| fig-cap: "Map of the RWSC study area and subregions that align with federal offshore wind planning areas in U.S. Atlantic waters."
+
+library(leaflet)
+
+m <- leaflet() %>% setView(lng = -71.0589, lat = 42.3601, zoom = 5)
+m %>% addTiles()
+
+```
 
 ![Map of RWSC study area and subregions in U.S. Atlantic waters that align with federal offshore wind planning areas.](figures/subregions_map.pdf){fig-align="center"}
 
