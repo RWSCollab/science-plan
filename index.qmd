@@ -1,14 +1,30 @@
 # Welcome {.unnumbered}
 
-This is the website for the first **Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters**.
+This is the website for the **Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters**.
 
-The RWSC Steering Committee, the four sectors, and hosts---the Northeast Regional Ocean Council and Mid-Atlantic Regional Council on the Ocean with the Coastal States Stewardship Foundation---collaboratively funded and developed the Science Plan to inform future data collection and research and to describe a framework for collaboration to address those needs.
+The RWSC Steering Committee, the four sectors, and hosts---the Northeast Regional Ocean Council and Mid-Atlantic Regional Council on the Ocean with the Coastal States Stewardship Foundation---collaboratively developed the Science Plan to inform future data collection and research.
 
-The Science Plan is entirely open source.
-Making the Science Plan open source allows you or anyone else to interact with the content by opening [issues](https://github.com/RWSCollab/science-plan/issues), making typo fixes and more, for the benefit of everyone.
+-   RWSC is serving as a coordination hub for offshore wind research to increase collaboration, limit redundancy, suggest common data standards, and increase data sharing and transparency.
 
-The Science Plan's website is built by GitHub Actions, which runs the code every time RWSC makes a change, ensuring that the content is up-to-date and versions are tracked.
+-   The Science Plan describes data and research needs for the larger community, whether funded by the RWSC or not.
+
+-   The Science Plan provides a framework for the RWSC Steering Committee when making decisions on what projects to fund via the RWSC.
+
+## Format
+
+The Science Plan is written in plain text documents using RMarkdown.
+All of the text and code to generate the website is stored in the [Science Plan GitHub Repository](https://github.com/RWSCollab/science-plan).
+The Science Plan's website is built by GitHub Actions, which runs code every time RWSC makes a change.
+This ensures that content is up-to-date and versions are tracked.
 The current version information and preferred citation is below.
+
+This approach was inspired by and leverages the resources made by the [Openscapes](https://openscapes.org/) initiative and the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) that was built with [Quarto](https://quarto.org/).
+
+## Providing Feedback
+
+The best way to provide feedback on the Science Plan is to [contact RWSC directly](https://rwsc.org/contact) and join [upcoming Subcommittee meetings](https://rwsc.org/events).
+
+To provide feedback specific to this Science Plan website, and if you have a GitHub account, you can [submit an issue](https://github.com/RWSCollab/science-plan/issues/new/choose) (e.g., typo fixes, citation updates and additions).
 
 ## Citation
 
@@ -17,6 +33,8 @@ RWSC (Regional Wildlife Science Collaborative for Offshore Wind).
 Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S.
 Atlantic Waters.
 Version 1.0.
+https://rwsc.org/science-plan.
+Accessed MM-DD-YYYY.
 
 ## Acknowledgements {.unnumbered}
 
