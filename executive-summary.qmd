@@ -19,16 +19,16 @@ This section consolidates the detailed recommendations to the RWSC Steering Comm
 Each Subcommittee's chapter provides more information about the geographies where certain activities should occur, ecological and logistical considerations for implementing recommendations, and the entities who are leading existing work.
 The Sector Caucuses expect that for the RWSC to implement these recommendations, many different science entities may take on roles to fund, guide, or otherwise support the work needed to address the recommendations based upon the entity's expertise, capacity, available resources, and existing data collection, research, and data management portfolio.
 
+::: column-body
 The recommendations are as follows:
 
-1.  Leverage the existing data management infrastructure within the federal government and private sector.
-    Encourage agencies and entities responsible for managing and funding existing repositories coordinate via the RWSC to understand and anticipate the needed capacity and functionality given the volume and variety of offshore wind and wildlife data being collected.
+1.  **Leverage the existing data management infrastructure within the federal government and private sector.** **Encourage agencies and entities responsible for managing and funding existing repositories coordinate via the RWSC to understand and anticipate the needed capacity and functionality given the volume and variety of offshore wind and wildlife data being collected.**
 
-2.  Seek to apply consistent data collection, QA/QC, data management, data storage, and data sharing guidance for all offshore wind and wildlife studies, as developed or recommended by each Subcommittee.
+2.  **Seek to apply consistent data collection, QA/QC, data management, data storage, and data sharing guidance for all offshore wind and wildlife studies, as developed or recommended by each Subcommittee.**
 
-3.  Work with offshore wind companies, agencies, contractors/vendors, and researchers to encourage Establish specific collaboratives, data sharing agreements, and tools that facilitate appropriate access to key datasets for use in decision-making and research.
+3.  **Work with offshore wind companies, agencies, contractors/vendors, and researchers to encourage specific collaboratives, data sharing agreements, and tools that facilitate appropriate access to key datasets for use in decision-making and research.**
 
-4.  Seek to fund data collection and research tailored to the mix of species present and the need for baseline data in each subregion, according to each chapter in the Science Plan.
+4.  **Seek to fund data collection and research tailored to the mix of species present and the need for baseline data in each subregion, according to each chapter in the Science Plan.**
 
     -   Encourage new data collection activities to align with the objectives of the NOAA Fisheries and BOEM Federal Survey Mitigation Strategy, if applicable.
 
@@ -41,7 +41,7 @@ The recommendations are as follows:
 
     -   Encourage consistent methods and approaches for data collection, data analysis, and data management efforts to support regional scale assessments and the development and maintenance of regional data products and tools.
 
-5.  Encourage using RWSC to coordinate research planning, data collection, data analysis, and data management for the following types of offshore wind-related wildlife surveys and sensor networks throughout the study area funded by multiple entities that benefit from regional collaboration, such as:
+5.  **Encourage using RWSC to coordinate research planning, data collection, data analysis, and data management for the following types of offshore wind-related wildlife surveys and sensor networks throughout the study area funded by multiple entities that benefit from regional collaboration:**
 
     -   Long-term archival passive acoustic monitoring for marine mammal monitoring and soundscape characterization.
 
@@ -59,29 +59,29 @@ The recommendations are as follows:
 
     -   Deployment of multi-sensor oceanographic and ecological buoys in areas of high biodiversity and/or habitat value.
 
-6.  Optimize the design of surveys and sensor networks to detect broad scale phenomena such as species displacement, changes in abundance, and/or changes in behavior and health using power analyses or other statistical tools.
+6.  **Optimize the design of surveys and sensor networks to detect broad scale phenomena such as species displacement, changes in abundance, and/or changes in behavior and health using power analyses or other statistical tools.**
 
-7.  Continue to update existing Atlantic coast-wide species distribution models (marine mammals, seabirds, sea turtles) and develop new models with the latest at-sea observations, movement data, and environmental data every 2-3 years.
-    Produce and maintain a standardized set of regional seafloor habitat and oceanographic data products for use as covariates in species distribution modeling and other analyses.
+7.  **Continue to update existing Atlantic coast-wide species distribution models (marine mammals, seabirds, sea turtles) and develop new models with the latest at-sea observations, movement data, and environmental data every 2-3 years.** **Produce and maintain a standardized set of regional seafloor habitat and oceanographic data products for use as covariates in species distribution modeling and other analyses.**
 
-8.  As per the National Academies of Sciences recommendations, conduct oceanographic observations and modeling to differentiate changes to hydrodynamics from climate change and offshore wind development at turbine, windfarm, and broader scales.
+8.  **As per the National Academies of Sciences recommendations, conduct oceanographic observations and modeling to differentiate changes to hydrodynamics from climate change and offshore wind development at turbine, windfarm, and broader scales.**
 
-9.  Expand on and link existing studies of prey species, including plankton, across the Atlantic to establish a broader ecosystem wide observing system that can detect patterns, trends, and trophic linkages.
+9.  **Expand on and link existing studies of prey species, including plankton, across the Atlantic to establish a broader ecosystem wide observing system that can detect patterns, trends, and trophic linkages.**
 
-10. For studies of potential impacts, consider following existing guidance and best practices for study design and analysis as compiled by the Subcommittees for consistency and leverage the opportunity to combine individual studies into broader regional scale analyses.
+10. **For studies of potential impacts, consider following existing guidance and best practices for study design and analysis as compiled by the Subcommittees for consistency and leverage the opportunity to combine individual studies into broader regional scale analyses.**
 
-11. Advance technologies to improve wildlife detection and impact mitigation and ensure consistent technology performance evaluation.
+11. **Advance technologies to improve wildlife detection and impact mitigation and ensure consistent technology performance evaluation.**
+:::
 
 ## **Implementing the Science Plan -- a Framework for Collaboration**
 
 To ensure that the data collection and research efforts recommended in the Science Plan are Findable, Accessible, Interoperable, and Reusable (FAIR)[^executive-summary-3], the four Sectors have recommended a voluntary framework for collaboration through the RWSC.
 This framework has three primary goals:
 
--   Promote coordination of regional offshore wind related wildlife research with the RWSC, regardless of funding source, recipient(s), or funding structure.
+1.  Promote coordination of regional offshore wind related wildlife research with the RWSC, regardless of funding source, recipient(s), or funding structure.
 
--   Ensure that data collection and research methods and products (i) meet the needs of decision-makers, (ii) are scientifically sound, (iii) standardized, and (iv) made available for use as soon as feasible or appropriate to inform and improve decision-making.
+2.  Ensure that data collection and research methods and products (i) meet the needs of decision-makers, (ii) are scientifically sound, (iii) standardized, and (iv) made available for use as soon as feasible or appropriate to inform and improve decision-making.
 
--   Communicate the findings and results of individual and collaborative research.
+3.  Communicate the findings and results of individual and collaborative research.
 
 RWSC welcomes and encourages participation from all entities and individuals in implementing this Science Plan, especially via expert Subcommittee meetings[^executive-summary-4].
 To assist in the implementation of the Science Plan, the RWSC will maintain the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) and continue to provide tools and forums for research planning, discussions, and collaboration among all participants.
@@ -101,7 +101,7 @@ All are encouraged to participate in implementing the Science Plan by:
     Discussions will be informed by the expert Subcommittees' work, collaborative workshops, and agreed upon prioritization criteria.
 
 -   **Aligning funds and developing collaborative funding plans.** Through annual research prioritization discussions, the RWSC will provide opportunities for participants to voluntarily align their existing research funds to address Science Plan objectives when it makes sense to do so.
-    The RWSC also provides a mechanism for pooling funds to accomplish shared priorities when practical.
+    The RWSC also provides a mechanism for pooling funds to accomplish shared priorities when practical, administering funds, and managing research projects that accomplish Science Plan goals.
 
 RWSC also envisions and welcomes uses of this Science Plan for purposes other than their direct coordination on offshore wind and wildlife data collection and research in U.S.
 Atlantic waters:
