@@ -524,3 +524,177 @@ Turbine construction activities are designed to avoid times when critically enda
     Build on knowledge from each study to optimize results for future studies.
 
 ### New York/New Jersey Bight (NY/NJB) data gaps, recommended research, and data collection activities for sea turtles
+
+#### Focal species and habitats of interest in the NY/NJB subregion
+
+The NY/NJ Bight subregion is seasonal foraging habitat for all sea turtle species covered by the Plan.
+Leatherback and loggerhead turtles have been detected on distance sampling surveys conducted as part of the regional AMAPPS program as well as on smaller scale survey efforts used in addition to AMAPPS survey by a Navy abundance estimation effort [@dimatteo2022; @palka2021].
+Few Kemp’s ridley and green turtles were detected in the NY/NJB subregion on AMAPPS and other surveys, but there were some unidentified hard-shelled turtles detected that may have been these species [@dimatteo2022; @palka2021].
+Kemp’s ridley and green turtles are sighted in Long Island Sound and all species regularly strand in the subregion [@montello2022].
+Capture, tag, and release (loggerhead) has been conducted in the subregion [@hatch2022; @winton2018] and numerous rehabilitated turtles have been released with tags, both acoustic and satellite [@robinson2020].
+
+#### Potential effects of concern specific to the NY/NJB subregion
+
+The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW).
+The imminent future development of the Empire Wind New York waters and Ocean Wind in New Jersey waters makes the NY/NJB subregion of interest to the subcommittee, since the timeline for these projects may allow for both pre- and post-construction assessment of the area.
+Permit applications have been submitted and permits are expected to be issued in 2023.
+Development in the NY/NJB will pose some of the first opportunities to study sea turtle behavior prior to approved construction.
+It is unclear whether baseline abundance data for loggerhead and leatherback turtles in the NY/NJB subregion will be sufficient to detect changes in abundance and/or distribution at the regional level using distance sampling techniques.
+Thus, the subcommittee recommends smaller scale studies focused on the development areas and areas adjacent to developments, as well as vessel corridors could be the focus of sea turtle studies in this subregion.
+Sea turtles should also be included as a significant part of vessel co-occurrence and reef development studies.
+Turbine construction activities will be designed to avoid times when critically endangered right whales were historically in the area, but these limitations are not likely to avoid the times of highest sea turtle occurrence.
+
+#### Recommended field data collection and analysis in the NY/NJB subregion
+
+-   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions.
+    Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence.
+    Build on knowledge from each study to optimize results for future studies.
+
+-   Compile and analyze historic satellite and acoustic sea turtle tag data in the subregion.
+    Analysis should focus on seasonal migratory timing, environmental correlated with animal movement, offshore distribution, and contribute to analyses on tag effort needed to develop robust surface time estimates for all species in all appropriate seasons.
+
+### US Central Atlantic (USCA) data gaps, recommended research, and data collection activities for sea turtles
+
+#### Focal species and habitats of interest in the USCA subregion
+
+The USCA subregion is seasonal foraging habitat for all sea turtle species covered by the Plan.
+In addition, this subregion represents the northern limits of consistent loggerhead nesting for the NW Atlantic DPS, and offshore waters including the Gulf Stream are likely to be habitat for post-hatchling dispersal stage (lost years) loggerhead and green turtles [@mansfield2014; @mansfield2021].
+All species covered by the plan have been detected on distance sampling surveys conducted as part of the regional AMAPPS program as well as on smaller scale survey efforts used in addition to AMAPPS survey by a Navy abundance estimation effort [@barco2015; @barco2018; @dimatteo2022; @palka2021].
+Coastal ocean waters, Chesapeake Bay and North Carolina sounds act as important seasonal inshore foraging areas for loggerhead, Kemp’s ridley and green turtles [@braun-mcneill2008; @dimatteo2022; @mansfield2009; @mcclellan2007; @mcclellan2009] and their spring and fall movement appears to be highly correlated with water temperature.
+It is likely that Delaware Bay is a similarly important foraging habitat.
+Capture, tag, and release (loggerhead and leatherback) has been conducted in the subregion [@hatch2022; @palka2021] and numerous rehabilitated turtles have been released with tags, both acoustic and satellite [@barco2015; @robinson2020].
+Fewer Kemp’s ridley and green turtles were detected in the USCA subregion than loggerheads and leatherbacks on AMAPPS surveys, but there were some unidentified hard-shelled turtles detected that may have been these species [@dimatteo2022; @palka2021].
+
+#### Potential effects of concern specific to the USCA subregion
+
+The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW).
+The imminent future development of the CVOW project in VA waters makes the USCA subregion of interest to the subcommittee, since the timeline for these projects may allow for both pre- and post-construction assessment of the area.
+Additional projects off Maryland (US Wind) and northern North Carolina (Kitty Hawk Wind N) are farther away from construction than CVOW. 
+Unlike states to the north in the USCA region such as Maryland and southern New Jersey and states in subregions to the north of USCA, neither Virginia nor North Carolina are funded through power sharing agreements or other means to implement environmental monitoring projects independent of federal resources.
+For this reason, both the CVOW and Kitty Hawk N projects are unlikely to be the subject of meaningful monitoring or research outside of required mitigation without funding from federal sources.
+These two areas are likely have: 1) higher turtle densities of most species, 2) longer exposure seasonally and 3) active breeding and nesting adults than projects to the north and, for the reasons above, should be the focus of sea turtle oriented research on impacts of OSW on sea turtle species.
+In addition, restrictions on turbine construction activities designed to avoid times when critically endangered right whales will mean that construction will occur when densities for sea turtle species in this area are highest.
+Thus, the subcommittee recommends that federal funding for sea turtle impact studies around specific projects be focused on the CVOW and Kitty Hawk N development areas and areas adjacent to development including vessel corridors.
+
+#### Recommended field data collection and analysis in the USCA subregion
+
+-   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions.
+    Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence.
+    Build on knowledge from each study to optimize results for future studies.
+
+### US Southeast Atlantic (USSEA) data gaps, recommended research, and data collection activities for sea turtles
+
+#### Focal species and habitats of interest in the USSEA subregion
+
+The USSEA subregion provides foraging, nesting and breeding habitat for all sea turtle species covered by the Plan.
+This subregion includes the majority of nesting on US Atlantic shorelines for loggerhead, green and leatherback turtles.
+Kemps ridley nesting effort on USSEA beaches is sporadic.
+Nesting and breeding in the USSEA region is significant for loggerhead and green turtle populations.
+In addition, offshore waters including the Gulf Stream is habitat for post-hatchling dispersal stage (lost years) loggerhead and green turtles [@mansfield2014; @mansfield2021] and may be habitat for leatherbacks as well.
+Sea turtles have a year-round presence in the waters of the USSEA subregion.
+Some loggerhead turtles overwinter south of Cape Hatteras in the northern portion of the sub-region [@mansfield2009].
+All species covered by the plan have been detected on distance sampling surveys conducted as part of the regional AMAPPS program as well as on other survey efforts used in addition to AMAPPS survey by a Navy abundance estimation effort [@dimatteo2022; @palka2021].
+
+#### Potential effects of concern specific to the USSEA subregion
+
+The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW) with the addition of nesting, breeding and hatching behavior to be considered.
+There are, however, no projects in this subregion currently under review by BOEM, and only two leases have been awarded off southern North Carolina.
+Development in this subregion is significantly lower and farther from completion than subregions to the north.
+This extended timeline to development will allow for projects in the subregion to benefit from research conducted in the more northern subregions, which will be important as this subregion has a higher turtle density, significant nesting and breeding habitat, and greater year-round occurrence of sea turtles that other subregions.
+Although different from OSW development, efforts to study impacts of oil and gas operation and decommissioning in the Gulf of Mexico in the wake of the Deep Water Horizon Spill in 2010 is adding to the body of knowledge about turtle presence and behavior in sub-tropical climates.
+As in Virginia and North Carolina, states are unlikely to have significant funds from powersharing and other agreements that states to the north are able to receive.
+As such, most research in this subregion will likely need to be fully federally funded.
+
+#### Recommended field data collection and analysis in the USSEA subregion
+
+There are no Field Data Collection and Analysis recommendations specifically for the USSEA sub-region.
+Region-wide recommendations that include the USSEA region are included in [section 2.1 of this chapter](#Regional_field_data_collection).
+
+Recommended non-field research by type of action.
+There are no Non-Field Data Collection and Analysis recommendations specifically for the USSEA sub-region.
+Region-wide recommendations that include the USSEA region are included in [section 2.1 of this chapter](#Regional_field_data_collection).
+
+## List of Definitions and Acronyms 
+
+AMAPPS – [Atlantic Marine Assessment Program for Protected Species](https://www.fisheries.noaa.gov/new-england-mid-atlantic/population-assessments/atlantic-marine-assessment-program-protected); a joint project funded by BOEM, NOAA Fisheries, US Navy, and US Fish and Wildlife Service to provide seasonal abundance estimates that incorporate environmental habitat characteristics for marine mammals, turtles, and seabirds in the western North Atlantic Ocean
+
+AMSEAS – Atlantic Marine Conservation Society, Hampton Bays, NY
+
+ARGOS - a global satellite-based location and data collection system dedicated to studying and protecting our planet’s environment.
+The polar-orbiting satellites making up Argos fly at an orbit of 850 km above the earth.
+They pick up the signals, store them on-board, and relay them in real-time back to earth.
+Receiving stations then relay data from satellites to processing centers.
+These processing centers collect all incoming data, process them and distribute them to users.
+
+benthic – adjective describing species, habitat, etc. associated with the ocean bottom
+
+BOEM – [Bureau of Ocean Energy Management](https://www.boem.gov/), the federal agency regulating OSW planning areas, auctions and leases
+
+CFF – Coonamessett Farm Foundation, East Falmouth, MA
+
+CV – coefficient of variation; a measure of confidence in statistical calculations such as density and abundance.
+A low CV suggests higher confidence that the true value is close to the estimated value
+
+DPS – distinct population segment, in the US some turtle species are managed in distinct population segments usually defined by distribution of nesting females
+
+ectothermic – ‘cold-blooded;’ refers to animals such as fish, amphibians, and reptiles whose core body temperature is correlated with the environment, some ectothermic species such as leatherback turtles are able to maintain body temperatures up to 10 °C above ambient environmental temperatures but their body temperature is still correlated with ambient temperature
+
+endothermic – ‘warm blooded;’ refers to animals whose core body temperature is maintained within a narrow range regardless of ambient environmental temperatures.
+Birds and mammals are endothermc.
+
+EMF – electromagnetic field; a classical (*i.e*. non-quantum) field produced by accelerating electric charges.
+The field can be viewed as the combination of an electric field and a magnetic field.
+The electric field is produced by stationary charges, and the magnetic field by moving charges (currents); these two are often described as the sources of the field.
+
+ESA – U.S.
+Endangered Species Act
+
+Gelatinous zooplankton – group of macroscopic zooplankton including jelly fishes, comb jellies, salps and other similar species that are prey for some sea turtles, especially leatherback turtles.
+
+GOM – Gulf of Maine the northernmost subregion described in the RWSC study area
+
+GPS – global positioning system
+
+MARCO – Mid-Atlantic Regional Council on the Ocean
+
+NEAq – New England Aquarium, Boston, MA
+
+Neritic – adjective describing ocean habitat over the continental shelf.
+Following their oceanic dispersal stage, most sea turtle species enter a juvenile neritic foraging stage that may continue for 3 to more than 20 years.
+
+NEFSC – Northeast Fisheries Science Center for NOAA Fisheries, Woods Hole, MA
+
+NMFS – see NOAA Fisheries
+
+NOAA Fisheries – formerly called National Marine Fisheries Service (NMFS), federal agency tasked with managing protected marine species in their in-water marine habitats.
+Jurisdiction of species that spend time in freshwater and/or terrestrial habitat is shard with the U.S.
+Fish and Wildlife Service (USFWS).
+For sea turtles, NOAA Fisheries manages all behavior and life stages except for nesting and nest protection which falls under USFWS.
+
+NROC – Northeast Regional Ocean Council
+
+NY/NJB – New York/New Jersey Bight subregion of the RWSC study area
+
+NYSERDA – New York State Energy Research and Development Authority
+
+pelagic – adjective describing ocean habitat over the deep ocean.
+In the NW Atlantic the oceanic dispersal stage of a sea turtle’s life is spent in the pelagic environment, most notably in the Sargasso Sea
+
+(the) Plan – RWSC Science Plan
+
+Project WOW – Wildlife and Offshore Wind: A multi-organization research project with the goal of creating a system for the comprehensive evaluation of potential effects of offshore wind energy development on marine wildlife.
+Project WOW is led by the Duke University Marine Geospatial Lab (https://offshorewind.env.duke.edu/)
+
+PTT – Platform Transmitting terminal, the part of a satellite tag that sends user-defined periodic messages to satellites.
+ 
+
+SNE – Southern New England subregion of the RWSC study area
+
+telemetry – measurement of wireless transmission of data from remote sources, in this context animal borne tags such as satellite and acoustic tags
+
+USCA – US Central Atlantic subregion of the RWSC study area
+
+USFWS – U.S.
+Fish and Wildlife Service
+
+USSEA – US Southeast Atlantic subregion of the RWSC study area
