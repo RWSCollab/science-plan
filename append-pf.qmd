@@ -1,1 +1,5 @@
-# Appendix - Protected Fish Species {#sec-append-pf}
+# Protected Fish Species {#sec-append-pf}
+
+This chapter leverages ongoing data collection and research initiatives related to offshore wind and protected fish species funded by a variety of partners (states, federal agencies, industry).
+For an always up-to-date list of active projects, visit the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
+Given this ongoing work, as well as previous research on Protected Fish Species and their interactions with wind energy areas in Europe and the United States, the Protected Fish Species Subcommittee is making recommendations for additional research that is both aligned with existing efforts and fills important gaps.
