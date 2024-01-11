@@ -450,3 +450,77 @@ The following sections describe sea turtle data gaps followed by research needs 
 In some cases, needs are specific to a single subregion, other data/research needs apply to more than one subregion.
 
 ### Gulf of Maine (GOM) data gaps, recommended research, and data collection activities for sea turtles
+
+#### Focal species and habitats of interest in the GOM
+
+The Gulf of Maine subregion is seasonal foraging habitat for all sea turtle species covered by the Plan but, with the exception Cape Cod Bay, might be considered marginal habitat for Kemp’s ridley and green turtles.
+Wild caught loggerhead and leatherback turtles have been tracked in and out of the Gulf of Maine, including, but not exclusive of Cape Cod Bay [@dodge2014; @palka2021], and individuals of both species have been bycaught in the Atlantic Canadian longline fishery, suggesting seasonal distribution in the region[@james2006; @james2007; @paul2010].
+Suitable leatherback turtle habitat off Nova Scotia has been identified using both leatherback and Mola sightings along with environmental correlates in modeling analyses [@a.mosnier2018].
+Jellyfish distribution has also been used to predict leatherback distribution [@nordstrom2020].
+
+Most individuals are juveniles (Kemp’s ridley, green, loggerhead) and subadults (loggerhead), but adult leatherbacks can also be found in the subregion [@dodge2014].
+
+Better understanding of the importance of Cape Cod Bay for juvenile Kemp’s ridley and green turtles is needed as it appears to be the primary area of the subregion in which these two species occur.
+For smaller individuals, primarily Kemp’s ridley and green turtles, there is a paucity of sightings in historic aerial and shipboard abundance surveys [@dimatteo2022; @palka2021] and relatively few opportunistic citizen science sightings reported to the [Sea Turtle Sighting Hotline for New England Boaters](https://seaturtlesightings.org/).
+A query of historic strandings of hard shelled turtles (loggerhead, Kemp’s ridey, green) from Cape Cod Bay north through Maine from April-early November (outside of cold stun season) resulted in a total of 50 strandings from 2013-2022, an average of five per year.
+All strandings occurred in MA, and 25 were loggerhead, 23 Kemp’s ridley, one green turtle and one possible hybrid.
+Low sightings combined with relatively few green turtles in the stranding record outside of the late fall cold stun season (STSSN *unpublished data received* 2 May 2023) raise questions about the role of the GOM subregion in the ecology of this species.
+Paucity of detections from survey, sighting and stranding data is not sufficient to hypothesize that the GOM subregion is not important habitat for Kemp’s ridley turtles because these small juvenile turtles are difficult to detect from planes and vessels.
+Though stranding numbers were low overall, the similarity of loggerhead and Kemp’s ridley strandings in addition to very high numbers of cold stunned Kemp’s ridleys in late fall call into question whether Kemp’s ridleys are present in Cape Cod Bay in similar numbers as loggerheads.
+
+Assuming that cold stunned sea turtle numbers in Cape Cod Bay are representative of cheloniid habitat-use, this region could constitute important seasonal habitat for Kemp's ridleys, followed by loggerheads, with less importance for green sea turtles.
+There is concern, however, what type of ecological impact the area may have on the Kemp’s ridley population given the high numbers of cold stunned turtles that are reported each year.
+Few if any of the hundreds of turtles would survive cold stunning without human intervention.
+Global climate change is likely to result in increasing numbers of hard-shelled turtles in this region, thus regular reassessment of turtle occurrence in the GOM will be necessary.
+
+Because baseline data for sea turtles in the GOM is relatively sparse and most turtle species, with the exception of leatherbacks, are not present in high enough densities to detect changes in abundance with any confidence, determining and studying impacts on a subregion-wide and/or population level are unlikely to be successful.
+The subcommittee suggests that small, focused studies on individual animal movement and behavior that are site specific may be most effective strategies for assessing impacts in the GOM.
+
+#### Potential effects of concern specific to the GOM subregion
+
+In addition to the potential regionwide effects discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW), there may be different effects due to turbine designs needed for the deeper waters in this subregion.
+Because of depth in the federal portion of GOM, turbines used to develop wind energy areas in this subregion will be floating units [@musial2016].
+It is currently unclear whether this technology will have different impacts from turbines attached to the bottom.
+Use of this technology may provide opportunities for comparison studies with nearby installations in the Southern New England subregion.
+Rafts of debris and algae associated with a different surface footprint and floating turbine movement may impact turtles and their non-benthic prey in different ways than static, bottom anchored turbines.
+If floating designs incorporate subsurface rotors to maintain stability and position, small turtles and near surface (gelatinous) prey may be impacted in ways that they will not be impacted by static turbines.
+
+#### Recommended field data collection and analysis needs in the GOM subregion
+
+-   Continue regional-scale protected species data collection through AMAPPS survey and tagging studies or similar programs – emphasize GOM?
+    Especially tagging
+
+-   Supplement AMAPPS data with methods that detect smaller species and juveniles, especially in Cape Cod Bay
+
+-   Determine ecological role of Cape Cod Bay for juvenile Kemp’s ridley turtles through additional tagging and modeling that incorporated sighting and stranding data
+
+-   Explore potential impacts to sea turtles and gelatinous prey when they co-occur with floating turbines
+
+### Southern New England (SNE) data gaps, recommended research, and data collection activities for sea turtles
+
+#### Focal species and habitats of interest in the SNE subregion
+
+The Southern New England subregion is seasonal foraging habitat for all sea turtle species covered by the Plan.
+Leatherback and loggerhead turtles have been detected on distance sampling surveys conducted as part of the regional AMAPPS program as well as on smaller scale survey efforts used in addition to AMAPPS survey by a Navy abundance estimation effort [@dimatteo2022; @palka2021].
+Capture, tag, release (loggerhead and leatherback), remote tagging (leatherback), and disentanglement (leatherback, loggerhead and Kemp’s ridley) have been conducted in the SNE subregion [@dodge2014; @hatch2022; @karal.dodge2022; @palka2021].
+Few Kemp’s ridley and green turtles were detected in the SNE subregion on AMAPPS surveys, but there were some unidentified hard-shelled turtles detected that may have been these species [@palka2021].
+Opportunistic sightings of Kemp’s ridley turtles are rare but consistently occur each year in summer and early fall in the Sea Turtle Sightings Database but sightings of green turtles are less consistent, and the subcommittee believes this subregion may also currently be a marginal habitat for green turtles (Sea Turtle Sighting Hotline for New England Boaters *unpublished data* *received* 23 May 2023).
+
+#### Potential effects of concern specific to the SNE subregion
+
+The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW).
+The imminent development of the Vineyard and South Fork Wind projects makes the SNE subregion of particular interest to the subcommittee, since we do not have data or published research from other wind developments in sea turtle habitat.
+Both projects had estimated foundation construction start dates in late spring 2023.
+Development in the SNE will pose the first opportunity to study sea turtle behavior during construction and operation of NW Atlantic wind turbines.
+It is unclear whether baseline abundance data for loggerhead and leatherback turtles in the SNE subregion will be sufficient to detect changes in abundance and/or distribution at the regional level using distance sampling techniques.
+Thus, smaller scale studies with a phase gradient experimental approach, focused on the development area and areas increasingly distant from the development [@ellisj.i.1997], as well as vessel corridors could be the focus of study in this subregion.
+Sea turtles should be included as a significant part of vessel co-occurrence and reef development studies.
+Turbine construction activities are designed to avoid times when critically endangered right whales were historically in the area (Jan-April), but these limitations will not avoid the times of highest sea turtle occurrence.
+
+#### Recommended field data collection and analysis in the SNE subregion
+
+-   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions.
+    Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence.
+    Build on knowledge from each study to optimize results for future studies.
+
+### New York/New Jersey Bight (NY/NJB) data gaps, recommended research, and data collection activities for sea turtles
