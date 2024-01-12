@@ -6,7 +6,7 @@ To develop the Science Plan, the RWSC Steering Committee convened six expert Sub
 Contributors spanned the federal agencies, states, offshore wind companies, environmental nonprofits, academic and research institutions, and other private entities.
 RWSC received comments and input from these groups and the public that greatly improved this Plan (see [Science Plan Review & Revision Process](#_Science_Plan_Review)).
 
-## Citations to existing work
+## Citations to existing work {.unnumbered}
 
 Readers will find parenthetical citations to reports and scientific literature throughout the Science Plan.
 A complete bibliography is provided in @sec-refs.
