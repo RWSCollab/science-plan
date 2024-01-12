@@ -188,3 +188,32 @@ Rivers all along the East Coast have been defined as critical habitat for Atlant
 Atlantic sturgeon habitat use overlaps with many wind farm lease, planning, and cable areas [@frisk2019; @haulsee2020; @ingram2019; @rothermel2020] and so they are subject to all potential effects with respect to offshore wind discussed in section 1.2.
 
 #### Atlantic Salmon
+
+Atlantic salmon in the United States are at the southern extent of their range and are found at critically low abundance.
+Historic populations in southern New England are extirpated, with remnant populations protected under the ESA in Maine [@usfws2009].
+
+Atlantic salmon are anadromous fish with life histories that involve a variety of habitats.
+They begin their lives in freshwater rivers, migrate through estuaries to saltwater, and return to freshwater to spawn [@fayclem2006].
+Restoration, monitoring and research efforts are longstanding within Maine’s coastal rivers, with continued expansion into estuaries and bays [@renkawitz2011; @sheehan2011; @usasac].
+Atlantic salmon encounter many threats because they occupy a variety of habitats.
+Identifying these threats has been a priority in recent years with particular emphasis focused on the smolt life stage when fish migrate from fresh to salt water and endure a physiological transformation.
+Baseline telemetry studies in Maine have outlined migration dynamics [@hawkesj.p.2017; @kocikj.f.2009; @renkawitz2011] and set the stage for follow-up investigations.
+These efforts include quantifying impacts of dams [@holbrookc.m.2011; @stevens2019; @stich2015], in addition to targeted management actions [@hawkes2013] to improve smolt survival into the Gulf of Maine.
+
+Beyond monitoring tagged salmon with telemetry in their natal rivers, research has expanded further into the marine environment.
+A partnership between NOAA and the University of Maine School of Marine Science began in 2005 by utilizing existing marine infrastructure to increase monitoring capabilities.
+This platforms of opportunity initiative began with oceanographic buoys, but has since expanded to lobster traps and drifters.
+These data improve our understanding of salmon migration, but also benefit researchers of other tagged animals [@goulettegs2014; @goulette2021].
+In addition to these data collections, the deployment of the [Ocean Tracking Network](https://oceantrackingnetwork.org/) Halifax Array off Halifax, Nova Scotia in 2008 expanded coverage of salmon migration.
+Information from this array has been used to model behaviors, timing and movements within the Gulf of Maine and beyond, which may be useful to managers [@byron2014; @moriarty2016].
+
+The range of Atlantic salmon is mostly in the northern portion of the Gulf of Maine which currently does not overlap with any lease areas.
+However, BOEM has published the Gulf of Maine Call for Information and Nominations (Call) in the deeper waters of the Gulf for floating offshore wind.
+This Call is an early step in the regulatory process for commercial leasing of offshore wind.
+Atlantic salmon critical habitat has been defined in rivers all along the coast of Maine and is shown below in @fig-2. The range of Atlantic salmon continues east to Canada, so collaboration with international organizations is needed.
+
+![Atlantic Salmon Critical Habitat. Source: NOAA Fisheries](figures/pf/atlanticsalmon.png){#fig-2}
+
+Atlantic salmon will likely overlap with all stages of offshore wind development in the Gulf of Maine, so are subject to all potential effects with respect to offshore wind discussed in section 1.2.
+
+#### Shortnose Sturgeon
