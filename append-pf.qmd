@@ -341,3 +341,83 @@ An assessment to determine critical habitat has not yet been completed.
 The whitespotted eagle ray is subject to all to all potential effects with respect to offshore wind discussed in section 1.2.
 
 ## Potential Effects with Respect to Offshore Wind
+
+As a group with varied distributive boundaries, some protected fish are more likely than others to overlap with leased and planned offshore wind areas including cable routes in the Atlantic Ocean.
+There are multiple potential impacts from offshore wind development on fish species.
+Impacts can be direct or indirect, as there may also be changes to: protected fish prey species’ distribution/abundance, local and regional hydrodynamics, or other environmental factors that will in turn effect protected fish.
+The descriptions of potential effects to protected fish such as underwater noise, vessel collision, entanglement, introduction of new structures, and electromagnetic fields are summarized in the [Environmental Effects of U.S. Offshore Wind Energy Development: Compilation of Educational Research Briefs](https://tethys.pnnl.gov/sites/default/files/summaries/SEER-Booklet.pdf) [@seer2022a] and the Synthesis of the Science [@hogan2023].
+The gaps and needs are captured in the [Atlantic Offshore Wind Environmental Research Recommendations](https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations) as well as [@hogan2023].
+Due to knowledge gaps regarding protected fish and their life stages, the Subcommittee is aware that there might be unanticipated positive or negative effects.
+
+Offshore wind development will alter benthic habitat as a result of hardening, boulder removal, seabed leveling, dredging, port expansion, and anchoring.
+Cable placement, scour protection, and the turbines themselves will all create hard structures where there previously was soft benthic habitat or open water.
+These alterations and associated changes will have varied effects on different species.
+Loss of large stretches of soft bottom habitat may force species to find new suitable areas to use for habitat, foraging, and other activities.
+This could result in increased energy expenditures and may decrease individual fitness [@hogan2023].
+The additional hard surfaces will also act as artificial reef structures, providing new habitats and shelter, likely attracting structure-oriented fish.
+The initial increase in fish abundance around structures will likely be from the redistribution of existing individuals rather than an increase in overall abundance.
+These individuals may then draw in HMS [@degraer2020].
+An increase in pelagic predators would increase predation risk for some protected species where previously there had been little or none.
+The increased concentration around each structure may also expand fishing activity.
+Higher levels of fishing activity in turn increases the risk of entanglement in fishing gear for protected fish, both primarily by active fishing activity and secondarily through ghost gear that is caught on the hard structures.
+The structures may also provide the opportunity for non-native species to colonize the area, and potentially facilitate their spread through the stepping stone effect.
+The expansion of non-native species can have an ecological impact on the area [@adams2014; @demesel2015], and the protected species that use it.
+The alteration of soft benthic habitat will change the ecosystem, which can have both positive and negative effects on different fish species.
+
+A seven-year study on demersal fish and invertebrates was conducted to determine if the Block Island Wind Farm (BIWF) had any beneficial or adverse effects on fish presence in the area.
+This was the first research of its kind in the United States, as the BIWF was the first U.S. wind farm to be established.
+Results varied by species, with structure-oriented species having higher capture rates inside the wind farm compared to the reference area following turbine construction.
+Little skate catch per unit effort decreased while spiny dogfish catches were higher during construction [@wilber2022].
+An additional study by Wilber et al., (2022) at the BIWF examined the dietary habits of flounder, gadids, and black seabass before construction, during construction, and during operation.
+They did not find any substantial changes, but noted that mussels and associated mysids were found in fish diets after construction, indicating their presence on the turbines and foraging by fish.
+Body condition impacts fluctuated from species to species.
+For example, silver hake had a slightly higher body condition during operations while multiple species of flounder were found to have decreased body conditions during wind farm operations [@wilber2022].
+While none of the species examined in either Wilber et al. study are protected, the studies give insight as to how different species might react to further wind farm development in the U.S.
+Atlantic and details the need for further research on this topic as developments expand.
+
+There has been more research investigating the effect of offshore wind on fish in Europe.
+Degraer, S.
+et al., [@degraers.2018]conducted a study that examined the effects of offshore wind construction and operation on fish communities in the North Sea.
+Overall, they found an increase in fish abundance during the construction phase compared to the time period before construction.
+There was also a shift in species, where some became more prevalent and others did not.
+There was limited data on effects to fish after construction.
+This study highlights that some fish will be attracted to the newly formed hard structures in the water column and their associated hardening of benthic habitats, known as the reef effect.
+Others may avoid the area, whether it be due to the presence of noise, predators, electromagnetic fields, alterations to the benthic communities, or other factors.
+
+Fish migration and seasonal habitat selection are intrinsically linked to annual oceanographic patterns that vary latitudinally, and any alterations to these patterns or their resulting ecosystem can have cascading effects on ecosystem function and associated food webs.
+The presence of structures has the potential to alter oceanographic, hydrodynamic, and atmospheric processes at multiple scales.
+Wind turbines extract energy from the system, resulting in reduced wind speed downstream and increased turbulence [@christiansen2022].
+These are known as atmospheric wakes, which merge together downstream when multiple turbines are clustered together [@christiansen2022].
+Increased turbulence can result in changes in circulation and stratification, which has potential implications on primary production and thus may impact fish distribution, including protected fish prey [@carpenter2016; @daewel2022; @vanberkel2020].
+The Mid-Atlantic Cold Pool, a mass of cooler bottom waters that forms throughout the Mid-Atlantic Bight in the spring and dissipates as a result of mixing events in the fall, supports marine ecosystems and regulates the migratory behaviors of many fish [@miles2021].
+The Cold Pool could be impacted by structure driven changes in stratification.
+It is therefore extremely important that wind wakes, associated changes to the thermocline and seasonal nutrient mixing are further studied, as changes may have large impacts not only on protected fish species, but also on the entire ecosystem.
+
+Certain anatomical features of different fish species make them more susceptible to different impacts.
+For example, sharks, rays, and sturgeon have ampullae of Lorenzini, which are electro-receptive organs, linked to prey detection and navigation.
+Thus, alterations in ambient electromagnetic fields could affect their ability to feed and migrate normally.
+The effect of EMF emitted by HVDC subsea cables on little skate was examined in a study by BOEM, and though little skate are not protected, this study can help inform the potential behavioral patterns of electro-sensitive species when exposed to EMF introduced by offshore wind farms.
+The study found that when exposed to EMF, skates traveled further but slower, spent more time closer to the seabed, and made more large turns compared to behaviors observed in the control enclosure [@hutchisonz.l.2018].
+BOEM noted that there is a need to study behavioral responses to higher levels of EMF.
+Multiple projects have investigated the effects of EMF on salmon.
+Scanlan et al., [@scanlan2018] conducted a study on nonanadromous Atlantic salmon, and found that juveniles oriented differently when exposed to varying levels of magnetic treatment.
+This study demonstrated that Atlantic salmon are able to detect spatial information from the surrounding geomagnetic field.
+Minkoff et al. [@minkoff2020], similarly conducted magnetic displacement experiments on Atlantic salmon, but compared two different populations.
+They found that while the movement of anadromous juveniles supported native migration patterns, nonanadromous salmon did not respond to the displacement.
+Klimley et al. [@klimley2017], conducted a study on the effect of distortions in the earth‘s main magnetic field on Chinook salmon smolts and adult green sturgeon which both migrate through the San Francisco Estuary.
+Both species successfully migrated past the source of large magnetic anomalies, suggesting that the change in magnetic field would not present a strong barrier to their movement patterns.
+McIntyre, A et al. [@mcintyrea2016], found that submarine HV cables did not cause any significant behavioral changes in sub-adult Atlantic sturgeon.
+It is clear through the results of these studies that more research is needed on additional life stages of protected fish species to gain a more thorough understanding of the impact that EMF will have on protected fish.
+
+All stages of offshore wind development create underwater noise, which can result in effects to fish.
+These activities include, but are not limited to, pile driving, vessel traffic, aircraft, drilling, G&G surveys, jet-plowing, seabed preparation, UXO detonations, and turbine operation.
+Effects from sound range include non-auditory injury, auditory injury, physiological changes, behavioral disruption, and masking of communication.
+Impacts will vary depending on intensity of the noise source and detection abilities of the fish.
+Most teleosts have a swim bladder, which plays an important role in buoyancy maintenance of individual fish.
+These organs are susceptible to rapid changes in pressure and physical trauma [@gedamkej.2016], which can occur through impulsive noise sources which are created during impact pile driving and pre-construction activities such as UXO detonations, HRG surveys, and geotechnical drilling surveys.
+Popper et al. [@popperan2016], studied the effect of seismic air guns on Pallid sturgeon, and found that single pulses were not lethal, though the effects of multiple exposures remains to be studied.
+As there will be multiple exposures in each wind energy area, and many on a regional scale, this is an important area of continued research.
+While little research has been done on Atlantic sturgeon specifically, studies have been conducted on Lake sturgeon (*Acipenser fulvescens*), a similar species.
+Lovell et al. [@lovell2005], investigated lake sturgeon hearing and found them to be responsive to particle motion rather than sound pressure.
+In a study that observed pile driving effects on lake sturgeon, a variety of injuries were reported including a partially deflated swim bladder, renal hematoma, and bruised kidneys [@halvorsenmb2012].
+Fleeing and avoidance of areas with active pile driving is likely to occur.
