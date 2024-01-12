@@ -421,3 +421,5 @@ While little research has been done on Atlantic sturgeon specifically, studies h
 Lovell et al. [@lovell2005], investigated lake sturgeon hearing and found them to be responsive to particle motion rather than sound pressure.
 In a study that observed pile driving effects on lake sturgeon, a variety of injuries were reported including a partially deflated swim bladder, renal hematoma, and bruised kidneys [@halvorsenmb2012].
 Fleeing and avoidance of areas with active pile driving is likely to occur.
+
+In addition to impulsive noise, offshore wind development will add continuous noise to the environment, mainly through wind turbine operation and increased vessel traffic.
