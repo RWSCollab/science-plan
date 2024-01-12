@@ -52,6 +52,7 @@ The subregions align and are named to correspond with the Bureau of Ocean Energy
 #| fig-cap: "Map of the RWSC study area and subregions that align with federal offshore wind planning areas in U.S. Atlantic waters."
 
 library(leaflet)
+library(rmarkdown)
 
 m <- leaflet() %>% setView(lng = -71.0589, lat = 42.3601, zoom = 5)
 m %>% addTiles()
