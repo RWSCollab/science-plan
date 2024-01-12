@@ -3,3 +3,137 @@
 This chapter leverages ongoing data collection and research initiatives related to offshore wind and protected fish species funded by a variety of partners (states, federal agencies, industry).
 For an always up-to-date list of active projects, visit the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
 Given this ongoing work, as well as previous research on Protected Fish Species and their interactions with wind energy areas in Europe and the United States, the Protected Fish Species Subcommittee is making recommendations for additional research that is both aligned with existing efforts and fills important gaps.
+
+## Background
+
+Marine fish are very diverse.
+They occupy a wide variety of habitats; have different anatomical features and unique life histories.
+In the United States, marine fish are managed at both the federal and state levels, depending on where the species most commonly occurs.
+Regional fishery management councils and NOAA Fisheries federally manage species that predominantly occur in ocean waters beyond the state jurisdictional limit (three nautical miles).
+The four regional fishery management councils responsible for managing most federal fisheries in the U.S. waters of the Atlantic Ocean include the New England Fishery Management Council (NEFMC), the Mid-Atlantic Fishery Management Council (MAFMC), the South Atlantic Fishery Management Council (SAFMC), and the Caribbean Fishery Management Council (CFMC).
+These regional fishery management councils are responsible for developing federal fishery management plans, regulations, and designating Essential Fish Habitat (EFH), while NOAA Fisheries is responsible for approving and implementing those plans, regulations, or Essential Fish Habitat (EFH) designations.
+This is not the case for highly migratory species (HMS), which are managed through NOAA Fisheries Atlantic Highly Migratory Species Management Division within the Office of Sustainable Fisheries.
+This division develops the fisheries management plans (FMPs) and designates EFH for HMS within the FMPs and regulations.
+NOAA Fisheries and the U.S.
+Fish and Wildlife Service (FWS) are the lead federal agencies for implementation of The Endangered Species Act (ESA), which provides a framework to conserve and protect endangered and threatened species and their habitats.
+Marine species that predominately occur in nearshore or estuarine waters are typically managed by the individual states, while the ASMFC oversees the management of fish species for which there is an interstate management plan.
+All federal and state agencies responsible for fishery management work in coordination with, and collect input from, other federal partners, state partners, tribal governments, academia, industry, and non-governmental organizations.
+
+The Bureau of Ocean Energy Management (BOEM) is responsible for managing the development of energy on the outer continental shelf.
+BOEM produces Environmental Impact Statements (EISs) or Environmental Assessments (EAs) under the National Environmental Policy Act (NEPA) for each offshore wind project.
+These documents are intended to thoroughly assess the potential impacts on protected fish, both from the individual project, and cumulatively (to include potential impacts from offshore wind development and all other potentially impactful activities).
+BOEM is also required to complete an EFH Consultation under the Magnuson-Stevens Fishery Conservation and Management Act (MSA) for all activities that may affect areas of designated habitat where federally managed fish spawn, breed, feed, or grow to maturity.
+
+Fish distribution in a marine environment is influenced by a variety of factors and is known to vary seasonally and over time.
+Spatiotemporal distributions and migration corridors do not just vary by species, but also by contingent/population within a given species.
+Water temperature, salinity, dissolved oxygen levels, food availability, habitat structure/substrate type, and harvest all play major roles in where species are found.
+As a whole, fish are sensitive to changes in the environment and thus are subject to the impacts of shifting ocean conditions.
+Climate change, among other anthropogenic stressors, has altered the distribution of many fish species, and is projected to continue to affect fish distribution [@hare2016; @noaafisheries2022b].
+NOAA Fisheries conducted a climate vulnerability assessment on 82 fish and invertebrate species in the U.S.
+Northeast, and determined that of the fish studied, diadromous species exhibit the highest level of vulnerability to climate change induced environmental changes [@hare2016].
+Atlantic sturgeon, shortnose sturgeon, and Atlantic salmon are all diadromous protected fish species located in the RWSC study area. 
+Anthropogenic activity such as commercial and recreational fishing, coastal development, pollution, and climate change each contribute to habitat alterations, and thus changing fish distributions.
+Offshore wind development will spark additional changes to many aspects of the ecosystem, and is likely to hasten certain biological changes including fish distributions. 
+ 
+
+For the purposes of this document, protected fish will include all species that are listed as Endangered, Threatened, petitioned, candidate, or proposed under the Endangered Species Act.
+Under the ESA, some species are broken up into Distinct Population Segments (DPS), which are defined as a vertebrate population or group of populations that is discrete from other populations of the species and significant in relation to the entire species.
+According to the ESA, it is prohibited to take each of these species, and all Federal departments and agencies must seek to protect and conserve listed species and their habitats [@lawsp].
+Fish species listed under ESA are already in a vulnerable state, so are at an even greater risk with respect to anthropogenic impacts and changes to the environment.
+Therefore, these protected fish species may also be more susceptible to effects from offshore wind development.
+The subcommittee notes that while this plan focuses on protected fish species, there is also concern about the impacts of offshore wind development on other, non-ESA Listed fish species that overlap with offshore wind development in the western Atlantic.
+
+### Focal species and notable recent trends
+
+Table 1 lists the protected fish species in the RWSC Study area which are considered in this appendix.
+
+*Table 1. Protected Fish species in the RWSC study area. This table includes Endangered Species Act (ESA) status including Distinct Population Segment (DPS), if applicable.*
+
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| **Species**                                           | **ESA Status and DPS**                                                                                                        | **NOAA Fisheries Region**              |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Atlantic Salmon (*Salmo salar*)                       | Endangered (Gulf of Maine DPS)                                                                                                | New England/Mid-Atlantic               |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Atlantic Sturgeon (*Acipenser oxyrinchus*)            | Endangered (New York Bight DPS, Chesapeake Bay DPS, Carolina DPS, South Atlantic DPS) ESA Threatened (Gulf of Maine DPS)      | New England/Mid-Atlantic, Southeast    |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Shortnose Sturgeon (*Acipenser brevirostrum*)         | Endangered                                                                                                                    | New England/Mid-Atlantic, Southeast    |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Giant Manta Ray (*Mobula birostris*)                  | Threatened                                                                                                                    | New England/Mid-Atlantic, Southeast    |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Oceanic Whitetip Shark (*Carcharhinus longimanus*)    | Threatened                                                                                                                    | New England/Mid-Atlantic, Southeast    |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Nassau Grouper (*Epinephelus striatus*)               | Threatened                                                                                                                    | Southeast                              |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Scalloped Hammerhead Shark (*Sphyrna lewini*)         | Threatened (Central & Southwest Atlantic DPS)                                                                                 | Southeast                              |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Smalltooth Sawfish (*Pristis pectinata*)              | Endangered                                                                                                                    | Southeast                              |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+| Whitespotted Eagle Ray *(Aetobatus narinar*)          | 90 Day Petitioned (04/06/23)                                                                                                  | Mid Atlantic, Southeast                |
++-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+
+*Source: [NOAA Fisheries Species Directory](https://www.fisheries.noaa.gov/species-directory/threatened-endangered?oq=&field_species_categories_vocab=1000000031&field_species_details_status=All&field_region_vocab=All&items_per_page=25).*
+
+In considering species for inclusion in this chapter, the Subcommittee explored other protected fish listings and other organizations involved in offshore wind and fisheries research where our efforts might overlap.
+The Responsible Offshore Science Alliance (ROSA) is an organization analogous to RWSC that advances research and monitoring on the potential effects of offshore wind on fisheries in the RWSC study area.
+While both RWSC and ROSA are engaging in regional coordination and advancement of research and monitoring related to interactions between offshore wind and ecosystems, ROSA’s focus is fisheries (commercial and recreational) and RWSC’s focus is wildlife.
+Each organization exists because issues related to the intersection of offshore wind and fisheries often differ from those of wildlife and endangered species.
+The scope of the RWSC Science Plan does not include fisheries or commercially managed fish species.
+For research needs and considerations on those topics, visit [ROSA](https://www.rosascience.org/).
+To ensure close coordination on issues in the RWSC Science Plan that might relate with ROSA’s work and avoid duplication of efforts, the RWSC Protected Fish Species Subcommittee includes members from ROSA leadership.
+The RWSC and ROSA have, and will continue to, work closely together to support research and monitoring of fish and offshore wind.
+
+In addition to the federally administered ESA, each state/district compiles a species of concern list.
+Species of concern for each state may also be listed federally under the ESA.
+The following table includes state or district websites that feature marine fish species of concern.
+The Subcommittee wanted to note these species in the Appendix, though they are not included in the scope of the chapter and will not be fully assessed.
+
+*Table 2. State/District websites that feature their respective species of concern.*
+
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **State/District** | **Website Featuring Species of Concern**                                                                                                                                                                                                                                          |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Maine              | [*https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;*](https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;)                                                          |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| New Hampshire      | [*https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf*](https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf)*;*                                                                   |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Massachusetts      | [*https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish*](https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish)*;*                                                                         |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rhode Island       | [*https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf*](https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf)*;*                                                                                   |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Connecticut        | [*https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish*](https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish)*;*                               |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| New York           | [*https://www.dec.ny.gov/animals/7494.html*](https://www.dec.ny.gov/animals/7494.html)*;*                                                                                                                                                                                         |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| New Jersey         | [*https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf*](https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf)*; <https://dnrec.delaware.gov/fish-wildlife/conservation/endangered-species/>;*                                                                |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Washington D.C.    | [*https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf*](https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf)*;* |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Maryland           | [*https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf*](https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf)*;*                                                                                                                                     |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Virginia           | [*https://bewildvirginia.org/species/fish.pdf;*](https://bewildvirginia.org/species/fish.pdf;)                                                                                                                                                                                    |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| North Carolina     | [*https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf*](https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf)*;*                                                                             |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| South Carolina     | [*https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf*](https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf)*;*                                                                                                                                               |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Georgia            | [*https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf*](https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf)*;*     |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Florida            | [*https://myfwc.com/wildlifehabitats/wildlife/plan/*](https://myfwc.com/wildlifehabitats/wildlife/plan/)*.*                                                                                                                                                                       |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Internationally, the IUCN Red List [@theiucn] is a resource that lists the global conservation status for all species, including fish.
+Each species is sorted into one of nine groups: Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild or Extinct.
+IUCN Red List species are not covered further in this chapter.
+
+The Subcommittee also discussed species that do not appear on any protected species list, but may be impacted by the development of offshore wind.
+One such group are HMS, including all tuna, swordfish, billfishes, and sharks.
+There are also prohibited fish in various fisheries, so while not explicitly protected, it can be illegal to target and harvest certain fish.
+A few additional species brought forth by the Subcommittee for their potential to be impacted by offshore wind are the Warsaw grouper (E*pinephelus nigritus*) and the speckled hind (E*pinephelus drummondhayi*), as well as all previously petitioned and listed species.
+Cusk (*Brosme brosme*) was very recently removed from the candidate listing, so was not listed under the ESA and does not appear in Table 1.
+However, this species may be impacted by offshore wind development, particularly in the Gulf of Maine, as its habitat is limited.
+These species were not included in the scope of this chapter as they are not currently listed under the ESA.
+
+The subcommittee notes that while this plan focuses on ESA Listed fish, concern remains regarding the impacts of offshore wind development on other fish species that overlap with ongoing and planned offshore wind development activities in the western Atlantic.
+This list of Protected Fish Species in the RWSC Study area will be updated periodically as more research is conducted and more information becomes available.
+
+#### Atlantic Sturgeon

@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -312,7 +331,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+  <h2 class="anchored">Note: The Science Plan is under construction 🏗</h2>
+  <ul>
+    <li><a href="https://rwsc.org/" class="nav-link active" data-scroll-target="https\://rwsc.org/">RWSC website 🌐</a></li>
+    <li><a href="https://rwsc.org/contact" class="nav-link" data-scroll-target="https\://rwsc.org/contact">Contact RWSC ✉️</a></li>
+    <li><a href="https://github.com/RWSCollab/science-plan/issues/new/choose" class="nav-link" data-scroll-target="https\://github.com/RWSCollab/science-plan/issues/new/choose">Share feedback about this website ✏️</a></li>
+  </ul>
+  <hr>
+    <h2 id="toc-title">On this page</h2>
+    <ul>
+    <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background"><span class="header-section-number">H.1</span> Background</a>
+    <ul class="collapse">
+    <li><a href="#focal-species-and-notable-recent-trends" id="toc-focal-species-and-notable-recent-trends" class="nav-link" data-scroll-target="#focal-species-and-notable-recent-trends"><span class="header-section-number">H.1.1</span> Focal species and notable recent trends</a></li>
+    </ul></li>
+    </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-pf.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -335,8 +369,167 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>This chapter leverages ongoing data collection and research initiatives related to offshore wind and protected fish species funded by a variety of partners (states, federal agencies, industry). For an always up-to-date list of active projects, visit the <a href="https://database.rwsc.org/">RWSC Offshore Wind &amp; Wildlife Research Database</a>. Given this ongoing work, as well as previous research on Protected Fish Species and their interactions with wind energy areas in Europe and the United States, the Protected Fish Species Subcommittee is making recommendations for additional research that is both aligned with existing efforts and fills important gaps.</p>
+<section id="background" class="level2" data-number="H.1">
+<h2 data-number="H.1" class="anchored" data-anchor-id="background"><span class="header-section-number">H.1</span> Background</h2>
+<p>Marine fish are very diverse. They occupy a wide variety of habitats; have different anatomical features and unique life histories. In the United States, marine fish are managed at both the federal and state levels, depending on where the species most commonly occurs. Regional fishery management councils and NOAA Fisheries federally manage species that predominantly occur in ocean waters beyond the state jurisdictional limit (three nautical miles). The four regional fishery management councils responsible for managing most federal fisheries in the U.S. waters of the Atlantic Ocean include the New England Fishery Management Council (NEFMC), the Mid-Atlantic Fishery Management Council (MAFMC), the South Atlantic Fishery Management Council (SAFMC), and the Caribbean Fishery Management Council (CFMC). These regional fishery management councils are responsible for developing federal fishery management plans, regulations, and designating Essential Fish Habitat (EFH), while NOAA Fisheries is responsible for approving and implementing those plans, regulations, or Essential Fish Habitat (EFH) designations. This is not the case for highly migratory species (HMS), which are managed through NOAA Fisheries Atlantic Highly Migratory Species Management Division within the Office of Sustainable Fisheries. This division develops the fisheries management plans (FMPs) and designates EFH for HMS within the FMPs and regulations. NOAA Fisheries and the U.S. Fish and Wildlife Service (FWS) are the lead federal agencies for implementation of The Endangered Species Act (ESA), which provides a framework to conserve and protect endangered and threatened species and their habitats. Marine species that predominately occur in nearshore or estuarine waters are typically managed by the individual states, while the ASMFC oversees the management of fish species for which there is an interstate management plan. All federal and state agencies responsible for fishery management work in coordination with, and collect input from, other federal partners, state partners, tribal governments, academia, industry, and non-governmental organizations.</p>
+<p>The Bureau of Ocean Energy Management (BOEM) is responsible for managing the development of energy on the outer continental shelf. BOEM produces Environmental Impact Statements (EISs) or Environmental Assessments (EAs) under the National Environmental Policy Act (NEPA) for each offshore wind project. These documents are intended to&nbsp;thoroughly assess the potential impacts on protected fish, both from the individual project, and cumulatively (to include potential impacts from offshore wind development and all other potentially impactful activities). BOEM is also required to complete an EFH Consultation under the Magnuson-Stevens Fishery Conservation and Management Act (MSA) for all activities that may affect areas of designated habitat where federally managed fish spawn, breed, feed, or grow to maturity.</p>
+<p>Fish distribution in a marine environment is influenced by a variety of factors and is known to vary seasonally and over time. Spatiotemporal distributions and migration corridors do not just vary by species, but also by contingent/population within a given species. Water temperature, salinity, dissolved oxygen levels, food availability, habitat structure/substrate type, and harvest all play major roles in where species are found. As a whole, fish are sensitive to changes in the environment and thus are subject to the impacts of shifting ocean conditions. Climate change, among other anthropogenic stressors, has altered the distribution of many fish species, and is projected to continue to affect fish distribution <span class="citation" data-cites="hare2016 noaafisheries2022b">(<a href="references.html#ref-hare2016" role="doc-biblioref">Hare et al., 2016</a>; <a href="references.html#ref-noaafisheries2022b" role="doc-biblioref">NOAA Fisheries and BOEM, 2022</a>)</span>. NOAA Fisheries conducted a climate vulnerability assessment on 82 fish and invertebrate species in the U.S. Northeast, and determined that of the fish studied, diadromous species exhibit the highest level of vulnerability to climate change induced environmental changes <span class="citation" data-cites="hare2016">(<a href="references.html#ref-hare2016" role="doc-biblioref">Hare et al., 2016</a>)</span>. Atlantic sturgeon, shortnose sturgeon, and Atlantic salmon are all diadromous protected fish species located in the RWSC study area.&nbsp; Anthropogenic activity such as commercial and recreational fishing, coastal development, pollution, and climate change each contribute to habitat alterations, and thus changing fish distributions. Offshore wind development will spark additional changes to many aspects of the ecosystem, and is likely to hasten certain biological changes including fish distributions.&nbsp; &nbsp;</p>
+<p>For the purposes of this document, protected fish will include all species that are listed as Endangered, Threatened, petitioned, candidate, or proposed under the Endangered Species Act. Under the ESA, some species are broken up into Distinct Population Segments (DPS), which are defined as a vertebrate population or group of populations that is discrete from other populations of the species and significant in relation to the entire species. According to the ESA, it is prohibited to take each of these species, and all Federal departments and agencies must seek to protect and conserve listed species and their habitats <span class="citation" data-cites="lawsp">(<a href="references.html#ref-lawsp" role="doc-biblioref"><span>“Laws &amp; policies,”</span> n.d.</a>)</span>. Fish species listed under ESA are already in a vulnerable state, so are at an even greater risk with respect to anthropogenic impacts and changes to the environment. Therefore, these protected fish species may also be more susceptible to effects from offshore wind development. The subcommittee notes that while this plan focuses on protected fish species, there is also concern about the impacts of offshore wind development on other, non-ESA Listed fish species that overlap with offshore wind development in the western Atlantic.</p>
+<section id="focal-species-and-notable-recent-trends" class="level3" data-number="H.1.1">
+<h3 data-number="H.1.1" class="anchored" data-anchor-id="focal-species-and-notable-recent-trends"><span class="header-section-number">H.1.1</span> Focal species and notable recent trends</h3>
+<p>Table 1 lists the protected fish species in the RWSC Study area which are considered in this appendix.</p>
+<p><em>Table 1. Protected Fish species in the RWSC study area. This table includes Endangered Species Act (ESA) status including Distinct Population Segment (DPS), if applicable.</em></p>
+<table class="table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 56%">
+<col style="width: 18%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Species</strong></td>
+<td><strong>ESA Status and DPS</strong></td>
+<td><strong>NOAA Fisheries Region</strong></td>
+</tr>
+<tr class="even">
+<td>Atlantic Salmon (<em>Salmo salar</em>)</td>
+<td>Endangered (Gulf of Maine DPS)</td>
+<td>New England/Mid-Atlantic</td>
+</tr>
+<tr class="odd">
+<td>Atlantic Sturgeon (<em>Acipenser oxyrinchus</em>)</td>
+<td>Endangered (New York Bight DPS, Chesapeake Bay DPS, Carolina DPS, South Atlantic DPS) ESA Threatened (Gulf of Maine DPS)</td>
+<td>New England/Mid-Atlantic, Southeast</td>
+</tr>
+<tr class="even">
+<td>Shortnose Sturgeon (<em>Acipenser brevirostrum</em>)</td>
+<td>Endangered</td>
+<td>New England/Mid-Atlantic, Southeast</td>
+</tr>
+<tr class="odd">
+<td>Giant Manta Ray (<em>Mobula birostris</em>)</td>
+<td>Threatened</td>
+<td>New England/Mid-Atlantic, Southeast</td>
+</tr>
+<tr class="even">
+<td>Oceanic Whitetip Shark (<em>Carcharhinus longimanus</em>)</td>
+<td>Threatened</td>
+<td>New England/Mid-Atlantic, Southeast</td>
+</tr>
+<tr class="odd">
+<td>Nassau Grouper (<em>Epinephelus striatus</em>)</td>
+<td>Threatened</td>
+<td>Southeast</td>
+</tr>
+<tr class="even">
+<td>Scalloped Hammerhead Shark (<em>Sphyrna lewini</em>)</td>
+<td>Threatened (Central &amp; Southwest Atlantic DPS)</td>
+<td>Southeast</td>
+</tr>
+<tr class="odd">
+<td>Smalltooth Sawfish (<em>Pristis pectinata</em>)</td>
+<td>Endangered</td>
+<td>Southeast</td>
+</tr>
+<tr class="even">
+<td>Whitespotted Eagle Ray <em>(Aetobatus narinar</em>)</td>
+<td>90 Day Petitioned (04/06/23)</td>
+<td>Mid Atlantic, Southeast</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: <a href="https://www.fisheries.noaa.gov/species-directory/threatened-endangered?oq=&amp;field_species_categories_vocab=1000000031&amp;field_species_details_status=All&amp;field_region_vocab=All&amp;items_per_page=25">NOAA Fisheries Species Directory</a>.</em></p>
+<p>In considering species for inclusion in this chapter, the Subcommittee explored other protected fish listings and other organizations involved in offshore wind and fisheries research where our efforts might overlap. The Responsible Offshore Science Alliance (ROSA) is an organization analogous to RWSC that advances research and monitoring on the potential effects of offshore wind on fisheries in the RWSC study area. While both RWSC and ROSA are engaging in regional coordination and advancement of research and monitoring related to interactions between offshore wind and ecosystems, ROSA’s focus is fisheries (commercial and recreational) and RWSC’s focus is wildlife. Each organization exists because issues related to the intersection of offshore wind and fisheries often differ from those of wildlife and endangered species. The scope of the RWSC Science Plan does not include fisheries or commercially managed fish species. For research needs and considerations on those topics, visit <a href="https://www.rosascience.org/">ROSA</a>. To ensure close coordination on issues in the RWSC Science Plan that might relate with ROSA’s work and avoid duplication of efforts, the RWSC Protected Fish Species Subcommittee includes members from ROSA leadership. The RWSC and ROSA have, and will continue to, work closely together to support research and monitoring of fish and offshore wind.</p>
+<p>In addition to the federally administered ESA, each state/district compiles a species of concern list. Species of concern for each state may also be listed federally under the ESA. The following table includes state or district websites that feature marine fish species of concern. The Subcommittee wanted to note these species in the Appendix, though they are not included in the scope of the chapter and will not be fully assessed.</p>
+<p><em>Table 2. State/District websites that feature their respective species of concern.</em></p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><strong>State/District</strong></td>
+<td><strong>Website Featuring Species of Concern</strong></td>
+</tr>
+<tr class="even">
+<td>Maine</td>
+<td><a href="https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;"><em>https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;</em></a></td>
+</tr>
+<tr class="odd">
+<td>New Hampshire</td>
+<td><a href="https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf"><em>https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="even">
+<td>Massachusetts</td>
+<td><a href="https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish"><em>https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish</em></a><em>;</em></td>
+</tr>
+<tr class="odd">
+<td>Rhode Island</td>
+<td><a href="https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf"><em>https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="even">
+<td>Connecticut</td>
+<td><a href="https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish"><em>https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened–Special-Concern-Fish</em></a><em>;</em></td>
+</tr>
+<tr class="odd">
+<td>New York</td>
+<td><a href="https://www.dec.ny.gov/animals/7494.html"><em>https://www.dec.ny.gov/animals/7494.html</em></a><em>;</em></td>
+</tr>
+<tr class="even">
+<td>New Jersey</td>
+<td><a href="https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf"><em>https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf</em></a><em>; <a href="https://dnrec.delaware.gov/fish-wildlife/conservation/endangered-species/" class="uri">https://dnrec.delaware.gov/fish-wildlife/conservation/endangered-species/</a>;</em></td>
+</tr>
+<tr class="odd">
+<td>Washington D.C.</td>
+<td><a href="https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf"><em>https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="even">
+<td>Maryland</td>
+<td><a href="https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf"><em>https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="odd">
+<td>Virginia</td>
+<td><a href="https://bewildvirginia.org/species/fish.pdf;"><em>https://bewildvirginia.org/species/fish.pdf;</em></a></td>
+</tr>
+<tr class="even">
+<td>North Carolina</td>
+<td><a href="https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf"><em>https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="odd">
+<td>South Carolina</td>
+<td><a href="https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf"><em>https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="even">
+<td>Georgia</td>
+<td><a href="https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf"><em>https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf</em></a><em>;</em></td>
+</tr>
+<tr class="odd">
+<td>Florida</td>
+<td><a href="https://myfwc.com/wildlifehabitats/wildlife/plan/"><em>https://myfwc.com/wildlifehabitats/wildlife/plan/</em></a><em>.</em></td>
+</tr>
+</tbody>
+</table>
+<p>Internationally, the IUCN Red List <span class="citation" data-cites="theiucn">(<a href="references.html#ref-theiucn" role="doc-biblioref"><span>“The IUCN red list of threatened species,”</span> n.d.</a>)</span> is a resource that lists the global conservation status for all species, including fish. Each species is sorted into one of nine groups: Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild or Extinct. IUCN Red List species are not covered further in this chapter.</p>
+<p>The Subcommittee also discussed species that do not appear on any protected species list, but may be impacted by the development of offshore wind. One such group are HMS, including all tuna, swordfish, billfishes, and sharks. There are also prohibited fish in various fisheries, so while not explicitly protected, it can be illegal to target and harvest certain fish. A few additional species brought forth by the Subcommittee for their potential to be impacted by offshore wind are the Warsaw grouper (E<em>pinephelus nigritus</em>) and the speckled hind (E<em>pinephelus drummondhayi</em>), as well as all previously petitioned and listed species. Cusk (<em>Brosme brosme</em>) was very recently removed from the candidate listing, so was not listed under the ESA and does not appear in Table 1. However, this species may be impacted by offshore wind development, particularly in the Gulf of Maine, as its habitat is limited. These species were not included in the scope of this chapter as they are not currently listed under the ESA.</p>
+<p>The subcommittee notes that while this plan focuses on ESA Listed fish, concern remains regarding the impacts of offshore wind development on other fish species that overlap with ongoing and planned offshore wind development activities in the western Atlantic. This list of Protected Fish Species in the RWSC Study area will be updated periodically as more research is conducted and more information becomes available.</p>
+<section id="atlantic-sturgeon" class="level4" data-number="H.1.1.1">
+<h4 data-number="H.1.1.1" class="anchored" data-anchor-id="atlantic-sturgeon"><span class="header-section-number">H.1.1.1</span> Atlantic Sturgeon</h4>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-hare2016" class="csl-entry" role="listitem">
+Hare, J., Wendy &amp; Nelson, Mark &amp; Stachura, Megan &amp; Teeters, Eric &amp; Griffis, Roger &amp; Alexander, Michael &amp; Scott, James &amp; Alade, Larry &amp; Bell, Richard &amp; Chute, al., et, Morrison, W., Nelson, M., Stachura, M., Teeters, 2016. A vulnerability assessment of fish and invertebrates to climate change on the northeast US continental shelf 11. <a href="https://doi.org/10.1371/journal.pone.0146756">https://doi.org/10.1371/journal.pone.0146756</a>
+</div>
+<div id="ref-lawsp" class="csl-entry" role="listitem">
+<a href="https://www.fisheries.noaa.gov/topic/laws-policies/endangered-species-act">Laws &amp; policies: Endangered species act</a>, n.d.
+</div>
+<div id="ref-noaafisheries2022b" class="csl-entry" role="listitem">
+NOAA Fisheries, BOEM, 2022. <a href="https://www.regulations.gov/document/BOEM-2022-0066-0003">Draft north atlantic right whale and offshore wind strategy</a>.
+</div>
+<div id="ref-theiucn" class="csl-entry" role="listitem">
+<a href="https://www.iucnredlist.org/">The IUCN red list of threatened species</a>, n.d.
+</div>
+</div>
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -604,7 +797,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-pf.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/RWSCollab/science-plan/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    </div>
     <div class="nav-footer-right"><img src="RWSC_Logo.png" width="125"></div>
   </div>
 </footer>
