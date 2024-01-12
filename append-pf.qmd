@@ -217,3 +217,127 @@ Atlantic salmon critical habitat has been defined in rivers all along the coast 
 Atlantic salmon will likely overlap with all stages of offshore wind development in the Gulf of Maine, so are subject to all potential effects with respect to offshore wind discussed in section 1.2.
 
 #### Shortnose Sturgeon
+
+Shortnose sturgeon are born in freshwater, move between fresh and salt water to feed and migrate, and return to freshwater for breeding [@sssrt2010].
+They spend a majority of their time in estuarine environments and move farther inland to spawn.
+While it was originally thought that shortnose sturgeon spent little time in the ocean [@kynardb.1997], movement between river systems was documented in the Gulf of Maine [@altenritter2018].
+The possibility of a similar long range movement was suggested after a shortnose sturgeon from the Chesapeake Bay-Delaware DPS was captured in the James River [@balazik2017].
+
+The shortnose sturgeon is distributed all along the U.S.
+Atlantic Coast, and extends up into Canada.
+It is listed as endangered throughout its range under the ESA.
+They were subject to high levels of fishing historically, and though they are no longer targeted, bycatch is still a concern.
+Other anthropogenic activity involving their freshwater habitat such as power plant operation, pollution, and dams also remain as threats [@sssrt2010].
+Critical Habitat has not been designated for shortnose sturgeon because their listing under the ESA pre-dates the amendment that requires critical habitat to be designated for newly listed species.
+So, it is currently not a requirement for NOAA Fisheries to designate their critical habitat.
+
+Due to their proximity to shore, overlap with nearshore portions of export cable corridors, landfall sites, and port activities are of particular concern, though they are subject to all potential effects with respect to offshore wind discussed in section 1.2.
+
+#### Giant Manta Ray
+
+The giant manta ray is a cartilaginous fish, and it is the largest ray in the world.
+Not much is known about its current population size.
+Internationally, manta rays are captured for their gill rakers [@noaafisheries2017].
+In the U.S., mantas are subject to bycatch in recreational fisheries and can become entangled on mooring wires and drown.
+Vessel strikes also remain a major issue as mantas spend much of their time at the surface.
+According to unpublished data from the Marine Megafauna Foundation (MMF), 8% of the south Florida juvenile population have been hit by a boat.
+This is likely an underestimate, as only individuals that survived can be documented.
+McGregor et al., [@mcgregor2019]found that vessel strike injuries heal quickly in the reef manta ray, which illustrates the likelihood for under detection of vessel collisions in the giant manta ray.
+Mantas are also attracted to light sources, which can thus attract them to vessels and increase the possibility of collision.
+
+Critical habitat has not been identified for the giant manta ray, as NOAA Fisheries has determined that no region within the United States fits the description and so it is not prudent to determine critical habitat at this time [@noaafisheries2019].
+However, manta rays are widely distributed along the East Coast of the United States [@farmern.a.2022], and potential nursery habitat [@patej.h.2020] and reproductive/foraging areas have been identified off Florida’s east coast (MMF, unpublished data).
+In the Gulf of Mexico, manta rays are known to be associated with offshore oil and gas platforms in some areas [@childsjeffreynathaniel2001], so similar associations with OSW structures could be expected.
+The reason behind the association is unknown, and ultimately could be coincidental.
+Working theories are that mantas are attracted to the lights of the oil rigs, or to their prey that concentrate around the lights and the mantas are following their prey.
+They could also just be curious about the various activities occurring near the rigs such as diving.
+Due to the similarities between oil and gas rigs and structures associated with offshore wind, it is possible that there may be a similar pattern of association.
+
+Researchers are hoping to learn more about the current population and their distribution in the U.S.
+Atlantic.
+Due to their overlap with offshore wind activity, giant manta rays are subject to all potential effects with respect to offshore wind discussed in section 1.2.
+Impacts of most concern for giant manta rays are vessel strike, noise, EMFs, water quality, changes in marine habitat, offshore lighting, and entanglement from gear utilization or anything that snags on the structures or wires in the water column.
+In addition, manta rays are planktivorous, so the upwelling and concentration of prey due to changes in hydrography could act as an additional attractant.
+
+#### Oceanic Whitetip Shark
+
+The oceanic whitetip shark is a pelagic highly migratory species globally distributed in tropical and subtropical waters.
+Little is known about the current population size, especially in the U.S.
+Atlantic.
+Historically, the species was widespread and abundant, but experienced a large population decline.
+However, a recent analysis of observer data in the U.S.
+Northwest Atlantic Pelagic Longline Fishery from 1992-2018 showed that the population may have stabilized following the decline, with additional evidence showing potential increases after 2010 [@noaafisheries2020].
+They typically occur from the surface to 152m in depth [@bonfilramón2009], leaving them susceptible to commercial bycatch in multiple types of fishing gear, which remains a primary threat today [@young2020].
+Utilization in the international shark fin trade has created additional pressures for the species.
+
+Critical habitat has not been identified for the oceanic whitetip shark as NOAA Fisheries has determined that no region within the United States fits the description, and so it is not prudent to determine critical habitat at this time [@noaafisheries2020].
+However, Howey-Jordan et al., [@howey-jordan2013] found that while oceanic whitetip sharks are typically found in waters further offshore, they do migrate to and from shallower reefs and exhibit site fidelity.
+McCandless et al., [@mccandless2023]reviewed and synthesized the potential effects of offshore wind development on HMS.
+ According to the report, the oceanic whitetip shark may be subject to all potential effects discussed in section 1.2., but of particular concern is exposure to EMF, exposure to sound pressure and particle motion, and potential hydrodynamic alterations due to presence of structures.
+Entanglement, both primary and secondary, will remain a threat to this species.
+On the other hand, turbines will likely create a fish aggregating device affecting aggregating their prey species.
+Oil rigs and other vertical structures like wrecks and artificial reefs have been shown to attract HMS.
+If beneficial enough, and some wind energy areas are planned to be quite large, this attraction could alter migration routes or migration timing for the oceanic whitetip shark which could have cascading effects.
+
+#### Scalloped Hammerhead Shark
+
+The scalloped hammerhead is a highly migratory species found in coastal warm temperate and tropical waters.
+The Northwest Atlantic and Gulf of Mexico DPS, whose distribution encompasses the majority of the RWSC study area, is not listed under the ESA.
+The Eastern Atlantic DPS and the Central and Southwest Atlantic DPS, which are both listed as Threatened, may overlap with U.S.
+Atlantic offshore wind activities, though interactions will be limited to Southern Florida and any vessel transits from Europe and the Gulf of Mexico.
+Research and genetic evidence also suggest that males are highly dispersive, and may be crossing oceans during migration [@daly-engel2012].
+This research indicates that there may be a need to reevaluate the current management strategy for this species [@daly-engel2012].
+Given the current uncertainties, as well as a changing environment, the scalloped hammerhead shark will be further discussed in this chapter.
+Any research conducted on the scalloped hammerhead can also be used as a test case for other shark species that overlap with offshore wind development in the region.
+Results and conclusions drawn will likely be representative of expected impacts and associated effects to other shark species. 
+
+Today, its main threats are interactions with commercial and recreational fisheries (as bycatch, and also as a target in the shark fin trade), habitat degradation, and vessel mortality.
+Individuals have also been found to accumulate pollutants [@millermargareth.2014].
+Critical habitat has not been identified for the scalloped hammerhead shark.
+NOAA Fisheries has determined that no region within the United States fits the description of critical habitat [@noaafisheries2015].
+As noted above, McCandless et al., [@mccandless2023] explored existing scientific literature on the potential effects of offshore wind development on HMS.
+Given their findings, the scalloped hammerhead shark may be subject to all potential effects discussed in section 1.2., but exposure to EMF, exposure to sound pressure and particle motion, and potential hydrodynamic alterations due to the presence of structures are of greatest concern.
+Primary and secondary entanglement will remain threats to this species during activities related to offshore wind development.
+However, the scalloped hammerhead shark will likely benefit from the presence of structures, as other vertical structures such as oil rigs, wrecks and artificial reefs have been shown to attract HMS.
+It is anticipated that turbines will similarly create a fish aggregating device effect, aggregating prey species.
+If the large wind energy areas prove significantly beneficial, this could alter the scalloped hammerhead migration routes and/or timing which could have cascading effects.
+
+#### Nassau Grouper
+
+The Nassau grouper is a reef fish generally found close to shore as larvae, but move into deeper reef areas as they grow.
+Historical information on its population is limited as fishing records for grouper were not separated by species, though they were known to be very common [@noaafisheries2013].
+This species produces sound that is thought to be associated with distress, and this call can be detected on many acoustic monitors.
+
+Critical habitat has been proposed off the coasts of southeastern Florida, Puerto Rico, Navassa, and the U.S.
+Virgin Islands.
+In the RWSC study area, the Nassau grouper is only found in Florida.
+
+Based on available information and the current BOEM Offshore wind lease planning areas, it is not expected that the Nassau grouper will be greatly impacted by offshore wind development on the U.S.
+Atlantic coast due to its limited distribution in the range of currently proposed development.
+However, if development expands, the Nassau grouper would be subject to all effects with respect to offshore wind discussed in section 1.2.
+Also, as a reef fish that has been documented to utilize natural and artificial reefs, the Nassau grouper may benefit from the alteration of soft bottom habitat associated with offshore wind.
+
+#### Smalltooth Sawfish
+
+The smalltooth sawfish is a cartilaginous fish that lives in subtropical to tropical climates.
+They suffered a decline due to fisheries bycatch and habitat loss, and there is not currently a population estimate for the species [@wiley2018].
+
+The U.S. population of the smalltooth sawfish is listed as endangered under the ESA.
+Critical habitat for the smalltooth sawfish is currently proposed and shown below in *Figure 3.* There is a small section overlapping the RWSC study area in southeast Florida.
+New research, however, suggests that the smalltooth sawfish may be expanding farther north along the U.S.
+Atlantic into formerly occupied habitats [@lehman2022].
+Lehman et al., (2022) used eDNA to verify anecdotal reports of occupancy in the Indian River Lagoon, Florida and near Deer Island in the Mississippi Sound.
+The smalltooth sawfish is subject to all to all potential effects with respect to offshore wind discussed in section 1.2.
+
+![Smalltooth Sawfish Critical Habitat. Source: NOAA Fisheries](figures/pf/smalltoothsawfish.png){#fig-3}
+
+#### Whitespotted Eagle Ray
+
+The whitespotted eagle ray is found in tropical to warm temperate waters and is mostly found close to shore.
+It was recently petitioned to be listed as threatened or endangered under the ESA, with fishing pressure as a major concern and added threats from habitat loss and climate change [@defendthemallfoundation2023].
+It is currently in the 90-day evaluation process.
+
+An assessment to determine critical habitat has not yet been completed.
+The whitespotted eagle ray is subject to all to all potential effects with respect to offshore wind discussed in section 1.2.
+
+## Potential Effects with Respect to Offshore Wind
