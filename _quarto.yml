@@ -35,7 +35,7 @@ book:
   repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
-  #google-analytics:
+  google-analytics: G-XS4FSZ7PSE
   chapters:
     - index.qmd
     - executive-summary.qmd
