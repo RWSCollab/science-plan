@@ -137,3 +137,54 @@ The subcommittee notes that while this plan focuses on ESA Listed fish, concern 
 This list of Protected Fish Species in the RWSC Study area will be updated periodically as more research is conducted and more information becomes available.
 
 #### Atlantic Sturgeon
+
+Atlantic sturgeon are anadromous, meaning they hatch in freshwater, migrate to salt water as sub adults, and return to freshwater as adults to spawn.
+sturgeon distribution and abundance varies by season [@dunton], and they are bottom feeders, mainly consuming benthic invertebrates and fish close to the seabed.
+Earlier reported observer catch data showed that Atlantic sturgeon bycatch mostly occurred closest to the coasts, particularly bay mouths and inlets, so likely preferred shallower water with sandy bottom [@steinandrew2004].
+Studies conducted in more recent years suggest that their habitat and distribution is likely more expansive, and that additional targeted research is needed to fully and accurately assess Atlantic sturgeon habitat [@ingram2019].
+Atlantic sturgeon in the New York Wind Energy Area were regularly detected, with peaks from November through January and nearly absent July through September [@ingram2019].
+In addition, detections of unique fish decreased with an increasing distance from shore, though they did spread throughout the entire study array.
+Environmental factors were also explored, and photoperiod was determined to be a consistent trigger for migration while river temperature and discharge were two additional local factors [@ingram2019].
+The near-shelf region of Maryland was found to be mainly a transit route for Atlantic sturgeon [@rothermel2020; @secor2020].
+They primarily occupied warmer bottom temperatures, and had the lowest detection rates in the late spring through early fall.
+Atlantic sturgeon were found to occur year round in the Delaware wind energy area, though abundance peaked in November and December [@haulsee2020].
+Distribution shifted seasonally within the WEA from shallower areas in the spring and summer to deeper waters in the fall and winter.
+Receivers were also deployed in the York River watershed, the Lower James River, the Elizabeth River, the mouth of the Chesapeake Bay, and along the Atlantic coast [@hagerc.2019].
+These receivers detected sturgeon that were tagged from Maine to Georgia, illustrating that this species is highly migratory and occurs region wide.
+The Atlantic sturgeon’s distribution throughout the region and frequent detections within WEAs illustrates the need for further research and continued monitoring.
+
+It was previously accepted that Atlantic sturgeon spawn only in the spring, though evidence of fall spawning was documented in the more southern river systems, specifically the Combahee and Edisto rivers, SC [@collins2000; @farrae2017], Roanoke River, NC [@smith2015], James River, VA [@balazikmatthew2012; @balazikmt2015], and Marshy Hope Creek, MD [@secor2022].
+A dual spawning strategy was also described from research suggesting the spawning of two groups at two different times and locations in the James River, adding to the known species level variation [@balazikmt2015].
+A study conducted to inform spatial distribution models of sturgeon concluded that depth, day-of-year, sea surface temperature, and light absorption by seawater were the primary predictors of occurrence in the mid-Atlantic Bight [@breecem.w.2018].
+This model can be implemented to reduce harmful interactions with sturgeon.
+Even with the increased number of research projects in recent years, the Atlantic sturgeon is still considered a data poor species [@asmfc2017].
+As such, Hager [@hagerc.2019] indicated the need to expand the understanding of environmental variables that impact sturgeon distribution in order to effectively manage the species.
+
+There are five DPSs of Atlantic sturgeon listed under the ESA.
+The Gulf of Maine DPS was listed as threatened in 2012, and the other four DPSs (Carolina, Chesapeake Bay, New York Bight, and South Atlantic) were all listed as Endangered.
+Hare, Jon & Morrison et al., [@hare2016] conducted a climate change vulnerability assessment for species on the Northeast U.S. Continental Shelf, and the Atlantic sturgeon received an Overall Vulnerability Rank of Very High with 99% certainty.
+This study focused on fish from the three DPSs in the northeast, and while not studied, sturgeon researchers in the southeast believe that the impacts identified will likely affect the southern DPSs as well (A. Herndon, personal communication).
+It is also possible that fish in the Carolina and South Atlantic DPSs have adaptations that make them less vulnerable to increasing temperatures because they already live in warmer climates, but this is uncertain (A. Herndon, personal communication).
+
+The Atlantic States Marine Fisheries Commission conducts stock assessments on Atlantic sturgeon, the last of which was completed in 2017 [@asmfc2017].
+Population numbers declined greatly from high historical levels in part due to overfishing, of which the population has not yet recovered from [@hilton2016].
+The 2017 benchmark assessment concluded that the resource of Atlantic Sturgeon is depleted due to multiple contributing factors including incidental capture in fisheries, habitat loss, and ship strike.
+That being said, the assessment indicates a positive trend, or a slowly increasing population since 1998 [@asmfc2017].
+Entanglement in fishing gear continues to be a problem, even though Atlantic sturgeon are no longer legal to target.
+Dunton et al. [@dunton2015] conducted a study on Atlantic sturgeon bycatch in the New York waters, and using regional observer data found that the majority of bycatch occurred in aggregation areas in bottom trawls and sink gillnets.
+The large mesh sink gillnet fishery is a major source of bycatch, and as a result of findings and requirements put forth in a Biological Opinion, the Atlantic Sturgeon Bycatch Working Group developed an Action Plan to reduce sturgeon entanglement in the federal fishery by 2024 [@noaafisheries2022a].
+Some area closures in existence for other species also benefit Atlantic sturgeon in areas of overlap.
+The Gulf of Maine Cod Protection Closures and the Large-Mesh Gillnet Mid Atlantic Seasonal closures are two examples, both of which likely provide protection for sturgeon moving to and from their marine habitat into freshwater.
+
+Vessel strikes, EMFs, degraded water quality, noise, and changes in marine habitat may also negatively affect Atlantic sturgeon.
+There is growing concern about sturgeon vessel strikes especially within the Chesapeake and New York Bight DPSs.
+A study conducted by Fox et al., [@fox2020] found that the overall reporting rate of Atlantic sturgeon carcasses was 4.76%.
+This suggests that vessel strike rates are likely higher than previously thought, as most incidents of vessel strikes are not seen or reported.
+These impacts tend to be more severe in estuarine and freshwater habitats.
+Rivers all along the East Coast have been defined as critical habitat for Atlantic sturgeon and are shown below in @fig-1.
+
+![Map of Atlantic Sturgeon Critical Habitat. Source: NOAA Fisheries: https://www.fisheries.noaa.gov/resource/map/atlantic-sturgeon-critical-habitat-map-and-gis-data](figures/pf/atlanticsurgeon.jpg){#fig-1}
+
+Atlantic sturgeon habitat use overlaps with many wind farm lease, planning, and cable areas [@frisk2019; @haulsee2020; @ingram2019; @rothermel2020] and so they are subject to all potential effects with respect to offshore wind discussed in section 1.2.
+
+#### Atlantic Salmon
