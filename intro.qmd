@@ -46,14 +46,6 @@ The RWSC study area is divided into smaller subregions to facilitate coordinatio
 The subregions are not necessarily ecologically or politically relevant and should not be used to bound or limit data collection and research activities.
 The subregions align and are named to correspond with the Bureau of Ocean Energy Management's (BOEM's) offshore wind planning areas:
 
-```{r echo=FALSE}
-
-library(leaflet)
-
-m <- leaflet() %>% setView(lng = -71, lat = 38, zoom = 4.5)
-m %>% addTiles()
-```
-
 ![Map of RWSC study area and subregions that align with federal offshore wind planning areas in U.S. Atlantic waters.](figures/subregions.png){fig-align="center"}
 
 **Gulf of Maine:** This subregion's boundaries follow the offshore EEZ from downeast Maine to a line extending southeast from Hyannis, MA. The subregion includes the Gulf of Maine and Great South Channel.
