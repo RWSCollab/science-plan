@@ -61,7 +61,7 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 Gulf of Maine
 
 |               |                |                    |                        |                       |           |                     |                       |
-|---------|---------|---------|---------|---------|---------|---------|---------|
+|---------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|
 |               |                | **Life stage(s)**  |                        |                       |           |                     |                       |
 | **Species**   | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** |
 | leatherback   | endangered     | NA                 | UN                     | ü                     | ü         | NA                  | common                |
@@ -436,9 +436,7 @@ Below are recommendations for regional field data collection and analysis for se
 
 #### Recommended meta-analysis and literature review
 
--   Synthesize current and historic sea turtle nesting data, by species for Atlantic coast nesting beaches for trends analyses, permit applications, and mitigation.
-    Make nesting data available to developers and researchers and store in a combined searchable format for future use.
-    Provide assistance to states, municipalities, and NGOs who collect these data with upload/conversion to collective database.
+-   Synthesize current and historic sea turtle nesting data, by species for Atlantic coast nesting beaches for trends analyses, permit applications, and mitigation. Make nesting data available to developers and researchers and store in a combined searchable format for future use. Provide assistance to states, municipalities, and NGOs who collect these data with upload/conversion to collective database.
 
 #### Recommended outreach and platforms to provide data products and results to stakeholders
 
@@ -519,9 +517,7 @@ Turbine construction activities are designed to avoid times when critically enda
 
 #### Recommended field data collection and analysis in the SNE subregion
 
--   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions.
-    Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence.
-    Build on knowledge from each study to optimize results for future studies.
+-   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions. Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence. Build on knowledge from each study to optimize results for future studies.
 
 ### New York/New Jersey Bight (NY/NJB) data gaps, recommended research, and data collection activities for sea turtles
 
@@ -578,9 +574,7 @@ Thus, the subcommittee recommends that federal funding for sea turtle impact stu
 
 #### Recommended field data collection and analysis in the USCA subregion
 
--   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions.
-    Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence.
-    Build on knowledge from each study to optimize results for future studies.
+-   Design, plan, fund and conduct, long-term, small-scale studies specifically designed to determine effects on sea turtle species using multiple methodologies in the vicinity of wind projects currently under development in the SNE, NY/NJB and USCA regions. Tailor studies to take advantage of each subregion’s development timeline and unique sea turtle occurrence. Build on knowledge from each study to optimize results for future studies.
 
 ### US Southeast Atlantic (USSEA) data gaps, recommended research, and data collection activities for sea turtles
 
@@ -614,7 +608,7 @@ Recommended non-field research by type of action.
 There are no Non-Field Data Collection and Analysis recommendations specifically for the USSEA sub-region.
 Region-wide recommendations that include the USSEA region are included in [section 2.1 of this chapter](#Regional_field_data_collection).
 
-## List of Definitions and Acronyms 
+## List of Definitions and Acronyms
 
 AMAPPS – [Atlantic Marine Assessment Program for Protected Species](https://www.fisheries.noaa.gov/new-england-mid-atlantic/population-assessments/atlantic-marine-assessment-program-protected); a joint project funded by BOEM, NOAA Fisheries, US Navy, and US Fish and Wildlife Service to provide seasonal abundance estimates that incorporate environmental habitat characteristics for marine mammals, turtles, and seabirds in the western North Atlantic Ocean
 

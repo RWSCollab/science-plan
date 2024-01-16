@@ -49,27 +49,18 @@ Table 1 lists the protected fish species in the RWSC Study area which are consid
 
 *Table 1. Protected Fish species in the RWSC study area. This table includes Endangered Species Act (ESA) status including Distinct Population Segment (DPS), if applicable.*
 
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| **Species**                                           | **ESA Status and DPS**                                                                                                        | **NOAA Fisheries Region**              |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Atlantic Salmon (*Salmo salar*)                       | Endangered (Gulf of Maine DPS)                                                                                                | New England/Mid-Atlantic               |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Atlantic Sturgeon (*Acipenser oxyrinchus*)            | Endangered (New York Bight DPS, Chesapeake Bay DPS, Carolina DPS, South Atlantic DPS) ESA Threatened (Gulf of Maine DPS)      | New England/Mid-Atlantic, Southeast    |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Shortnose Sturgeon (*Acipenser brevirostrum*)         | Endangered                                                                                                                    | New England/Mid-Atlantic, Southeast    |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Giant Manta Ray (*Mobula birostris*)                  | Threatened                                                                                                                    | New England/Mid-Atlantic, Southeast    |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Oceanic Whitetip Shark (*Carcharhinus longimanus*)    | Threatened                                                                                                                    | New England/Mid-Atlantic, Southeast    |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Nassau Grouper (*Epinephelus striatus*)               | Threatened                                                                                                                    | Southeast                              |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Scalloped Hammerhead Shark (*Sphyrna lewini*)         | Threatened (Central & Southwest Atlantic DPS)                                                                                 | Southeast                              |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Smalltooth Sawfish (*Pristis pectinata*)              | Endangered                                                                                                                    | Southeast                              |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| Whitespotted Eagle Ray *(Aetobatus narinar*)          | 90 Day Petitioned (04/06/23)                                                                                                  | Mid Atlantic, Southeast                |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
+|                                                    |                                                                                                                          |                                     |
+|-----------------|--------------------------------------|-----------------|
+| **Species**                                        | **ESA Status and DPS**                                                                                                   | **NOAA Fisheries Region**           |
+| Atlantic Salmon (*Salmo salar*)                    | Endangered (Gulf of Maine DPS)                                                                                           | New England/Mid-Atlantic            |
+| Atlantic Sturgeon (*Acipenser oxyrinchus*)         | Endangered (New York Bight DPS, Chesapeake Bay DPS, Carolina DPS, South Atlantic DPS) ESA Threatened (Gulf of Maine DPS) | New England/Mid-Atlantic, Southeast |
+| Shortnose Sturgeon (*Acipenser brevirostrum*)      | Endangered                                                                                                               | New England/Mid-Atlantic, Southeast |
+| Giant Manta Ray (*Mobula birostris*)               | Threatened                                                                                                               | New England/Mid-Atlantic, Southeast |
+| Oceanic Whitetip Shark (*Carcharhinus longimanus*) | Threatened                                                                                                               | New England/Mid-Atlantic, Southeast |
+| Nassau Grouper (*Epinephelus striatus*)            | Threatened                                                                                                               | Southeast                           |
+| Scalloped Hammerhead Shark (*Sphyrna lewini*)      | Threatened (Central & Southwest Atlantic DPS)                                                                            | Southeast                           |
+| Smalltooth Sawfish (*Pristis pectinata*)           | Endangered                                                                                                               | Southeast                           |
+| Whitespotted Eagle Ray *(Aetobatus narinar*)       | 90 Day Petitioned (04/06/23)                                                                                             | Mid Atlantic, Southeast             |
 
 *Source: [NOAA Fisheries Species Directory](https://www.fisheries.noaa.gov/species-directory/threatened-endangered?oq=&field_species_categories_vocab=1000000031&field_species_details_status=All&field_region_vocab=All&items_per_page=25).*
 
@@ -89,37 +80,23 @@ The Subcommittee wanted to note these species in the Appendix, though they are n
 
 *Table 2. State/District websites that feature their respective species of concern.*
 
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                    |                                                                                                                                                                                                                                                                                   |
+|-------------|-----------------------------------------------------------|
 | **State/District** | **Website Featuring Species of Concern**                                                                                                                                                                                                                                          |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Maine              | [*https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;*](https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;)                                                          |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | New Hampshire      | [*https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf*](https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf)*;*                                                                   |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Massachusetts      | [*https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish*](https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish)*;*                                                                         |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Rhode Island       | [*https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf*](https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf)*;*                                                                                   |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Connecticut        | [*https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish*](https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish)*;*                               |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | New York           | [*https://www.dec.ny.gov/animals/7494.html*](https://www.dec.ny.gov/animals/7494.html)*;*                                                                                                                                                                                         |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | New Jersey         | [*https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf*](https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf)*; <https://dnrec.delaware.gov/fish-wildlife/conservation/endangered-species/>;*                                                                |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Washington D.C.    | [*https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf*](https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf)*;* |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Maryland           | [*https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf*](https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf)*;*                                                                                                                                     |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Virginia           | [*https://bewildvirginia.org/species/fish.pdf;*](https://bewildvirginia.org/species/fish.pdf;)                                                                                                                                                                                    |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | North Carolina     | [*https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf*](https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf)*;*                                                                             |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | South Carolina     | [*https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf*](https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf)*;*                                                                                                                                               |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Georgia            | [*https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf*](https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf)*;*     |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Florida            | [*https://myfwc.com/wildlifehabitats/wildlife/plan/*](https://myfwc.com/wildlifehabitats/wildlife/plan/)*.*                                                                                                                                                                       |
-+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Internationally, the IUCN Red List [@theiucn] is a resource that lists the global conservation status for all species, including fish.
 Each species is sorted into one of nine groups: Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild or Extinct.
@@ -210,7 +187,8 @@ Information from this array has been used to model behaviors, timing and movemen
 The range of Atlantic salmon is mostly in the northern portion of the Gulf of Maine which currently does not overlap with any lease areas.
 However, BOEM has published the Gulf of Maine Call for Information and Nominations (Call) in the deeper waters of the Gulf for floating offshore wind.
 This Call is an early step in the regulatory process for commercial leasing of offshore wind.
-Atlantic salmon critical habitat has been defined in rivers all along the coast of Maine and is shown below in @fig-2. The range of Atlantic salmon continues east to Canada, so collaboration with international organizations is needed.
+Atlantic salmon critical habitat has been defined in rivers all along the coast of Maine and is shown below in @fig-2.
+The range of Atlantic salmon continues east to Canada, so collaboration with international organizations is needed.
 
 ![Atlantic Salmon Critical Habitat. Source: NOAA Fisheries](figures/pf/atlanticsalmon.png){#fig-2}
 
@@ -423,3 +401,119 @@ In a study that observed pile driving effects on lake sturgeon, a variety of inj
 Fleeing and avoidance of areas with active pile driving is likely to occur.
 
 In addition to impulsive noise, offshore wind development will add continuous noise to the environment, mainly through wind turbine operation and increased vessel traffic.
+While continuous noise has lower pressure levels, so is less likely to cause an auditory injury, it can result in other impacts such as behavioral changes and masking of communication.
+Fish use sound for a variety of activities, including but not limited to, reproduction, feeding, when under threat, and even swimming [@kasumyana.2009].
+Noise sources that overlap with the hearing frequency of fish can affect their ability to communicate via sound, and in some cases have direct impacts on their survival.
+In a study conducted on Ambon damselfish (*Pomacentrus amboinensis*) by Simpson, S.
+et al., [@simpsons.2016], it was determined that exposure to motorboat sound increased their metabolic rate.
+This stress response slowed their active response to simulated strikes, and allowed them to be captured by predators at more than twice the rate compared to periods of ambient noise.
+Size of the turbine and speed of rotation can shift the frequency of created sound.
+Tougaard, Jakob et al., [@tougaardjakob2020] found that turbine operation source levels have lower frequency than ship noise in the same range, though ships move away from the area and turbines remain stationary for the life of the project.
+Through modeling, they determined that cumulative levels of turbine noise can be detected up to a few kilometers from the wind farm, with levels shifting in the presence of other loud noise sources [@tougaardjakob2020].
+Multiple types of turbine foundations are proposed for development in the region, each with different construction requirements and thus different noise related impacts.
+Marmo et al. [@marmo2013] investigated the use of jacket, monopile, and gravity foundations in Scotland on multiple species including Atlantic salmon.
+They concluded that Atlantic salmon are able to detect monopiles at larger ranges than gravity bases, but whether this affects their behavior is yet to be determined.
+The farther away a fish is from the turbine or wind energy area, the smaller the projected impact from underwater noise.
+Due to the regional scale development of offshore wind farms in the study area, operational noise impacts should be studied further, with specific regard to any changes that may result in movement and behavior.
+The accepted acoustic thresholds for protected fish were developed by the Fisheries Hydroacoustic Working Group (FHWG) [@fisherieshydroacousticworkinggroup(fhwg)2008]and [@popper2014], and are presented in the [National Marine Fisheries Service: Summary of Endangered Species Act Acoustic Thresholds (Marine Mammals, Fishes, and Sea Turtles)](https://www.fisheries.noaa.gov/s3/2023-02/ESA%20all%20species%20threshold%20summary_508_OPR1.pdf).
+
+Plumes of turbid water can be observed as a result of offshore wind development activities such as pile driving, dredging, and port expansion.
+High levels of suspended sediment in the water column can result in a reduction of dissolved oxygen and altered visibility [@berry2003].
+Both decreased oxygen and increased sedimentation in the water can cause physiological stress in marine fish.
+Berg & Northcote, [@berg1985] documented behavioral changes in juvenile coho salmon (*Oncorhynchus kisutch)* such as decreased capture success, lower percentage of ingested prey, and increased gill flaring when exposed to short-term pulses of suspended sediment.
+If the period of exposure increases, the effects of increased turbidity can be lethal [@johnsona.2018].
+While mobile fish are able to avoid areas of increased sedimentation, eggs and larvae may be buried when sediment is redeposited on the seafloor.
+This resettlement can result in a decreased rate of survival [@wilber2001].
+Sediment Dispersion Modeling is being conducted and made public to show impacts from sediment resuspension during Project construction activities, such as for Vineyard Wind 1 [@crowley2018].
+Dredging may also directly affect sturgeon or benthic prey species through impingement, entrainment or capture.
+
+Any addition of vessels, both in number and in time spent in the area, increases the possibility of vessel strike.
+Vessel strike of the Atlantic sturgeon and giant manta ray have been extensively documented [@balazikmatthew2012; @patej.h.2020],and is listed as a threat to recovery for shortnose sturgeon.
+Offshore wind development utilizes various types of vessels that range in size and purpose.
+Current EISs evaluate vessel strike risk based on the estimated increase in vessel number in the project area.
+The Subcommittee would like to stress the importance of expanding this to include the increased amount of time vessels will remain in the project area, especially if the propeller is constantly running.
+Size of wheel, depth, location of vessels, vessel speed and draft should also be assessed with regards to vessel strike in each region over different seasons.
+An increased number of vessels in the area additionally results in an increased risk of accidental release.
+This can come in the form of chemical spills, such as fuel and oil, as well as release of other trash and debris.
+Fluids may also leak from turbines and offshore substations.
+Exposure and/or ingestion of chemicals and debris can negatively impact protected fish themselves, as well as the water quality surrounding the release.
+
+Listed below based on existing research and Subcommittee expertise are the potential short-term and long-term effects of offshore wind development on protected fish species.
+
+### Potential short-term impacts of offshore wind pre-construction activities
+
+-   Noise from seismic surveys
+
+-   Increased vessel traffic
+
+### Potential short-term impacts of offshore wind construction activities
+
+-   Sedimentation/plumes in water column at the turbines and along the cable route
+
+-   Impulsive noise from pile driving and HRG surveys
+
+-   Non-impulsive noise from construction vessels
+
+-   Exposure to accidental release
+
+-   Exposure to lighting
+
+-   Vessel strike
+
+-   Disturbance of benthic habitat from possible leveling, anchoring, boulder removal, dredging and port expansion
+
+-   Discharges/intakes/entrainment
+
+### Potential long-term impacts of offshore wind operation and maintenance
+
+-   Presence of structures in the water column.
+    This includes the piles, turbine masts, scour protection, cable protection, and cables (for floating offshore wind).
+
+    -   Changes to oceanography and local hydrodynamic processes
+
+        -   Potential change of ocean stratification and physical water column properties
+
+        -   Potential impacts to planktonic prey species and/or larval transport
+
+    -   Artificial reef effect
+
+    -   More susceptible to recreational fishing
+
+    -   More susceptible to secondary entanglement
+
+-   Alterations of benthic habitats because of hardening, cable placement (including export cables), boulder removal, seabed leveling, dredging, port expansion, anchoring.
+
+-   Continuous noise from turbines
+
+-   Exposure to accidental releases such as chemical contaminants or marine debris
+
+-   Exposure to EMF from cables
+
+-   Interaction with or avoidance of monitoring survey gear
+
+-   Exposure to lighting
+
+There are additional concerns with regard to project decommissioning and how removing all added structures from the water column and seabed will alter the established environment and associated environmental conditions.
+These changes will have impacts on species that use created habitat and expose species to new conditions.
+It is thought that the impacts of conceptual decommissioning on protected fish may be major.
+As the life span of each project is expected to be 30 years, the Subcommittee will further investigate potential impacts and research needs for the decommissioning stage at a later date.
+This includes the review of decommissioned oil and gas platforms in the Gulf of Mexico, the comparison of different methods utilized, and the varying impacts to protected fish populations and their behavior.
+
+The Subcommittee would also like to note that each of these impact producing factors may individually affect protected fish species, but they also have the potential for cumulative and synergistic effects.
+Impacts need to be assessed at the project level as well as at the cumulative level throughout the region.
+
+## Sources of Regional-Scale Protected Fish Distribution Information
+
+Scientific surveys have taken place region wide for decades.
+They employ multiple methods, target multiple species, and provide spatial and temporal data for a wide variety of species.
+These surveys may encounter various protected fish species, where data are collected, samples are taken, and resuscitation is provided if needed.
+The federal government, state governments, universities, citizen science programs, and other research organizations have supported this long standing and essential data collection.
+Conventional tag, sighting, and bycatch data are also collected for some protected fish species, and contribute to what is known about each species.
+These are all crucial to the monitoring of protected fish, especially given their migration patterns throughout the region.
+
+Despite the long-standing effort, much is still unknown about each protected fish species and their life stages.
+Telemetry, both acoustic and satellite, is a data collection method that is regularly deployed for many species of protected fish as well as other taxa in the region.
+Fish are acoustically tagged in one location and can be detected for the life of the applied tag on existing arrays.
+Researchers communicate to discover the source of outside tags detected on their arrays, and to find out where their tagged fish have been detected.
+This collaboration allows for an increased knowledge on regional fish distribution, migration patterns, and seasonality.
+Many researchers studying protected species utilize data sharing networks and systems, which are described below, amongst other sources or regional-scale distribution information.
