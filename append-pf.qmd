@@ -714,3 +714,403 @@ All life stages should be examined.
 To study early life stages, dispersal models and plankton cameras should be utilized.
 This includes attraction/avoidance, residency, feeding, use of area.
 Data collected will be used to **understand changes to the environment resulting from offshore wind development.**
+
+-   Deploy fine-scale acoustic receiver arrays in and around leased and proposed Wind Energy Areas and associated cable routes.
+    Pair deployments with acoustic and satellite tagging of protected fish.
+    Note that tags have limited operating time, so tagging operations will need to continue over the life of the project.
+
+    -   Plan and implement telemetry data collection activities in a consistent way, such that data and metadata from individual projects is standardized and interoperable.
+
+    -   Utilize additional data collection methods such as conventional tagging (i.e. non-electronic), eDNA, and others in collaboration with telemetry to aid the identification of changes in residency or usage of the area.
+
+    -   Expand projects like Buoys of Opportunity across the region to co-locate acoustic receivers to structures already in/going in the water.
+
+        -   Facilitate coordination with other entities such as federal agencies, states, researchers, fishermen, industry, eNGOs, etc. to know when and where receivers can be installed.
+
+    -   Evaluate the presence and stability of current acoustic receiver arrays and design new infrastructure to ensure spatial and temporal coverage of wind energy areas and other important habitat areas for protected species.
+
+        -   Encourage industry to make participation in regional networks a condition of funding.
+
+    -   Couple on-bottom deployment of acoustic receivers with bottom temperature measurements to the extent possible.
+
+    -   Require that all new tags/groups submit their data to the Animal Telemetry Network and/or appropriate regional nodes in an agreed upon time frame to allow for archiving, securing, and publishing.
+
+    -   Ensure that monitoring begins prior to pre-construction activities and continues throughout all phases of development, including after decommissioning.
+
+-   Design a distributed region wide system of receiver arrays that serve as the backbone for projects throughout the region.
+    This includes receivers offshore/along the shelf which are limited in the current project landscape.
+
+    -   Ensure that this system has sustained investment for operation and maintenance.
+
+    -   Require that all new tags/groups submit their data to the Animal Telemetry Network and/or appropriate regional nodes in an agreed upon time frame to allow for archiving, securing, and publishing.
+
+-   Implement and fund survey mitigation recommendations articulated in the NOAA Fisheries & BOEM Federal Survey Mitigation Strategy [@hare2022].
+
+    -   Support the successful completion of objective 1.2.3 of the Strategy to develop an inter-agency resource plan to support a survey mitigation program.
+
+        -   Funding and resources will need to be given to address project level and cumulative effects of offshore wind farms to scientific surveys.
+
+    -   As offshore wind development expands into different regions, a strategy for the southeast will be developed.
+        We will also support its implementation.
+
+-   Collect biological samples, body measurements and additional metrics on captured protected fish.
+
+    -   Collect as part of directed studies or opportunistically when a protected fish species is captured on a survey.
+
+        -   Provide a more thorough understanding of each species and life stage.
+
+-   Conduct field studies to fully document giant manta ray migration
+
+    -   Utilize multiple methods such as aerial surveys, boat-based surveys, and external tagging to fully understand the difference in habitat use, and resulting threats to, the two species of manta ray to aid in their conservation.
+
+-   Collect and analyze data to support development of an adult distribution model for smalltooth sawfish.
+
+-   Collect and analyze data to support development of larval and adult connectivity/distribution models for Nassau grouper.
+
+**Evaluate the risks of known impact producing factors to protected fish from offshore wind development.**
+
+-   Develop tools and monitoring mechanisms to better understand coastal transfer of protected fish species, if/when vessel strikes occur, and what vessels are typically involved.
+    It is important to understand the change in vessel traffic in offshore wind farm project areas with emphasis on shallower waters close to ports and estuaries, in known migration corridors, and other areas of spatiotemporal overlap.
+    The scope of current studies on risk of vessel strike needs to be expanded.
+    Instead of focusing only on the number of additional vessels, studies should target the amount of time propellers are spinning in place, different wheel sizes, and different depths where vessels are present for each OSW project.
+
+    -   Coordinate with state agencies for recorded information on protected fish sightings, incidental catches, and beach strandings, particularly for Atlantic and shortnose sturgeon and giant manta ray.
+
+        -   Ensure sufficient human and financial resources to support local salvage operations.
+            Stranding hotlines and programs already exist for some protected fish species.
+            However, these programs are largely underfunded, and lack the personnel and resources to attend to all reports.
+            Fully studying strandings, both dead and alive, will give researchers a better understanding as to what is affecting the populations in each region and insight as to how to best mitigate these effects.
+
+    -   Coordinate with the RWSC Marine Mammal and Sea Turtle Subcommittees to develop a reporting system for protected fish strandings similar to what is being done for marine mammals and sea turtles.
+
+    -   Encourage voluntary reporting and data collection for known vessel interactions with protected fish, particularly sturgeon.
+
+    -   Create and test mitigation measures to prevent vessel strikes.
+
+    -   Measure the amount and type of noise and produced by each vessel and how these change over time.
+
+-   Conduct further laboratory and field studies of EMF effects on protected fish species, especially Chondrichthyes and sturgeons to assess potential impacts, such as any change in migration patterns, feeding, or behavior.
+
+    -   Directed studies in situ of effects of EMF from transmission cables on protected fish species occurrence, movement, behavior, and feeding patterns.
+
+        -   The Subcommittee would like to build upon existing research and use their recommendations such as exposing animals to higher levels of EMF.
+
+            -   Prioritize conditions similar to where full cable burial is unable to be achieved.
+
+            -   Prioritize Atlantic and shortnose sturgeon, giant manta ray, and Atlantic salmon, particularly in the adult and smolt life stages.
+
+        -   Conduct similar directed studies on protected fish prey species.
+
+-   Conduct in situ examinations of noise impacts to protected fish species.
+
+    -   Conduct studies on all impulsive and continuous noise sources such as impact pile driving, vibratory pile driving, boat noise, turbine operational noise, aircraft noise, HRG surveys, cable laying activity, etc.
+
+-   Assess both primary and secondary entanglement risk to all protected fish species associated with offshore wind.
+    There is the potential for increased recreational fishing near wind turbines which would lead to primary entanglement, as well as an increased possibility of secondary entanglement due to ghost gear and debris attaching to structures in the water.
+    Risk should be assessed for structures associated with both standard and floating offshore wind technologies.
+
+    -   In the southeast region, giant manta ray should be prioritized.
+
+**Collaborate with other subcommittees to maximize data collection efforts** and gain a more thorough understanding of whether or not/to what degree turbines and other structures alter the hydrodynamics, benthic habitat distribution, food resources, stratification and mixing both at the local level directly behind the wind farm and at the cumulative regional level.
+
+-   Marine Mammal: Maintain a shareable database and/or map of the acoustic telemetry receivers that may be co-located with bottom-mounted PAM hydrophones.
+
+-   Sea Turtle: Ensure that sea turtle researchers are able to utilize telemetry to arrays if desired.
+
+-   Technology: Test and implement any technological advancements that may be required to continue long-standing data scientific surveys and data collection in areas that are no longer accessible or are accessible in a limited extent that will influence continuity of surveys.
+
+-   Habitat and Ecosystem: Work with the Habitat & Ecosystem Subcommittee to ensure that key oceanographic and habitat data are collected and available to use in coordination with studies on protected fish.
+
+    -   Identify oceanographic and habitat variables of interest with respect to mapping and modeling of protected fish distribution and movement.
+
+Technology advancements to improve protected fish research and monitoring:
+
+-   Develop and test telemetry tags with further miniaturization for use with smaller individuals.
+
+    -   Evaluate the use of open protocol telemetry equipment for new studies at offshore wind energy areas.
+
+-   Improve data resolution and positional accuracy of telemetry tags and test adding sensors (magnetometers, sound, DO, chlorophyll, etc.) to existing tags.
+
+-   Investigate the use of eDNA to accurately measure fish species abundance in addition to occurrence.
+
+-   Test methods to make lines in the water more visible to megafauna and more rigid to mitigate entanglements.
+
+    -   Mantas do not see well, so anything that would make the cables easier to see will be beneficial.
+
+    -   Continue to support and fund research and testing of ropeless gear to limit the vertical lines in the water column.
+
+-   Improve or develop machine learning or AI detection for soniferous protected fish (Nassau grouper, potentially Atlantic and shortnose sturgeon) in Passive Acoustic Data sources.
+    PAM is being utilized by NOAA and wind developers in the region, so ongoing passive acoustic monitoring will maximize this available dataset to both capture changes in the soundscape and detect selected protected fish species.
+
+### Data Analysis
+
+Data analyses should characterize oceanographic and habitat drivers of protected fish species distribution, abundance, and behavior, seek to assess whether offshore wind is causing any observed changes, and inform where new data collection is needed.
+Individuals and entities should consult with the Protected Fish Species Subcommittee prior to conducting analyses of protected fish species data with respect to offshore wind to ensure that the study leverages all available data and contributes to addressing the key issues described below.
+The following data analysis activities are needed:
+
+-   Identify and use historical data collections from multiple sources to generate a baseline of distribution and abundance of protected fish species.
+
+    -   Determine/describe useful baseline parameters to be used where thorough abundance and density data are not available.
+
+-   Develop best practices for integrating data from multiple methods (telemetry, eDNA, trawl surveys, aerial surveys) across scales to model baseline species’ distribution and movement using oceanographic variables and other contextual information (e.g., quantifications of vessel traffic).
+    The modeling framework should be applicable to individual projects and at regional scales such that consistent approaches are used across projects, and eventually in other subregions of the RWSC study area.
+    This is a primary analytical goal, as it is overall unclear how data from multiple efforts will be analyzed, interpreted, and/or synthesized to develop spatial representations of species occurrence, occupancy, and other potential metrics.
+    It is similarly unclear how species data will be analyzed with environmental data to identify drivers of presence, movement, and/or behavior.
+
+    -   Assess what technology best suits studies for each protected species and life stage.
+
+-   Develop standardized data products for protected fish movement data that can be replicated throughout the region.
+
+-   Analyze existing plankton camera data for presence of early life stages of protected fish and protected fish prey.
+    Use this data to develop dispersal models.
+
+-   Leverage currently deployed instrumentation and design new studies to examine the effects of impact producing factors derived from construction and operation activities such as pile driving and G&G surveys.
+
+-   Attempt to determine the causality of any changes in protected fish abundance, distribution, or behavior.
+    This includes disentangling effects related to offshore wind development from those due to climate change, natural variability, or other causes.
+
+-   Ensure that protected fish species are included in risk modeling that is similarly being applied to other species, e.g., Project WOW.
+
+    -   Population Viability Analyses
+
+    -   Population Consequences of Disturbance (PCOD)
+
+    -   Population Consequences of Multiple Stressors (PCOMS)
+
+-   Model potential impacts of intake and entrainment from HVDC cooling systems to protected fish species.
+
+-   Evaluate mitigation techniques to limit exposure of sedimentation.
+
+    -   Model predicted patterns of sedimentation/resuspension to estimate potential impacts to protected species.
+        These can be used to advanced current mitigation measures and investigate the development of new measures.
+
+-   Continually evaluate the performance of existing models and statistical frameworks.
+    Models should be updated as new information becomes available.
+
+    -   Use validation and evaluation results to continually inform and advance the model/framework development and application.
+        Models should be updated as new information becomes available.
+
+-   Develop analyses of vessel and protected fish species co-occurrence that model nearshore vessel traffic as well as other areas of spatiotemporal overlap with protected fish such as known migration corridors.
+
+### Data Management
+
+The Protected Fish Species Subcommittee will work with individuals and entities who collect data relevant to protected fish studies to ensure that data are collected and stored in consistent formats.
+This will enhance comparisons and pooling across individual projects in the RWSC study area to conduct regional-scale assessments and to develop and maintain regional-scale data products.
+The following table lists the existing centralized or accepted repositories and standards that should be used and identifies data types for which no or limited data management capacity (i.e., repositories and standards) currently exists.
+
+The Subcommittee will develop guidance specific to protected fish species telemetry data to reconcile (or appropriately leverage) any redundancy among the various existing telemetry data repositories (Movebank, ATN, and the regional telemetry data nodes).
+
+*Table 4: Data Methods, Repositories, and Existing Standards. This table summarizes data collection methods, the existing repository for each method, and describes whether standards exist for that method or need to be developed.*
+
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Method(s) and data type(s)**                                                                                                      | **Repository**                                                                                                                                                                                                           | **Existing Standards**                                                                                                                                                                                                                                                                                                                                                           |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Observational surveys; telemetry data; acoustic monitoring; photo identification; oceanographic data products; model outputs        | [OBIS-SEAMAP](https://seamap.env.duke.edu/)(Ocean Biogeographic Information System – Spatial Ecological Analysis of Megavertebrate Populations                                                                           | -   [OBIS-SEAMAP minimum data fields and acceptable formats,](https://seamap.env.duke.edu/content/provider_faq) Duke Marine Geospatial Ecology Lab                                                                                                                                                                                                                               |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Satellite tagging data; acoustic tagging data through the regional nodes Atlantic Cooperative Telemetry (ACT) and FACT networks     | [Animal Telemetry Network](https://ioos.noaa.gov/project/atn/) (ATN)                                                                                                                                                     | -   [Animal Telemetry Network DAC Data Management Policy Guidance](https://cdn.ioos.noaa.gov/media/2022/03/ATN-DAC-Data-Management-Policy-Guidance_v.202201.pdf): includes data [submission requirements](https://atn.ioos.us/help/submit-data/) and instructions for submitting project-level metadata and deployment records via an app and by using Research Workspace.       |
+|                                                                                                                                     |                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                     |                                                                                                                                                                                                                          | -   Need to develop guidance specific to protected fish species and to projects lacking federal funding                                                                                                                                                                                                                                                                          |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Acoustic tagging data                                                                                                               | [FACT Network](https://secoora.org/fact/)                                                                                                                                                                                | -   [FACT Network Metadata Template](https://secoora.org/fact/how-to-submit-data/), SECOORA                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                     |                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                     |                                                                                                                                                                                                                          | -   Need to develop guidance specific to protected fish species                                                                                                                                                                                                                                                                                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Acoustic tagging data                                                                                                               | [Atlantic Cooperative Telemetry Network](https://www.theactnetwork.com/home)(ACT Network Data are managed in the [ACT-MATOS database](https://matos.asascience.com/) following the merger of ACT and MATOS in 2020).     | -   ACT Network Metadata Template (available for members to download when logged into website)                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                     |                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                     |                                                                                                                                                                                                                          | -   Need to develop guidance specific to protected fish species                                                                                                                                                                                                                                                                                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Satellite tagging, Acoustic tagging, VHF tagging, other tagging                                                                     | [Movebank](https://www.movebank.org/)                                                                                                                                                                                    | -   [Archiving in the Movebank Data Repository](https://datarepository.movebank.org/help/submission-guidelines): archiving, DOI assignment, licensing, submission guidelines                                                                                                                                                                                                     |
+|                                                                                                                                     |                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                     |                                                                                                                                                                                                                          | -   Need to develop guidance specific to protected fish species                                                                                                                                                                                                                                                                                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| High-definition aerial imagery                                                                                                      | None; records of observations from photos go to OBIS-SEAMAP                                                                                                                                                              | -   None – needs development                                                                                                                                                                                                                                                                                                                                                     |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| eDNA                                                                                                                                | None – needs development                                                                                                                                                                                                 | -   None – needs development                                                                                                                                                                                                                                                                                                                                                     |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+In addition, the Subcommittee recommends the following:
+
+-   Leverage ROSA’s work to standardize offshore wind fisheries monitoring plans and trawl surveys so that protected fish species data are accessible for use in RWSC’s and partners’ analyses and research.
+
+-   Cross taxa: Convene an Offshore Wind & Acoustic Telemetry Data Collaborative with goals to coordinate on the deployment of acoustic telemetry receivers and acoustic and satellite tags on protected fish, and other species of focus within RWSC (e.g., sea turtles), and ROSA (e.g., highly migratory species, Atlantic cod) and in the context of offshore wind development.
+    Include and build on existing work by partners including ATN, FACT, ACT-MATOS Network, OTN, and the Smithsonian Environmental Research Center.
+    The Data Collaborative would ensure that data are collected and stored consistently such that data can be pooled to develop a set of standardized data products that represent metrics such as distribution, abundance, occupancy, movement, etc.
+
+    -   Ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC study area to conduct regional-scale assessments and the development of regional-scale data products.
+
+    -   Develop or adopt existing best practices for acoustic telemetry data collection, QA/QC, management, storage, and sharing/accessibility and require their consistent use across taxa/projects.
+
+    -   Ensure sufficient human resources to support project planning, manage acoustic telemetry databases, collaborate with ATN and OTN on data sharing, and facilitate data compilation and synthesis.
+
+        -   Make recommendations available to funders to communicate the need for sufficient resources
+
+        -   Support regular evaluation of infrastructure as more and more data are collected.
+
+-   Characterize the acoustic telemetry receiver network with the purpose of integrating multiple individual efforts into a coordinated and intentional regional network for offshore wind studies that addresses gaps in coverage.
+    Develop maps that show the receiver network in the RWSC study area over time with attribution/contact information for receiver owners.
+    Make maps, to a certain degree, available to the research community and public.
+
+    -   It is important to note how long each receiver will be in place, as there may be gaps for short term arrays.
+
+    -   A priority is to identify critical locations for receiver arrays to be placed long term and identify funding institutions to purchase, deploy, and maintain the arrays.
+
+        -   Ensure funding for sufficient human resources to support the development and maintenance of maps.
+
+    -   Coordinate the co-location of receivers with other ocean-deployed sensors (e.g., with the RWSC Marine Mammal Subcommittee and regional IOOS associations).
+
+    -   Work with researchers and industry to develop a reasonable time frame for data to be submitted.
+
+        -   Create process for requesting time extensions on data submission.
+
+-   Coordinate with national laboratories and other organizations to develop a database on all research regarding protected fish and offshore wind.
+    Regions that are further behind (time-wise) in offshore wind development can use existing knowledge to advance technologies and practices to limit negative effects on protected fish.
+
+-   Compile existing data from the hydropower industry to see how all life stages of fish are impacted with particular emphasis on impingement and entrainment of the early life stages.
+
+## Acronyms
+
+ACT Network: Atlantic Cooperative Telemetry Network
+
+ASMFC: Atlantic States Marine Fisheries
+
+BIWF: BIWF
+
+BOEM: Bureau of Ocean Energy Management
+
+BRUVS: Baited Remote Underwater Video Station
+
+CBIBS: Chesapeake Bay Interpretive Buoy System
+
+CEC: Clean Energy Center
+
+CCE: Cornell Cooperative Extension of Suffolk County
+
+CFMC: Caribbean Fishery Management Council
+
+CFRF: Commercial Fisheries Research Foundation
+
+CT DEEP: Connecticut Department of Energy and Environmental Protection
+
+NJ DEP: New Jersey Department of Environmental Protection
+
+DMR: Department of Marine Resources
+
+DNR: Department of Natural Resources
+
+DNREC: State of Delaware.
+Department of Natural Resources and.
+Environmental Control
+
+DPS: Distinct Population Segments
+
+EA: Environmental Assessments
+
+eDNA: Environmental Deoxyribonucleic Acid
+
+EFH: Essential Fish Habitat
+
+EIS: Environmental Impact Statements
+
+EMF: Electromagnetic Field
+
+eNGO: Environmental Non-Governmental Organization
+
+ESA: Endangered Species Act
+
+E-TWG: Environmental Technical Working Group
+
+FACT Network: Florida Atlantic Coast Telemetry Network
+
+FSU: Florida State University
+
+GCOOS: Gulf of Mexico Coastal Ocean Observing System
+
+FWRI: The Fish and Wildlife Research Institute, formerly the Florida Marine Research Institute
+
+GEO: Governor’s Energy Office
+
+HMS: Highly Migratory Species
+
+HVDC: High Voltage Direct Current
+
+IUCN: International Union for Conservation of Nature
+
+MAFMC: Mid-Atlantic Fishery Management Council
+
+MATOS: Mid-Atlantic Acoustic Telemetry Observation System
+
+MMF: Marine Megafauna foundation
+
+MSA: Magnuson-Stevens Fishery Conservation and Management Act
+
+NASA: National Aeronautics and Space Administration
+
+NCEI: National Centers for Environmental Information
+
+NCCOS: National Centers for Coastal Ocean Science
+
+NCDMF: North Carolina Division of Marine Fisheries
+
+NEFMC: New England Fishery Management Council
+
+NEFSC: Northeast Fisheries Science Center
+
+NEPA: National Environmental Policy Act
+
+NERACOOS: Northeastern Regional Association of Coastal Ocean Observing Systems
+
+NMFS: National Marine Fisheries Service
+
+NOAA: National Oceanographic and Atmospheric Administration
+
+NOPP: National Oceanographic Partnership Program
+
+NUWC: Naval Undersea Warfare Center Newport
+
+NWFSC: Northwest Fisheries Science Center
+
+NYSERDA: New York State Energy Research and Development Authority
+
+OSW: Offshore Wind
+
+OTN: Ocean Tracking Network
+
+PAM: Passive Acoustic Monitoring
+
+PCOD: Population Consequences of Disturbance
+
+PCOMS: Population Consequences of Multiple Stressors
+
+RI DEM DMF: Rhode Island Department of Environmental Management Division of Marine Fisheries
+
+RMI: Research and Monitoring Initiative
+
+[RODEO: Real-time Opportunity for Development Environmental Observations](https://database.rwsc.org/details?recordId=recoHwKsfAhGuEVxb)
+
+ROSA: Responsible Offshore Science Alliance
+
+ROV: Remotely Operated Vehicle
+
+RUMFS: Rutgers University Marine Field Station
+
+RWSC: Regional Wildlife Science Collaborative for Offshore Wind
+
+SAFMC: South Atlantic Fishery Management Council
+
+SBNMS: [Stellwagen Bank National Marine Sanctuary](https://stellwagen.noaa.gov/)
+
+SECOORA: Southeast Coastal Ocean Observing Regional Association
+
+TBD: To Be Determined
+
+UMCES: University of Maryland Center for Environmental Science
+
+UNESCO: The United Nations Educational, Scientific and Cultural Organization
+
+U.S.GS: United States Geological Survey
+
+VIMS: Virginia Institute of Marine Science
+
+WEA: Wind Energy Area
+
+Project WOW: Wildlife and Offshore Wind
