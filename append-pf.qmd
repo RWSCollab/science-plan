@@ -49,18 +49,27 @@ Table 1 lists the protected fish species in the RWSC Study area which are consid
 
 *Table 1. Protected Fish species in the RWSC study area. This table includes Endangered Species Act (ESA) status including Distinct Population Segment (DPS), if applicable.*
 
-|                                                    |                                                                                                                          |                                     |
-|-----------------|--------------------------------------|-----------------|
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | **Species**                                        | **ESA Status and DPS**                                                                                                   | **NOAA Fisheries Region**           |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Atlantic Salmon (*Salmo salar*)                    | Endangered (Gulf of Maine DPS)                                                                                           | New England/Mid-Atlantic            |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Atlantic Sturgeon (*Acipenser oxyrinchus*)         | Endangered (New York Bight DPS, Chesapeake Bay DPS, Carolina DPS, South Atlantic DPS) ESA Threatened (Gulf of Maine DPS) | New England/Mid-Atlantic, Southeast |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Shortnose Sturgeon (*Acipenser brevirostrum*)      | Endangered                                                                                                               | New England/Mid-Atlantic, Southeast |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Giant Manta Ray (*Mobula birostris*)               | Threatened                                                                                                               | New England/Mid-Atlantic, Southeast |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Oceanic Whitetip Shark (*Carcharhinus longimanus*) | Threatened                                                                                                               | New England/Mid-Atlantic, Southeast |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Nassau Grouper (*Epinephelus striatus*)            | Threatened                                                                                                               | Southeast                           |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Scalloped Hammerhead Shark (*Sphyrna lewini*)      | Threatened (Central & Southwest Atlantic DPS)                                                                            | Southeast                           |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Smalltooth Sawfish (*Pristis pectinata*)           | Endangered                                                                                                               | Southeast                           |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 | Whitespotted Eagle Ray *(Aetobatus narinar*)       | 90 Day Petitioned (04/06/23)                                                                                             | Mid Atlantic, Southeast             |
++----------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
 
 *Source: [NOAA Fisheries Species Directory](https://www.fisheries.noaa.gov/species-directory/threatened-endangered?oq=&field_species_categories_vocab=1000000031&field_species_details_status=All&field_region_vocab=All&items_per_page=25).*
 
@@ -80,23 +89,37 @@ The Subcommittee wanted to note these species in the Appendix, though they are n
 
 *Table 2. State/District websites that feature their respective species of concern.*
 
-|                    |                                                                                                                                                                                                                                                                                   |
-|-------------|-----------------------------------------------------------|
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **State/District** | **Website Featuring Species of Concern**                                                                                                                                                                                                                                          |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Maine              | [*https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;*](https://www.maine.gov/ifw/fish-wildlife/wildlife/endangered-threatened-species/special-concern.html#fish;)                                                          |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | New Hampshire      | [*https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf*](https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-images/species-special-concern.pdf)*;*                                                                   |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Massachusetts      | [*https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish*](https://www.mass.gov/info-details/list-of-endangered-threatened-and-special-concern-species#fish)*;*                                                                         |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Rhode Island       | [*https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf*](https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/fishwild/swap/sgcnsci.pdf)*;*                                                                                   |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Connecticut        | [*https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish*](https://portal.ct.gov/DEEP/Endangered-Species/Endangered-Species-Listings/Endangered-Threatened--Special-Concern-Fish)*;*                               |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | New York           | [*https://www.dec.ny.gov/animals/7494.html*](https://www.dec.ny.gov/animals/7494.html)*;*                                                                                                                                                                                         |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | New Jersey         | [*https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf*](https://dep.nj.gov/njfw/wp-content/uploads/njfw/wap_plan18.pdf)*; <https://dnrec.delaware.gov/fish-wildlife/conservation/endangered-species/>;*                                                                |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Washington D.C.    | [*https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf*](https://doee.dc.gov/sites/default/files/dc/sites/ddoe/service_content/attachments/03%202015%20WildlifeActionPlan%20%20Ch2%20SGCN.pdf)*;* |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Maryland           | [*https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf*](https://dnr.maryland.gov/wildlife/Documents/SWAP/SWAP_Chapter3.pdf)*;*                                                                                                                                     |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Virginia           | [*https://bewildvirginia.org/species/fish.pdf;*](https://bewildvirginia.org/species/fish.pdf;)                                                                                                                                                                                    |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | North Carolina     | [*https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf*](https://www.ncwildlife.org/Portals/0/Conserving/documents/Protected-Wildlife-Species-of-NC.pdf)*;*                                                                             |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | South Carolina     | [*https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf*](https://www.dnr.sc.gov/swap/main/chapter2-priorityspecies.pdf)*;*                                                                                                                                               |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Georgia            | [*https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf*](https://georgiawildlife.com/sites/default/files/wrd/pdf/swap/appendix-e-fishes-and-aquatic-invertebrates-technical-team-report.pdf)*;*     |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Florida            | [*https://myfwc.com/wildlifehabitats/wildlife/plan/*](https://myfwc.com/wildlifehabitats/wildlife/plan/)*.*                                                                                                                                                                       |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Internationally, the IUCN Red List [@theiucn] is a resource that lists the global conservation status for all species, including fish.
 Each species is sorted into one of nine groups: Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild or Extinct.
@@ -517,3 +540,177 @@ Fish are acoustically tagged in one location and can be detected for the life of
 Researchers communicate to discover the source of outside tags detected on their arrays, and to find out where their tagged fish have been detected.
 This collaboration allows for an increased knowledge on regional fish distribution, migration patterns, and seasonality.
 Many researchers studying protected species utilize data sharing networks and systems, which are described below, amongst other sources or regional-scale distribution information.
+
+### The Atlantic Cooperative Telemetry Network (ACT)
+
+“A grassroots effort to facilitate data sharing between researchers utilizing acoustic telemetry to gain a greater understanding of a wide variety of aquatic species.
+What started with 15 researchers working on Atlantic and shortnose sturgeon that year has expanded to over 138 from Maine to Florida working with over [95](#0) [different species](#0).
+Researchers maintain their own arrays, so transmitters deployed and array sizes are dependent on seasonal conditions, research needs, and available funding [@theatla].” In 2020, the [ACT Network](#0) merged with the [Mid-Atlantic Acoustic Telemetry Observation System (MATOS)](#0).
+Since then, ACT data are housed in the ACT-MATOS database, which is a web-based tool and database for researchers and natural resource professionals to manage acoustic telemetry data in a searchable, secure database.
+ACT uses OTN data formats and data sharing occurs in collaboration with OTN, FACT and some other regional networks [@matos].”
+
+### The FACT Network
+
+“[The FACT Network](https://secoora.org/fact/) is a grassroots collaboration of marine scientists using acoustic telemetry and other technologies to better understand and conserve our region’s important fish and sea turtle species.
+The FACT Network originated as the Florida Atlantic Coast Telemetry Network but has since grown to include partners from the Bahamas to the Carolinas and is now known simply as the FACT Network.
+--It’s purpose is to expand the scale and cost effectiveness of behavioral studies through partnerships and data sharing, encourage new projects and student involvement with an inclusive research atmosphere, and communicate findings to policy makers and the public to guide coastal management decisions [@secoora2023].” FACT uses OTN data formats and data sharing occurs in collaboration with OTN, ACT and some other regional networks.
+
+### Ocean Tracking Network (OTN)
+
+“[The Ocean Tracking Network (OTN)](https://oceantrackingnetwork.org/what-we-do/) is a global aquatic research, data management and partnership platform headquartered at Dalhousie University in Halifax, Nova Scotia, Canada.
+OTN’s mission is to inform the stewardship and sustainable management of aquatic animals by providing knowledge on their movements, habitats and survival in the face of changing global environments.
+Since 2008, OTN has been deploying state-of-the-art ocean monitoring equipment and marine autonomous vehicles (gliders) in key ocean locations and inland waters around the world.
+OTN’s technical capabilities expanded in 2020 with the addition of remotely operated vehicles (ROVs) and side scan sonar systems.
+Researchers around the world are using OTN’s global infrastructure and analytical tools to document the movements and survival of aquatic animals in the context of changing ocean and freshwater environments [@oceantrackingnetwork2023].” OTN also supports regional, national, and international data sharing efforts.
+
+### NMFS Long-Term Scientific Surveys
+
+NMFS Long-term protected species, fisheries, and ecosystem surveys form the backbone of the scientific monitoring system needed for the management of wildlife, fisheries, habitats, and ecosystems.
+In order understand potential changes in wildlife and habitats from offshore wind energy development, it is critical that long-term standardized surveys continue to provide timely, accurate, and precise data on wildlife, habitats, and ecosystems.
+The need to fully implement the NMFS and BOEM Survey Mitigation Strategy [@hare2022] is critical to putting site and regional level studies in the context of population trends and ecosystem conditions.
+The Strategy calls for the development of a Northeast Survey Mitigation Program.
+This is largely unfunded, but it is highlighted as a significant priority for the region and protected species science.
+Similar mitigation strategies will need to be applied in the southeastern U.S. as offshore wind development advances.
+
+### Regional Passive Acoustic Monitoring Network
+
+The RWSC Marine Mammal Subcommittee has been coordinating around the planning and implementation of a regional passive acoustic monitoring network for understanding effects of offshore wind on large whales (e.g., displacement or attraction, changes in behavior).
+Not all fish make noise, but those that do would be detected on some acoustic systems deployed to detect large whales.
+Of the ESA listed fish in the RWSC study area, the Nassau grouper produces sounds that are thought to be made in a period of alarm.
+Though it is not well understood, Atlantic sturgeon also make noise.
+More research should be dedicated to sturgeon sound production so that PAM can be better utilized to study them.
+In addition, many small fish that serve as prey species make sounds that are detected on passive acoustic monitors, and can give a better understanding of the whole ecosystem.
+Many of the deployed PAM instruments have also been outfitted with acoustic receivers, including all deployed by the NEFSC.
+The Protected Fish Species Subcommittee should coordinate with the Marine Mammal Subcommittee to make this information more readily available to both groups.
+
+### Observer Data and Reports
+
+In the RWSC study area, there are multiple observer programs that collect data from commercial fishing vessels and fish processing plants.
+The Northeast Fisheries Science Center (NEFSC) and Southeast Fisheries Science Center (SEFSC) trains and supports federal observers for their respective regions.
+Some states also support their own observer programs and data collection.
+Observer data are essential for the monitoring and conservation of NOAA trust resources, and are used to support stock assessments and fishery management, reduce bycatch, document species, and support the research community.
+Observers do come into contact with some protected fish species, and record biological information, locational data, and may collect samples depending on the species.
+
+### ESA 5-Year Reviews
+
+Every five years, the status (i.e., threatened or endangered) of ESA-listed fish is reviewed to ensure they maintain the appropriate level of protection under the ESA.
+The reviews assess whether a species’ status has changed since the time of its listing or its last status review, and whether it should be classified differently or delisted.
+Information gathered during those reviews can help inform management activities intended to support species recovery.
+
+## RWSC Study Area
+
+The RWSC study area is organized by subregion along the U.S.
+Atlantic coast, roughly aligned with current offshore wind development planning areas.
+RWSC subregions and map are described on page 2 of Chapter 2: Science Plan Organization.
+Many protected fish are distributed across multiple subregions, and it is important to gain a regional perspective on the changing environments.
+The Subcommittee would like to stress that in all subregions, fine-scale baseline data on protected fish and their life stages are still needed.
+Without established baselines, assessing and mitigating effects of offshore wind will be challenging.
+
+The **Gulf of Maine**, where offshore wind projects are still in the planning phases, has a range of marine habitats from deep sea canyons to rocky intertidal zones.
+These habitats support a wide variety of marine organisms including multiple species of protected fish.
+The Gulf of Maine also connects rivers that are the only remaining wild habitat for Atlantic salmon.
+More robust baseline data about the occurrence, distribution, and movement of protected fish species and their life stages in this region are needed.
+These data should be collected via telemetry and eDNA and paired with classic methods such as trawl surveys.
+All efforts, regardless of tool/method should use consistent data collection protocols in consultation with the Protected Fish Species Subcommittee.
+Oceanographic variables such as temperature, currents, tides, salinity, and other contextual information (e.g., quantifications of vessel traffic, EMF) should be co-collected or obtained from collaborators (e.g., NERACOOS, Rutgers, MARACOOS) to provide context and help identify drivers of species’ distribution and movement.
+Wind projects in this region will utilize floating structures.
+Many of the same impacts from traditionally anchored piles will apply to floating offshore wind, though floating offshore structures incorporate new technologies such as mooring lines that span the entire water column.
+The subcommittee would like to test how these lines will impact protected fish species, such as their potential to cause secondary entanglement.
+The University of Maine’s VulturnUS 1:8 floating turbine was energized and monitored, and no change to detection frequency was seen for tagged Atlantic salmon, Atlantic Sturgeon, or shortnose sturgeon on receivers near the turbine [@brady2015].
+Focal species in these regions include Atlantic salmon, Atlantic sturgeon and shortnose sturgeon.
+The oceanic whitetip shark and giant manta ray may also be found in this region.
+
+**Southern New England and NY/NJ Bight** has a variety of habitats that are used as spawning, feeding, and migration corridors for many species.
+The Cold Pool is a key oceanographic feature of the MAB that supports many fish species.
+In southern New England, offshore wind development has already begun.
+While small in scale, the Block Island Wind Farm (BIWF) became the first in the U.S., and construction has begun for additional projects.
+Existing baseline data collected using multiple tools such as acoustic telemetry, satellite telemetry, eDNA, and trawl surveys need to be integrated to characterize protected fish species’ distribution and movement pre-offshore wind construction.
+It is also essential to emphasize the continuation of data collection and monitoring throughout all phases of development.
+Additional data collection activities should also explore the potential impacts from floating wind in the deeper waters along/off the shelf break.
+These analyses should leverage characterizations of the potential stressors of interest, including quantifications of vessel traffic changes, EMF, sediment resuspension, and entrainment.
+Close collaboration between researchers and developers is needed to avoid duplication of efforts.
+Focal species in these regions include Atlantic sturgeon and shortnose sturgeon.
+The oceanic whitetip shark and giant manta ray are also found in this region.
+
+In **Central Atlantic and Southeastern U.S. Atlantic,** baseline data collection on the occurrence, distribution, and movement of protected fish is still needed.
+There is an emphasis to begin monitoring activities in the Central Atlantic, as projects in this subregion are farther along in the development process.
+The Central Atlantic is home to the Atlantic sturgeon, shortnose sturgeon, and giant manta ray.
+The whitespotted eagle ray is also found in this region.
+These species are also distributed in the southeastern U.S.
+Atlantic, as well as the listed Central & Southwest Atlantic distinct population segment of scalloped hammerhead shark, Nassau grouper, and smalltooth sawfish, though offshore wind development in the Southeastern U.S. Atlantic is still in the planning process.
+
+## Research Recommendations: Protected fish and Offshore Wind in the U.S. Atlantic Ocean
+
+Efforts to address fish and offshore wind have already begun.
+The following research recommendations aim to build on existing research to fill data gaps and advance the understanding of protected fish species.
+The Subcommittee curated research recommendations around four major research themes that were decided upon by the RWSC Steering committee: understanding the environmental context around changes to wildlife and habitats, detecting and quantifying changes to wildlife and habitats; mitigating negative impacts that are likely to occur and/or are severe in magnitude; and enhancing data sharing and access.
+These recommendations fall into three categories: data collection, data analysis, and data management.
+The Subcommittee would like to note that assigning causality to observed changes may not be possible, especially with the lack of baseline data on many protected fish species in a rapidly changing environment.
+Collecting long-term data series before, during, and after construction will aid in the ability to distinguish shifts caused by different factors such as natural variation and climate change, though this task remains challenging.
+
+### Data Collection
+
+Several entities are requiring, funding, and/or advocating for protected fish species research and data collection activities with respect to offshore wind.
+All ongoing and pending activities, including protected fish species monitoring that is being required by agencies, are captured in the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
+Individuals and entities should consult with the Protected Fish Species Subcommittee prior to collecting protected fish species data with respect to offshore wind to ensure that any new data collection does not duplicate existing efforts and is consistent with the tools and approaches already in use.
+Any individual or entity may join public Protected Fish Species Subcommittee meetings by obtaining meeting links on the RWSC website, where past meeting materials are also available
+
+To address the potential effects of offshore wind development on protected fish, a variety of methods are currently being employed.
+A combination of methods is recommended to provide the most complete information and context.
+The table below describes data collection methods utilized to study protected fish.
+
+*Table 3. Data Collection Methods and Descriptions. This table summarizes data collection methods that are currently being used to study protected fish species.*
+
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Data Collection Method**                         | **Description**                                                                                                                                                                                                                                                                                                                                                                                                      |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Acoustic telemetry                                 | Includes deploying acoustic transmitters on animals and deploying receivers to detect tagged animals.                                                                                                                                                                                                                                                                                                                |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Satellite telemetry                                | Satellite tags are attached to animals, GPS and various environmental data are collected.                                                                                                                                                                                                                                                                                                                            |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Conventional tagging                               | Various types of non-electronic tags can be attached to protected fish both internally and externally.                                                                                                                                                                                                                                                                                                               |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| eDNA                                               | Environmental DNA (eDNA) is shed by an organism and can be picked up in the environment via water sample collection. It is currently used to assess presence/absence and gather high level assemblage information [@usgs2018].                                                                                                                                                                                       |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nets, tows, lines, and traps                       | Multiple long standing surveys are conducted along the coast utilizing various types of fishing gear.                                                                                                                                                                                                                                                                                                                |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Aerial surveys                                     | Standard survey technique. Can be used to count individuals/species and/or to quantify abundance via manned planes or uncrewed vehicles. Of the protected fish, this is mostly utilized for manta rays.                                                                                                                                                                                                              |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Boat-based visual surveys                          | Standard survey technique. Can be used to count individuals/species and/or to quantify abundance.                                                                                                                                                                                                                                                                                                                    |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Opportunistic visual surveys                       | Surveys that serve another purpose or target other species that opportunistically allow for data collection on protected fish.                                                                                                                                                                                                                                                                                       |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Holographic camera system                          | Records full-field, high resolution distortion-free images in situ. Machine Learning algorithms have been developed and are being used to identify Atlantic sturgeon larvae in the Central Atlantic.                                                                                                                                                                                                                 |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Acoustic imagery sonar                             | Side scan sonars, split beam sonars, multibeam sonars and DIDSON/ARIS systems emit beams which result in backscatter that results in seabed imaging.                                                                                                                                                                                                                                                                 |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Baited Remote Underwater Videos Stations (BRUVS)   | Deployed in water column or at seafloor and provide visual record of species presence. Some systems can also collect length information. This tool is nondestructive and can be used in harder-to-sample areas (e.g., on scour protection).                                                                                                                                                                          |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Passive Acoustic Monitoring (PAM)                  | Hydrophones deployed to record and archive sound produced by animals in the environment. Hydrophones can be stationary or mobile. Reporting can be done in real time or stored and archived.                                                                                                                                                                                                                         |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Salvage operations                                 | Respond to reports of stranded animals (dead or alive/in distress) and take the appropriate steps given the condition of the animal.                                                                                                                                                                                                                                                                                 |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Biological sampling and measurements               | From captured individuals, collect body measurements and/or samples of biological material such as fin clips. Physiological measurements including stress hormones from blood, blow, mucus, tissue, fecal samples, etc. Proper animal handling protocols should always be used when collecting samples and taking measurements. NOAA Fisheries and the AZA are two entities that provide safe handling guidelines.   |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Water quality and oceanography                     | In-situ measurements of abiotic properties including salinity, dissolved oxygen, temperature, etc.                                                                                                                                                                                                                                                                                                                   |
++----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Most offshore-wind-specific monitoring to-date of protected fish species in the U.S.
+Atlantic is occurring in Southern New England and the NY/NJ Bight on Atlantic sturgeon, with the goal of characterizing baseline distribution and movement.
+There are also significant and ongoing data collection efforts in estuaries and coastal areas throughout the United States.
+While most of these efforts are not explicitly related to offshore wind, their findings can be used to augment the baseline understanding of protected fish species in the region.
+Via cooperative and collaborative networks, these independent efforts will help build a larger understanding of fish movement, abundance, and use of the region over space and time.
+This, in turn, will help to detect changes resulting from the development of offshore wind.
+
+As previously noted, NMFS long-term scientific surveys are a critical monitoring system for the management of wildlife, fisheries, habitats, and ecosystems.
+In order to understand potential changes in protected fish species and their habitats from offshore wind energy development, it is essential that these long-term standardized surveys continue to provide timely, accurate, and precise data.
+The need to fully implement the NMFS and BOEM Survey Mitigation Strategy and apply a similar strategy to the southeast region is highlighted as a significant priority for regional protected fish research and monitoring.
+
+The Subcommittee lists the following priorities and recommends associated data collection activities, noting that these recommendations are to be reviewed and updated on a regular basis:
+
+**Collect information on distribution, abundance, behavior, health, reproduction, and other vital population rates of protected fish at all life stages. This includes estuarine and freshwater habitat if distribution expands into those environments.** It is imperative to gain a better spatiotemporal understanding of protected species and their migration patterns to assert when and how they are most likely to use WEAs.
+Due to the differing ecosystems across the region, and migration patterns of multiple species of protected fish, it is important that data is collected on a region-wide scale.
+All life stages should be examined.
+To study early life stages, dispersal models and plankton cameras should be utilized.
+This includes attraction/avoidance, residency, feeding, use of area.
+Data collected will be used to **understand changes to the environment resulting from offshore wind development.**
