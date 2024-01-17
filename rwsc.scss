@@ -23,7 +23,7 @@ div.column-body {
 /* Headings -------------------------------------------------------------------- */
 
 body {
-	counter-reset: heading;
+	counter-reset: h4counter;
 }
 
 h4.nocount:before {
