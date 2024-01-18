@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rwsc.org/science-plan/index.html</loc>
-    <lastmod>2024-01-18T19:09:04.713Z</lastmod>
+    <lastmod>2024-01-18T21:25:37.769Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/executive-summary.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/append-pf.html</loc>
-    <lastmod>2024-01-17T20:13:56.141Z</lastmod>
+    <lastmod>2024-01-18T21:25:37.820Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/intro.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>https://rwsc.org/science-plan/append-st.html</loc>
     <lastmod>2024-01-17T20:14:56.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rwsc.org/science-plan/protected-fish.html</loc>
+    <lastmod>2024-01-18T21:25:41.671Z</lastmod>
   </url>
 </urlset>
