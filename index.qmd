@@ -2,7 +2,7 @@
 
 This is the website for the **Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters**.
 
-The RWSC Steering Committee, members of U.S. federal agencies, Atlantic coast states, offshore wind companies, environmental nonprofits, and RWSC's host entities---the Northeast Regional Ocean Council and Mid-Atlantic Regional Council on the Ocean with the Coastal States Stewardship Foundation---collaboratively developed the Science Plan to inform future data collection and research.
+The RWSC Steering Committee, state and federal government agencies, offshore wind companies, environmental nonprofits, and RWSC's host entities---the Northeast Regional Ocean Council and Mid-Atlantic Regional Council on the Ocean with the Coastal States Stewardship Foundation---collaboratively developed the Science Plan to inform future data collection and research.
 
 -   RWSC is serving as a coordination hub for offshore wind research to increase collaboration, limit redundancy, suggest common data standards, and increase data sharing and transparency.
 
