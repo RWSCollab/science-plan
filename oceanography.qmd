@@ -16,7 +16,7 @@ These data and derived data products (e.g., hindcast, nowcast, and forecast mode
 One program within NOAA is the [U.S. Integrated Ocean Observing System (IOOS),](https://ioos.noaa.gov/) a national-regional partnership that coordinates the contributions of Federally owned observing and modeling systems and develops and integrates non-federal observing and modeling capacity into the system in partnership with IOOS regions.
 The IOOS Regional Associations (RAs) in the RWSC study area are the [Southeast Coastal Ocean Observing Regional Association (SECOORA)](https://secoora.org/), the [Mid-Atlantic Regional Association Coastal Ocean Observing System (MARACOOS)](https://maracoos.org/), and the [North East Regional Association of Coastal Ocean Observing Systems (NERACOOS)](https://neracoos.org/).
 The Directors of each IOOS RA are members of the Habitat & Ecosystem Subcommittee, and IOOS RA staff also participate in each of the other RWSC Subcommittees.
-Each IOOS RA has different ares of focus with respect to data collection, synthesis, and management based on regional needs and partnerships.
+Each IOOS RA has different areas of focus with respect to data collection, synthesis, and management based on regional needs and partnerships.
 The IOOS RAs also coordinate coastal acidification networks along the Atlantic coast ([SOCAN](https://www.socan.secoora.org/), [MACAN](https://midacan.org/), [NECAN](http://necan.org/)) whose activities should be leveraged with respect to understanding any biogeochemical effects resulting from construction and operation of offshore wind projects.
 Relevant IOOS RA biological data coordination is captured in each taxa-focused Science Plan chapter.
 IOOS RAs will coordinate through RWSC Subcommittees and with RWSC leadership on data collection, syntheses, and management with respect to offshore wind and wildlife studies.
@@ -28,18 +28,18 @@ Understanding the full suite of oceanographic and meteorological processes near 
 
 The Habitat & Ecosystem Subcommittee recommends that consistent data collection methods are applied across studies of oceanographic and meteorological processes so that data can support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., species distribution models).
 
-To support these efforts, the Subcommittee recommends:  
+To support these efforts, the Subcommittee recommends:
 
 -   Maintenance of an up-to-date resource list of recommended repositories, data and metadata standards, guidance, and protocols for use by all data collectors.
     The current recommended resources are detailed in the table below.
 
 -   Development of recommendations for managing, storing, accessing, and eventually compiling archived (i.e., not real-time) oceanographic and meteorological observations recorded by wildlife and habitat researchers (and others) that may not be appropriately submitted to any of the repositories below due to dataset size or other considerations (e.g., bottom temperature readings recorded during fall/spring bottom trawl surveys).
 
--   Development of standard language for inclusion in requests for proposals and funding agreements to encourage or require the use of recommended resources.
+-   Development of standard language for inclusion in requests for proposals and funding agreements to encourage or require the use of recommended repositories and data standards.
 
 -   Establishment of data sharing workflows, including formal agreements if necessary, to appropriately manage access to sensitive industry-collected datasets necessary for research (e.g., meteorological and oceanographic data collected on wind turbine generators and substations).
 
-The following table lists the repositories and standards that are recommended for use in oceanographic and meteorological data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists. 
+The following table lists the repositories and standards that are recommended for use in oceanographic and meteorological data collection.
 
 Table 7.
 Recommended repositories and standards for oceanography data collection.
@@ -74,7 +74,7 @@ Recommended repositories and standards for oceanography data collection.
 
 ## Data Collection
 
-Oceanographic and meteorological data collection is rarely required by agencies but is being collected widely given its inherent value to offshore wind developers to inform engineering and operational decisions.
+Oceanographic and meteorological data collection is being collected widely given its inherent value to offshore wind developers to inform engineering and operational decisions.
 Several other entities are also funding, and/or advocating for oceanographic research and data collection activities with respect to offshore wind, in many cases due to the relevance to megafauna and their prey.
 Ongoing and planned activities are captured in the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
 
@@ -89,7 +89,7 @@ Links below point to active or legacy data:
 
 -   [Atlantic Shores Offshore Wind](https://erddap.maracoos.org/erddap/search/index.html?page=1&itemsPerPage=1000&searchFor=Atlantic+shores)
 
--   [Southcoast Wind](https://mariners.neracoos.org/)
+-   [SouthCoast Wind](https://mariners.neracoos.org/)
 
 The Subcommittee recommends the following data collection activities :
 
@@ -171,7 +171,7 @@ Additional platforms will be coming online in the MA/RI Wind Energy Area associa
 Research efforts in the **U.S. Southeast Atlantic** should focus on areas that are the likely targets of wind development (i.e., the northern third to one-half of the subregion).
 Upwelling is an important process in this subregion where seasonal stratification and Ekman transport push deep Gulf Stream waters onshore.
 These nutrient-rich deep waters drive productivity in the U.S.
-Southeast Atlantic, but overall, relationships between seasonal oceanographic forcing and biological responses in this subregion are poorly documented and understood.
+Southeast Atlantic, but overall, relationships between seasonal oceanographic forcing and biological responses in this subregion are active areas of research.
 Data collection and modeling should focus on the potential effects from wakes on cross-shelf transport and resulting impacts to the ecology of the subregion.
 
 ## Data Analysis
