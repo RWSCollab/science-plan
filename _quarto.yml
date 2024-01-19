@@ -15,7 +15,8 @@ book:
     right: <img src="RWSC_Logo.png" width="125">
   search:
     location: sidebar
-    type: textbox
+    type: overlay
+    copy-button: true
   sidebar:
     title: RWSC Science Plan
     logo: "logo7.png"
