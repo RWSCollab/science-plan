@@ -3,17 +3,34 @@
 *For more background and context, read [the extended Introduction in the Appendix](append-intro.qmd).*
 
 To develop the Science Plan, the RWSC Steering Committee convened six expert Subcommittees---Marine Mammal, Bird & Bat, Sea Turtle, Habitat & Ecosystem, Protected Fish Species, and Technology[^intro-1].
-Contributors spanned the federal agencies, states, offshore wind companies, environmental nonprofits, academic and research institutions, and other private entities.
-RWSC received comments and input from these groups and the public that greatly improved this Plan (see [Science Plan Review & Revision Process](#_Science_Plan_Review)).
+Contributors spanned U.S. federal agencies, states, offshore wind companies, environmental nonprofits, academic and research institutions, and other private entities.
+RWSC received comments and input from these groups and the public that greatly improved this Plan (see [Science Plan Review & Revision Process](review.qmd)).
 
-## Citations to existing work {.unnumbered}
+## How to Use This Plan {.unnumbered}
+
+The [Executive Summary](executive-summary.qmd) recommends actions that anyone, including state and federal agencies, offshore wind companies, environmental nonprofits, and researchers, can take to implement the Science Plan.
+
+Although government agencies participated in the development of the Science Plan, the document itself is not presently included in government regulations.
+Neither the RWSC nor any of its Subcommittees were established or are utilized by a federal agency for the purpose of obtaining advice or recommendations on issues or policies for any agency.
+
+The U.S. Bureau of Ocean Energy Management (BOEM), which is the lead permitting agency for offshore wind, has required that offshore wind projects follow the [Data Management & Storage Best Practices for Long-term and Archival Passive Acoustic Monitoring (PAM) Data](https://rwscollab.github.io/pam-data-mgmt/) developed by the RWSC Marine Mammal Subcommittee.
+These best practices were developed during the Science Plan development.
+
+Several states currently require offshore wind companies to fund regional research that is consistent with the Science Plan as part of their power purchase agreements.
+RWSC has set up an Offshore Wind & Wildlife Research Fund to pool together resources to help facilitate regional research that’s consistent with the Science Plan.
+
+RWSC will convene annual meetings to help states, industry, and other stakeholders to coordinate together around how they are and how they plan to fund offshore wind research.
+
+For funds provided to RWSC, funding decisions will be advised by the expert Subcommittees and academics and ultimately reside with the Steering Committee, which is made up of representatives from government, industry, and non-governmental organizations.
+
+## Citations to Existing Work {.unnumbered}
 
 Readers will find parenthetical citations to reports and scientific literature throughout the Science Plan.
 A complete bibliography is provided in @sec-refs.
 
 RWSC also has a public [Science Plan Zotero library](https://www.zotero.org/groups/5235886/rwsc_science_plan) for all of the references in the Science Plan.
 
-## Species focus {.unnumbered}
+## Species Focus {.unnumbered}
 
 The Science Plan is separated into chapters that align with the Subcommittees' expertise on species and habitat groups:
 
@@ -31,9 +48,9 @@ The Science Plan is separated into chapters that align with the Subcommittees' e
 
 -   Habitat & Ecosystem - Seafloor
 
-Two additional chapters---Data Governance & Data Management and Technology---discuss issues that are pertinent to all species research and data collection activities.
+Two additional chapters---Data Governance & Data Management and Technology---discuss issues that are pertinent to all species/habitat research and data collection activities.
 
-## Study area and subregions {.unnumbered}
+## Study Area and Subregions {.unnumbered}
 
 The RWSC study area is defined as U.S.
 Atlantic waters where offshore wind is being developed, planned, and proposed.
@@ -55,15 +72,16 @@ The subregions align and are named to correspond with the Bureau of Ocean Energy
 **New York/New Jersey Bight:** This subregion extends south from the southern border of the Southern New England subregion to a line running roughly east-southeast from Cape May, New Jersey.
 The subregion includes Long Island Sound and the Hudson Canyon.
 
-**U.S. Central Atlantic:** This subregion extends south from the southern border of the New York/New Jersey Bight subregion to a line running east from Cape Hatteras, North Carolina.
+**U.S. Central Atlantic:** This subregion is commonly referred to as the Mid-Atlantic Bight.
+It extends south from the southern border of the New York/New Jersey Bight subregion to a line running east from Cape Hatteras, North Carolina.
 
 **U.S. Southeast Atlantic:** This subregion extends south from the southern border of the U.S.
 Central Atlantic subregion up to and including the Florida Keys.
 
-## Developing recommendations {.unnumbered}
+## Developing Recommendations {.unnumbered}
 
-Each Subcommittee referenced and leveraged existing efforts to identify regional research needsrelated to offshore wind and wildlife.
-They also developed the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) to hold information about ongoing and planned research and data collection efforts in U.S.
+Each Subcommittee referenced and leveraged existing efforts to identify regional research needs related to offshore wind and wildlife.
+RWSC developed the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) to hold this and other information about ongoing and planned research and data collection efforts in U.S.
 Atlantic waters that are being funded by federal agencies, states, offshore wind companies, and other entities.
 The Database displays information about each project's overall goal(s), geographic area of focus, methods used, principal investigators, and other details.
 This information is being shared to encourage collaboration and reduce the likelihood of duplication.
