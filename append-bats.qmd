@@ -91,7 +91,7 @@ Hoary bats, silver-haired bats, and eastern red bats were designated as Endanger
 At least six bat species have been detected visually or acoustically over the waters of the Northwest Atlantic [@solick2021].
 The vast majority of detections identified to species were one of the three long-distance migratory tree bats (eastern red bat, hoary bat, silver-haired bat).
 Tricolored bats, big brown bats, and *Myotis* species have also been detected, albeit more rarely [@solick2021].
-Challenges in differentiating amongst species acoustically (e.g., see [@nocera2019]) means that it can be difficult to positively determine which *Myotis* spp.
+Challenges in differentiating amongst species acoustically [@nocera2019] means that it can be difficult to positively determine which *Myotis* spp.
 are detected offshore.
 
 While some scientific research methods will provide information about a variety of taxa (e.g., acoustic surveys), other research methods (e.g., tagging) provide species-specific data.
@@ -143,7 +143,7 @@ Analyses of onshore rates of fatality at land-based wind facilities has suggeste
 
 Overall, in the absence of offshore infrastructure, bat activity is thought to be lower at isolated offshore sites compared to most coastal, island, and inland habitats [@solick2021; @stantec2016].
 However, bats appear to be attracted to land-based wind turbines and other tall structures [@cryan2014; @guest2022; @jameson2014].
-Researchers have hypothesized that the greater height of offshore wind turbines and their prominence in an otherwise flat seascape could increase attraction of bats to offshore wind facilities [@solick2021], potentially increasing collision risk or leading to greater exposure to harsh weather conditions offshore (see [@wilson2023]).
+Researchers have hypothesized that the greater height of offshore wind turbines and their prominence in an otherwise flat seascape could increase attraction of bats to offshore wind facilities [@solick2021], potentially increasing collision risk or leading to greater exposure to harsh weather conditions offshore [@wilson2023].
 Historic records indicate that bats sometimes flocked around sailing ships [@pelletier2013], and more recent studies have documented bats roosting and foraging around offshore turbines in Europe [@ahlén2009].
 
 Given bat attraction to turbines, offshore wind facilities are not expected to cause habitat displacement or impose barriers to habitat connectivity.
@@ -176,8 +176,8 @@ Those are relevant to the study of terrestrial effects of offshore wind – such
 
 Acoustic surveys can be conducted using acoustic detectors to record calls of bats [@loeb2015].
 Surveys may be conducted using passive (stationary) methods or active methods.
-Active surveys onshore are typically conducted using a vehicle; at sea, they are often boat-based (e.g., see [@sjollema2014]), although drones are beginning to be used experimentally [@workboatstaff2023].
-Passive surveys offshore utilize stationary detectors deployed on ocean buoys, meteorological towers, offshore wind turbines, other offshore infrastructure (such as electrical service platforms or “ESPs”); use of coastal and island sites are also common for understanding timing and locations of bat movements in the coastal and marine environments (e.g., see [@peterson2014]).
+Active surveys onshore are typically conducted using a vehicle; at sea, they are often boat-based [@sjollema2014], although drones are beginning to be used experimentally [@workboatstaff2023].
+Passive surveys offshore utilize stationary detectors deployed on ocean buoys, meteorological towers, offshore wind turbines, other offshore infrastructure (such as electrical service platforms or “ESPs”); use of coastal and island sites are also common for understanding timing and locations of bat movements in the coastal and marine environments [@peterson2014].
 Acoustic surveys for bats utilize detectors which operate in the ultrasonic range in which most echolocation calls fall.
 Note that acoustic surveys are only effective when study animals are vocalizing, and ultrasound does not travel far through the atmosphere.
 Ambient noise can also interfere with detection of vocalizing animals and limit the distance over which calls will be recorded.
@@ -219,9 +219,9 @@ Geolocators require exposure to daylight to function, which is not necessarily a
 
 **Capture-mark-recapture** studies can be used to assess longevity and survival of bats.
 While bird banding is a very common practice for birds of all sizes, bat banding is less common.
-Banding of bats (on the forearm, rather than the leg) is carried out by some researchers, but there are concerns that this practice could result in injuries to the animal (e.g., see [@lobato-bailón2023]).
+Banding of bats (on the forearm, rather than the leg) is carried out by some researchers, but there are concerns that this practice could result in injuries to the animal [@lobato-bailón2023].
 The USFWS has convened a working group to study this issue in bats and come up with recommendations.
-PIT (passive integrated transponder) tags are also used on bats in some instances and have good retention rates (e.g., see [@vanharten2021]).
+PIT (passive integrated transponder) tags are also used on bats in some instances and have good retention rates [@vanharten2021].
 These tags are implanted into the animal using an injector.
 These types of identification systems are most useful in situations where an animal is expected to return to a given site where it may be easily captured, such as maternity colonies or hibernacula.
 
@@ -270,7 +270,7 @@ Thus, mitigation in this context includes:
     This could include curtailing wind turbine operations during periods of high bat activity (e.g., low wind speed nights) so as to reduce the risk of collision fatalities, a practice determined to be effective at land-based wind facilities [@adams2021; @whitby2021].
     Minimizing the impacts on-site could also include use of deterrent technologies, if deemed effective.
     These technologies continue to be developed and evaluated at land-based wind facilities [@hein2021].
-    In some studies, individual technologies have reduced overall bat fatalities (e.g., see [@hein2021; @romano2019; @schirmacher2020; @weaver2020]); however, no deterrent has shown consistent reductions in fatalities of eastern red bats, the most commonly detected species offshore [@solick2021].
+    In some studies, individual technologies have reduced overall bat fatalities [@hein2021; @romano2019; @schirmacher2020; @weaver2020]; however, no deterrent has shown consistent reductions in fatalities of eastern red bats, the most commonly detected species offshore [@solick2021].
 
 -   **Rectifying the impact** by repairing, rehabilitating, or restoring the affected environment.
     For example, this could include placing artificial roosting habitats [@mering2014] or creating snags in areas where maternity roost trees were cut to make way for a transmission corridor.
@@ -619,7 +619,7 @@ As part of addressing near and long-term goals, the Bird & Bat Subcommittee reco
 -   **Use of acoustics to better understand onshore-to-offshore gradients of bat activity** pre- and post-construction.
     Leveraging existing platforms (e.g., vessels which already make regular trips through offshore waters, offshore buoys, other offshore infrastructure) and coastal and island sites will aid in this effort.
 
--   **Use of Motus tagging/tracking systems to characterize patterns of bat movement offshore** (Acoustic studies alone may fail to fully capture bat activity if bats regularly refrain from echolocation while flying over the ocean, see [@corcoran2018; @corcoran2021].
+-   **Use of Motus tagging/tracking systems to characterize patterns of bat movement offshore** (Acoustic studies alone may fail to fully capture bat activity if bats regularly refrain from echolocation while flying over the ocean [@corcoran2018; @corcoran2021].
 
 -   Deploying Motus tags on migratory tree bats (hoary bats, eastern red bats, silver-haired bats) to evaluate patterns of movement during the spring and late summer-fall migration seasons.
 
