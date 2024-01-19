@@ -58,16 +58,840 @@ Tracking data suggest foraging occurs outside of nesting areas in post-nesting f
 
 Table 1: Sea turtle species and life stage covered by this plan by subregion (UN=unknown, NA=not applicable, Winter=Jan-Mar, Spring=Apr-Jun, Summer=Jul-Sep, Fall=Oct-Dec).
 
-Gulf of Maine
+**Gulf of Maine**
 
-|               |                |                    |                        |                       |           |                     |                       |
-|---------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|
-|               |                | **Life stage(s)**  |                        |                       |           |                     |                       |
-| **Species**   | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** |
-| leatherback   | endangered     | NA                 | UN                     | ü                     | ü         | NA                  | common                |
-| loggerhead    | threatened     | NA                 | NA                     | ü                     | ü         | NA                  | common                |
-| Kemp's ridley | endangered     | NA                 | NA                     | ü                     | NA        | NA                  | rare                  |
-| green         | threatened     | NA                 | NA                     | ü                     | NA        | NA                  | rare                  |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>   </p>
+<p><strong>Species</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>ESA   Status</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>egg/ hatchling</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile dispersal</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile-subadult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>adult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>nesting females</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Annual   occurrence</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Habitat   use</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Seasonal   timing</strong></p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>leatherback</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic &amp; pelagic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>loggerhead</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>Kemps ridley</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>rare</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>summer-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>green</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>rare</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>summer-fall</p>
+<p>   </p></td>
+</tr>
+</tbody>
+</table>
+
+**Southern New England**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>   </p>
+<p><strong>Species</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>ESA   Status</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>egg/ hatchling</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile dispersal</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile-subadult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>adult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>nesting females</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Annual   occurrence</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Habitat use</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Seasonal   timing*</strong></p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>leatherback</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic &amp; pelagic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>loggerhead</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>Kemps ridley</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>rare</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>summer-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>green</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>rare</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>summer-fall</p>
+<p>   </p></td>
+</tr>
+</tbody>
+</table>
+
+**New York Bight**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>   </p>
+<p><strong>Species</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>ESA   Status</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>egg/ hatchling</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile dispersal</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile-subadult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>adult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>nesting females</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Annual   occurrence</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Habitat   use</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Seasonal   timing</strong></p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>leatherback</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common seasonally</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic &amp; pelagic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>loggerhead</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>Kemps ridley</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>summer-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>green</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common   seasonally</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>summer-fall</p>
+<p>   </p></td>
+</tr>
+</tbody>
+</table>
+
+**Central Atlantic**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>   </p>
+<p><strong>Species</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>ESA   Status</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>egg/ hatchling</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile dispersal</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile-subadult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>adult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>nesting females</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Annual   occurrence</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Habitat   use</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Seasonal   timing</strong></p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>leatherback</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common seasonally</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic/pelagic   foraging, migration</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>loggerhead</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common seasonally</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic/pelagic   foraging, migration, nesting</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>Kemps ridley</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common seasonally</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic   foraging, migration</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>spring-fall</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>green</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common seasonally</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic   foraging, migration, nesting</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>late spring-fall</p>
+<p>   </p></td>
+</tr>
+</tbody>
+</table>
+
+**Southern Atlantic**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>   </p>
+<p><strong>Species</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>ESA   Status</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>egg/ hatchling</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>oceanic dispersal</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>juvenile-subadult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>adult</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>nesting females</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Annual   occurrence</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Habitat   use</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>Seasonal   timing</strong></p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>leatherback</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common </p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic/pelagic foraging, migration,   nesting</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>year round</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>loggerhead</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic/pelagic foraging, migration,   nesting</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>year round</p>
+<p>   </p></td>
+</tr>
+<tr class="even">
+<td><p>   </p>
+<p>Kemps ridley</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>endangered</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>NA</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging, migration</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>year round</p>
+<p>   </p></td>
+</tr>
+<tr class="odd">
+<td><p>   </p>
+<p>green</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>threatened</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>UN</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>✔️</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>common</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>neritic foraging, migration, nesting</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>year round</p>
+<p>   </p></td>
+</tr>
+</tbody>
+</table>
 
 ### Focal species and notable recent trends
 
