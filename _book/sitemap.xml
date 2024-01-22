@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rwsc.org/science-plan/index.html</loc>
-    <lastmod>2024-01-18T21:25:37.769Z</lastmod>
+    <lastmod>2024-01-22T14:30:44.667Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/executive-summary.html</loc>
@@ -46,11 +46,11 @@
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/oceanography.html</loc>
-    <lastmod>2024-01-19T19:35:19.957Z</lastmod>
+    <lastmod>2024-01-22T15:23:42.523Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/append-hes.html</loc>
-    <lastmod>2024-01-19T19:53:40.893Z</lastmod>
+    <lastmod>2024-01-22T14:55:57.221Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/seafloor.html</loc>
@@ -63,5 +63,9 @@
   <url>
     <loc>https://rwsc.org/science-plan/review.html</loc>
     <lastmod>2024-01-19T20:20:44.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rwsc.org/science-plan/append-heo.html</loc>
+    <lastmod>2024-01-22T14:55:47.172Z</lastmod>
   </url>
 </urlset>
