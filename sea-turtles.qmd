@@ -19,7 +19,7 @@ Offshore Wind Energy Development: Compilation of Educational Research Briefs [@s
 ## Data Management
 
 There are few existing data management standards developed specifically for sea turtles.
-The Sea Turtle Subcommittee will work with individuals and entities who conduct research to ensure that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC study area.
+The Sea Turtle Subcommittee will work with individuals and entities who conduct research to encourage that data are collected and stored in consistent formats that allow comparisons and pooling across individual projects in the RWSC study area.
 This standardization is intended to support regional-scale assessments and the development and maintenance of regional data products and tools (e.g., sea turtle surface density models).
 
 To support these efforts, the Sea Turtle Subcommittee recommends:
@@ -77,9 +77,9 @@ Recommended repositories and standards for sea turtle data collection.
 |                                                                                                                |                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                | [STSSN State Coordinators](https://www.fisheries.noaa.gov/marine-life-distress/state-coordinators-and-state-liaisons-sea-turtle-stranding-and-salvage-network)                                                      | Inshore observations of stranded sea turtles should be reported to state coordinators; EEZ observations should be reported to regional coordinators                                                                                                                                                                                                                        |
 |                                                                                                                |                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                | [EEZ Maine-Virginia:]{.underline} Northeast Marine Mammal & Sea Turtle Stranding & Entanglement Hotline (866-755-6622)                                                                                              |                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                | [U.S. EEZ Maine-Virginia:]{.underline} Northeast Marine Mammal & Sea Turtle Stranding & Entanglement Hotline (866-755-6622)                                                                                         |                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                |                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                | [EEZ]{.underline} North Carolina-Florida: NOAA Fisheries Southeast Sea Turtle Stranding and Salvage Network Hotline (844-732-8785)                                                                                  |                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                | [U.S. EEZ North Carolina-Florida]{.underline}: NOAA Fisheries Southeast Sea Turtle Stranding and Salvage Network Hotline (844-732-8785)                                                                             |                                                                                                                                                                                                                                                                                                                                                                            |
 +----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | High-definition aerial imagery                                                                                 | None -- needs development                                                                                                                                                                                           | None -- needs development                                                                                                                                                                                                                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -97,7 +97,7 @@ Any individual or entity may join public Sea Turtle Subcommittee meetings by obt
 Currently, there are limited fine-scale baseline data on abundance and density of sea turtles in the U.S.
 Atlantic.
 The primary methodology for determining sea turtle abundance and density is to employ manned aerial surveys, but this methodology is not designed to detect small individuals such as the Kemp's ridley turtle that is critically endangered.
-Parameters for baseline data collection on behavior, physiology, and distribution have not been established.
+The appropriate variables for describing baseline behavior, physiology, and distribution have not been established.
 Without established baselines effective for all species and size classes, assessing and mitigating effects of offshore wind on sea turtles will be extremely difficult.
 
 Few large-scale ongoing or proposed offshore wind studies include sea turtles as the target species group.
@@ -136,13 +136,13 @@ Technology needed to improve sea turtle detection and access:
 
 -   Continue development, testing, and deployment of safe, long term external attachment and/or internal insertion methods [@innis2023] for acoustic tags on sea turtles in order to efficiently make use of this resource.
 
--   (*Cross taxa*) Develop and test eDNA assays/surveys/sampling regimes to understand efficacy of use developing indices of occurrence/abundance, including testing the effect of carcasses in the environment on eDNA detection.
+-   (*Cross taxa*) Develop and test eDNA assays/surveys/sampling regimes to understand efficacy of use in developing indices of occurrence/abundance, including testing the effect of carcasses in the environment on eDNA detection.
 
 Each subregion has differences in both sea turtle occurrence and the scale and timeline of offshore wind development.
 Subregion specific recommendations are:
 
 In the **Gulf of Maine**, where floating offshore wind development is planned, but where development areas are still being identified, baseline data collection is needed.
-Small, focused studies on individual animal movement and behavior that are site specific may be most effective strategies for assessing impacts.
+Small, focused studies on individual animal movement and behavior that are site specific may be the most effective strategies for assessing impacts.
 Data collection in this subregion should include efforts to characterize and monitor gelatinous prey (i.e., jellyfish and ctenophores) as it is unclear how/whether floating turbines will affect this important sea turtle prey group.
 
 In **Southern New England and the New York/New Jersey Bight**, approved offshore wind projects pose the first opportunity to study sea turtle behavior during construction and operation and to identify potential impacts to sea turtles.
@@ -165,7 +165,7 @@ Data analyses should inform where new data collection is needed, characterize oc
 
 Individuals and entities are encouraged to consult with the Sea Turtle Subcommittee prior to conducting analyses of sea turtle data with respect to offshore wind to ensure that studies leverage all available data and contribute to addressing key issues described below to the extent possible.
 
-Due to the lack of finer scale baseline abundance/density data, other baseline parameters and understanding of drivers of sea turtle behavior, distribution, and movement are needed.
+Due to the lack of fine scale baseline abundance/density data, other baseline parameters and understanding of drivers of sea turtle behavior, distribution, and movement are needed.
 Design for the studies below should be tailored to detect and understand potential effects on sea turtles specifically, with other wildlife data to be collected ancillary to the target species.
 
 **Inform where new data collection is needed:**
@@ -186,8 +186,7 @@ Design for the studies below should be tailored to detect and understand potenti
 
 **Characterize oceanographic and habitat drivers of sea turtle distribution, abundance, and behavior:**
 
--   Update and refine the U.S.
-    Navy and/or develop NOAA Fisheries sea turtle abundance/density estimates and surface density models.
+-   Coordinate with federal agencies (U.S. Navy, NOAA Fisheries) to help update and refine sea turtle abundance/density estimates and surface density models.
 
     -   Integrate the latest observational and environmental data every 2-3 years.
 
@@ -209,9 +208,9 @@ Design for the studies below should be tailored to detect and understand potenti
 
 -   Apply methods similar to those used for impact assessment of the Deep Water Horizon Oil Spill on sea turtles [@love2017] to quantify potential impacts of offshore wind on sea turtles and to compare those impacts with other known cumulative stressors.
 
--   Assess the power of aerial survey data to detect changes in turtle abundance/density in the vicinity of offshore development.
+-   Conduct a power analysis and/or assess the ability of aerial survey data to detect changes in turtle abundance/density in the vicinity of offshore development.
 
-    -   Describe current limitations of visual aerial and digital surveys (e.g., depth of detection by size, sea state, and other environmental parameters; small animal (\>40cm carapace length)) and identify existing or develop new turtle-specific and multispecies best practices and needed technology to improve detection.
+    -   Describe current limitations of visual aerial and digital surveys (e.g., depth of detection by size, sea state, and other environmental parameters; small animals (\>40cm carapace length)) and identify existing or develop new turtle-specific and multispecies best practices and needed technology to improve detection.
 
     -   (*Cross taxa*) Work with other taxa groups to develop plans on how to consistently conduct aerial surveys near turbines in a manner comparable to previous survey data.
 
@@ -221,6 +220,6 @@ Design for the studies below should be tailored to detect and understand potenti
 
 -   (*Cross taxa*) Develop or update existing vessel and sea turtle/marine mammal co-occurrence models with vessels of various type and size associated with turbine construction and operation with the ultimate goal of modeling/estimating mortality attributable to vessel strikes associated with offshore wind.
 
--   (*Cross taxa*) Some effects of offshore wind development on sea turtles, both individually and at population levels, are likely to be indirect, cumulative, synergetic, and difficult assign to a single cause.
-    Disentangling the effects on sea turtles of climate change from any potential effects of offshore wind will be a challenge.
+-   (*Cross taxa*) Some effects of offshore wind development on sea turtles, both individually and at population levels, are likely to be indirect, cumulative, synergistic, and difficult to assign to a single cause.
+    Separating the effects on sea turtles of climate change from any potential effects of offshore wind will be a challenge.
     RWSC should support efforts to address this challenge for a variety of species.

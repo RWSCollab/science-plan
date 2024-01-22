@@ -17,7 +17,7 @@ During the 2023 Science Plan review, the RWSC held multiple discussions on data 
 As a result of these discussions, as well as comments received on the draft Science Plan, parts of the original Data Management Chapter have been distributed into relevant Subcommittee chapters while other parts are now incorporated here.
 This reflects a general desire to divide roles and responsibilities between the RWSC Steering Committee (via a newly created Data Governance Subcommittee) and the expert Subcommittees such that:
 
--   The Data Governance Subcommittee (DGSC) oversees issues that cross disciplines and taxa, like common data sharing terms for contracts, tools for sharing sensitive data, requirements for RWSC-funded projects, or setting a "floor" for data to be included in the RWSC catalog.
+-   The Data Governance Subcommittee (DGSC) oversees issues that cross disciplines and taxa, like common data sharing terms for contracts, tools for sharing sensitive data, requirements for RWSC-funded projects, or setting a "floor" for data to be included in an RWSC catalog.
 
 -   Other Subcommittees and data leads for individual projects hold the primary responsibility for data management of project data and data workflows.
     This includes applying the recommendations in the Subcommittee chapters for metadata standards, preferred repositories, and data stewardship through the data lifecycle.
@@ -100,6 +100,8 @@ A data ecosystem's interconnections are core to its value.
 If data discovery is difficult or data cannot move from one node to another, the data ecosystem will not be as effective or efficient.
 Figure 1 provides a high-level concept of the data ecosystem and how elements could be connected to deliver Science Plan products, with a focus on data sources, ownership, and control.
 
+![Idealized conceptual diagram of major components of the offshore wind and wildlife data ecosystem, organized by data contributors. A full map would detail data streams and the entities responsible for connecting those data streams to the Science Plan.](figures/dgdm/dgdm_fig1.png){fig-align="center"}
+
 [DGSC roles:]{.underline}
 
 -   Lead development of the data ecosystem map.
@@ -108,7 +110,7 @@ Figure 1 provides a high-level concept of the data ecosystem and how elements co
 
 -   Identify common bottlenecks or barriers across data types and sources that could be addressed by consistent guidance, policy, workflows, or other tools from the RWSC.
 
--   Encourage repositories in the data ecosystem to adopt a consistent Atlantic offshore wind "identifier" for data collected in and around Atlantic WEAs.
+-   Encourage repositories in the data ecosystem to adopt a consistent Atlantic offshore wind "identifier" for data collected in and around Atlantic Wind Energy Areas.
 
 -   Consider how the existing RWSC database of relevant research activities and the Northeast and Mid-Atlantic Ocean Data Portals fit into the data ecosystem now, and how those entities might play different roles once the data catalog is created.
 

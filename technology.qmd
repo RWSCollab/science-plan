@@ -84,7 +84,7 @@ Therefore, the content in this section is assumed to be incomplete.
 Monitoring activities include the required and voluntary data collection activities that seek to characterize wildlife presence, distribution, abundance, behavior, movement, and health, as well as benthic and pelagic habitat features that could be affected by offshore wind development or drive changes in species presence, distribution, abundance, behavior, movement, and health.
 
 Table 10.
-Ongoing and planned projects testing new monitoring technologies.
+Examples of ongoing and planned projects testing new monitoring technologies.
 
 +-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Technology being advanced**                                               | **Project name**                                                                                                                                                                                                                                                   |
@@ -128,7 +128,7 @@ Artificial intelligence and machine learning techniques offer the potential to e
 The cost-effectiveness of mitigation measures needs to be carefully evaluated to ensure their feasibility broad scales.
 
 Table 11.
-Ongoing and planned efforts to apply and test mitigation technologies.
+Examples of ongoing and planned efforts to apply and test mitigation technologies.
 
 +------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Mitigation measure**                                     | **Technologies**                                                                                                | **Projects or efforts applying and/or testing these technologies**                                                                                                                                                                                                                                                                                                |
