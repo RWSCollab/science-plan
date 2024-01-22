@@ -1,24 +1,23 @@
 # Marine Mammals {#sec-append-mm}
 
-## Introduction 
+## Introduction
 
 This chapter leverages ongoing data collection and research initiatives related to offshore wind and marine mammals funded by a variety of partners (states, federal agencies, industry).
-For an always up-to-date list of active projects, visit the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/). 
- 
+For an always up-to-date list of active projects, visit the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/).
 
-Given this ongoing work, the Marine Mammal Subcommittee is making recommendations for additional research that is both aligned with existing efforts and that fills important gaps. 
+Given this ongoing work, the Marine Mammal Subcommittee is making recommendations for additional research that is both aligned with existing efforts and that fills important gaps.
 
-## Focal Marine mammal species and recent trends in the RWSC study area 
+## Focal Marine mammal species and recent trends in the RWSC study area
 
 Marine mammals include baleen whales and toothed whales (together, cetaceans), seals (pinnipeds), and manatees (sirenians).
 Distributions of marine mammals have been shifting in response to changes in their environment, including human activities, climate change, and conservation measures.
-For a current list of marine mammal species and their status in the RWSC study area, visit the NOAA Fisheries Species Directory at <https://www.fisheries.noaa.gov/species-directory/> and apply filters for "New England/Mid-Atlantic" and "Southeast". 
+For a current list of marine mammal species and their status in the RWSC study area, visit the NOAA Fisheries Species Directory at <https://www.fisheries.noaa.gov/species-directory/> and apply filters for "New England/Mid-Atlantic" and "Southeast".
 
 All marine mammal species are protected under the Marine Mammal Protection Act (MMPA) which prohibits intentional or incidental killing, injuring, or harassment of marine mammals and specifies the circumstances and rules under which permits may be issued for such activities.
 Under the MMPA, NOAA Fisheries has developed [stock assessment reports](https://www.fisheries.noaa.gov/national/marine-mammal-protection/marine-mammal-stock-assessments) for all marine mammals in U.S. waters since 1994.
 These reports contain estimates of current species population sizes and population trends.
 Six marine mammal species are also listed as endangered or threatened under the Endangered Species Act (ESA), which prohibits "take" of these species and requires conservation of their habitat.
-In addition to stock assessment reports, NOAA Fisheries generates authoritative and up-to-date information on marine mammal status and trends via the following webpages: 
+In addition to stock assessment reports, NOAA Fisheries generates authoritative and up-to-date information on marine mammal status and trends via the following webpages:
 
 -   [Marine Mammal Unusual Mortality Event](https://www.fisheries.noaa.gov/national/marine-mammal-protection/marine-mammal-unusual-mortality-events)
 
@@ -29,17 +28,14 @@ In addition to stock assessment reports, NOAA Fisheries generates authoritative 
 Environmental Impact Statements (EISs) associated with the U.S.
 National Environmental Policy Act (NEPA) review of offshore wind projects provide detailed descriptions of the affected environment, impact analysis, and cumulative effects.
 Each proposed offshore wind project's Final EIS should be considered an important reference for focal marine mammal species, recent trends, habitat considerations, and potential impacts.
-Final EISs are posted to BOEM's website. 
+Final EISs are posted to BOEM's website.
 
 From a regional and global perspective, natural and anthropogenic climate change are recognized as major drivers of changes in marine mammal distribution, and in some cases, abundance as well [@chavez-rosales2022; @ganley2022; @meyer-gutbrod2022; @pendelton2022; @thorne2022].
 Baleen whales' prey in particular-- which include zooplankton and small fish species--are susceptible to ocean warming and changes in ocean circulation.
 In response to climate-driven shifts in their prey, baleen whales have shifted foraging locations into places where fewer protections are available [@davies2019], or where conflicts with more human uses are likely.
-NOAA's 2023 State of the Ecosystem New England report [@lucey2023] describes the slow movement of several marine mammal species to the northeast and into generally deeper water [@chavez-rosales2022] (and see figure below). 
+NOAA's 2023 State of the Ecosystem New England report [@lucey2023] describes the slow movement of several marine mammal species to the northeast and into generally deeper water [@chavez-rosales2022] (and see figure below).
 
-![Direction and magnitude of core habitat shifts, represented by the length of the line of the seasonal weighted centroid for species with more than 70 km difference between 2010 and 2017 (tip of arrow) \[\@chavez-rosales2022\].](figures/mm/Chavez-Rosales%202022.png){#FIG-1}
-
-Figure 1. 
-Direction and magnitude of core habitat shifts, represented by the length of the line of the seasonal weighted centroid for species with more than 70 km difference between 2010 and 2017 (tip of arrow) [@chavez-rosales2022].
+![Direction and magnitude of core habitat shifts, represented by the length of the line of seasonal weighted centroid for species with more than 70 km difference between 2010 and 2017 (tip of arrow) \[\@chavez-rosales2022\].](figures/mm/Chavez-Rosales 2022.png){#fig-1}
 
 The following data products and tools provide relevant context to inform where new data collection is needed and which research questions are most urgent to address given present status and trends in marine mammal distribution, abundance, behavior as observed in the field or understood by the most recent analyses.
 These sources are updated frequently.
