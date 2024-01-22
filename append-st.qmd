@@ -63,164 +63,64 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 <table>
 <tbody>
 <tr class="odd">
-<td><p>   </p>
-<p><strong>Species</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>ESA   Status</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>egg/ hatchling</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile dispersal</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile-subadult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>adult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>nesting females</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Annual   occurrence</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Habitat   use</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Seasonal   timing</strong></p>
-<p>   </p></td>
+<td><p><strong>Species</strong></p></td>
+<td><p><strong>ESA Status</strong></p></td>
+<td><p><strong>egg/ hatchling</strong></p></td>
+<td><p><strong>juvenile dispersal</strong></p></td>
+<td><p><strong>juvenile-subadult</strong></p></td>
+<td><p><strong>adult</strong></p></td>
+<td><p><strong>nesting females</strong></p></td>
+<td><p><strong>Annual occurrence</strong></p></td>
+<td><p><strong>Habitat use</strong></p></td>
+<td><p><strong>Seasonal timing</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>leatherback</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic &amp; pelagic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>leatherback</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic &amp; pelagic foraging</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>loggerhead</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>loggerhead</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>Kemps ridley</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>rare</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>summer-fall</p>
-<p>   </p></td>
+<td><p>Kemps ridley</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>rare</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>summer-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>green</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>rare</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>summer-fall</p>
-<p>   </p></td>
+<td><p>green</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>rare</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>summer-fall</p></td>
 </tr>
 </tbody>
 </table>
@@ -230,164 +130,64 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 <table>
 <tbody>
 <tr class="odd">
-<td><p>   </p>
-<p><strong>Species</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>ESA   Status</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>egg/ hatchling</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile dispersal</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile-subadult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>adult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>nesting females</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Annual   occurrence</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Habitat use</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Seasonal   timing*</strong></p>
-<p>   </p></td>
+<td><p><strong>Species</strong></p></td>
+<td><p><strong>ESA Status</strong></p></td>
+<td><p><strong>egg/ hatchling</strong></p></td>
+<td><p><strong>juvenile dispersal</strong></p></td>
+<td><p><strong>juvenile-subadult</strong></p></td>
+<td><p><strong>adult</strong></p></td>
+<td><p><strong>nesting females</strong></p></td>
+<td><p><strong>Annual occurrence</strong></p></td>
+<td><p><strong>Habitat use</strong></p></td>
+<td><p><strong>Seasonal timing*</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>leatherback</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic &amp; pelagic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>leatherback</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic &amp; pelagic foraging</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>loggerhead</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>loggerhead</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>Kemps ridley</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>rare</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>summer-fall</p>
-<p>   </p></td>
+<td><p>Kemps ridley</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>rare</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>summer-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>green</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>rare</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>summer-fall</p>
-<p>   </p></td>
+<td><p>green</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>rare</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>summer-fall</p></td>
 </tr>
 </tbody>
 </table>
@@ -397,164 +197,64 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 <table>
 <tbody>
 <tr class="odd">
-<td><p>   </p>
-<p><strong>Species</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>ESA   Status</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>egg/ hatchling</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile dispersal</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile-subadult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>adult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>nesting females</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Annual   occurrence</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Habitat   use</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Seasonal   timing</strong></p>
-<p>   </p></td>
+<td><p><strong>Species</strong></p></td>
+<td><p><strong>ESA Status</strong></p></td>
+<td><p><strong>egg/ hatchling</strong></p></td>
+<td><p><strong>juvenile dispersal</strong></p></td>
+<td><p><strong>juvenile-subadult</strong></p></td>
+<td><p><strong>adult</strong></p></td>
+<td><p><strong>nesting females</strong></p></td>
+<td><p><strong>Annual occurrence</strong></p></td>
+<td><p><strong>Habitat use</strong></p></td>
+<td><p><strong>Seasonal timing</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>leatherback</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common seasonally</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic &amp; pelagic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>leatherback</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common seasonally</p></td>
+<td><p>neritic &amp; pelagic foraging</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>loggerhead</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>loggerhead</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>Kemps ridley</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>summer-fall</p>
-<p>   </p></td>
+<td><p>Kemps ridley</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>summer-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>green</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common   seasonally</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>summer-fall</p>
-<p>   </p></td>
+<td><p>green</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>common seasonally</p></td>
+<td><p>neritic foraging</p></td>
+<td><p>summer-fall</p></td>
 </tr>
 </tbody>
 </table>
@@ -564,164 +264,64 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 <table>
 <tbody>
 <tr class="odd">
-<td><p>   </p>
-<p><strong>Species</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>ESA   Status</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>egg/ hatchling</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile dispersal</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile-subadult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>adult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>nesting females</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Annual   occurrence</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Habitat   use</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Seasonal   timing</strong></p>
-<p>   </p></td>
+<td><p><strong>Species</strong></p></td>
+<td><p><strong>ESA Status</strong></p></td>
+<td><p><strong>egg/ hatchling</strong></p></td>
+<td><p><strong>juvenile dispersal</strong></p></td>
+<td><p><strong>juvenile-subadult</strong></p></td>
+<td><p><strong>adult</strong></p></td>
+<td><p><strong>nesting females</strong></p></td>
+<td><p><strong>Annual occurrence</strong></p></td>
+<td><p><strong>Habitat use</strong></p></td>
+<td><p><strong>Seasonal timing</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>leatherback</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common seasonally</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic/pelagic   foraging, migration</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>leatherback</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common seasonally</p></td>
+<td><p>neritic/pelagic foraging, migration</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>loggerhead</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common seasonally</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic/pelagic   foraging, migration, nesting</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>loggerhead</p></td>
+<td><p>threatened</p></td>
+<td><p>UN</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common seasonally</p></td>
+<td><p>neritic/pelagic foraging, migration, nesting</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>Kemps ridley</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common seasonally</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic   foraging, migration</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>spring-fall</p>
-<p>   </p></td>
+<td><p>Kemps ridley</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>NA</p></td>
+<td><p>common seasonally</p></td>
+<td><p>neritic foraging, migration</p></td>
+<td><p>spring-fall</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>green</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common seasonally</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic   foraging, migration, nesting</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>late spring-fall</p>
-<p>   </p></td>
+<td><p>green</p></td>
+<td><p>threatened</p></td>
+<td><p>NA</p></td>
+<td><p>NA</p></td>
+<td><p>✔️</p></td>
+<td><p>UN</p></td>
+<td><p>NA</p></td>
+<td><p>common seasonally</p></td>
+<td><p>neritic foraging, migration, nesting</p></td>
+<td><p>late spring-fall</p></td>
 </tr>
 </tbody>
 </table>
@@ -731,164 +331,64 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 <table>
 <tbody>
 <tr class="odd">
-<td><p>   </p>
-<p><strong>Species</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>ESA   Status</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>egg/ hatchling</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>oceanic dispersal</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>juvenile-subadult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>adult</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>nesting females</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Annual   occurrence</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Habitat   use</strong></p>
-<p>   </p></td>
-<td><p>   </p>
-<p><strong>Seasonal   timing</strong></p>
-<p>   </p></td>
+<td><p><strong>Species</strong></p></td>
+<td><p><strong>ESA Status</strong></p></td>
+<td><p><strong>egg/ hatchling</strong></p></td>
+<td><p><strong>oceanic dispersal</strong></p></td>
+<td><p><strong>juvenile-subadult</strong></p></td>
+<td><p><strong>adult</strong></p></td>
+<td><p><strong>nesting females</strong></p></td>
+<td><p><strong>Annual occurrence</strong></p></td>
+<td><p><strong>Habitat use</strong></p></td>
+<td><p><strong>Seasonal timing</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>leatherback</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common </p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic/pelagic foraging, migration,   nesting</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>year round</p>
-<p>   </p></td>
+<td><p>leatherback</p></td>
+<td><p>endangered</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>common</p></td>
+<td><p>neritic/pelagic foraging, migration, nesting</p></td>
+<td><p>year round</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>loggerhead</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic/pelagic foraging, migration,   nesting</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>year round</p>
-<p>   </p></td>
+<td><p>loggerhead</p></td>
+<td><p>threatened</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>common</p></td>
+<td><p>neritic/pelagic foraging, migration, nesting</p></td>
+<td><p>year round</p></td>
 </tr>
 <tr class="even">
-<td><p>   </p>
-<p>Kemps ridley</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>endangered</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>NA</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging, migration</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>year round</p>
-<p>   </p></td>
+<td><p>Kemps ridley</p></td>
+<td><p>endangered</p></td>
+<td><p>NA</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>UN</p></td>
+<td><p>NA</p></td>
+<td><p>common</p></td>
+<td><p>neritic foraging, migration</p></td>
+<td><p>year round</p></td>
 </tr>
 <tr class="odd">
-<td><p>   </p>
-<p>green</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>threatened</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>UN</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>✔️</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>common</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>neritic foraging, migration, nesting</p>
-<p>   </p></td>
-<td><p>   </p>
-<p>year round</p>
-<p>   </p></td>
+<td><p>green</p></td>
+<td><p>threatened</p></td>
+<td><p>✔️</p></td>
+<td><p>UN</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>✔️</p></td>
+<td><p>common</p></td>
+<td><p>neritic foraging, migration, nesting</p></td>
+<td><p>year round</p></td>
 </tr>
 </tbody>
 </table>
@@ -908,13 +408,12 @@ Table 2 indicates the life stage and behavioral states of the species considered
 
 RWSC is organized by subregion along the U.S.
 Atlantic coast, roughly aligned with current offshore wind development planning areas.
-RWSC subregions and map are described on page 2 of [Chapter 2: Science Plan Organization](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EbuoNED_rydAskBAl58fbroB746EAi0GASy-NzLEta8pvA?e=Qdqvo7).
+RWSC subregions and map are described in the @sec-intro.
 
-In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described on pages 2-4 of [Chapter 2: Science Plan Organization](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EbuoNED_rydAskBAl58fbroB746EAi0GASy-NzLEta8pvA?e=Qdqvo7).
-Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable [RWSC Offshore Wind and Wildlife Research Database](https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI), and links to queries for each research project are included in the tables describing projects in the chapter.
+In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described in the @sec-intro. Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable [RWSC Offshore Wind and Wildlife Research Database](https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI), and links to queries for each research project are included in the tables describing projects in the chapter.
 Following regionwide field research, is discussion of field research specific to each subregion.
 Following subregion field data collection discussion, are on-going, pending and recommended non-field efforts by research theme and action.
-Non-field data collection actions include: 1) outreach and platforms to provide data products/results to stakeholders; 2) coordination and planning; 3) standardizing data collection, analysis, and reporting; 4) study optimization; 5) historic data collection/compilation; 6) model development and statistical frameworks; 7) technology advancement; 8) manipulative experiments, and 9) meta-analysis and literature review and are further described in [Chapter 3: Science Plan Actions](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EY-LUU7PXBdMtvTJxFO2HEoBr087P2I7oa4Q7FJBFnCQHw?e=sghdfU).
+Non-field data collection actions include: 1) outreach and platforms to provide data products/results to stakeholders; 2) coordination and planning; 3) standardizing data collection, analysis, and reporting; 4) study optimization; 5) historic data collection/compilation; 6) model development and statistical frameworks; 7) technology advancement; 8) manipulative experiments, and 9) meta-analysis and literature review and are further described in @sec-intro.
 
 #### Regional-scale distribution information
 
@@ -1053,8 +552,7 @@ Below is an additional list of potential effects of concern identified by the su
 
 ## Methods and approaches
 
-To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in [Chapter 3: Science Plan Actions](https://rwscorg.sharepoint.com/:w:/s/SubcommitteeLeads/EY-LUU7PXBdMtvTJxFO2HEoBr087P2I7oa4Q7FJBFnCQHw?e=4GKIYe).
-The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.
+To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in @sec-intro. The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.
 
 ### Aerial and vessel-based line transect observational surveys
 
@@ -1300,7 +798,7 @@ The subcommittee suggests that small, focused studies on individual animal movem
 
 #### Potential effects of concern specific to the GOM subregion
 
-In addition to the potential regionwide effects discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW), there may be different effects due to turbine designs needed for the deeper waters in this subregion.
+In addition to the potential regionwide effects discussed in [Section 2](https://rwscollab.github.io/science-plan/append-st.html#potential-effects-of-offshore-wind-on-sea-turtles) of this chapter, there may be different effects due to turbine designs needed for the deeper waters in this subregion.
 Because of depth in the federal portion of GOM, turbines used to develop wind energy areas in this subregion will be floating units [@musial2016].
 It is currently unclear whether this technology will have different impacts from turbines attached to the bottom.
 Use of this technology may provide opportunities for comparison studies with nearby installations in the Southern New England subregion.
@@ -1330,7 +828,7 @@ Opportunistic sightings of Kemp’s ridley turtles are rare but consistently occ
 
 #### Potential effects of concern specific to the SNE subregion
 
-The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW).
+The potential effects of offshore wind development are similar in this subregion as are discussed in [Section 2](https://rwscollab.github.io/science-plan/append-st.html#potential-effects-of-offshore-wind-on-sea-turtles) of this chapter.
 The imminent development of the Vineyard and South Fork Wind projects makes the SNE subregion of particular interest to the subcommittee, since we do not have data or published research from other wind developments in sea turtle habitat.
 Both projects had estimated foundation construction start dates in late spring 2023.
 Development in the SNE will pose the first opportunity to study sea turtle behavior during construction and operation of NW Atlantic wind turbines.
@@ -1355,7 +853,7 @@ Capture, tag, and release (loggerhead) has been conducted in the subregion [@hat
 
 #### Potential effects of concern specific to the NY/NJB subregion
 
-The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW).
+The potential effects of offshore wind development are similar in this subregion as are discussed in [Section 2](https://rwscollab.github.io/science-plan/append-st.html#potential-effects-of-offshore-wind-on-sea-turtles) of this chapter.
 The imminent future development of the Empire Wind New York waters and Ocean Wind in New Jersey waters makes the NY/NJB subregion of interest to the subcommittee, since the timeline for these projects may allow for both pre- and post-construction assessment of the area.
 Permit applications have been submitted and permits are expected to be issued in 2023.
 Development in the NY/NJB will pose some of the first opportunities to study sea turtle behavior prior to approved construction.
@@ -1387,7 +885,7 @@ Fewer Kemp’s ridley and green turtles were detected in the USCA subregion than
 
 #### Potential effects of concern specific to the USCA subregion
 
-The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW).
+The potential effects of offshore wind development are similar in this subregion as are discussed in [Section 2](https://rwscollab.github.io/science-plan/append-st.html#potential-effects-of-offshore-wind-on-sea-turtles) of this chapter.
 The imminent future development of the CVOW project in VA waters makes the USCA subregion of interest to the subcommittee, since the timeline for these projects may allow for both pre- and post-construction assessment of the area.
 Additional projects off Maryland (US Wind) and northern North Carolina (Kitty Hawk Wind N) are farther away from construction than CVOW. 
 Unlike states to the north in the USCA region such as Maryland and southern New Jersey and states in subregions to the north of USCA, neither Virginia nor North Carolina are funded through power sharing agreements or other means to implement environmental monitoring projects independent of federal resources.
@@ -1415,7 +913,7 @@ All species covered by the plan have been detected on distance sampling surveys 
 
 #### Potential effects of concern specific to the USSEA subregion
 
-The potential effects of offshore wind development are similar in this subregion as are discussed in [section 1.3 of this chapter](#Potential_Effects_of_OSW) with the addition of nesting, breeding and hatching behavior to be considered.
+The potential effects of offshore wind development are similar in this subregion as are discussed in [Section 2](https://rwscollab.github.io/science-plan/append-st.html#potential-effects-of-offshore-wind-on-sea-turtles) of this chapter with the addition of nesting, breeding and hatching behavior to be considered.
 There are, however, no projects in this subregion currently under review by BOEM, and only two leases have been awarded off southern North Carolina.
 Development in this subregion is significantly lower and farther from completion than subregions to the north.
 This extended timeline to development will allow for projects in the subregion to benefit from research conducted in the more northern subregions, which will be important as this subregion has a higher turtle density, significant nesting and breeding habitat, and greater year-round occurrence of sea turtles that other subregions.
@@ -1426,11 +924,11 @@ As such, most research in this subregion will likely need to be fully federally 
 #### Recommended field data collection and analysis in the USSEA subregion
 
 There are no Field Data Collection and Analysis recommendations specifically for the USSEA sub-region.
-Region-wide recommendations that include the USSEA region are included in [section 2.1 of this chapter](#Regional_field_data_collection).
+Region-wide recommendations that include the USSEA region are included in [section 4.1](https://rwscollab.github.io/science-plan/append-st.html#regional-field-data-collection-and-analysis) of this chapter.
 
 Recommended non-field research by type of action.
 There are no Non-Field Data Collection and Analysis recommendations specifically for the USSEA sub-region.
-Region-wide recommendations that include the USSEA region are included in [section 2.1 of this chapter](#Regional_field_data_collection).
+Region-wide recommendations that include the USSEA region are included in [section 4.1](https://rwscollab.github.io/science-plan/append-st.html#regional-field-data-collection-and-analysis) of this chapter.
 
 ## List of Definitions and Acronyms
 
