@@ -28,7 +28,7 @@ The recommendations are as follows:
 
 3.  **Work with offshore wind companies, agencies, contractors/vendors, and researchers to encourage specific collaboratives, data sharing agreements, and tools that facilitate appropriate access to key datasets for use in decision-making and research.**
 
-4.  **Seek to fund data collection and research tailored to the mix of species present and the need for baseline data in each subregion, according to each chapter in the Science Plan.**
+4.  **Seek to fund data collection and research tailored to the mix of species present and the need for baseline data**[^executive-summary-3] **in each subregion, according to each chapter in the Science Plan.**
 
     -   Encourage new data collection activities to align with the objectives of the NOAA Fisheries and BOEM Federal Survey Mitigation Strategy, if applicable.
 
@@ -74,7 +74,7 @@ The recommendations are as follows:
 
 ## **Implementing the Science Plan -- a Framework for Collaboration**
 
-To ensure that the data collection and research efforts recommended in the Science Plan are Findable, Accessible, Interoperable, and Reusable (FAIR)[^executive-summary-3], the four Sectors have recommended a voluntary framework for collaboration through the RWSC.
+To ensure that the data collection and research efforts recommended in the Science Plan are Findable, Accessible, Interoperable, and Reusable (FAIR)[^executive-summary-4], the four Sectors have recommended a voluntary framework for collaboration through the RWSC.
 This framework has three primary goals:
 
 1.  Promote coordination of regional offshore wind related wildlife research with the RWSC, regardless of funding source, recipient(s), or funding structure.
@@ -83,7 +83,7 @@ This framework has three primary goals:
 
 3.  Communicate the findings and results of individual and collaborative research.
 
-RWSC welcomes and encourages participation from all entities and individuals in implementing this Science Plan, especially via expert Subcommittee meetings[^executive-summary-4].
+RWSC welcomes and encourages participation from all entities and individuals in implementing this Science Plan, especially via expert Subcommittee meetings[^executive-summary-5].
 To assist in the implementation of the Science Plan, the RWSC will maintain the [Offshore Wind & Wildlife Research Database](https://database.rwsc.org/) and continue to provide tools and forums for research planning, discussions, and collaboration among all participants.
 All are encouraged to participate in implementing the Science Plan by:
 
@@ -111,7 +111,7 @@ Atlantic waters:
 -   The greater scientific community can use this plan to shape their own research objectives and inform their funding decisions related to offshore wind and wildlife efforts.
 
 -   The RWSC Science Plan can be used to support multi-sector collaborations to advance career workforce development programs for ecological and biological monitoring roles.
-    The Science Plan serves as a guide to identify the scientific disciplines, the types of roles and the skills (including the educational requirements) necessary to address the research questions[^executive-summary-5].
+    The Science Plan serves as a guide to identify the scientific disciplines, the types of roles and the skills (including the educational requirements) necessary to address the research questions[^executive-summary-6].
 
 RWSC will reassess the Science Plan and framework for collaboration every five years to ensure its continued utility and relevance in light of new information and changes in the rapidly evolving offshore wind industry.
 The RWSC will track progress on Science Plan recommendations annually.
@@ -120,11 +120,14 @@ The RWSC will track progress on Science Plan recommendations annually.
 
 [^executive-summary-2]: Neither the RWSC nor any of its Subcommittees are established or utilized by a Federal agency for the purpose of obtaining advice or recommendations on issues or policies for any agency.
 
-[^executive-summary-3]: Wilkinson, M.D., et al., 2016.
+[^executive-summary-3]: “Baseline data” in the Science Plan generally refers to data describing ecological conditions prior to offshore wind development activities, and should not be considered a regulatory definition.
+    Use of a baseline or benchmark for purposes of comparing conditions before and after a disturbance or change is an essential part of any environmental analysis within a research project.
+
+[^executive-summary-4]: Wilkinson, M.D., et al., 2016.
     The FAIR Guiding Principles for scientific data management and stewardship.
     Scientific Data 3, 160018.
     <https://doi.org/10.1038/sdata.2016.18>.
 
-[^executive-summary-4]: Subcommittee meeting information is posted publicly and open to all interested participants: https://rwsc.org/events.
+[^executive-summary-5]: Subcommittee meeting information is posted publicly and open to all interested participants: https://rwsc.org/events.
 
-[^executive-summary-5]: [STEM Workforce Development and the RWSC Integrated Science Plan](https://rwscorg-my.sharepoint.com/:b:/g/personal/admin_rwsc_org/EcjvcnLLW9VOiBDJB2493iIBeNSbskh3xtaIHs1WW28L2A?e=CSVeEY)
+[^executive-summary-6]: [STEM Workforce Development and the RWSC Integrated Science Plan](https://rwscorg-my.sharepoint.com/:b:/g/personal/admin_rwsc_org/EcjvcnLLW9VOiBDJB2493iIBeNSbskh3xtaIHs1WW28L2A?e=CSVeEY)
