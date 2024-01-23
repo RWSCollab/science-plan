@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -384,14 +403,14 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 
 <p>This chapter describes ongoing data collection and research initiatives related to offshore wind and oceanographic/pelagic habitats and ecosystems funded by a variety of partners (states, federal agencies, industry). Each initiative is a near-term investment for either field or non-field activities related to understanding and mitigating the potential regional and subregional oceanographic effects of offshore wind energy development. The main types of potential oceanographic effects that are discussed include considerations related to the physical effects of structures, noise propagation, water quality, and biological linkages. For an always up-to-date list of active projects, visit the <a href="https://database.rwsc.org/">Offshore Wind &amp; Wildlife Research Database</a>. Given this ongoing work, the Habitat &amp; Ecosystem Subcommittee is making recommendations for additional research that is both aligned with existing efforts and that fills important gaps. Those recommendations are described in detail throughout each section of this chapter.</p>
 <p>The scope of this chapter includes physical and biological oceanographic processes, hydrodynamics, and some atmospheric and meteorological processes. All of these processes relate to the species discussed in other chapters. Readers should expect to encounter multiple cross-references between chapters and topics as studies of oceanographic and meteorological processes are relevant to species as drivers of distribution, abundance, movement, and behavior, prey availability.</p>
-<p>Data collection and study of sessile, attached, and epiphytic flora and fauna (including non-native and invasive species) are discussed in the&nbsp;<a href="./seafloor.html">Habitat &amp; Ecosystem - Seafloor chapter</a>. It is likely that some of the tools and methods used to collect seafloor habitat data (ROVs, autonomous vehicles) will contain sensors/tools to characterize and sample oceanographic variables as well.</p>
+<p>Data collection and study of sessile, attached, and epiphytic flora and fauna (including non-native and invasive species) are discussed in the <a href="#0">Habitat &amp; Ecosystem - Seafloor chapter</a>. It is likely that some of the tools and methods used to collect seafloor habitat data (ROVs, autonomous vehicles) will contain sensors/tools to characterize and sample oceanographic variables as well.</p>
 <section id="background" class="level2" data-number="J.1">
 <h2 data-number="J.1" class="anchored" data-anchor-id="background"><span class="header-section-number">J.1</span> Background</h2>
-<p>A wealth of scientific information has been collected on the oceanography of U.S. Atlantic waters, setting the stage with a historical baseline for helping to understand future changes. At a high level, physical oceanographic processes are largely shaped by the Gulf Stream flowing north along the coast and the Labrador Current flowing south, with an abrupt transition occurring at Cape Hatteras where the Gulf Stream comes to within 30 km of shore (Townsend et al., 2006)( Figures 1-2). The Labrador Current transports cold water southward where it meets the shelf waters of the North Atlantic Ocean and the Gulf Stream at Cape Hatteras (Blair et al., 2022). The Gulf Stream flowing from the south contributes to heat redistribution in the North Atlantic and also influences the shelf ecosystem, particularly through the formation of meanders and eddies. Beyond these two major current systems, shelf water and slope water are distinct water masses that also influence the region. Shelf water has origins on the continental shelf and includes inputs from the multiple river systems along the coast. Thus, shelf water is less dense than slope waters which consist of a deep, nutrient rich water mass that lies between the shelf and the major offshore currents.</p>
+<p>A wealth of scientific information has been collected on the oceanography of U.S. Atlantic waters, setting the stage with a historical baseline for helping to understand future changes. At a high level, physical oceanographic processes are largely shaped by the Gulf Stream flowing north along the coast and the Labrador Current flowing south, with an abrupt transition occurring at Cape Hatteras where the Gulf Stream comes to within 30 km of shore <span class="citation" data-cites="townsend2006">(<a href="references.html#ref-townsend2006" role="doc-biblioref">Townsend et al., 2006</a>)</span> ( Figures 1-2). The Labrador Current transports cold water southward where it meets the shelf waters of the North Atlantic Ocean and the Gulf Stream at Cape Hatteras <span class="citation" data-cites="blair2022">(<a href="references.html#ref-blair2022" role="doc-biblioref">Blair et al., 2022a</a>)</span>. The Gulf Stream flowing from the south contributes to heat redistribution in the North Atlantic and also influences the shelf ecosystem, particularly through the formation of meanders and eddies. Beyond these two major current systems, shelf water and slope water are distinct water masses that also influence the region. Shelf water has origins on the continental shelf and includes inputs from the multiple river systems along the coast. Thus, shelf water is less dense than slope waters which consist of a deep, nutrient rich water mass that lies between the shelf and the major offshore currents.</p>
 <p><strong>Figure 1.</strong> The Northeast U.S. Continental Shelf ecosystem showing the dominant currents and oceanographic features.</p>
 <p><strong>Figure 2.</strong> The U.S. South Atlantic marine ecosystem. Credit: <a href="https://www.fisheries.noaa.gov/news/us-south-atlantic-marine-ecosystem-ecosystem-transition">NOAA/Seann Regan</a>.</p>
-<p>Variability in regional atmospheric conditions impact sea surface properties (e.g., winds and temperature) and cause both short- and long-term changes in oceanographic processes along the Atlantic coast. Annual average wind speeds increase from the south and peak in New England and Gulf of Maine waters (Bodini et al., 2020; Musial et al., 2016). Winds fluctuate over multiple time scales including seasonally (with mid-latitudes generally higher in the summer), weekly (e.g., during synoptic-scale storms), daily (with higher winds at night), and hourly/sub-hourly (e.g., due to fluctuations in turbulence and gusts). At longer time scales, the North Atlantic Oscillation (NAO) impacts the region and can be described in terms of an index value (NAOI) related to differences in sea level pressure, with patterns persisting across decades. The NAOI has been predominantly positive during the last several decades (NMFS, 2021), associated with an increase in westerly winds, an increase in precipitation, and warmer water temperatures for the eastern United States. By contrast, a negative NAOI is associated with a decrease in westerly winds, decreased storminess, drier conditions, and cooler water temperatures in the region.</p>
-<p>Primary productivity in the region is determined by a physically dynamic ecosystem with complex interactions among environmental factors that influence the abundance, community composition, spatial distribution, and productivity of the phytoplanktonic communities. These environmental factors include the sunlight, nutrients, water temperature, physical processes (i.e., vertical mixing, upwelling, currents, and tides), and the feeding activity of zooplankton and shellfish(Blair et al., 2022). Water mass characteristics and oceanographic features (e.g., circulation patterns and frontal zone positions) are particularly important factors influencing phytoplankton patterns (Lipsky, 2020; NMFS, 2021). Seasonality greatly influences the dynamic ecosystem of the region, given that phytoplankton growth rates strongly correlate to temperature, light availability, and phytoplankton community size-structure (Marrec et al., 2021). Zooplankton graze on phytoplankton and are then prey for fish, crabs, whales, and other large organisms; biovolume (total volume of material caught in zooplankton nets) measurements have shown seasonal and interannual trends in the region (Blair et al., 2022).</p>
+<p>Variability in regional atmospheric conditions impact sea surface properties (e.g., winds and temperature) and cause both short- and long-term changes in oceanographic processes along the Atlantic coast. Annual average wind speeds increase from the south and peak in New England and Gulf of Maine waters <span class="citation" data-cites="bodini2020 musial2016">(<a href="references.html#ref-bodini2020" role="doc-biblioref">Bodini et al., 2020</a>; <a href="references.html#ref-musial2016" role="doc-biblioref">Musial et al., 2016</a>)</span>. Winds fluctuate over multiple time scales including seasonally (with mid-latitudes generally higher in the summer), weekly (e.g., during synoptic-scale storms), daily (with higher winds at night), and hourly/sub-hourly (e.g., due to fluctuations in turbulence and gusts). At longer time scales, the North Atlantic Oscillation (NAO) impacts the region and can be described in terms of an index value (NAOI) related to differences in sea level pressure, with patterns persisting across decades. The NAOI has been predominantly positive during the last several decades <span class="citation" data-cites="noaafisheries2021b">(<a href="references.html#ref-noaafisheries2021b" role="doc-biblioref">NOAA Fisheries, 2021a</a>)</span>, associated with an increase in westerly winds, an increase in precipitation, and warmer water temperatures for the eastern United States. By contrast, a negative NAOI is associated with a decrease in westerly winds, decreased storminess, drier conditions, and cooler water temperatures in the region.</p>
+<p>Primary productivity in the region is determined by a physically dynamic ecosystem with complex interactions among environmental factors that influence the abundance, community composition, spatial distribution, and productivity of the phytoplanktonic communities. These environmental factors include the sunlight, nutrients, water temperature, physical processes (i.e., vertical mixing, upwelling, currents, and tides), and the feeding activity of zooplankton and shellfish <span class="citation" data-cites="blair2022b">(<a href="references.html#ref-blair2022b" role="doc-biblioref">Blair et al., 2022b</a>)</span>. Water mass characteristics and oceanographic features (e.g., circulation patterns and frontal zone positions) are particularly important factors influencing phytoplankton patterns <span class="citation" data-cites="lipsky2020 noaafisheries2021c">(<a href="references.html#ref-lipsky2020" role="doc-biblioref">Lipsky, 2020</a>; <a href="references.html#ref-noaafisheries2021c" role="doc-biblioref">NOAA Fisheries, 2021b</a>)</span>. Seasonality greatly influences the dynamic ecosystem of the region, given that phytoplankton growth rates strongly correlate to temperature, light availability, and phytoplankton community size-structure <span class="citation" data-cites="marrec2021">(<a href="references.html#ref-marrec2021" role="doc-biblioref">Marrec et al., 2021</a>)</span>. Zooplankton graze on phytoplankton and are then prey for fish, crabs, whales, and other large organisms; biovolume (total volume of material caught in zooplankton nets) measurements have shown seasonal and interannual trends in the region <span class="citation" data-cites="blair2022c">(<a href="references.html#ref-blair2022c" role="doc-biblioref">Blair et al., 2022c</a>)</span>.</p>
 <section id="oceanographic-processes-in-the-atlantic-region" class="level3" data-number="J.1.1">
 <h3 data-number="J.1.1" class="anchored" data-anchor-id="oceanographic-processes-in-the-atlantic-region"><span class="header-section-number">J.1.1</span> Oceanographic processes in the Atlantic region</h3>
 <section id="historical-and-ongoing-processes" class="level4" data-number="J.1.1.1">
@@ -421,8 +440,8 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <p>The descriptions below are organized by variable, with notations related to potential platform(s), and whether or not the variable has been identified by the Subcommittee as a potentially important species model covariate. This list is not exhaustive and will likely change as technologies and model development advances.</p>
 <table class="table">
 <colgroup>
-<col style="width: 46%">
-<col style="width: 22%">
+<col style="width: 45%">
+<col style="width: 23%">
 <col style="width: 30%">
 </colgroup>
 <tbody>
@@ -657,7 +676,7 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <table class="table">
 <colgroup>
 <col style="width: 37%">
-<col style="width: 46%">
+<col style="width: 47%">
 <col style="width: 7%">
 <col style="width: 7%">
 </colgroup>
@@ -1312,6 +1331,38 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <p>This chapter develops a total of ~40 research recommendations that cover the five RWSC research themes. The recommendations are based on the ~75 individual ongoing data collection and research initiatives related to offshore wind and oceanographic/pelagic habitats and ecosystems funded by a variety of partners (states, federal agencies, industry). The recommendations were also informed by relevant research topics previously identified from the literature in the Atlantic Offshore Wind Environmental Research Recommendations Database that was filtered on habitat, oceanographic, phytoplankton, and zooplankton considerations. The Subcommittee discussed the importance of meteorological and oceanographic data as input to/drivers of species models (e.g., distribution, density, movement models). A key recommendation of the Subcommittee is to ensure that sufficient oceanographic data are collected to support species models and that those data are made available in the form of standardized data products that could be used by existing and future species modeling efforts.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-blair2022" class="csl-entry" role="listitem">
+Blair, K., Sermon, K., Miller, K., Wildart, N., Milton, Q., Edwards, P., Overcash, C., 2022a. Draft phase 1 white paper: Oceanographic impacts of offshore wind energy development via hydrodynamic and atmospheric alterations: Implications for protected species in the northeast US continental shelf.
+</div>
+<div id="ref-blair2022b" class="csl-entry" role="listitem">
+Blair, K., Sermon, K., Miller, K., Wildart, N., Milton, Q., Edwards, P., Overcash, C., 2022b. Draft phase 1 white paper: Oceanographic impacts of offshore wind energy development via hydrodynamic and atmospheric alterations: Implications for protected species in the northeast US continental shelf.
+</div>
+<div id="ref-blair2022c" class="csl-entry" role="listitem">
+Blair, K., Sermon, K., Miller, K., Wildart, N., Milton, Q., Edwards, P., Overcash, C., 2022c. Draft phase 1 white paper: Oceanographic impacts of offshore wind energy development via hydrodynamic and atmospheric alterations: Implications for protected species in the northeast US continental shelf.
+</div>
+<div id="ref-bodini2020" class="csl-entry" role="listitem">
+Bodini, N., Optis, M., Rossol, M., Rybchuk, A., Redfern, S., 2020. US offshore wind resource data for 2000-2020. https://doi.org/<a href="https://doi.org/10.25984/1821404. https://www.osti.gov/servlets/purl/1821404">https://doi.org/10.25984/1821404. https://www.osti.gov/servlets/purl/1821404</a>
+</div>
+<div id="ref-lipsky2020" class="csl-entry" role="listitem">
+Lipsky, A., 2020. <a href="https://web.uri.edu/globaloceansummit/global-ocean-series/">Northeast u.s. Continental shelf large marine ecosystem: A holistic perspective</a>.
+</div>
+<div id="ref-marrec2021" class="csl-entry" role="listitem">
+Marrec, P., McNair, H., Franze, G., Morison, F., Strock, J.P., Menden-Deuer, S., 2021. Seasonal variability in planktonic food web structure and function of the northeast u.s. shelf. Limnol. Oceanogr. 66, 14401458.
+</div>
+<div id="ref-musial2016" class="csl-entry" role="listitem">
+Musial, W., Heimiller, D., Beiter, P., Scott, G., Draxl, C., 2016. <a href="http://www.nrel.gov/docs/fy16osti/66599.pdf">2016 offshore wind energy resource assessment for the united states</a>.
+</div>
+<div id="ref-noaafisheries2021b" class="csl-entry" role="listitem">
+NOAA Fisheries, 2021a. <a href="https://storymaps.arcgis.com/stories/b3321ee343c9424eb6557332f81509c6">The northeast shelf: A changing ecosystem. Greater atlantic regional fisheries office</a>.
+</div>
+<div id="ref-noaafisheries2021c" class="csl-entry" role="listitem">
+NOAA Fisheries, 2021b. <a href="https://storymaps.arcgis.com/stories/b3321ee343c9424eb6557332f81509c6">The northeast shelf: A changing ecosystem. Greater atlantic regional fisheries office</a>.
+</div>
+<div id="ref-townsend2006" class="csl-entry" role="listitem">
+Townsend, D.W., Thomas, A.C., Mayer, L.M., Thomas, M.A., Quinlan, J.A., 2006. Oceanography of the northwest atlantic continental shelf (1, w). The sea: the global coastal ocean: interdisciplinary regional studies and syntheses 14, 119–168.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

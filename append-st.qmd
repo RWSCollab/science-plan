@@ -60,338 +60,53 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 
 **Gulf of Maine**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Species</strong></p></td>
-<td><p><strong>ESA Status</strong></p></td>
-<td><p><strong>egg/ hatchling</strong></p></td>
-<td><p><strong>juvenile dispersal</strong></p></td>
-<td><p><strong>juvenile-subadult</strong></p></td>
-<td><p><strong>adult</strong></p></td>
-<td><p><strong>nesting females</strong></p></td>
-<td><p><strong>Annual occurrence</strong></p></td>
-<td><p><strong>Habitat use</strong></p></td>
-<td><p><strong>Seasonal timing</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>leatherback</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic &amp; pelagic foraging</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>loggerhead</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="even">
-<td><p>Kemps ridley</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>rare</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>summer-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>green</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>rare</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>summer-fall</p></td>
-</tr>
-</tbody>
-</table>
+|              |                |                    |                        |                       |           |                     |                       |                            |                     |
+|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------|---------------------|
+| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing** |
+| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common                | neritic & pelagic foraging | spring-fall         |
+| loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall         |
+| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall         |
+| green        | threatened     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall         |
 
 **Southern New England**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Species</strong></p></td>
-<td><p><strong>ESA Status</strong></p></td>
-<td><p><strong>egg/ hatchling</strong></p></td>
-<td><p><strong>juvenile dispersal</strong></p></td>
-<td><p><strong>juvenile-subadult</strong></p></td>
-<td><p><strong>adult</strong></p></td>
-<td><p><strong>nesting females</strong></p></td>
-<td><p><strong>Annual occurrence</strong></p></td>
-<td><p><strong>Habitat use</strong></p></td>
-<td><p><strong>Seasonal timing*</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>leatherback</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic &amp; pelagic foraging</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>loggerhead</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="even">
-<td><p>Kemps ridley</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>rare</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>summer-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>green</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>rare</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>summer-fall</p></td>
-</tr>
-</tbody>
-</table>
+|              |                |                    |                        |                       |           |                     |                       |                            |                       |
+|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------|-----------------------|
+| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing\*** |
+| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common                | neritic & pelagic foraging | spring-fall           |
+| loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall           |
+| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall           |
+| green        | threatened     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall           |
 
 **New York Bight**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Species</strong></p></td>
-<td><p><strong>ESA Status</strong></p></td>
-<td><p><strong>egg/ hatchling</strong></p></td>
-<td><p><strong>juvenile dispersal</strong></p></td>
-<td><p><strong>juvenile-subadult</strong></p></td>
-<td><p><strong>adult</strong></p></td>
-<td><p><strong>nesting females</strong></p></td>
-<td><p><strong>Annual occurrence</strong></p></td>
-<td><p><strong>Habitat use</strong></p></td>
-<td><p><strong>Seasonal timing</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>leatherback</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common seasonally</p></td>
-<td><p>neritic &amp; pelagic foraging</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>loggerhead</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="even">
-<td><p>Kemps ridley</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>summer-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>green</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>common seasonally</p></td>
-<td><p>neritic foraging</p></td>
-<td><p>summer-fall</p></td>
-</tr>
-</tbody>
-</table>
+|              |                |                    |                        |                       |           |                     |                       |                            |                     |
+|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------|---------------------|
+| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing** |
+| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic & pelagic foraging | spring-fall         |
+| loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall         |
+| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | NA        | NA                  | common                | neritic foraging           | summer-fall         |
+| green        | threatened     | NA                 | NA                     | ✔️                    | NA        | NA                  | common seasonally     | neritic foraging           | summer-fall         |
 
 **Central Atlantic**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Species</strong></p></td>
-<td><p><strong>ESA Status</strong></p></td>
-<td><p><strong>egg/ hatchling</strong></p></td>
-<td><p><strong>juvenile dispersal</strong></p></td>
-<td><p><strong>juvenile-subadult</strong></p></td>
-<td><p><strong>adult</strong></p></td>
-<td><p><strong>nesting females</strong></p></td>
-<td><p><strong>Annual occurrence</strong></p></td>
-<td><p><strong>Habitat use</strong></p></td>
-<td><p><strong>Seasonal timing</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>leatherback</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common seasonally</p></td>
-<td><p>neritic/pelagic foraging, migration</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>loggerhead</p></td>
-<td><p>threatened</p></td>
-<td><p>UN</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common seasonally</p></td>
-<td><p>neritic/pelagic foraging, migration, nesting</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="even">
-<td><p>Kemps ridley</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>NA</p></td>
-<td><p>common seasonally</p></td>
-<td><p>neritic foraging, migration</p></td>
-<td><p>spring-fall</p></td>
-</tr>
-<tr class="odd">
-<td><p>green</p></td>
-<td><p>threatened</p></td>
-<td><p>NA</p></td>
-<td><p>NA</p></td>
-<td><p>✔️</p></td>
-<td><p>UN</p></td>
-<td><p>NA</p></td>
-<td><p>common seasonally</p></td>
-<td><p>neritic foraging, migration, nesting</p></td>
-<td><p>late spring-fall</p></td>
-</tr>
-</tbody>
-</table>
+|              |                |                    |                        |                       |           |                     |                       |                                              |                     |
+|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------------------------|---------------------|
+| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**                              | **Seasonal timing** |
+| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic/pelagic foraging, migration          | spring-fall         |
+| loggerhead   | threatened     | UN                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic/pelagic foraging, migration, nesting | spring-fall         |
+| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic foraging, migration                  | spring-fall         |
+| green        | threatened     | NA                 | NA                     | ✔️                    | UN        | NA                  | common seasonally     | neritic foraging, migration, nesting         | late spring-fall    |
 
 **Southern Atlantic**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Species</strong></p></td>
-<td><p><strong>ESA Status</strong></p></td>
-<td><p><strong>egg/ hatchling</strong></p></td>
-<td><p><strong>oceanic dispersal</strong></p></td>
-<td><p><strong>juvenile-subadult</strong></p></td>
-<td><p><strong>adult</strong></p></td>
-<td><p><strong>nesting females</strong></p></td>
-<td><p><strong>Annual occurrence</strong></p></td>
-<td><p><strong>Habitat use</strong></p></td>
-<td><p><strong>Seasonal timing</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>leatherback</p></td>
-<td><p>endangered</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>common</p></td>
-<td><p>neritic/pelagic foraging, migration, nesting</p></td>
-<td><p>year round</p></td>
-</tr>
-<tr class="odd">
-<td><p>loggerhead</p></td>
-<td><p>threatened</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>common</p></td>
-<td><p>neritic/pelagic foraging, migration, nesting</p></td>
-<td><p>year round</p></td>
-</tr>
-<tr class="even">
-<td><p>Kemps ridley</p></td>
-<td><p>endangered</p></td>
-<td><p>NA</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>UN</p></td>
-<td><p>NA</p></td>
-<td><p>common</p></td>
-<td><p>neritic foraging, migration</p></td>
-<td><p>year round</p></td>
-</tr>
-<tr class="odd">
-<td><p>green</p></td>
-<td><p>threatened</p></td>
-<td><p>✔️</p></td>
-<td><p>UN</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>✔️</p></td>
-<td><p>common</p></td>
-<td><p>neritic foraging, migration, nesting</p></td>
-<td><p>year round</p></td>
-</tr>
-</tbody>
-</table>
+|              |                |                    |                       |                       |           |                     |                       |                                              |                     |
+|--------------|----------------|--------------------|-----------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------------------------|---------------------|
+| **Species**  | **ESA Status** | **egg/ hatchling** | **oceanic dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**                              | **Seasonal timing** |
+| leatherback  | endangered     | ✔️                 | ✔️                    | ✔️                    | ✔️        | ✔️                  | common                | neritic/pelagic foraging, migration, nesting | year round          |
+| loggerhead   | threatened     | ✔️                 | ✔️                    | ✔️                    | ✔️        | ✔️                  | common                | neritic/pelagic foraging, migration, nesting | year round          |
+| Kemps ridley | endangered     | NA                 | UN                    | ✔️                    | UN        | NA                  | common                | neritic foraging, migration                  | year round          |
+| green        | threatened     | ✔️                 | UN                    | ✔️                    | ✔️        | ✔️                  | common                | neritic foraging, migration, nesting         | year round          |
 
 ### Focal species and notable recent trends
 
@@ -410,7 +125,8 @@ RWSC is organized by subregion along the U.S.
 Atlantic coast, roughly aligned with current offshore wind development planning areas.
 RWSC subregions and map are described in the @sec-intro.
 
-In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described in the @sec-intro. Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable [RWSC Offshore Wind and Wildlife Research Database](https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI), and links to queries for each research project are included in the tables describing projects in the chapter.
+In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described in the @sec-intro.
+Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable [RWSC Offshore Wind and Wildlife Research Database](https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI), and links to queries for each research project are included in the tables describing projects in the chapter.
 Following regionwide field research, is discussion of field research specific to each subregion.
 Following subregion field data collection discussion, are on-going, pending and recommended non-field efforts by research theme and action.
 Non-field data collection actions include: 1) outreach and platforms to provide data products/results to stakeholders; 2) coordination and planning; 3) standardizing data collection, analysis, and reporting; 4) study optimization; 5) historic data collection/compilation; 6) model development and statistical frameworks; 7) technology advancement; 8) manipulative experiments, and 9) meta-analysis and literature review and are further described in @sec-intro.
@@ -552,7 +268,8 @@ Below is an additional list of potential effects of concern identified by the su
 
 ## Methods and approaches
 
-To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in @sec-intro. The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.
+To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in @sec-intro.
+The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.
 
 ### Aerial and vessel-based line transect observational surveys
 
