@@ -1,1 +1,145 @@
 # Acronyms
+
+|              |                                                                                                    |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------|
+| 3D           | Three dimensional                                                                                  |
+| ACP          | American Clean Power                                                                               |
+| ACT          | Atlantic Cooperative Telemetry Network                                                             |
+| AI           | Artificial Intelligence                                                                            |
+| AMAPPS       | Atlantic Marine Assessment Program for Protected Species                                           |
+| ASMFC        | Atlantic States Marine Fisheries                                                                   |
+| ATN          | Animal Telemetry Network                                                                           |
+| AUV          | Autonomous Underwater Vehicle                                                                      |
+| AWWI         | American Wild Wildlife Institute (now Renewable Energy Wildlife Institute)                         |
+| AZMP         | Atlantic Zone Monitoring Program                                                                   |
+| BIWF         | Block Island Wind Farm                                                                             |
+| BOEM         | Bureau of Ocean Energy Management                                                                  |
+| BRI          | Biodiversity Research Institute                                                                    |
+| BRUVS        | Baited Remote Underwater Video Station                                                             |
+| CARE         | Collective benefit, Authority to control, Responsibility, Ethics                                   |
+| CBIBS        | Chesapeake Bay Interpretive Buoy System                                                            |
+| CCE          | Cornell Cooperative Extension of Suffolk County                                                    |
+| CDIP         | Coastal Data Information Program                                                                   |
+| CEC          | Clean Energy Center                                                                                |
+| CFMC         | Caribbean Fishery Management Council                                                               |
+| CFRF         | Commercial Fisheries Research Foundation                                                           |
+| CMECS        | Coastal and Marine Ecological Classification Standard                                              |
+| CNAPS        | Coupled Northwest Atlantic Prediction System                                                       |
+| COP          | Construction and Operation Plan                                                                    |
+| CT DEEP      | Connecticut Department of Energy and Environmental Protection                                      |
+| CVOW         | Coastal Virginia Offshore Wind                                                                     |
+| DAC          | Data Assembly Center                                                                               |
+| DGSC         | Data Governance Subcommittee                                                                       |
+| DMR          | Department of Marine Resources                                                                     |
+| DNR          | Department of Natural Resources                                                                    |
+| DNREC        | State of Delaware. Department of Natural Resources and. Environmental Control                      |
+| DOE          | U.S. Department of Energy                                                                          |
+| DOI          | Digital Object Identifier                                                                          |
+| DPS          | Distinct Population Segments                                                                       |
+| DTAG         | Digital Acoustic Recording Tag                                                                     |
+| eDNA         | Environmental DNA                                                                                  |
+| EA           | Environmental Assessments                                                                          |
+| eDNA         | Environmental Deoxyribonucleic Acid                                                                |
+| EEF          | Essential Fish Habitat                                                                             |
+| EEZ          | Exclusive Economic Zone                                                                            |
+| EIS          | Environmental Impact Statements                                                                    |
+| EMF          | Electromagnetic field                                                                              |
+| eNGO         | Environmental Non-Governmental Organization                                                        |
+| EOV          | Essential Ocean Variables                                                                          |
+| ERDDAP       | Environmental Research Division Data Access Program                                                |
+| ESA          | Endangered Species Act                                                                             |
+| E-TWG        | Environmental Technical Working Group                                                              |
+| FACT Network | Florida Atlantic Coast Telemetry Network                                                           |
+| FAIR         | Findable, Accessible, Interoperable, Reusable                                                      |
+| FSU          | Florida State University                                                                           |
+| FVCOM        | Finite Volume Community Ocean Model                                                                |
+| FWRI         | The Fish and Wildlife Research Institute, formerly the Florida Marine Research Institute           |
+| GCOOS        | Gulf of Mexico Coastal Ocean Observing System                                                      |
+| GEO          | Governor’s Energy Office                                                                           |
+| GPS          | Global Positioning System                                                                          |
+| HF Radar     | High Frequency Radar                                                                               |
+| HMS          | Highly Migratory Species                                                                           |
+| HVDC         | High Voltage Direct Current                                                                        |
+| Hz           | Hertz                                                                                              |
+| IOOS         | Integrated Ocean Observing System                                                                  |
+| IOOS RA      | Integrated Ocean Observing System Regional Association                                             |
+| ISO          | International Organization for Standardization                                                     |
+| IUCN         | International Union for Conservation of Nature                                                     |
+| LTER         | Long Term Ecological Research                                                                      |
+| MACAN        | Mid-Atlantic Coastal Acidification Network                                                         |
+| MAFMC        | Mid-Atlantic Fishery Management Council                                                            |
+| MARACOOS     | Mid-Atlantic Regional Association Coastal Ocean Observing System                                   |
+| MARCO        | Mid-Atlantic Regional Council on the Ocean                                                         |
+| MATOS        | Mid-Atlantic Acoustic Telemetry Observation System                                                 |
+| MBON         | Marine Biodiversity Observation Network                                                            |
+| MMF          | Marine Megafauna Foundation                                                                        |
+| MOU          | Memorandum of Understanding                                                                        |
+| MSA          | Magnuson-Stevens Fishery Conservation and Management Act                                           |
+| MTS          | Marine Technology Society                                                                          |
+| NABat        | North American Bat Monitoring Program                                                              |
+| NARWC        | North Atlantic Right Whale Consortium                                                              |
+| NASA         | National Aeronautics and Space Administration                                                      |
+| NCCOS        | National Centers for Coastal Ocean Science                                                         |
+| NCDMF        | North Carolina Division of Marine Fisheries                                                        |
+| NCEI         | National Centers for Environmental Information                                                     |
+| NDBC         | National Data Buoy Center                                                                          |
+| NECAN        | North East Coastal Acidification Network                                                           |
+| NEFMC        | New England Fishery Management Council                                                             |
+| NEFSC        | Northeast Fisheries Science Center                                                                 |
+| NEPA         | National Environmental Policy Act                                                                  |
+| NERACOOS     |  North East Regional Association of Coastal Ocean Observing Systems                                |
+| NESDIS       | National Environmental Satellite, Data, and Information Service                                    |
+| NIST         | National Institute of Standards and Technology                                                     |
+| NJ DEP       | New Jersey Department of Environmental Protection                                                  |
+| NMFS         | National Marine Fisheries Service (NOAA Fisheries)                                                 |
+| NOAA         | National Oceanic and Atmospheric Administration                                                    |
+| NOMEC        | National Ocean Mapping, Exploration, and Characterization Council                                  |
+| NOPP         | National Oceanographic Partnership Program                                                         |
+| NOWRDC       | National Offshore Wind Research and Development Consortium                                         |
+| NROC         | Northeast Regional Ocean Council                                                                   |
+| NUWC         | Naval Undersea Warfare Center Newport                                                              |
+| NWFSC        | Northwest Fisheries Science Center                                                                 |
+| NWLON        | National Water Level Observation Network                                                           |
+| NYSERDA      | New York State Energy Research and Development Authority                                           |
+| OBIS-SEAMAP  | Ocean Biogeographic Information System – Spatial Ecological Analysis of Megavertebrate Populations |
+| OCS          | Outer Continental Shelf                                                                            |
+| OSSE         | Observing system simulation experiments                                                            |
+| OSW          | Offshore Wind                                                                                      |
+| OTN          | Ocean Tracking Network                                                                             |
+| PAM          | Passive Acoustic Monitoring                                                                        |
+| PCOD         | Population Consequences of Disturbance                                                             |
+| PCOMS        | Population Consequences of Multiple Stressors                                                      |
+| PNNL         | Pacific Northwest National Laboratory                                                              |
+| Project WOW  | Project Wildlife and Offshore Wind                                                                 |
+| PSO          | Protected Species Observer                                                                         |
+| QA/QC        | Quality Assurance/Quality Control                                                                  |
+| QARTOD       | Quality Assurance of Real-Time Oceanographic Data                                                  |
+| REWI         | Renewable Energy Wildlife Institute                                                                |
+| RI DEM DMF   | Rhode Island Department of Environmental Management Division of Marine Fisheries                   |
+| RMI          | Research and Monitoring Initiative                                                                 |
+| RODEO        | Real-time Opportunity for Development Environmental Observations                                   |
+| ROMS         | Regional Ocean Modeling System                                                                     |
+| ROSA         | Responsible Offshore Science Alliance                                                              |
+| ROV          | Remotely Operated Vehicle                                                                          |
+| RUMFS        | Rutgers University Marine Field Station                                                            |
+| RWSC         | Regional Wildlife Science Collaborative for Offshore Wind                                          |
+| SAFMC        | South Atlantic Fishery Management Council                                                          |
+| SBNMS        | Stellwagen Bank National Marine Sanctuary                                                          |
+| SECOORA      | Southeastern Coastal Ocean Observing Regional Association                                          |
+| SEER         | Synthesis of Environmental Effects Research                                                        |
+| SMRU         | Sea Mammal Research Unit                                                                           |
+| SOCAN        | Southeast Ocean and Coastal Acidification Network                                                  |
+| STSSN        | Sea Turtle Stranding and Salvage Network                                                           |
+| TBD          | To Be Determined                                                                                   |
+| THREDDS      | Thematic Real-time Environmental Distributed Data Services                                         |
+| TRUST        | Transparency, Responsibility, User focus, Sustainability, Technology                               |
+| UAV          | Uncrewed Aerial Vehicle                                                                            |
+| UMCES        | University of Maryland Center for Environmental Science                                            |
+| UNESCO       | The United Nations Educational, Scientific and Cultural Organization                               |
+| USFWS        | U.S. Fish & Wildlife Service                                                                       |
+| USGS         | United State Geological Survey                                                                     |
+| VIMS         | Virginia Institute of Marine Science                                                               |
+| WEA          | Wind Energy Area                                                                                   |
+| WHOI         | Woods Hole Oceanographic Institution                                                               |
+| WREN         | Working Together to Resolve Environmental Effects of Wind Energy                                   |
+| XML          | eXtensible Markup Language                                                                         |
