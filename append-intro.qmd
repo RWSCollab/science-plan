@@ -8,18 +8,111 @@ Future additional lease sales are expected in the Gulf of Maine and the Central 
 In U.S. Atlantic waters, the federal agencies and states are requiring and funding wildlife monitoring, data collection, and research in response to this scale of proposed and planned offshore wind development and in response to several federal and state renewable energy initiatives.
 
 The Biden Administration through the U.S.
-Departments of the Interior, Energy, and Commerce announced a national goal in 2021 to deploy 30 gigawatts of offshore wind by 2030 and 15 gigawatts of floating offshore wind by 2035 while protecting biodiversity and promoting ocean co-use (U.S. Department of Interior, 2021).
+Departments of the Interior, Energy, and Commerce announced a national goal in 2021 to deploy 30 gigawatts of offshore wind by 2030 and 15 gigawatts of floating offshore wind by 2035 while protecting biodiversity and promoting ocean co-use [@u.s.departmentofinterior2021].
 In addition, the first-ever U.S.
-Ocean Climate Action Plan (OCAP) directs responsible departments and agencies to integrate and coordinate across the Federal Government, and to engage with states, local governments, and Tribes on near-term actions to create a carbon-neutral future, including expanding offshore wind energy in an environmentally responsible manner, supporting innovation, and continuing to monitor potential environmental impacts (*Ocean Climate Action Plan*, 2023).
+Ocean Climate Action Plan (OCAP) directs responsible departments and agencies to integrate and coordinate across the Federal Government, and to engage with states, local governments, and Tribes on near-term actions to create a carbon-neutral future, including expanding offshore wind energy in an environmentally responsible manner, supporting innovation, and continuing to monitor potential environmental impacts [@oceancl2023].
 Specific OCAP actions to expand offshore wind development include improving data sharing and access, identifying gaps in ocean mapping data requirements, and increasing scientific research and knowledge on the potential effects of offshore wind development and production on ocean and coastal resources (e.g., seabirds, marine mammals, habitats) and processes (e.g., currents, temperature stratification), to inform policy decisions through Tribal, academic, and public-private partnerships.
 
 In addition to federal-level action, several states have administratively and legislatively committed to procure electricity from offshore wind facilities, and some states have moved forward with specific procurements.
-Collectively, and as of mid-2022, offshore wind energy policies in eight states call for deploying at least 39.3 gigawatts of offshore wind energy capacity by 2040(U.S. Department of Energy, 2023).
+Collectively, and as of mid-2022, offshore wind energy policies in eight states call for deploying at least 39.3 gigawatts of offshore wind energy capacity by 2040 [@u.s.departmentofenergy2023b].
 Many procurements for power purchase agreements have identified environmental considerations (e.g., baseline studies, ongoing monitoring and approaches to mitigation) to be included in bid packages from prospective bidders.
 
 Offshore wind companies leasing or developing projects in U.S.
 Atlantic waters are also funding additional wildlife monitoring, data collection, and research beyond regulatory requirements.
-Over the past several years, companies have developed partnerships with universities along the Atlantic coast to bolster their existing programs and to develop new research programs focused on offshore wind (Chesapeake Biological Laboratory, 2022; *Ørsted US Offshore Wind Partners With Rutgers University*, 2019; Vineyard Wind, 2022; Wartts, 2021).Science Plan Organization
+Over the past several years, companies have developed partnerships with universities along the Atlantic coast to bolster their existing programs and to develop new research programs focused on offshore wind [@chesapeakebiologicallaboratory2022; @ørstedu2019; @vineyardwind2022; @wartts2021].
+
+Wind (RWSC) as a venue to coordinate with each other and engage with the research community.
+In July 2021, a Steering Committee with equal representation from those four Sectors officially launched RWSC with the mission to collaboratively and effectively conduct and coordinate relevant, credible, and efficient regional monitoring and research of wildlife and marine ecosystems that supports the advancement of environmentally responsible and cost-effective offshore wind power development activities in U.S.
+Atlantic waters.
+
+RWSC is hosted by the [Northeast Regional Ocean Council (NROC)](https://www.northeastoceancouncil.org/) and [Mid-Atlantic Regional Council on the Ocean (MARCO)](https://midatlanticocean.org/), the two Regional Ocean Partnerships on the U.S.
+Atlantic coast who have convened government agencies, industry, environmental groups, researchers, and others around shared priorities for ocean planning and management for more than a decade.
+NROC’s and MARCO’s work to identify and address data and science needs, including for marine wildlife and offshore wind through many expert work groups, and in collaboration with the Regional Associations of the Integrated Ocean Observing System, the [Northeast Ocean Data Portal](https://www.northeastoceandata.org/) and [Mid-Atlantic Ocean Data Portal](https://portal.midatlanticocean.org/) lays the foundation for advancing RWSC’s objectives.
+
+To further guide this mission, the RWSC Steering Committee convened expert Subcommittees—Marine Mammal, Bird & Bat, Sea Turtle, Habitat & Ecosystem, Protected Fish Species, and Technology (“the Subcommittees”)—and experts throughout the region to develop the first *Integrated Science Plan for Wildlife, Habitat, and Offshore Wind Energy in U.S. Atlantic Waters* (“Science Plan”).
+This Science Plan represents thousands of hours of input and work from hundreds of volunteer experts in wildlife, habitats, and ocean ecosystems since December 2021 captured through 50 public Subcommittee meetings, as well as through dedicated working sessions on certain topics and one-on-one discussions.
+
+RWSC Subcommittee meetings are forums where the research community and scientific experts coordinate with the agencies and industry to identify the methods, data, and analyses needed to answer questions about potential effects from offshore wind development on wildlife and the ecosystem.
+Participants share information about ongoing research and provide review of others’ methods and approaches (occasionally at agencies’ request).
+
+The resounding conclusions from the Subcommittees over the last 18 months are that the volume of data that has been and will be collected is vast, future data collection activities could be better integrated, and there is an urgent need to ensure that the data are shared, managed, and accessible.
+
+## Purpose
+
+RWSC will use the Science Plan to coordinate and fund future offshore wind and wildlife data collection and data management.
+
+### Understand ongoing and planned data collection and active research
+
+The Science Plan aggregates information about ongoing and pending offshore wind and wildlife data collection and research activities occurring in U.S.
+Atlantic waters.
+To capture this information dynamically, the Subcommittees are supporting the [**RWSC Offshore Wind & Wildlife Research Database**](https://database.rwsc.org), which is continually updated as new projects and data collection efforts begin.
+The Database is focused on recent and active projects in U.S.
+Atlantic waters that were funded to address offshore wind and wildlife or habitat interactions, and it compiles information about each project’s overall goal(s), geographic area of focus, methods used, funders, principal investigators, and other details.
+
+The Database was compiled from publicly available information and from information shared during Subcommittee meetings since late 2021.
+Many of these initiatives do not involve field research or data collection, but improve the collective ability of RWSC to address research questions (e.g., development of data management best practices).
+Each taxa-based chapter of the Science Plan will summarize these activities and connect them to the research topics that they address.
+
+This Science Plan provides a snapshot in time of these ongoing activities and initiatives as of June 2023.
+The RWSC Offshore Wind & Wildlife Research Database will serve as the most current source for research and data collection activities in U.S.
+Atlantic waters.
+
+### Build on prior efforts and collaboration
+
+The Science Plan builds on several efforts over the past decade to identify research needs and priorities.
+In September 2022, the NYSERDA’s Environmental Technical Working Group (E-TWG), in collaboration with the National Renewable Energy Lab’s and Pacific Northwest National Lab’s U.S. [(U.S. Navy, 2013)](https://www.nyetwg.com/regional-synthesis-workgroup) team, released a synthesis of 806 offshore wind and wildlife research topics from 60 sources.
+The resulting synthesized topics broadly relate to identifying, assessing, and avoiding impacts to wildlife distribution, abundance, and behavior, and to habitat and ecosystem quality and function.
+These synthesized research topics are incorporated into the Science Plan by reference, and many of them are described in the taxon-specific chapters of this Plan.
+
+In addition, the Science Plan builds on the recent and ongoing work of many partners who have articulated the need for coordinated and collaborative research and data collection related to offshore wind, including but not limited to:
+
+-   The federal agencies, Atlantic coast states, eNGOs, and offshore wind industry members and other stakeholders who participated in the visioning process for a regional wildlife science entity and who developed the [*2020 Stakeholder Driven Vision*](https://neoceanplanning.org/wp-content/uploads/2021/08/RWSE_Vision_2020.pdf)
+
+-   March 2017 [Best Management Practices Workshop for Atlantic Offshore Wind Facilities and Marine Protected Species](https://www.boem.gov/renewable-energy/best-management-practices-workshop-atlantic-offshore-wind-facilities-and-marine), hosted by BOEM
+
+-   May 2018 [*Workshop on Marine Mammal Research Priorities*](https://www.masscec.com/resources/related-wildlife-analyses)convened by Massachusetts, BOEM and New England Aquarium
+
+-   [A Framework for Studying the Effects of Offshore Wind Development on Marine Mammals and Turtles Report ](https://www.boem.gov/sites/default/files/environmental-stewardship/Environmental-Studies/Renewable-Energy/A-Framework-for-Studying-the-Effects.pdf)prepared for the Massachusetts Clean Energy Center and the Bureau of Ocean Energy Management, May 2019
+
+-   NYSERDA E-TWG State of the Science Workshop on Wildlife and Offshore Wind Energy 2020: [*Cumulative Impacts Workgroup Reports*](https://www.nyetwg.com/2020-workgroups)
+
+-   Responsible Offshore Science Alliance (ROSA) [*Offshore Wind Project Monitoring Framework and Guidelines*](https://www.rosascience.org/_files/ugd/99421e_b8932042e6e140ee84c5f8531c2530ab.pdf), which provides a set of recommendations for how to design and implement valid scientific studies of offshore wind farms
+
+-   [*Monitoring of Marine Life During Offshore Wind Energy Development - Guidelines and Recommendations*](https://www.nrdc.org/sites/default/files/ow_marine-life_monitoring_guidelines.pdf) contributed by more than 20 environmental organizations
+
+-   Priorities identified by the [New Jersey Offshore Wind Research and Monitoring Initiative](https://dep.nj.gov/offshorewind/rmi/)
+
+-   [Fisheries and Offshore Wind Interactions: Synthesis of the Science](file:///Users/christianlaspada/Desktop/Hogan F et al. 2023. Fisheries and Offshore Wind Interactions: Synthesis of Science. https:/doi.org/10.25923/tcjt-3a69. https:/repository.library.noaa.gov/view/noaa/49151.) - focused on five topics collectively identified by the project partners as critical for consideration in relation to offshore wind: ecosystem effects, fisheries socioeconomics, fisheries management and data collection, methods and approaches, and regional science planning
+
+-   [National Academies of Science, Engineering, and Medicine Standing Committee on Offshore Wind Energy and Fisheries](https://www.nationalacademies.org/our-work/standing-committee-on-offshore-wind-energy-and-fisheries)
+
+### Identify data and research gaps and needs
+
+The Subcommittees used the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org) and information shared during Subcommittee meetings to understand where key data and information are being collected, which entities are funding and implementing other non-field activities that advance research, and finally, where gaps and needs exist.
+Each taxon-specific chapter of this Science Plan identifies the additional activities needed to address active research topics more fully, and to begin to address additional research topics.
+
+### Standardize new data collection and facilitate data sharing
+
+To ensure that wildlife, habitat, and ecosystem data collected in U.S.
+Atlantic waters can be synthesized and included in future regional scale meta-analyses, species or habitat modeling, and other studies, the standardization of data and methods for providing access to data are critical.
+For many monitoring methods and analysis approaches, the Subcommittees are identifying existing best practices or have begun developing their own.
+The Data Standardization & Management chapter compiles information about existing data standardization, management, and sharing best practices and for which data these protocols and infrastructure still need to be developed.
+Each taxon-specific chapter of the Science Plan includes descriptions and more detailed recommendations specific to the data, methods, and tools relevant to each taxon.
+
+### Align and leverage funding from multiple sources
+
+The Steering Committee intends to develop collaborative funding plans to address the data gaps and research needs in this Science Plan as opportunities arise.
+
+The RWSC Steering Committee expects that the information in this Science Plan may be useful to and draw interest from multiple funders.
+The Steering Committee encourages interested funders to engage with RWSC to coordinate and collaborate on projects that together may have a greater impact than any single funder may achieve.
+The success of regional scale studies will require coordinated funding and data sharing.
+
+This Science Plan recognizes that each funding source may have its own set of criteria for selecting projects, requirements or conditions for providing funding, and/or specific desired deliverables and outputs.
+Furthermore, projects or initiatives for prospective funding will need to be responsive to and be driven by the current mix of ongoing and planned data collection and research activities.
+Therefore, the elements of each collaborative funding plan are expected to be customized by the Steering Committee at the time when funding is committed or available.
+The Steering Committee may request additional information from Subcommittees and additional input from stakeholders to inform funding plans.
+
+## Science Plan Organization
 
 The RWSC Subcommittees are using several categories to organize information about ongoing, pending, and recommended data collection and research.
 
@@ -97,3 +190,134 @@ Activities within this theme include:
 -   Developing the institutional support for and frameworks needed to facilitate timely data sharing
 
 -   Developing standards for data sharing, management, storage, and access for various data types and methods/tools
+
+### Why these themes?
+
+The Subcommittees quickly encountered challenges when organizing and coordinating across hundreds of ongoing, pending, and recommended research activities.
+Some ongoing data collection activities focus on baseline data collection for wildlife whereas other focus solely on oceanographic data.
+To organize data and research such that multiple individual efforts could eventually contribute to answering broader science questions, the Subcommittees developed several themes that assist with placing ongoing efforts generally along a continuum of scientific inquiry.
+The first theme relates to the most urgent science questions, whereas themes 2-4 build toward an ability to examine potential causes of change, with theme 5 facilitating a collaborative understanding of all data collection and results.
+The five RWSC Research Themes can be related to other research frameworks currently in use, including for example the “Occurrence, Exposure, Response, Consequences” framework used by the U.S.
+Navy and other federal agencies in the identification of science objectives for marine species monitoring [@u.s.navy2013]:
+
+-   Occurrence – RWSC Research Theme 2
+
+-   Exposure – RWSC Research Theme 3
+
+-   Response – RWSC Research Theme 4
+
+-   Consequences – RWSC Research Theme 2
+
+## Science Plan Actions
+
+Science Plan Actions are the specific categories of activities that collectively address Research Themes.
+
+There are two categories of Science Plan Actions – Field Data Collection & Analysis Actions and Non-field Actions.
+Within the Field Data Collection & Analysis Actions category, there are many specific methods and approaches being used.
+
+Within each taxa-based chapter, the ongoing, pending, and recommended research and data collection activities are grouped by Science Plan Actions.
+
+In the [RWSC Offshore Wind & Wildlife Research Database](https://database.rwsc.org/), users can filter ongoing data collection and research activities by field and non-field Science Plan Actions.
+
+### Field Data Collection & Analysis Actions
+
+For the purposes of further organizing ongoing, pending, and recommended research, the Subcommittees developed a list of methods and tools that are used to collect wildlife and environment data offshore.
+These are collectively referred to as “Field data collection & analysis actions”.
+Often, these methods are paired with Non-field Actions (described in the next section).
+
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Field Data Collection & Analysis Actions** | **Method Description**                                                                                                                                                                                     | **Possible Platforms**                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Aerial visual - strip transect               | Standard survey technique to count individuals/species                                                                                                                                                     | Aerial                                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Opportunistic visual                         | Non-standard and unstructured surveys to quantify individuals/species                                                                                                                                      | Aerial, Boat-based                                           |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Aerial high def imagery                      | High-resolution/definition photography or video for quantifying animals, nests, colonies, and/or characterizing habitat                                                                                    | Aerial                                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Aerial visual - distance sampling            | Standard survey technique to quantify abundance                                                                                                                                                            | Aerial                                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Boat-based - distance sampling               | Standard survey technique to quantify abundance                                                                                                                                                            | Boat-based                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Boat-based - strip transect                  | Standard survey technique to count individuals/species                                                                                                                                                     | Boat-based                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Stationary visual                            | Visual observations made from a stationary platform (e.g., turbine) or shore                                                                                                                               | Stationary                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Nest/colony counts                           | Manual counts of nests/colonies                                                                                                                                                                            | Stationary, Aerial                                           |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Thermal camera                               | Thermal cameras mounted to turbines or buoys for bird/bat detection                                                                                                                                        | Stationary                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Infrared camera                              | Infrared cameras mounted to turbines or buoys for bird/bat detection; boat-based infrared for marine mammal detection                                                                                      | Stationary, Boat-based                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Visual range                                 | Sensor to quantify range of detected birds/bats                                                                                                                                                            | Stationary                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| NEXRAD                                       |                                                                                                                                                                                                            | Stationary                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Marine RADAR                                 |                                                                                                                                                                                                            | Stationary, Boat-based                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Passive acoustic monitoring - real-time      | Hydrophones deployed to record sounds produced by animals and the environment with real-time reporting. Can be stationary bottom-mounted (buoys) or mobile (gliders).                                      | Glider, buoy                                                 |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Passive acoustic monitoring - archival       | Hydrophones deployed to record and archive sounds produced by animals and the environment; can be stationary bottom-mounted (buoys) or mobile (gliders)                                                    | Stationary, Glider                                           |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Carcass counts                               | Manual counts and assessments of carcasses                                                                                                                                                                 | Stationary, Aerial                                           |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| LIDAR                                        | Wind speed profiles                                                                                                                                                                                        | Stationary, Realtime data                                    |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Satellite tagging                            | Includes deploying tags on animals; e.g., ARGOS                                                                                                                                                            | Animal telemetry                                             |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Acoustic tagging                             | Includes deploying tags on animals and deploying receivers; e.g. Vemco                                                                                                                                     | Animal telemetry                                             |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| VHF tagging                                  | Includes deploying tags on animals and deploying receivers; e.g. Motus                                                                                                                                     | Animal telemetry                                             |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| GPS tagging                                  | Includes deploying tags on animals and deploying receivers                                                                                                                                                 | Animal telemetry                                             |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Other tagging                                | Includes deploying tags on animals and deploying receivers                                                                                                                                                 | Animal telemetry                                             |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| eDNA                                         | Environmental DNA collection and analysis for species detection; could be collected at stations via discrete water samples or via mobile flow-through systems?                                             | Stationary, Glider                                           |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Diet analysis                                | Stomach content analyses; chemical analyses; stable isotope analyses                                                                                                                                       | Boat-based                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Animal physiology                            | Physiological measurements including stress hormones from blood, blow, mucus, tissue, fecal samples, etc.                                                                                                  | Boat-based                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Focal follow                                 |                                                                                                                                                                                                            | Glider, ROV, AUV, Drone                                      |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Satellite remote sensing                     | Surface measurements of winds, temperature, height, ocean color (chlorophyll, dissolved organic matter, suspended particles) and other ocean and atmosphere variables collected remotely via satellite     |                                                              |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Water quality and oceanography               | In-situ measurements properties including salinity, dissolved oxygen, temperature, etc.                                                                                                                    | Stationary, Realtime data, Glider                            |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Nets and tows                                | Zooplankton and small fish sampling                                                                                                                                                                        | Boat-based                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| High frequency RADAR                         | Measurements of ocean surface currents                                                                                                                                                                     | Stationary                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Seafloor imagery                             | Photographs (sediment profile and plan-view) or video of seafloor geology and biology                                                                                                                      | Boat-based, ROV, AUV, Drop Camera, SCUBA divers/snorkelers   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Sediment grabs                               | Physical samples of seafloor sediment; size and type of grab sampler may influence the composition of the sample                                                                                           | Boat-based                                                   |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Seafloor acoustics - geophysical             | Multibeam bathymetry, backscatter, side scan sonar                                                                                                                                                         | Boat-based, ROV, AUV                                         |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+| Echosounders                                 | Acoustic instrumentation used to characterize prey fields in the water column; can also be directed at the seafloor for bottom characterization                                                            | Boat-based, Stationary                                       |
++----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+
+
+### Non-field Actions
+
+In addition to field data collection, wildlife and environment research includes other types of activities that advance the use of the data in multiple ways.
+A range of Non-field Actions that correspond to all phase of research planning, implementation, and dissemination have been defined by the Subcommittees:
+
+Coordination and planning- coordination among the four RWSC Sectors and the research community through the operation of the RWSC, but also other multisector coordination activities led by federal agencies and individual states; deconflicting research activities; coordination around an issue or species, such as the North Atlantic right whale.
+
+Standardizing data collection, analysis, and reporting– development and maintenance of informal “best practices” as well as formal guidance from government entities on the specific protocols and methods that should be used for specific data types and/or studies to ensure alignment with advances in technologies and practices.
+
+Historical data collection/compilation– adding existing data to modern databases so that historical data can be used in long-term/time-series analyses and studies.
+
+Study optimization– implementation of statistical frameworks and analyses, including power analyses, to determine optimal study designs given a set of data conditions and research goals.
+
+Manipulative experiments– in manipulative experiments, multiple replicate experimental units are created and an experimental manipulation (a “treatment”) is applied to a random set of these units, with the remaining units being left as controls.
+A measured difference in average response between the manipulated and control units can then be inferred to be due to the treatment.
+Manipulative experiments are different from observational studies and can help researchers “diagnose” the cause(s) of any observed change.
+
+Model development and statistical frameworks– development and maintenance of species distribution models, habitat suitability models, risk assessment frameworks, Population Consequences of Disturbance (PCoD) models, cumulative impact assessments, etc.
+
+Technology advancement– includes the development and testing of new field research tools/methods or mitigation options; can also include development of and improvements to data systems.
+
+Meta-analysis and literature review– examples include compilations of research priorities, impacts literature, assessments of data availability, life history parameters to inform models.
+
+Outreach and platforms to provide data products and results to stakeholders– includes the work that RWSC does to summarize and convey findings and results to stakeholders and decision-makers, including through regional data portals and other web-based platforms that display interpretive maps with exploratory tools and links to the underlying data as appropriate.
