@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -48,7 +68,12 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,6 +82,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -79,9 +105,9 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./RWSC_Logo_notext.png" alt="" class="navbar-logo">
     </a>
@@ -89,25 +115,25 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
     </a>
   </div>
-        <div class="quarto-navbar-tools ms-auto">
-    <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+        <div class="quarto-navbar-tools">
+    <a href="https://github.com/RWSCollab/science-plan" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://twitter.com/intent/tweet?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://twitter.com/intent/tweet?url=|url|">
               <i class="bi bi-bi-twitter pe-1"></i>
             Twitter
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
               <i class="bi bi-bi-facebook pe-1"></i>
             Facebook
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
               <i class="bi bi-bi-linkedin pe-1"></i>
             LinkedIn
             </a>
@@ -119,12 +145,12 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./append-acronyms.html">Appendices</a></li><li class="breadcrumb-item"><a href="./append-intro.html"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Additional Introduction</span></a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./append-acronyms.html">Appendices</a></li><li class="breadcrumb-item"><a href="./append-intro.html"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Additional Introduction</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -134,8 +160,8 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
@@ -324,7 +350,7 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -337,26 +363,23 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
   <hr>
     <h2 id="toc-title">On this page</h2>
     <ul>
-    <li><a href="#science-plan-organization" id="toc-science-plan-organization" class="nav-link" data-scroll-target="#science-plan-organization"><span class="header-section-number">C.1</span> Science Plan Organization</a>
+    <li><a href="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" id="toc-chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="nav-link" data-scroll-target="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.0.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</a></li>
+    <li><a href="#subregions" id="toc-subregions" class="nav-link" data-scroll-target="#subregions"><span class="header-section-number">C.0.2</span> Subregions</a></li>
+    <li><a href="#research-themes" id="toc-research-themes" class="nav-link" data-scroll-target="#research-themes"><span class="header-section-number">C.1</span> Research Themes</a>
     <ul class="collapse">
-    <li><a href="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" id="toc-chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="nav-link" data-scroll-target="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.1.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</a></li>
-    <li><a href="#subregions" id="toc-subregions" class="nav-link" data-scroll-target="#subregions"><span class="header-section-number">C.1.2</span> Subregions</a></li>
-    </ul></li>
-    <li><a href="#research-themes" id="toc-research-themes" class="nav-link" data-scroll-target="#research-themes"><span class="header-section-number">C.2</span> Research Themes</a>
-    <ul class="collapse">
-    <li><a href="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" id="toc-improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="nav-link" data-scroll-target="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.2.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</a></li>
-    <li><a href="#detecting-and-quantifying-changes-to-wildlife-and-habitats" id="toc-detecting-and-quantifying-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.2</span> Detecting and quantifying changes to wildlife and habitats</a></li>
-    <li><a href="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" id="toc-understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.3</span> Understanding the environmental context around changes to wildlife and habitats</a></li>
-    <li><a href="#determining-causality-for-observed-changes-to-wildlife-and-habitats" id="toc-determining-causality-for-observed-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.4</span> Determining causality for observed changes to wildlife and habitats</a></li>
-    <li><a href="#enhancing-data-sharing-and-access" id="toc-enhancing-data-sharing-and-access" class="nav-link" data-scroll-target="#enhancing-data-sharing-and-access"><span class="header-section-number">C.2.5</span> Enhancing data sharing and access</a></li>
+    <li><a href="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" id="toc-improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="nav-link" data-scroll-target="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.1.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</a></li>
+    <li><a href="#detecting-and-quantifying-changes-to-wildlife-and-habitats" id="toc-detecting-and-quantifying-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.2</span> Detecting and quantifying changes to wildlife and habitats</a></li>
+    <li><a href="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" id="toc-understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.3</span> Understanding the environmental context around changes to wildlife and habitats</a></li>
+    <li><a href="#determining-causality-for-observed-changes-to-wildlife-and-habitats" id="toc-determining-causality-for-observed-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.4</span> Determining causality for observed changes to wildlife and habitats</a></li>
+    <li><a href="#enhancing-data-sharing-and-access" id="toc-enhancing-data-sharing-and-access" class="nav-link" data-scroll-target="#enhancing-data-sharing-and-access"><span class="header-section-number">C.1.5</span> Enhancing data sharing and access</a></li>
     </ul></li>
     </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-intro.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/RWSCollab/science-plan/edit/main/append-intro.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./append-acronyms.html">Appendices</a></li><li class="breadcrumb-item"><a href="./append-intro.html"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Additional Introduction</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span id="sec-append-dgdm" class="quarto-section-identifier">Appendix C: Additional Introduction</span></h1>
 </div>
@@ -371,38 +394,46 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
   </div>
   
 
+
 </header>
 
-<section id="science-plan-organization" class="level2" data-number="C.1">
-<h2 data-number="C.1" class="anchored" data-anchor-id="science-plan-organization"><span class="header-section-number">C.1</span> Science Plan Organization</h2>
+
+<p>There are currently 27 renewable energy lease areas in the Atlantic Outer Continental Shelf (OCS) and 42 megawatts of installed offshore wind capacity. The total area of these existing leases and those areas being considered for additional leasing in the Atlantic OCS covers over 22 million acres. The fixed-bottom offshore wind infrastructure currently proposed for installation by 2030 would cover about 2.3 million acres <span class="citation" data-cites="boem2022">(<a href="references.html#ref-boem2022" role="doc-biblioref">BOEM and NOAA, 2022</a>)</span>. Future additional lease sales are expected in the Gulf of Maine and the Central Atlantic, and over this time, floating technologies will increase as a proposed method of installation in various locations.</p>
+<p>In U.S. Atlantic waters, the federal agencies and states are requiring and funding wildlife monitoring, data collection, and research in response to this scale of proposed and planned offshore wind development and in response to several federal and state renewable energy initiatives.</p>
+<p>The Biden Administration through the U.S. Departments of the Interior, Energy, and Commerce announced a national goal in 2021 to deploy 30 gigawatts of offshore wind by 2030 and 15 gigawatts of floating offshore wind by 2035 while protecting biodiversity and promoting ocean co-use (U.S. Department of Interior, 2021). In addition, the first-ever U.S. Ocean Climate Action Plan (OCAP) directs responsible departments and agencies to integrate and coordinate across the Federal Government, and to engage with states, local governments, and Tribes on near-term actions to create a carbon-neutral future, including expanding offshore wind energy in an environmentally responsible manner, supporting innovation, and continuing to monitor potential environmental impacts (<em>Ocean Climate Action Plan</em>, 2023). Specific OCAP actions to expand offshore wind development include improving data sharing and access, identifying gaps in ocean mapping data requirements, and increasing scientific research and knowledge on the potential effects of offshore wind development and production on ocean and coastal resources (e.g., seabirds, marine mammals, habitats) and processes (e.g., currents, temperature stratification), to inform policy decisions through Tribal, academic, and public-private partnerships.</p>
+<p>In addition to federal-level action, several states have administratively and legislatively committed to procure electricity from offshore wind facilities, and some states have moved forward with specific procurements. Collectively, and as of mid-2022, offshore wind energy policies in eight states call for deploying at least 39.3 gigawatts of offshore wind energy capacity by 2040(U.S. Department of Energy, 2023). Many procurements for power purchase agreements have identified environmental considerations (e.g., baseline studies, ongoing monitoring and approaches to mitigation) to be included in bid packages from prospective bidders.</p>
+<p>Offshore wind companies leasing or developing projects in U.S. Atlantic waters are also funding additional wildlife monitoring, data collection, and research beyond regulatory requirements. Over the past several years, companies have developed partnerships with universities along the Atlantic coast to bolster their existing programs and to develop new research programs focused on offshore wind (Chesapeake Biological Laboratory, 2022; <em>Ørsted US Offshore Wind Partners With Rutgers University</em>, 2019; Vineyard Wind, 2022; Wartts, 2021).Science Plan Organization</p>
 <p>The RWSC Subcommittees are using several categories to organize information about ongoing, pending, and recommended data collection and research.</p>
-<section id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="level3" data-number="C.1.1">
-<h3 data-number="C.1.1" class="anchored" data-anchor-id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.1.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</h3>
+<section id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="level3" data-number="C.0.1">
+<h3 data-number="C.0.1" class="anchored" data-anchor-id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.0.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</h3>
 <p>First, the Science Plan is separated into chapters that align with each RWSC taxa-based Subcommittee: Marine Mammals, Birds &amp; Bats, Sea Turtles, Protected Fish Species, and Habitat &amp; Ecosystem.&nbsp; The Habitat &amp; Ecosystem Subcommittee wrote two chapters: Oceanography and Seafloor Habitat. There are additional chapters for issues that relate to all taxa and habitats, including Science Plan Actions, Data Standardization &amp; Management, Data Governance, and Technology.</p>
 <p>There are many data collection activities that explicitly target or incidentally gather information on multiple taxa. Those multi-taxa activities are described in the <a href="https://database.rwsc.org/">RWSC Offshore Wind &amp; Wildlife Research Database</a> and in the pertinent sections of the Science Plan. Opportunities for additional coordinated data collection across taxa are also described in each section where relevant.</p>
 </section>
-<section id="subregions" class="level3" data-number="C.1.2">
-<h3 data-number="C.1.2" class="anchored" data-anchor-id="subregions"><span class="header-section-number">C.1.2</span> Subregions</h3>
+<section id="subregions" class="level3" data-number="C.0.2">
+<h3 data-number="C.0.2" class="anchored" data-anchor-id="subregions"><span class="header-section-number">C.0.2</span> Subregions</h3>
 <p>Each taxa-based chapter of the Science Plan groups information about ongoing, pending, and recommended research activities by whether they occur at the regional scale (U.S. Atlantic waters) or at subregional scales. The Subcommittees identified Subregions roughly aligned with the current federal offshore wind development planning and lease areas (see figure below). This alignment stems from the reality that many data collection activities are funded to examine a particular project overall, a project phase, lease area, or group of contiguous lease areas.&nbsp;</p>
 <p>The use of subregions in the Science Plan is limited to organizing information and highlighting place-based gaps and needs. It is not the intent of the Science Plan to suggest geographic boundaries for data collection and research activities. In many cases, biogeographic considerations may drive data collection and research planning, including study design, analysis, and interpretation.</p>
-<div id="fig-1" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="figures/subregions.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;C.1: Map of subregions in U.S. Atlantic waters that are aligned with federal offshore wind planning and leasing areas.</figcaption>
+<div id="fig-1" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/subregions.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;C.1: Map of subregions in U.S. Atlantic waters that are aligned with federal offshore wind planning and leasing areas.
+</figcaption>
 </figure>
 </div>
 </section>
-</section>
-<section id="research-themes" class="level2" data-number="C.2">
-<h2 data-number="C.2" class="anchored" data-anchor-id="research-themes"><span class="header-section-number">C.2</span> Research Themes</h2>
+<section id="research-themes" class="level2" data-number="C.1">
+<h2 data-number="C.1" class="anchored" data-anchor-id="research-themes"><span class="header-section-number">C.1</span> Research Themes</h2>
 <p>For the purposes of organizing hundreds of ongoing, pending, and recommended research activities along the Atlantic coast, the Subcommittees used five broad Research Themesto organize their chapters. There are more specific research topics, questions, and recommendations that nest within each theme. Some research topics and recommendations relate to more than one Research Theme.</p>
 <p>In the <a href="https://database.rwsc.org/">RWSC Offshore Wind &amp; Wildlife Research Database</a>, users can filter ongoing data collection and research activities by Research Theme.</p>
-<section id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="level3" data-number="C.2.1">
-<h3 data-number="C.2.1" class="anchored" data-anchor-id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.2.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</h3>
+<section id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="level3" data-number="C.1.1">
+<h3 data-number="C.1.1" class="anchored" data-anchor-id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.1.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</h3>
 <p>Several Subcommittee members identified this research theme as a high priority overall, particularly for highly vulnerable and/or protected species that are data limited. Research within this theme would test the efficacy of existing mitigation methods or develop new methods for high-risk species for which there is high confidence in negative impacts.&nbsp;</p>
 </section>
-<section id="detecting-and-quantifying-changes-to-wildlife-and-habitats" class="level3" data-number="C.2.2">
-<h3 data-number="C.2.2" class="anchored" data-anchor-id="detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.2</span> Detecting and quantifying changes to wildlife and habitats</h3>
+<section id="detecting-and-quantifying-changes-to-wildlife-and-habitats" class="level3" data-number="C.1.2">
+<h3 data-number="C.1.2" class="anchored" data-anchor-id="detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.2</span> Detecting and quantifying changes to wildlife and habitats</h3>
 <p>This theme encompasses the work required to detect and quantify changes to wildlife distribution, abundance, behavior, and health as well as changes to habitat characteristics and quality. The Subcommittees recognize that not all observed changes are ecologically meaningful, and that consideration should be given to determining and defining levels of change that are meaningful for various ecosystem components or species. Activities within this theme include but are not limited to:</p>
 <ul>
 <li><p>Collecting baseline wildlife and habitat data&nbsp;</p></li>
@@ -413,16 +444,16 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <li><p>Identifying thresholds of ecologically meaningful change</p></li>
 </ul>
 </section>
-<section id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="level3" data-number="C.2.3">
-<h3 data-number="C.2.3" class="anchored" data-anchor-id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.3</span> Understanding the environmental context around changes to wildlife and habitats</h3>
+<section id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="level3" data-number="C.1.3">
+<h3 data-number="C.1.3" class="anchored" data-anchor-id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.3</span> Understanding the environmental context around changes to wildlife and habitats</h3>
 <p>When paired with the activities associated with the previous research theme, characterizations of the environmental context including anthropogenic stressors, will be critical for understanding drivers of wildlife, habitat, and ecosystem change. Activities within this theme include characterizations of oceanographic and meteorological properties, prey fields, ocean noise, and human activities in the ocean other than offshore wind that may affect wildlife and habitat. An important component of this research theme is controlling for impacts induced by climate change during the assessment of potential offshore wind effects.&nbsp;</p>
 </section>
-<section id="determining-causality-for-observed-changes-to-wildlife-and-habitats" class="level3" data-number="C.2.4">
-<h3 data-number="C.2.4" class="anchored" data-anchor-id="determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.4</span> Determining causality for observed changes to wildlife and habitats</h3>
+<section id="determining-causality-for-observed-changes-to-wildlife-and-habitats" class="level3" data-number="C.1.4">
+<h3 data-number="C.1.4" class="anchored" data-anchor-id="determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.4</span> Determining causality for observed changes to wildlife and habitats</h3>
 <p>Ideally, research activities result in the ability to determine the causes of any observed changes to wildlife distribution, abundance, and/or behavior, and to habitats. Given the natural variability in the ocean ecosystem and new patterns and variations attributed to climate change, Subcommittee members have cautioned that determining causality with high confidence will be challenging.</p>
 </section>
-<section id="enhancing-data-sharing-and-access" class="level3" data-number="C.2.5">
-<h3 data-number="C.2.5" class="anchored" data-anchor-id="enhancing-data-sharing-and-access"><span class="header-section-number">C.2.5</span> Enhancing data sharing and access</h3>
+<section id="enhancing-data-sharing-and-access" class="level3" data-number="C.1.5">
+<h3 data-number="C.1.5" class="anchored" data-anchor-id="enhancing-data-sharing-and-access"><span class="header-section-number">C.1.5</span> Enhancing data sharing and access</h3>
 <p>This theme is a catalyst for addressing all the previous themes. Activities within this theme include:</p>
 <ul>
 <li><p>Identifying and supporting existing data systems or building and maintaining new data systems that accommodate the volumes of wildlife and environmental data to be collected over the next several decades</p></li>
@@ -431,6 +462,11 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 </ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-boem2022" class="csl-entry" role="listitem">
+BOEM, NOAA, 2022. <a href="https://www.regulations.gov/document/BOEM-2022-0066-0003">DRAFT BOEM and NOAA fisheries north atlantic right whale and offshore wind strategy</a>.
+</div>
+</div>
 </section>
 </section>
 
@@ -514,10 +550,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/rwsc\.org\/science-plan");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -527,8 +580,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -541,6 +603,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -584,6 +765,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -609,6 +791,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -666,30 +874,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/rwsc\.org\/science-plan");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./append-rosters.html" class="pagination-link">
+      <a href="./append-rosters.html" class="pagination-link  aria-label=" &lt;span="" rosters&lt;="" span&gt;"="">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Subcommittee Rosters</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./append-dgdm.html" class="pagination-link">
+      <a href="./append-dgdm.html" class="pagination-link" aria-label="<span class='chapter-number'>D</span>&nbsp; <span class='chapter-title'>Data Governance &amp; Data Management</span>">
         <span class="nav-page-text"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Data Governance &amp; Data Management</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -697,13 +891,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
+    <div class="nav-footer-left">
+<p>© CC-By-NC-ND RWSC Steering Committee, 2024</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
-    <div class="nav-footer-right"><img src="RWSC_Logo.png" width="125"></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/RWSCollab/science-plan/edit/main/append-intro.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p><img src="RWSC_Logo.png" width="125"></p>
+</div>
   </div>
 </footer>
+
 
 
 

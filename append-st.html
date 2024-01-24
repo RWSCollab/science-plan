@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -25,6 +25,7 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -67,7 +68,12 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -76,6 +82,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -98,9 +105,9 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./RWSC_Logo_notext.png" alt="" class="navbar-logo">
     </a>
@@ -108,25 +115,25 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     <span class="navbar-title">Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters</span>
     </a>
   </div>
-        <div class="quarto-navbar-tools ms-auto">
-    <a href="https://github.com/RWSCollab/science-plan" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+        <div class="quarto-navbar-tools">
+    <a href="https://github.com/RWSCollab/science-plan" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://twitter.com/intent/tweet?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://twitter.com/intent/tweet?url=|url|">
               <i class="bi bi-bi-twitter pe-1"></i>
             Twitter
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
               <i class="bi bi-bi-facebook pe-1"></i>
             Facebook
             </a>
           </li>
           <li>
-            <a class="dropdown-item quarto-navbar-tools ms-auto-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
               <i class="bi bi-bi-linkedin pe-1"></i>
             LinkedIn
             </a>
@@ -138,12 +145,12 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./append-acronyms.html">Appendices</a></li><li class="breadcrumb-item"><a href="./append-st.html"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Sea Turtles</span></a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./append-acronyms.html">Appendices</a></li><li class="breadcrumb-item"><a href="./append-st.html"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Sea Turtles</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -153,8 +160,8 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo7.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
@@ -343,7 +350,7 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -381,12 +388,12 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
     </ul></li>
     <li><a href="#list-of-definitions-and-acronyms" id="toc-list-of-definitions-and-acronyms" class="nav-link" data-scroll-target="#list-of-definitions-and-acronyms"><span class="header-section-number">H.5</span> List of Definitions and Acronyms</a></li>
     </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-st.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/RWSCollab/science-plan/edit/main/append-st.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./append-acronyms.html">Appendices</a></li><li class="breadcrumb-item"><a href="./append-st.html"><span class="chapter-number">H</span>&nbsp; <span class="chapter-title">Sea Turtles</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span id="sec-append-st" class="quarto-section-identifier">Appendix H: Sea Turtles</span></h1>
 </div>
@@ -401,7 +408,9 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
   </div>
   
 
+
 </header>
+
 
 <p>Note: Scientific and ecological terminology and agency/organization acronyms are used throughout this chapter. A <a href="#Definitions_and_Acronyms">List of Definitions and Acronyms</a> is included at the end of the chapter.</p>
 <section id="sea-turtle-species-in-the-rwsc-study-area" class="level2" data-number="H.1">
@@ -810,8 +819,8 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 </section>
 <section id="rwsc-sub-regions-and-regional-scale-sea-turtle-distribution" class="level3" data-number="H.1.2">
 <h3 data-number="H.1.2" class="anchored" data-anchor-id="rwsc-sub-regions-and-regional-scale-sea-turtle-distribution"><span class="header-section-number">H.1.2</span> RWSC Sub-regions and regional scale sea turtle distribution</h3>
-<p>RWSC is organized by subregion along the U.S. Atlantic coast, roughly aligned with current offshore wind development planning areas. RWSC subregions and map are described in the <a href="intro.html"><span>Chapter&nbsp;1</span></a>.</p>
-<p>In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described in the <a href="intro.html"><span>Chapter&nbsp;1</span></a>. Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable <a href="https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI">RWSC Offshore Wind and Wildlife Research Database</a>, and links to queries for each research project are included in the tables describing projects in the chapter. Following regionwide field research, is discussion of field research specific to each subregion. Following subregion field data collection discussion, are on-going, pending and recommended non-field efforts by research theme and action. Non-field data collection actions include: 1) outreach and platforms to provide data products/results to stakeholders; 2) coordination and planning; 3) standardizing data collection, analysis, and reporting; 4) study optimization; 5) historic data collection/compilation; 6) model development and statistical frameworks; 7) technology advancement; 8) manipulative experiments, and 9) meta-analysis and literature review and are further described in <a href="intro.html"><span>Chapter&nbsp;1</span></a>.</p>
+<p>RWSC is organized by subregion along the U.S. Atlantic coast, roughly aligned with current offshore wind development planning areas. RWSC subregions and map are described in the <a href="intro.html" class="quarto-xref"><span>Chapter 1</span></a>.</p>
+<p>In this document, region wide ongoing, pending and recommended field research is briefly described, discussed and organized into one of several research themes described in the <a href="intro.html" class="quarto-xref"><span>Chapter 1</span></a>. Details of ongoing and pending research and long-term monitoring efforts informative to the questions regarding OSW are available in the searchable <a href="https://database.rwsc.org/details?recordId=recNHdvRuyx5cCeyI">RWSC Offshore Wind and Wildlife Research Database</a>, and links to queries for each research project are included in the tables describing projects in the chapter. Following regionwide field research, is discussion of field research specific to each subregion. Following subregion field data collection discussion, are on-going, pending and recommended non-field efforts by research theme and action. Non-field data collection actions include: 1) outreach and platforms to provide data products/results to stakeholders; 2) coordination and planning; 3) standardizing data collection, analysis, and reporting; 4) study optimization; 5) historic data collection/compilation; 6) model development and statistical frameworks; 7) technology advancement; 8) manipulative experiments, and 9) meta-analysis and literature review and are further described in <a href="intro.html" class="quarto-xref"><span>Chapter 1</span></a>.</p>
 <section id="regional-scale-distribution-information" class="level4" data-number="H.1.2.1">
 <h4 data-number="H.1.2.1" class="anchored" data-anchor-id="regional-scale-distribution-information"><span class="header-section-number">H.1.2.1</span> Regional-scale distribution information</h4>
 <p>Consistent data to capture spatial and temporal distribution is provided via survey effort. In addition, tag, sighting, stranding and bycatch data contribute to distribution information, especially in areas and times where survey effort is limited and under conditions where turtles are not likely to be detected. While there has been a substantial amount of survey effort conducted to detect large sea turtles in the NW Atlantic, turtle distribution and behavior is variable both within and between seasons and is likely affected directly and indirectly by a combination of environmental factors. As such, abundance estimates should be based on multiple years and seasons of data <span class="citation" data-cites="noaafisheries2020">(<a href="references.html#ref-noaafisheries2020" role="doc-biblioref">NOAA Fisheries, 2020</a>)</span>. Currently, a thorough understanding of surface availability and abundance is lacking for all species in much of the NW Atlantic. For some species and subregions, especially sub-adult loggerheads in shelf waters of USCA through SNE subregions, availability estimates are based on relatively large data sets, but still contain some data gaps <span class="citation" data-cites="hatch2022">(<a href="references.html#ref-hatch2022" role="doc-biblioref">Hatch and al., 2022</a>)</span>. Importantly, most recent distance sampling aerial surveys (AMAPPS) have been conducted using parameters appropriate for detecting a variety of species. The speed and altitude at which most of these surveys were conducted prevent detection of smaller turtles (&lt;40cm carapace length) <span class="citation" data-cites="noaafisheries2020 palka2021">(<a href="references.html#ref-noaafisheries2020" role="doc-biblioref">NOAA Fisheries, 2020</a>; <a href="references.html#ref-palka2021" role="doc-biblioref">Palka et al., 2021</a>)</span>, and all turtle detections decrease in sub-optimal conditions, especially with increasing sea state. Regardless of the survey effort level, substantial data gaps on sea turtle distribution and abundance exist for all species, seasons and subregions.</p>
@@ -873,7 +882,7 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 </section>
 <section id="methods-and-approaches" class="level2" data-number="H.3">
 <h2 data-number="H.3" class="anchored" data-anchor-id="methods-and-approaches"><span class="header-section-number">H.3</span> Methods and approaches</h2>
-<p>To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in <a href="intro.html"><span>Chapter&nbsp;1</span></a>. The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.</p>
+<p>To address questions about sea turtles and the potential concerns with respect to offshore wind development, the Science Plan describes commonly used methods and approaches for data collection and research in <a href="intro.html" class="quarto-xref"><span>Chapter 1</span></a>. The following categories of methods are used throughout this chapter, but the Subcommittee recognizes that different tools, technologies, and/or procedures could be implemented with respect to each.</p>
 <section id="aerial-and-vessel-based-line-transect-observational-surveys" class="level3" data-number="H.3.1">
 <h3 data-number="H.3.1" class="anchored" data-anchor-id="aerial-and-vessel-based-line-transect-observational-surveys"><span class="header-section-number">H.3.1</span> Aerial and vessel-based line transect observational surveys</h3>
 <p>Large scale abundance data for sea turtles is generally collected using distance sampling surveys conducted from aerial, shipboard, and, in future, unmanned platforms such as drones.</p>
@@ -1139,7 +1148,7 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <p>USSEA – US Southeast Atlantic subregion of the RWSC study area</p>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
 <div id="ref-a.mosnier2018" class="csl-entry" role="listitem">
 A. Mosnier, J.-F. Gosselin, J. Lawson, S. Plourde, V. Lesage, 2018. Predicting seasonal occurrence of leatherback turtles (dermochelys coriacea) in eastern canadian waters from turtle and ocean sunfish (mola mola) sighting data and habitat characteristics. Canadian Journal of Zoology 97, 464–478. https://doi.org/<a href="https://doi.org/10.1139/cjz-2018-0167">https://doi.org/10.1139/cjz-2018-0167</a>
 </div>
@@ -1370,10 +1379,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/rwsc\.org\/science-plan");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1383,8 +1409,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1397,6 +1432,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1440,6 +1594,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1465,6 +1620,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1522,30 +1703,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/rwsc\.org\/science-plan");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./append-bats.html" class="pagination-link">
+      <a href="./append-bats.html" class="pagination-link  aria-label=" &lt;span="">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">G</span>&nbsp; <span class="chapter-title">Bats</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./append-pf.html" class="pagination-link">
+      <a href="./append-pf.html" class="pagination-link" aria-label="<span class='chapter-number'>I</span>&nbsp; <span class='chapter-title'>Protected Fish Species</span>">
         <span class="nav-page-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Protected Fish Species</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -1553,13 +1720,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By-NC-ND RWSC Steering Committee, 2024</div>   
+    <div class="nav-footer-left">
+<p>© CC-By-NC-ND RWSC Steering Committee, 2024</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
-    <div class="nav-footer-right"><img src="RWSC_Logo.png" width="125"></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/RWSCollab/science-plan/edit/main/append-st.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p><img src="RWSC_Logo.png" width="125"></p>
+</div>
   </div>
 </footer>
+
 
 
 
