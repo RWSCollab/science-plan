@@ -2,7 +2,7 @@
 
 *Authors: [Bird & Bat Subcommittee](append-rosters.qmd#bb)*
 
-*For more detail on any of these topics, read* @sec-append-bats.
+*For more detail on any of these topics, read the [Bats Appendix](append-bats.qmd)*.
 
 Scientific understanding of bat activity and behavior in the offshore environment is relatively limited at present.
 At least six species of bat are known to occur offshore, including the long-distance migratory tree bats (hoary bat, silver-haired bat, eastern red bat), as well as Myotis species of conservation concern [@solick2021].

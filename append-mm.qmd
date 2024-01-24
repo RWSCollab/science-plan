@@ -35,7 +35,7 @@ Baleen whales' prey in particular-- which include zooplankton and small fish spe
 In response to climate-driven shifts in their prey, baleen whales have shifted foraging locations into places where fewer protections are available [@davies2019], or where conflicts with more human uses are likely.
 NOAA's 2023 State of the Ecosystem New England report [@lucey2023] describes the slow movement of several marine mammal species to the northeast and into generally deeper water [@chavez-rosales2022] (and see figure below).
 
-![Direction and magnitude of core habitat shifts, represented by the length of the line of seasonal weighted centroid for species with more than 70 km difference between 2010 and 2017 (tip of arrow) \[\@chavez-rosales2022\].](figures/mm/Chavez-Rosales%202022.png){#fig-1}
+![Direction and magnitude of core habitat shifts, represented by the length of the line of seasonal weighted centroid for species with more than 70 km difference between 2010 and 2017 (tip of arrow) [@chavez-rosales2022].](figures/mm/Chavez-Rosales%202022.png){#fig-1}
 
 The following data products and tools provide relevant context to inform where new data collection is needed and which research questions are most urgent to address given present status and trends in marine mammal distribution, abundance, behavior as observed in the field or understood by the most recent analyses.
 These sources are updated frequently.

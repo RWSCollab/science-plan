@@ -2,7 +2,7 @@
 
 *Authors: [Habitat & Ecosystem Subcommittee](append-rosters.qmd#he)*
 
-*For more detail on any of these topics, read the* [Habitat & Ecosystem - Oceanography Appendix](append-heo.qmd).
+*For more detail on any of these topics, read the* [*Habitat & Ecosystem - Oceanography Appendix*](append-heo.qmd)*.*
 
 The scope of this chapter includes physical and biological oceanographic processes, hydrodynamics, and some atmospheric and meteorological processes.
 All of these processes relate to the species discussed in other chapters.

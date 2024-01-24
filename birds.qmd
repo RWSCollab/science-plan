@@ -2,7 +2,7 @@
 
 *Authors: [Bird & Bat Subcommittee](append-rosters.qmd#bb)*
 
-*For more detail on any of these topics, read* @sec-append-birds.
+*For more detail on any of these topics, read* *the [Birds Appendix](append-birds.qmd).*
 
 Over 400 bird species regularly occur along the U.S.
 Atlantic Coast, representing a variety of life histories and interactions with the offshore environment.
