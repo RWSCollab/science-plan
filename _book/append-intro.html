@@ -21,7 +21,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -337,18 +356,15 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
   <hr>
     <h2 id="toc-title">On this page</h2>
     <ul>
-    <li><a href="#science-plan-organization" id="toc-science-plan-organization" class="nav-link" data-scroll-target="#science-plan-organization"><span class="header-section-number">C.1</span> Science Plan Organization</a>
+    <li><a href="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" id="toc-chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="nav-link" data-scroll-target="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.0.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</a></li>
+    <li><a href="#subregions" id="toc-subregions" class="nav-link" data-scroll-target="#subregions"><span class="header-section-number">C.0.2</span> Subregions</a></li>
+    <li><a href="#research-themes" id="toc-research-themes" class="nav-link" data-scroll-target="#research-themes"><span class="header-section-number">C.1</span> Research Themes</a>
     <ul class="collapse">
-    <li><a href="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" id="toc-chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="nav-link" data-scroll-target="#chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.1.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</a></li>
-    <li><a href="#subregions" id="toc-subregions" class="nav-link" data-scroll-target="#subregions"><span class="header-section-number">C.1.2</span> Subregions</a></li>
-    </ul></li>
-    <li><a href="#research-themes" id="toc-research-themes" class="nav-link" data-scroll-target="#research-themes"><span class="header-section-number">C.2</span> Research Themes</a>
-    <ul class="collapse">
-    <li><a href="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" id="toc-improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="nav-link" data-scroll-target="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.2.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</a></li>
-    <li><a href="#detecting-and-quantifying-changes-to-wildlife-and-habitats" id="toc-detecting-and-quantifying-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.2</span> Detecting and quantifying changes to wildlife and habitats</a></li>
-    <li><a href="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" id="toc-understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.3</span> Understanding the environmental context around changes to wildlife and habitats</a></li>
-    <li><a href="#determining-causality-for-observed-changes-to-wildlife-and-habitats" id="toc-determining-causality-for-observed-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.4</span> Determining causality for observed changes to wildlife and habitats</a></li>
-    <li><a href="#enhancing-data-sharing-and-access" id="toc-enhancing-data-sharing-and-access" class="nav-link" data-scroll-target="#enhancing-data-sharing-and-access"><span class="header-section-number">C.2.5</span> Enhancing data sharing and access</a></li>
+    <li><a href="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" id="toc-improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="nav-link" data-scroll-target="#improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.1.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</a></li>
+    <li><a href="#detecting-and-quantifying-changes-to-wildlife-and-habitats" id="toc-detecting-and-quantifying-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.2</span> Detecting and quantifying changes to wildlife and habitats</a></li>
+    <li><a href="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" id="toc-understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.3</span> Understanding the environmental context around changes to wildlife and habitats</a></li>
+    <li><a href="#determining-causality-for-observed-changes-to-wildlife-and-habitats" id="toc-determining-causality-for-observed-changes-to-wildlife-and-habitats" class="nav-link" data-scroll-target="#determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.4</span> Determining causality for observed changes to wildlife and habitats</a></li>
+    <li><a href="#enhancing-data-sharing-and-access" id="toc-enhancing-data-sharing-and-access" class="nav-link" data-scroll-target="#enhancing-data-sharing-and-access"><span class="header-section-number">C.1.5</span> Enhancing data sharing and access</a></li>
     </ul></li>
     </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RWSCollab/science-plan/edit/main/append-intro.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
@@ -373,16 +389,19 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 
 </header>
 
-<section id="science-plan-organization" class="level2" data-number="C.1">
-<h2 data-number="C.1" class="anchored" data-anchor-id="science-plan-organization"><span class="header-section-number">C.1</span> Science Plan Organization</h2>
+<p>There are currently 27 renewable energy lease areas in the Atlantic Outer Continental Shelf (OCS) and 42 megawatts of installed offshore wind capacity. The total area of these existing leases and those areas being considered for additional leasing in the Atlantic OCS covers over 22 million acres. The fixed-bottom offshore wind infrastructure currently proposed for installation by 2030 would cover about 2.3 million acres <span class="citation" data-cites="boem2022">(<a href="references.html#ref-boem2022" role="doc-biblioref">BOEM and NOAA, 2022</a>)</span>. Future additional lease sales are expected in the Gulf of Maine and the Central Atlantic, and over this time, floating technologies will increase as a proposed method of installation in various locations.</p>
+<p>In U.S. Atlantic waters, the federal agencies and states are requiring and funding wildlife monitoring, data collection, and research in response to this scale of proposed and planned offshore wind development and in response to several federal and state renewable energy initiatives.</p>
+<p>The Biden Administration through the U.S. Departments of the Interior, Energy, and Commerce announced a national goal in 2021 to deploy 30 gigawatts of offshore wind by 2030 and 15 gigawatts of floating offshore wind by 2035 while protecting biodiversity and promoting ocean co-use (U.S. Department of Interior, 2021). In addition, the first-ever U.S. Ocean Climate Action Plan (OCAP) directs responsible departments and agencies to integrate and coordinate across the Federal Government, and to engage with states, local governments, and Tribes on near-term actions to create a carbon-neutral future, including expanding offshore wind energy in an environmentally responsible manner, supporting innovation, and continuing to monitor potential environmental impacts (<em>Ocean Climate Action Plan</em>, 2023). Specific OCAP actions to expand offshore wind development include improving data sharing and access, identifying gaps in ocean mapping data requirements, and increasing scientific research and knowledge on the potential effects of offshore wind development and production on ocean and coastal resources (e.g., seabirds, marine mammals, habitats) and processes (e.g., currents, temperature stratification), to inform policy decisions through Tribal, academic, and public-private partnerships.</p>
+<p>In addition to federal-level action, several states have administratively and legislatively committed to procure electricity from offshore wind facilities, and some states have moved forward with specific procurements. Collectively, and as of mid-2022, offshore wind energy policies in eight states call for deploying at least 39.3 gigawatts of offshore wind energy capacity by 2040(U.S. Department of Energy, 2023). Many procurements for power purchase agreements have identified environmental considerations (e.g., baseline studies, ongoing monitoring and approaches to mitigation) to be included in bid packages from prospective bidders.</p>
+<p>Offshore wind companies leasing or developing projects in U.S. Atlantic waters are also funding additional wildlife monitoring, data collection, and research beyond regulatory requirements. Over the past several years, companies have developed partnerships with universities along the Atlantic coast to bolster their existing programs and to develop new research programs focused on offshore wind (Chesapeake Biological Laboratory, 2022; <em>Ørsted US Offshore Wind Partners With Rutgers University</em>, 2019; Vineyard Wind, 2022; Wartts, 2021).Science Plan Organization</p>
 <p>The RWSC Subcommittees are using several categories to organize information about ongoing, pending, and recommended data collection and research.</p>
-<section id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="level3" data-number="C.1.1">
-<h3 data-number="C.1.1" class="anchored" data-anchor-id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.1.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</h3>
+<section id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues" class="level3" data-number="C.0.1">
+<h3 data-number="C.0.1" class="anchored" data-anchor-id="chapters-marine-wildlife-taxa-habitats-and-cross-taxa-issues"><span class="header-section-number">C.0.1</span> Chapters: Marine wildlife taxa, habitats, and cross-taxa issues</h3>
 <p>First, the Science Plan is separated into chapters that align with each RWSC taxa-based Subcommittee: Marine Mammals, Birds &amp; Bats, Sea Turtles, Protected Fish Species, and Habitat &amp; Ecosystem.&nbsp; The Habitat &amp; Ecosystem Subcommittee wrote two chapters: Oceanography and Seafloor Habitat. There are additional chapters for issues that relate to all taxa and habitats, including Science Plan Actions, Data Standardization &amp; Management, Data Governance, and Technology.</p>
 <p>There are many data collection activities that explicitly target or incidentally gather information on multiple taxa. Those multi-taxa activities are described in the <a href="https://database.rwsc.org/">RWSC Offshore Wind &amp; Wildlife Research Database</a> and in the pertinent sections of the Science Plan. Opportunities for additional coordinated data collection across taxa are also described in each section where relevant.</p>
 </section>
-<section id="subregions" class="level3" data-number="C.1.2">
-<h3 data-number="C.1.2" class="anchored" data-anchor-id="subregions"><span class="header-section-number">C.1.2</span> Subregions</h3>
+<section id="subregions" class="level3" data-number="C.0.2">
+<h3 data-number="C.0.2" class="anchored" data-anchor-id="subregions"><span class="header-section-number">C.0.2</span> Subregions</h3>
 <p>Each taxa-based chapter of the Science Plan groups information about ongoing, pending, and recommended research activities by whether they occur at the regional scale (U.S. Atlantic waters) or at subregional scales. The Subcommittees identified Subregions roughly aligned with the current federal offshore wind development planning and lease areas (see figure below). This alignment stems from the reality that many data collection activities are funded to examine a particular project overall, a project phase, lease area, or group of contiguous lease areas.&nbsp;</p>
 <p>The use of subregions in the Science Plan is limited to organizing information and highlighting place-based gaps and needs. It is not the intent of the Science Plan to suggest geographic boundaries for data collection and research activities. In many cases, biogeographic considerations may drive data collection and research planning, including study design, analysis, and interpretation.</p>
 <div id="fig-1" class="quarto-figure quarto-figure-center anchored">
@@ -392,17 +411,16 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 </figure>
 </div>
 </section>
-</section>
-<section id="research-themes" class="level2" data-number="C.2">
-<h2 data-number="C.2" class="anchored" data-anchor-id="research-themes"><span class="header-section-number">C.2</span> Research Themes</h2>
+<section id="research-themes" class="level2" data-number="C.1">
+<h2 data-number="C.1" class="anchored" data-anchor-id="research-themes"><span class="header-section-number">C.1</span> Research Themes</h2>
 <p>For the purposes of organizing hundreds of ongoing, pending, and recommended research activities along the Atlantic coast, the Subcommittees used five broad Research Themesto organize their chapters. There are more specific research topics, questions, and recommendations that nest within each theme. Some research topics and recommendations relate to more than one Research Theme.</p>
 <p>In the <a href="https://database.rwsc.org/">RWSC Offshore Wind &amp; Wildlife Research Database</a>, users can filter ongoing data collection and research activities by Research Theme.</p>
-<section id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="level3" data-number="C.2.1">
-<h3 data-number="C.2.1" class="anchored" data-anchor-id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.2.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</h3>
+<section id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude" class="level3" data-number="C.1.1">
+<h3 data-number="C.1.1" class="anchored" data-anchor-id="improving-mitigation-of-negative-impacts-that-are-likely-to-occur-andor-are-severe-in-magnitude"><span class="header-section-number">C.1.1</span> Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude</h3>
 <p>Several Subcommittee members identified this research theme as a high priority overall, particularly for highly vulnerable and/or protected species that are data limited. Research within this theme would test the efficacy of existing mitigation methods or develop new methods for high-risk species for which there is high confidence in negative impacts.&nbsp;</p>
 </section>
-<section id="detecting-and-quantifying-changes-to-wildlife-and-habitats" class="level3" data-number="C.2.2">
-<h3 data-number="C.2.2" class="anchored" data-anchor-id="detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.2</span> Detecting and quantifying changes to wildlife and habitats</h3>
+<section id="detecting-and-quantifying-changes-to-wildlife-and-habitats" class="level3" data-number="C.1.2">
+<h3 data-number="C.1.2" class="anchored" data-anchor-id="detecting-and-quantifying-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.2</span> Detecting and quantifying changes to wildlife and habitats</h3>
 <p>This theme encompasses the work required to detect and quantify changes to wildlife distribution, abundance, behavior, and health as well as changes to habitat characteristics and quality. The Subcommittees recognize that not all observed changes are ecologically meaningful, and that consideration should be given to determining and defining levels of change that are meaningful for various ecosystem components or species. Activities within this theme include but are not limited to:</p>
 <ul>
 <li><p>Collecting baseline wildlife and habitat data&nbsp;</p></li>
@@ -413,16 +431,16 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <li><p>Identifying thresholds of ecologically meaningful change</p></li>
 </ul>
 </section>
-<section id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="level3" data-number="C.2.3">
-<h3 data-number="C.2.3" class="anchored" data-anchor-id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.3</span> Understanding the environmental context around changes to wildlife and habitats</h3>
+<section id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats" class="level3" data-number="C.1.3">
+<h3 data-number="C.1.3" class="anchored" data-anchor-id="understanding-the-environmental-context-around-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.3</span> Understanding the environmental context around changes to wildlife and habitats</h3>
 <p>When paired with the activities associated with the previous research theme, characterizations of the environmental context including anthropogenic stressors, will be critical for understanding drivers of wildlife, habitat, and ecosystem change. Activities within this theme include characterizations of oceanographic and meteorological properties, prey fields, ocean noise, and human activities in the ocean other than offshore wind that may affect wildlife and habitat. An important component of this research theme is controlling for impacts induced by climate change during the assessment of potential offshore wind effects.&nbsp;</p>
 </section>
-<section id="determining-causality-for-observed-changes-to-wildlife-and-habitats" class="level3" data-number="C.2.4">
-<h3 data-number="C.2.4" class="anchored" data-anchor-id="determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.2.4</span> Determining causality for observed changes to wildlife and habitats</h3>
+<section id="determining-causality-for-observed-changes-to-wildlife-and-habitats" class="level3" data-number="C.1.4">
+<h3 data-number="C.1.4" class="anchored" data-anchor-id="determining-causality-for-observed-changes-to-wildlife-and-habitats"><span class="header-section-number">C.1.4</span> Determining causality for observed changes to wildlife and habitats</h3>
 <p>Ideally, research activities result in the ability to determine the causes of any observed changes to wildlife distribution, abundance, and/or behavior, and to habitats. Given the natural variability in the ocean ecosystem and new patterns and variations attributed to climate change, Subcommittee members have cautioned that determining causality with high confidence will be challenging.</p>
 </section>
-<section id="enhancing-data-sharing-and-access" class="level3" data-number="C.2.5">
-<h3 data-number="C.2.5" class="anchored" data-anchor-id="enhancing-data-sharing-and-access"><span class="header-section-number">C.2.5</span> Enhancing data sharing and access</h3>
+<section id="enhancing-data-sharing-and-access" class="level3" data-number="C.1.5">
+<h3 data-number="C.1.5" class="anchored" data-anchor-id="enhancing-data-sharing-and-access"><span class="header-section-number">C.1.5</span> Enhancing data sharing and access</h3>
 <p>This theme is a catalyst for addressing all the previous themes. Activities within this theme include:</p>
 <ul>
 <li><p>Identifying and supporting existing data systems or building and maintaining new data systems that accommodate the volumes of wildlife and environmental data to be collected over the next several decades</p></li>
@@ -431,6 +449,11 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 </ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-boem2022" class="csl-entry" role="listitem">
+BOEM, NOAA, 2022. <a href="https://www.regulations.gov/document/BOEM-2022-0066-0003">DRAFT BOEM and NOAA fisheries north atlantic right whale and offshore wind strategy</a>.
+</div>
+</div>
 </section>
 </section>
 

@@ -1,6 +1,25 @@
 # Additional Introduction {#sec-append-dgdm}
 
-## Science Plan Organization
+There are currently 27 renewable energy lease areas in the Atlantic Outer Continental Shelf (OCS) and 42 megawatts of installed offshore wind capacity.
+The total area of these existing leases and those areas being considered for additional leasing in the Atlantic OCS covers over 22 million acres.
+The fixed-bottom offshore wind infrastructure currently proposed for installation by 2030 would cover about 2.3 million acres [@boem2022].
+Future additional lease sales are expected in the Gulf of Maine and the Central Atlantic, and over this time, floating technologies will increase as a proposed method of installation in various locations.
+
+In U.S. Atlantic waters, the federal agencies and states are requiring and funding wildlife monitoring, data collection, and research in response to this scale of proposed and planned offshore wind development and in response to several federal and state renewable energy initiatives.
+
+The Biden Administration through the U.S.
+Departments of the Interior, Energy, and Commerce announced a national goal in 2021 to deploy 30 gigawatts of offshore wind by 2030 and 15 gigawatts of floating offshore wind by 2035 while protecting biodiversity and promoting ocean co-use (U.S. Department of Interior, 2021).
+In addition, the first-ever U.S.
+Ocean Climate Action Plan (OCAP) directs responsible departments and agencies to integrate and coordinate across the Federal Government, and to engage with states, local governments, and Tribes on near-term actions to create a carbon-neutral future, including expanding offshore wind energy in an environmentally responsible manner, supporting innovation, and continuing to monitor potential environmental impacts (*Ocean Climate Action Plan*, 2023).
+Specific OCAP actions to expand offshore wind development include improving data sharing and access, identifying gaps in ocean mapping data requirements, and increasing scientific research and knowledge on the potential effects of offshore wind development and production on ocean and coastal resources (e.g., seabirds, marine mammals, habitats) and processes (e.g., currents, temperature stratification), to inform policy decisions through Tribal, academic, and public-private partnerships.
+
+In addition to federal-level action, several states have administratively and legislatively committed to procure electricity from offshore wind facilities, and some states have moved forward with specific procurements.
+Collectively, and as of mid-2022, offshore wind energy policies in eight states call for deploying at least 39.3 gigawatts of offshore wind energy capacity by 2040(U.S. Department of Energy, 2023).
+Many procurements for power purchase agreements have identified environmental considerations (e.g., baseline studies, ongoing monitoring and approaches to mitigation) to be included in bid packages from prospective bidders.
+
+Offshore wind companies leasing or developing projects in U.S.
+Atlantic waters are also funding additional wildlife monitoring, data collection, and research beyond regulatory requirements.
+Over the past several years, companies have developed partnerships with universities along the Atlantic coast to bolster their existing programs and to develop new research programs focused on offshore wind (Chesapeake Biological Laboratory, 2022; *Ørsted US Offshore Wind Partners With Rutgers University*, 2019; Vineyard Wind, 2022; Wartts, 2021).Science Plan Organization
 
 The RWSC Subcommittees are using several categories to organize information about ongoing, pending, and recommended data collection and research.
 
