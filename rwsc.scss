@@ -22,24 +22,6 @@ div.column-body {
 
 /* Headings -------------------------------------------------------------------- */
 
-body {
-	counter-reset: h4counter;
-}
-
-h4.nocount:before {
-        content: none;
-        counter-increment: none;
-}
-
-h5.nocount:before {
-        content: none;
-        counter-increment: none;
-}
-
-h6.nocount:before {
-        content: none;
-        counter-increment: none;
-}
 
 /* References & Footnotes ------------------------------------------------------ */
 
