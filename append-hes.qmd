@@ -5,7 +5,7 @@ For an always up-to-date list of active projects, visit the [RWSC Offshore Wind 
 Given this ongoing work, the Habitat & Ecosystem Subcommittee is making recommendations for additional research that is both aligned with existing efforts and that fills important gaps.
 
 The scope of this chapter includes physical and biological seafloor habitats (e.g., surficial sediments and benthic communities, deep sea corals and sponges, subsurface sediments and habitats), including the fauna and flora that may be attached to introduced structures (including non-native and invasive taxa).
-This chapter builds on the research topics and questions related to seafloor habitat and offshore wind previously identified [@dannheim2020; @degraer2021; @seer2022c; @seer2022b].
+This chapter builds on the research topics and questions related to seafloor habitat and offshore wind previously identified [@dannheim2020; @degraer2021; @seer2022; @seer2022c].
 
 Commercially important and managed fish species, which are outside of the scope of this Science Plan, rely on seafloor habitats at several life history stages.
 For research needs and considerations on fisheries and managed fish species, visit the [Responsible Offshore Science Alliance (ROSA)](https://www.rosascience.org/).
@@ -937,7 +937,7 @@ This section presents recommendations within categories of Data Management, Data
 The Subcommittee also organized research topics by RWSC Research Themes in a table at the end of this section..
 For each stated topic, there are potentially many detailed related questions, hypotheses, and potential approaches that could be used to address each.
 Presented research topics were synthesized from multiple existing sources of data gaps and research needs relevant to offshore wind energy development on the U.S.
-Atlantic coast [@degraer2021; @regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup; @seer2022a].
+Atlantic coast [@degraer2021; @regionalsynthesisworkgroupoftheenvironmentaltechnicalworkinggroup; @seer2022].
 Given the potential number of studies to evaluate over the RWSC study area, the data search was restricted to seafloor-related studies and monitoring programs that were conducted in wind energy areas since 2010.
 
 ### Data Management

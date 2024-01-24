@@ -108,7 +108,7 @@ Other wind farm related activities can also generate noise and vibration, includ
 The three main environmental factors that will affect undersea acoustic propagation include variability in pressure, temperature, and salinity, which produce changes in sound speed and consequently affect the characteristics of acoustic propagation [@lin2019].
 The effects of noise on marine mammals and sea turtles are discussed in separate chapters of this Science Plan.
 In addition to marine mammals and sea turtles, fish and invertebrate species can also be impacted by noise, including by particle motion (back-and-forth motion of the medium), sound pressure, and substrate vibration.
-The propagation or emission rates for these stressors are intrinsically dependent on the marine environmental conditions [@hogan2023a].
+The propagation or emission rates for these stressors are intrinsically dependent on the marine environmental conditions [@hogan2023].
 
 The placement of wind turbine structures and associated effects on hydrodynamics can in turn affect biogeochemical and water quality characteristics of the water column.
 In terms of turbidity, the turbulence created around a turbine foundation can result in increased sediment erosion and suspended sediment concentrations in the water column [@vanberkel2020].
@@ -129,7 +129,7 @@ Additionally, changes in flow patterns around wind farm foundations have been mo
 The Subcommittee discussed the importance of meteorological and oceanographic data as input to/drivers of species models (e.g., distribution, density, movement models).
 A key recommendation is to ensure that sufficient oceanographic data are collected to support species distribution and habitat suitability models and that those data are made available in the form of standardized data products.
 Some of the data products might be simple spatial interpolations; others are more complex models that may be covered in the subsection below the table.
-Covariates included in this list have also been informed by multiple existing modeling efforts [@hogan2023b; @mdat2017a; @roberts2016a].
+Covariates included in this list have also been informed by multiple existing modeling efforts [@hogan2023; @mdat2017; @roberts2016].
 
 The descriptions below are organized by variable, with notations related to potential platform(s), and whether or not the variable has been identified by the Subcommittee as a potentially important species model covariate.
 This list is not exhaustive and will likely change as technologies and model development advances.
@@ -286,7 +286,7 @@ This list is not exhaustive and will likely change as technologies and model dev
 ## Research Recommendations: Oceanography and offshore wind in U.S. Atlantic Waters
 
 The following focal oceanography research topics were pulled from the [Atlantic Offshore Wind Environmental Research Recommendations Database](https://tethys.pnnl.gov/atlantic-offshore-wind-environmental-research-recommendations?stressor=All&receptor=18798&development_phase=All&search=) that was filtered on habitat, oceanographic, phytoplankton, and zooplankton considerations.
-Additional recommendations were identified from Hogan et al. [@hogan2023b].
+Additional recommendations were identified from Hogan et al. [@hogan2023].
 These research topics were then aligned with RWSC research themes and science plan actions, with associated field or non-field methods and analysis that can be used to address each.
 
 ### **Improving mitigation of negative impacts that are likely to occur and/or are severe in magnitude**
@@ -519,7 +519,7 @@ The Subcommittee recommends the following data collection activities :
 
     -   A list of key oceanographic and meteorological variables, parameters, and platforms/methods is provided in the Appendix.
         Many of these variables are recognized by the Global Ocean Observing System as [Essential Ocean Variables](https://www.goosocean.org/eov) (EOV).
-        The list also specifies whether the variable was identified by RWSC Subcommittees as a potentially useful covariate for species distribution modeling [@hogan2023c; @mdat2017b; @roberts2016b].
+        The list also specifies whether the variable was identified by RWSC Subcommittees as a potentially useful covariate for species distribution modeling [@hogan2023; @mdat2017; @roberts2016].
 
     -   Ensure that oceanographic/meteorological data collected during offshore wind and wildlife surveys/studies is compiled and made available for use in other analyses and research.
 
