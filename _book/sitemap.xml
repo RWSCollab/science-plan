@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rwsc.org/science-plan/index.html</loc>
-    <lastmod>2024-01-22T14:30:44.667Z</lastmod>
+    <lastmod>2024-01-24T18:37:07.117Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/executive-summary.html</loc>
-    <lastmod>2024-01-12T14:33:55.260Z</lastmod>
+    <lastmod>2024-01-24T18:37:07.136Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/append-pf.html</loc>
-    <lastmod>2024-01-23T14:05:13.836Z</lastmod>
+    <lastmod>2024-01-24T18:37:07.182Z</lastmod>
   </url>
   <url>
     <loc>https://rwsc.org/science-plan/intro.html</loc>
@@ -71,5 +71,9 @@
   <url>
     <loc>https://rwsc.org/science-plan/append-acronyms.html</loc>
     <lastmod>2024-01-23T14:37:11.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rwsc.org/science-plan/append-dgdm.html</loc>
+    <lastmod>2024-01-24T18:39:11.532Z</lastmod>
   </url>
 </urlset>
