@@ -7,6 +7,7 @@ book:
   original-date: "25 January 2024"
   version: "1.0"
   navbar:
+    background: light
     search: true
     logo: "RWSC_Logo_notext.png"
   page-navigation: true
