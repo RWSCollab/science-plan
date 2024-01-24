@@ -10,6 +10,7 @@ book:
     background: light
     search: true
     logo: "RWSC_Logo_notext.png"
+    bread-crumbs: false
   page-navigation: true
   page-footer:
     left: "&copy; CC-By-NC-ND RWSC Steering Committee, 2024"

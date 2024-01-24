@@ -33,10 +33,10 @@ The NAOI has been predominantly positive during the last several decades [@noaaf
 By contrast, a negative NAOI is associated with a decrease in westerly winds, decreased storminess, drier conditions, and cooler water temperatures in the region.
 
 Primary productivity in the region is determined by a physically dynamic ecosystem with complex interactions among environmental factors that influence the abundance, community composition, spatial distribution, and productivity of the phytoplanktonic communities.
-These environmental factors include the sunlight, nutrients, water temperature, physical processes (i.e., vertical mixing, upwelling, currents, and tides), and the feeding activity of zooplankton and shellfish [@blair2022b].
+These environmental factors include the sunlight, nutrients, water temperature, physical processes (i.e., vertical mixing, upwelling, currents, and tides), and the feeding activity of zooplankton and shellfish [@blair2022].
 Water mass characteristics and oceanographic features (e.g., circulation patterns and frontal zone positions) are particularly important factors influencing phytoplankton patterns [@lipsky2020; @noaafisheries2021c].
 Seasonality greatly influences the dynamic ecosystem of the region, given that phytoplankton growth rates strongly correlate to temperature, light availability, and phytoplankton community size-structure [@marrec2021].
-Zooplankton graze on phytoplankton and are then prey for fish, crabs, whales, and other large organisms; biovolume (total volume of material caught in zooplankton nets) measurements have shown seasonal and interannual trends in the region [@blair2022c].
+Zooplankton graze on phytoplankton and are then prey for fish, crabs, whales, and other large organisms; biovolume (total volume of material caught in zooplankton nets) measurements have shown seasonal and interannual trends in the region [@blair2022].
 
 ### Oceanographic processes in the Atlantic region
 
@@ -54,9 +54,9 @@ Notably, the Gulf has among the greatest tidal ranges in the world and associate
 This tidal mixing strongly influences nutrient delivery to the euphotic zone and overall biological productivity.
 With its shallow and well-mixed waters, Georges Bank is unique for its high primary productivity and high concentrations of chlorophyll a, supporting an extensive food web including high levels of fish production ([Northeast Integrated Ecosystem Assessment](https://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank)).
 
-**Southern New England** waters extend from Cape Cod to Montauk Point, New York and include features such as Nantucket Shoals, Martha’s Vineyard, Block Island, and Long Island Sound, and submarine canyons in deeper waters [@blair2022d].
+**Southern New England** waters extend from Cape Cod to Montauk Point, New York and include features such as Nantucket Shoals, Martha’s Vineyard, Block Island, and Long Island Sound, and submarine canyons in deeper waters [@blair2022].
 In the northern part of the region, the Great South Channel acts as a passage that connects the Gulf of Maine and the southern New England shelf.
-Nantucket Shoals are a well-mixed, shallow region and are biologically productive due to the cold, nutrient rich water arriving from the Gulf of Maine [@townsend2006a].
+Nantucket Shoals are a well-mixed, shallow region and are biologically productive due to the cold, nutrient rich water arriving from the Gulf of Maine [@townsend2006].
 South of Martha’s Vineyard is an expanse of continental shelf with a gradual slope and cross-shelf currents leading to the edge of the shelf, where several submarine canyons cut into the shelf.
 To the south, Rhode Island Sound demonstrates seasonality of thermal stratification in the spring and summer.
 By contrast, Block Island Sound is an area with strong tidal currents and density stratification year-round.
@@ -64,11 +64,11 @@ The greater-shelf region experiences warm core rings that break off from the Gul
 The northern portion of the Mid Atlantic Cold pool extends into southern New England waters.
 
 The **Mid-Atlantic Bight** encompasses the entire Mid-Atlantic region, including the two RWSC subregions of the NY/NJ Bight (at its northern end) and the U.S. central Atlantic (at its southern end).
-The Mid-Atlantic region is influenced by both cool waters of the Labrador Current from the north and warm waters of the Gulf Stream from the south, with shelf water generally flowing south toward Cape Hatteras, North Carolina [@townsend2006b].
+The Mid-Atlantic region is influenced by both cool waters of the Labrador Current from the north and warm waters of the Gulf Stream from the south, with shelf water generally flowing south toward Cape Hatteras, North Carolina [@townsend2006].
 The New York Bight is a triangular feature that runs from Montauk at the eastern point of Long Island, New York to Cape May, New Jersey.
-Within the New York Bight, circulation is highly sensitive to changes in wind [@blumberg1990] and biological productivity is affected by riverine nutrient outputs and cross-shelf interactions [@townsend2006c].
-More broadly across the Mid-Atlantic Bight, the mixing of slope and shelf waters, along with upwelling, increases nutrient availability and promotes productivity [@townsend2006c].
-The Mid-Atlantic Bight Cold Pool is a characteristic of the region, where strong seasonal stratification promotes productivity among all levels of the food chain; it is a dynamic feature that provides crucial habitat in the northeast shelf, particularly as a thermal refuge for benthic species [@blair2022e].
+Within the New York Bight, circulation is highly sensitive to changes in wind [@blumberg1990] and biological productivity is affected by riverine nutrient outputs and cross-shelf interactions [@townsend2006].
+More broadly across the Mid-Atlantic Bight, the mixing of slope and shelf waters, along with upwelling, increases nutrient availability and promotes productivity [@townsend2006].
+The Mid-Atlantic Bight Cold Pool is a characteristic of the region, where strong seasonal stratification promotes productivity among all levels of the food chain; it is a dynamic feature that provides crucial habitat in the northeast shelf, particularly as a thermal refuge for benthic species [@blair2022].
 
 The **U.S. southeastern Atlantic** is connected by the Loop Current-Florida Current-Gulf Stream continuum and influenced by the tropical and sub-tropical oceanic, atmospheric, and ecosystem domains.
 The confluence of the tropical and sub-tropical domains influences a range of sub-to super-regional physical and biogeochemical phenomena [@secoora2019].
@@ -81,8 +81,8 @@ River plumes may also influence rates of coastal acidification in nearshore wate
 
 #### Ongoing and future alterations due to climate change
 
-Human-induced climate change is causing an increase in sea surface temperatures, sea level rise, and ocean acidification, and is changing circulation patterns [@blair2022f].
-Over the last two decades, ocean temperatures in the northeast Atlantic Ocean have warmed faster than the global ocean on average, with the Gulf of Maine warming faster than 99% of the global ocean [@pershing2015a].
+Human-induced climate change is causing an increase in sea surface temperatures, sea level rise, and ocean acidification, and is changing circulation patterns [@blair2022].
+Over the last two decades, ocean temperatures in the northeast Atlantic Ocean have warmed faster than the global ocean on average, with the Gulf of Maine warming faster than 99% of the global ocean [@pershing2015].
 During this period, the Gulf Stream has moved northward, driving warmer, saltier water onto the northeast shelf, with a decrease in colder Labrador slope water entering the Gulf of Maine [@mid-atla].
 Additionally, the size and position of the Mid-Atlantic Bight Cold Pool varies annually and is significantly smaller and less sustained during warmer years [@mid-atla].
 Annual mean chlorophyll concentration trends across the northeast shelf and all subareas were steady from 1998 until 2012, at which point a downward trend persisted across the shelf through 2019 [@friedland2020].
@@ -95,9 +95,9 @@ They include considerations related to the physical effects of structures, noise
 
 Wind energy structures can have potential physical effects both above and below the water surface.
 The two primary components of these physical effects include: (1) structures above the water extracting energy, with associated wake effects (ocean-atmospheric interactions), and (2) structures in the water affecting turbulence and vertical mixing (hydrodynamic interactions).
-The extraction of energy has the potential to affect air-sea exchange processes, and associated changes in wind speeds, wave energy, turbulence, and eddy formation [@blair2022g].
+The extraction of energy has the potential to affect air-sea exchange processes, and associated changes in wind speeds, wave energy, turbulence, and eddy formation [@blair2022].
 For example, wake lengths of more than tens of kilometers under stable atmospheric conditions have been observed, with maximum wind speed deficits of 40%, and enhanced turbulence [@platis2018].
-In the water, the presence of turbine foundations can create localized friction, block ocean hydrodynamics, change wave amplitudes, and increase turbulent kinetic energy [@vanberkel2020a].
+In the water, the presence of turbine foundations can create localized friction, block ocean hydrodynamics, change wave amplitudes, and increase turbulent kinetic energy [@vanberkel2020].
 Effects on hydrodynamics can cause lateral and vertical changes in the temperature and salinity profiles within the water column.
 These potential effects on water column mixing have implications for ocean stratification and the residence time of waters in a region.
 Consideration also needs to be given to the potential for energy extraction to affect upwelling, downwelling, and frontal zones, since these regions can aggregate prey and attract higher trophic level organisms.
@@ -111,15 +111,15 @@ In addition to marine mammals and sea turtles, fish and invertebrate species can
 The propagation or emission rates for these stressors are intrinsically dependent on the marine environmental conditions [@hogan2023a].
 
 The placement of wind turbine structures and associated effects on hydrodynamics can in turn affect biogeochemical and water quality characteristics of the water column.
-In terms of turbidity, the turbulence created around a turbine foundation can result in increased sediment erosion and suspended sediment concentrations in the water column [@vanberkel2020b].
+In terms of turbidity, the turbulence created around a turbine foundation can result in increased sediment erosion and suspended sediment concentrations in the water column [@vanberkel2020].
 As observed in satellite imagery, offshore turbine structures can increase near-surface suspended sediment concentrations in the form of turbid wakes [@vanhellemont2014].
 Suspended sediment concentrations can also affect light conditions with implications for phytoplankton growth in the water column.
-As well, any impacts of wind farms on hydrodynamics and mixing could also affect the vertical profiles of nutrient, oxygen, and chlorophyll concentrations within the water column, with implications for primary productivity and higher trophic levels [@blair2022h].
+As well, any impacts of wind farms on hydrodynamics and mixing could also affect the vertical profiles of nutrient, oxygen, and chlorophyll concentrations within the water column, with implications for primary productivity and higher trophic levels [@blair2022].
 
 In terms of linkages to biological effects, the introduction of new structures during offshore wind farm construction can alter the habitat and modify food webs as the turbines are colonized.
 Habitat can be temporarily or permanently altered directly beneath and in the vicinity of turbine foundations, depending on the foundation type, materials used, and sediment type [@seer2022f].
 Emplacement of structures, such as foundations, can alter habitat by introducing new hard surfaces into an environment of soft sediment, which are then rapidly colonized by epifaunal organisms.
-Through colonization, the structures can introduce a different community of organisms, which can cause changes in local primary production, alter the food web, change predator/prey relationships, and alter carbon flow to the benthos [@degraer2020a].
+Through colonization, the structures can introduce a different community of organisms, which can cause changes in local primary production, alter the food web, change predator/prey relationships, and alter carbon flow to the benthos [@degraer2020].
 Depending on the changes, the shifts have been considered both an enhancement of the environment (e.g., supporting local biodiversity) and a detriment (e.g., altering the local ecological system).
 Offshore wind farms have been observed to attract certain fish and invertebrate species to the turbine structures; these potential “artificial reef” effects refer to the ability of the structures to mimic characteristics of a natural reef [@carey2020].
 Additionally, changes in flow patterns around wind farm foundations have been modeled to potentially affect larval transport pathways and settlement [@johnson2021].
@@ -565,7 +565,7 @@ The Subcommittee recommends the following data collection activities :
 
 #### Gulf of Maine recommendations
 
-Gaps in assessing the potential impacts of hydrodynamic and atmospheric alterations on physical and biological resources in the northeast have been identified and apply to the Gulf of Maine region [@blair2022i].
+Gaps in assessing the potential impacts of hydrodynamic and atmospheric alterations on physical and biological resources in the northeast have been identified and apply to the Gulf of Maine region [@blair2022].
 Determining oceanographic baselines and competing phenomena, such as the impacts of climate change, in addition to effects of offshore wind development is a research need.
 Characterizing hydrodynamic and atmospheric alterations due to offshore wind development is another broad research need related to future offshore wind development in the Gulf of Maine.
 Detecting the influence of scale and collecting information on cumulative impacts has emerged as a priority research topic in recent years.

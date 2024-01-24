@@ -33,9 +33,9 @@ An overview of the seafloor topography, surficial sediments, and habitat types f
 The **Northern Zone** ranges from Nova Scotia to Nantucket Island, MA and includes both the Gulf of Maine and Georges Bank.
 This zone aligns with the RWSC Gulf of Maine subregion.
 Despite their immediate proximity to one another, these two glacially derived topographic features are often described separately given their differing structure and sediments @fig-a3.
-The Gulf of Maine, for instance, is a semi-enclosed continental shelf sea (9-350 m depth) that is characterized by a system of deep basins, moraines, and rocky protrusions [@stevenson2014a].
+The Gulf of Maine, for instance, is a semi-enclosed continental shelf sea (9-350 m depth) that is characterized by a system of deep basins, moraines, and rocky protrusions [@stevenson2014].
 In contrast, Georges Bank, a shallow (3-150 m depth) and elongated (161 km wide by 322 km long) submarine plateau that gradually slopes from north to south with steep submarine canyons and seamounts on its southern edge.
-The Gulf of Maine's unique physiographic structure lends to a variety of surficial sediments (e.g., bedrock, silty sand, mud), whereas Georges Bank is predominantly sandy with local interruptions of glacially deposited gravel and fine sediment [@noaafisheries2023; @stevenson2014b].
+The Gulf of Maine's unique physiographic structure lends to a variety of surficial sediments (e.g., bedrock, silty sand, mud), whereas Georges Bank is predominantly sandy with local interruptions of glacially deposited gravel and fine sediment [@noaafisheries2023; @stevenson2014].
 Complex topography and unique oceanographic conditions in the Gulf of Maine and Georges Bank result in a high diversity of physical (e.g., rocky, sandy, muddy) and biogenic (e.g., seagrass, shellfish, and kelp beds, cold-water coral) habitat types across the two areas.
 A more thorough review of these habitat types is detailed in [@tyrell2005].
 
@@ -49,8 +49,8 @@ Similar to Georges Bank, numerous canyons incise the slope, some of which cut up
 Sand is the predominant surficial sediment type on the shelf with small, localized areas of sand-shell and sand-gravel.
 Fine sediments are also common on the shelf valleys leading to the submarine canyons as well as in areas off Southern New England, specifically the Mud Patch, where tidal currents slow significantly and allow silts and clays to settle out and mix with sand.
 Areas of hard bottom are associated with the canyons within the shelf slope/break.
-Although rocky substrate is otherwise rare in areas south of Long Island, man-made structures like shipwrecks and artificial reefs are frequent and provide important habitat to the southern Mid-Atlantic Bight ecosystem [@steimle2000; @stevenson2014c].
-The Mid-Atlantic Bight Cold Pool is a characteristic of the region, where strong seasonal stratification promotes productivity among all levels of the food chain; it is a dynamic feature that provides crucial habitat in the northeast shelf, particularly as a thermal refuge for benthic species [@blair2022a].
+Although rocky substrate is otherwise rare in areas south of Long Island, man-made structures like shipwrecks and artificial reefs are frequent and provide important habitat to the southern Mid-Atlantic Bight ecosystem [@steimle2000; @stevenson2014].
+The Mid-Atlantic Bight Cold Pool is a characteristic of the region, where strong seasonal stratification promotes productivity among all levels of the food chain; it is a dynamic feature that provides crucial habitat in the northeast shelf, particularly as a thermal refuge for benthic species [@blair2022].
 
 ![Topographic overview of the U.S. Atlantic continental margin within the identified Central Zone. The dotted white line represents the U.S. Exclusive Economic Zone (EEZ; 200 nautical mile limit). Vertical exaggeration of colored relief is approximately 5x. Data provided by The Nature Conservancy's Northwest Atlantic Marine Ecoregional Assessment [@greene2010].](figures/hes/a4.png){#fig-a4}
 
