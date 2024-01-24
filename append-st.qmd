@@ -1,7 +1,7 @@
 # Sea Turtles {#sec-append-st}
 
 Note: Scientific and ecological terminology and agency/organization acronyms are used throughout this chapter.
-A [List of Definitions and Acronyms](#Definitions_and_Acronyms) is included at the end of the chapter.
+A [List of Definitions and Acronyms](https://rwscollab.github.io/science-plan/append-st.html#list-of-definitions-and-acronyms)is included at the end of the chapter.
 
 ## Sea turtle species in the RWSC study area
 
@@ -61,7 +61,7 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 **Gulf of Maine**
 
 |              |                |                    |                        |                       |           |                     |                       |                            |                     |
-|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------|---------------------|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing** |
 | leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common                | neritic & pelagic foraging | spring-fall         |
 | loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall         |
@@ -71,7 +71,7 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 **Southern New England**
 
 |              |                |                    |                        |                       |           |                     |                       |                            |                       |
-|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------|-----------------------|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing\*** |
 | leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common                | neritic & pelagic foraging | spring-fall           |
 | loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall           |
@@ -81,7 +81,7 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 **New York Bight**
 
 |              |                |                    |                        |                       |           |                     |                       |                            |                     |
-|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------|---------------------|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing** |
 | leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic & pelagic foraging | spring-fall         |
 | loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall         |
@@ -91,7 +91,7 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 **Central Atlantic**
 
 |              |                |                    |                        |                       |           |                     |                       |                                              |                     |
-|--------------|----------------|--------------------|------------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------------------------|---------------------|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**                              | **Seasonal timing** |
 | leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic/pelagic foraging, migration          | spring-fall         |
 | loggerhead   | threatened     | UN                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic/pelagic foraging, migration, nesting | spring-fall         |
@@ -101,7 +101,7 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 **Southern Atlantic**
 
 |              |                |                    |                       |                       |           |                     |                       |                                              |                     |
-|--------------|----------------|--------------------|-----------------------|-----------------------|-----------|---------------------|-----------------------|----------------------------------------------|---------------------|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **Species**  | **ESA Status** | **egg/ hatchling** | **oceanic dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**                              | **Seasonal timing** |
 | leatherback  | endangered     | ✔️                 | ✔️                    | ✔️                    | ✔️        | ✔️                  | common                | neritic/pelagic foraging, migration, nesting | year round          |
 | loggerhead   | threatened     | ✔️                 | ✔️                    | ✔️                    | ✔️        | ✔️                  | common                | neritic/pelagic foraging, migration, nesting | year round          |
