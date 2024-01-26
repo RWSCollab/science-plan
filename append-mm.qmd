@@ -114,7 +114,7 @@ Several sources of prey data exist across multiple groups:
 
 -   [NOAA Fisheries Recovery Plan for North Atlantic right whale](https://www.fisheries.noaa.gov/resource/document/recovery-plan-north-atlantic-right-whale-eubalaena-glacialis)
 
--   [BOEM and NOAA Fisheries Draft North Atlantic right whale and offshore wind strategy](https://www.regulations.gov/docket/BOEM-2022-0066/document)
+-   [BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy](https://www.boem.gov/sites/default/files/documents/environment/BOEM_NMFS_NARW_OSW.pdf)
 
 ### Potential effects with respect to offshore wind
 
@@ -171,7 +171,7 @@ This chapter builds on the research topics and questions related to marine mamma
 The RWSC Marine Mammal Subcommittee considered these previous bodies of work in developing the following list.
 In doing so, they have also highlighted the following concepts:
 
--   Future work will be aligned and coordinated with research needs and actions described in the NOAA Fisheries and BOEM Draft North Atlantic Right Whale Offshore Wind Strategy [@noaafisheries2022].
+-   Future work will be aligned and coordinated with research needs and actions described in the [BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy](https://www.boem.gov/sites/default/files/documents/environment/BOEM_NMFS_NARW_OSW.pdf) [@boemnoaafisheries2024].
 
 -   Climate change: Disentangling the impacts to marine mammals from climate change from any potential effects from offshore wind development will be a major challenge.
     For example, any attempt to establish a "baseline" representative of the past several decades must acknowledge that the environment changed rapidly over that time and continues to change rapidly.

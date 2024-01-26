@@ -12,7 +12,7 @@ This chapter builds on the research topics and questions related to marine mamma
 The RWSC Marine Mammal Subcommittee considered these previous bodies of work in developing the following recommendations.
 In doing so, they have also highlighted these concepts:
 
--   Future work will be aligned and coordinated with research needs and actions described in the NOAA Fisheries and BOEM Draft North Atlantic Right Whale Offshore Wind Strategy [@noaafisheries2022] and the NOAA Fisheries and BOEM Federal Survey Mitigation Strategy [@hare2022].
+-   Future work will be aligned and coordinated with research needs and actions described in the [BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy](https://www.boem.gov/sites/default/files/documents/environment/BOEM_NMFS_NARW_OSW.pdf) [@boemnoaafisheries2024] and the NOAA Fisheries and BOEM Federal Survey Mitigation Strategy [@hare2022].
 
 -   Separating the impacts to marine mammals from climate change from any potential effects from offshore wind development will be a major challenge.
     Attempts to establish a "baseline" representative of the past several decades must acknowledge that the environment changed rapidly over that time and continues to change rapidly.
