@@ -136,6 +136,10 @@ Surveys conducted by the NOAA Fisheries Northeast Fisheries Science Center that 
 
 -   Cooperative Atlantic States Shark Pupping and Nursery Longline/Gillnet Survey
 
+-   Atlantic Marine Assessment Program for Protected Species (AMAPPS) - some manta rays and sharks may be visible via this survey
+
+If a protected fish species is caught as bycatch in a fisheries survey, NOAA Fisheries requires [incidental take reporting](https://www.fisheries.noaa.gov/new-england-mid-atlantic/consultations/section-7-take-reporting-programmatics-greater-atlantic#biological-opinion---take-reporting), which could also be used in research as data indicating species presence.
+
 The Subcommittee recognizes that protected fish species may be caught as bycatch in commercial fish trawl surveys (and other gear surveys) conducted by offshore wind companies.
 Whether caught as bycatch or in dedicated protected fish species surveys, individuals and entities should consult with the Protected Fish Species Subcommittee prior to collecting protected fish species data related to offshore wind monitoring to ensure that any new efforts are not duplicative and are consistent with the tools and approaches already in use.
 Any individual or entity may join public Protected Fish Species Subcommittee meetings by obtaining meeting links on the [RWSC website](https://rwsc.org/), where all past meeting materials are also available.
