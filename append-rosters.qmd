@@ -8,416 +8,249 @@ Members' affiliation or participation status may be different from what is depic
 
 [Current Marine Mammal Subcommittee Roster](https://rwscorg.sharepoint.com/:x:/s/MarineMammalSubcommittee/EZqvB7mOMGFKl3yyBrZ81poBi3vMNYfM2kyGjSM8NCRG2A?e=sQ3nnf)
 
-+--------------------------+---------------------------------------------------+
+[Debbie Brill](mailto:deborah.brill@duke.edu), Marine Mammal Subcommittee Coordinator
+
+|                          |                                                   |
+|-------------------------|-----------------------------------------------|
 | **Name**                 | **Affiliation**                                   |
-+--------------------------+---------------------------------------------------+
 | **Aaron Rice**           | Cornell University                                |
-+--------------------------+---------------------------------------------------+
 | **Andrea Bogomolni**     | Northwest Atlantic Seal Research Consortium       |
-+--------------------------+---------------------------------------------------+
 | **Anita Murray**         | Maine Department of Marine Resources              |
-+--------------------------+---------------------------------------------------+
 | **Ann Zoidis**           | TetraTech                                         |
-+--------------------------+---------------------------------------------------+
 | **Brandon Southall**     | Southall Environmental Associates                 |
-+--------------------------+---------------------------------------------------+
 | **Chandra Goetsch**      | NOAA National Centers for Coastal Ocean Science   |
-+--------------------------+---------------------------------------------------+
 | **Cindy Driscoll**       | Maryland Department of Natural Resources          |
-+--------------------------+---------------------------------------------------+
 | **Cynthia Pyć**          | RWE                                               |
-+--------------------------+---------------------------------------------------+
 | **Danielle Brown**       | Gotham Whale / Rutgers University                 |
-+--------------------------+---------------------------------------------------+
 | **David Wiley**          | NOAA Stellwagen Bank National Marine Sanctuary    |
-+--------------------------+---------------------------------------------------+
 | **Erica Staaterman**     | BOEM Center for Marine Acoustics                  |
-+--------------------------+---------------------------------------------------+
 | **Erin LaBrecque**       | Marine Mammal Commission                          |
-+--------------------------+---------------------------------------------------+
 | **Erin Meyer-Gutbrod**   | University of South Carolina                      |
-+--------------------------+---------------------------------------------------+
 | **Genevieve Davis**      | NOAA Northeast Fisheries Science Center           |
-+--------------------------+---------------------------------------------------+
 | **Howard Rosenbaum**     | Wildlife Conservation Society                     |
-+--------------------------+---------------------------------------------------+
 | **Jason Roberts**        | Duke University Marine Geospatial Ecology Lab     |
-+--------------------------+---------------------------------------------------+
 | **Jeff Runge**           | University of Maine                               |
-+--------------------------+---------------------------------------------------+
 | **Jessica Redfern**      | New England Aquarium                              |
-+--------------------------+---------------------------------------------------+
 | **Joel Bell**            | US Navy (NAVFAC)                                  |
-+--------------------------+---------------------------------------------------+
 | **Jordan Carduner**      | Equinor                                           |
-+--------------------------+---------------------------------------------------+
 | **Kathy Vigness-Raposa** | INSPIRE Environmental                             |
-+--------------------------+---------------------------------------------------+
 | **Laura Morse**          | Invenergy                                         |
-+--------------------------+---------------------------------------------------+
 | **Meghan Rickard**       | New York Department of Environmental Conservation |
-+--------------------------+---------------------------------------------------+
 | **Robert DiGiovanni**    | Atlantic Marine Conservation Society              |
-+--------------------------+---------------------------------------------------+
 | **Sharon Whitesall**     | Ørsted                                            |
-+--------------------------+---------------------------------------------------+
 | **Stormy Mayo**          | Center for Coastal Studies                        |
-+--------------------------+---------------------------------------------------+
 | **Susan Barco**          | Barco Marine Consulting                           |
-+--------------------------+---------------------------------------------------+
 
 ## Bird & Bat Subcommittee {#bb}
 
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Name**      |                        | **Affiliation**                                                            |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Alicia**    | **Berlin**             | USGS                                                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Andrew**    | **Farnsworth**         | Cornell Lab of Ornithology                                                 |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Arliss**    | **Winship**            | CSS, contractor for NOAA NCCOS                                             |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Brian**     | **Watts**              | College of William and Mary                                                |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Candice**   | **Cook-Ohyrn**         | Atlantic Shores Offshore Wind                                              |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Chris**     | **Haney**              | National Audubon Society                                                   |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Clemence**  | **Soret**              | TotalEnergies / Attentive Energy LLC                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Cris**      | **Hein**               | National Renewable Energy Laboratory                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Dave**      | **Yates**              | Moonrise Ecological Services                                               |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **David**     | **Bigger**             | BOEM                                                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **David**     | **Mizrahi**            | New Jersey Audubon                                                         |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Elizabeth** | **Craig**              | Shoals Marine Laboratory, University of New Hampshire / Cornell University |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Jeff**      | **Herter**             | NY Department of State, Office of Planning & Development                   |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Jen**       | **Dupont**             | Equinor                                                                    |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Jeremy**    | **Coleman**            | USFWS                                                                      |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Joel**      | **Merriman**           | Avian Consulting Services                                                  |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Julia**     | **Robinson Willmott**  | Normandeau Associates                                                      |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Juliet**    | **Lamb**               | The Nature Conservancy                                                     |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Kat**       | **Christie**           | Delaware Department of Fish & Wildlife                                     |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Kate**      | **Williams**           | Biodiversity Research Institute                                            |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Kim**       | **Peters**             | Ørsted                                                                     |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Marianne**  | **Randall**            | NOAA                                                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Matt**      | **Overton**            | Dominion                                                                   |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Michael**   | **Whitby**             | Bat Conservation International                                             |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Pamela**    | **Loring**             | USFWS                                                                      |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Paul**      | **Knaga**              | Environment and Climate Change Canada                                      |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Peter**     | **Paton**              | University of Rhode Island                                                 |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Ruth**      | **Boettcher**          | Virginia DWR                                                               |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Shannon**   | **Kearney**            | Connecticut Department of Energy & Environmental Protection                |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Shilo**     | **Felton**             | REWI                                                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
-| **Stuart**    | **Clough**             | APEM                                                                       |
-+---------------+------------------------+----------------------------------------------------------------------------+
+[Current Bird & Bat Subcommittee Roster](https://rwscorg.sharepoint.com/:b:/s/BirdandBatSubcommittee/EeCTT1JzZt9AkE1b45nk3uoBNMK8-5HapRpxNh2zFTkMzQ?e=77FstY)
+
+[Zara Dowling](mailto:zdowling@eco.umass.edu), Bird & Bat Subcommittee Coordinator
+
+|               |                       |                                                                            |
+|---------------|---------------|------------------------------------------|
+| **Name**      |                       | **Affiliation**                                                            |
+| **Alicia**    | **Berlin**            | USGS                                                                       |
+| **Andrew**    | **Farnsworth**        | Cornell Lab of Ornithology                                                 |
+| **Arliss**    | **Winship**           | CSS, contractor for NOAA NCCOS                                             |
+| **Brian**     | **Watts**             | College of William and Mary                                                |
+| **Candice**   | **Cook-Ohyrn**        | Atlantic Shores Offshore Wind                                              |
+| **Chris**     | **Haney**             | National Audubon Society                                                   |
+| **Clemence**  | **Soret**             | TotalEnergies / Attentive Energy LLC                                       |
+| **Cris**      | **Hein**              | National Renewable Energy Laboratory                                       |
+| **Dave**      | **Yates**             | Moonrise Ecological Services                                               |
+| **David**     | **Bigger**            | BOEM                                                                       |
+| **David**     | **Mizrahi**           | New Jersey Audubon                                                         |
+| **Elizabeth** | **Craig**             | Shoals Marine Laboratory, University of New Hampshire / Cornell University |
+| **Jeff**      | **Herter**            | NY Department of State, Office of Planning & Development                   |
+| **Jen**       | **Dupont**            | Equinor                                                                    |
+| **Jeremy**    | **Coleman**           | USFWS                                                                      |
+| **Joel**      | **Merriman**          | Avian Consulting Services                                                  |
+| **Julia**     | **Robinson Willmott** | Normandeau Associates                                                      |
+| **Juliet**    | **Lamb**              | The Nature Conservancy                                                     |
+| **Kat**       | **Christie**          | Delaware Department of Fish & Wildlife                                     |
+| **Kate**      | **Williams**          | Biodiversity Research Institute                                            |
+| **Kim**       | **Peters**            | Ørsted                                                                     |
+| **Marianne**  | **Randall**           | NOAA                                                                       |
+| **Matt**      | **Overton**           | Dominion                                                                   |
+| **Michael**   | **Whitby**            | Bat Conservation International                                             |
+| **Pamela**    | **Loring**            | USFWS                                                                      |
+| **Paul**      | **Knaga**             | Environment and Climate Change Canada                                      |
+| **Peter**     | **Paton**             | University of Rhode Island                                                 |
+| **Ruth**      | **Boettcher**         | Virginia DWR                                                               |
+| **Shannon**   | **Kearney**           | Connecticut Department of Energy & Environmental Protection                |
+| **Shilo**     | **Felton**            | REWI                                                                       |
+| **Stuart**    | **Clough**            | APEM                                                                       |
 
 ## Sea Turtle Subcommittee {#st}
 
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+[Current Sea Turtle Subcommittee Roster](https://rwscorg.sharepoint.com/:w:/s/SeaTurtleSubcommittee/EZ_nUWQHQmRHkDhwM6vbZa0B7Zuiv2GeLQ1vC6NydXKKRg?e=VMyEFK)
+
+[Sue Barco](mailto:sue@rwsc.org), Sea Turtle Subcommittee Coordinator
+
+|                                                          |                                                                                                  |
+|---------------------------|---------------------------------------------|
 | **Name**                                                 | **Affiliation**                                                                                  |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Andrew DiMatteo**                                      | McLaughlin Research Corporation                                                                  |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Cathy Johnson**                                        | National Park Service                                                                            |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Chris Sasso**                                          | NOAA Southeast Fisheries Science Center                                                          |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Connie Kot**                                           | Duke University                                                                                  |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Debi Palka**                                           | NOAA Northeast Fisheries Science Center                                                          |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Erin Burke**                                           | Massachusetts Division of Marine Fisheries                                                       |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Erin McMichael**                                       | NOAA Office of Science and Technology (Affiliate)                                                |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Erin Summers**                                         | Maine Division of Marine Resources                                                               |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Heather Haas**                                         | NOAA Northeast Fisheries Science Center                                                          |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Jacob Levenson**                                       | BOEM                                                                                             |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Jason Davis**                                          | Delaware Department of Natural Resources and Environmental Control Division of Fish and Wildlife |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Jennifer Dupont**                                      | Equinor                                                                                          |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Kara Dodge**                                           | New England Aquarium                                                                             |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Hannah Vander Zanden**                                 | University of Florida                                                                            |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Kate Lomac MacNair**                                   | Tetra Tech                                                                                       |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Laura Morse**                                          | Invenergy                                                                                        |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Meghan Rickard replacement for Lisa Bonacci-Sullivan** | New York State Department of Environmental Conservation                                          |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Mariana Fuentes**                                      | Florida State University                                                                         |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Merry Camhi**                                          | Wildlife Conservation Society/New York Aquarium                                                  |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Robert DiGiovanni**                                    | Atlantic Marine Conservation Society                                                             |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Ruth Perry**                                           | Shell                                                                                            |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Tim White**                                            | BOEM Environmental Studies Program                                                               |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Saana Isojunno**                                       | University of St. Andrews                                                                        |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Samir Patel**                                          | Coonamessett Farms Foundation                                                                    |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | **Wendy Piniak**                                         | NOAA National Marine Fisheries Service                                                           |
-+----------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 
 ## Protected Fish Species Subcommittee {#pf}
 
 [Current Protected Fish Species Subcommittee Roster](https://rwscorg.sharepoint.com/:x:/s/ProtectedFishSpecies/EQUwr7FJ-gZFtT6SpZ5Ugr4Bp6sotks_ogucoEZ86IG9yw?e=PVdJWP)
 
-+---------------------------------+-------------------------------------------------------+
-| **Name**                        | **Affiliation**                                       |
-+---------------------------------+-------------------------------------------------------+
-| **Andy Herndon**                | NOAA Southeast Regional Office                        |
-+---------------------------------+-------------------------------------------------------+
-| **Ben Eberline**                | Dominon Energy                                        |
-+---------------------------------+-------------------------------------------------------+
-| **Bill Post**                   | South Carolina Department of Natural Resources        |
-+---------------------------------+-------------------------------------------------------+
-| **Brendan Runde**               | The Nature Conservancy                                |
-+---------------------------------+-------------------------------------------------------+
-| **Carter Watterson**            | Navy Environmental Planning and Conservation Division |
-+---------------------------------+-------------------------------------------------------+
-| **Chris Manhard**               | AKRF                                                  |
-+---------------------------------+-------------------------------------------------------+
-| **Christian Jones**             | NOAA Southeast Fisheries Science Center               |
-+---------------------------------+-------------------------------------------------------+
-| **Christian Hager**             | Chesapeake Scientific, Inc.                           |
-+---------------------------------+-------------------------------------------------------+
-| **Keith Dunton**                | Monmouth University                                   |
-+---------------------------------+-------------------------------------------------------+
-| **Mark Wuenschel**              | NOAA Northeast Fisheries Science Center               |
-+---------------------------------+-------------------------------------------------------+
-| **Matthew Breece**              | University of Delaware                                |
-+---------------------------------+-------------------------------------------------------+
-| **Peter Auster**                | University of Connecticut/Mystic Aquarium             |
-+---------------------------------+-------------------------------------------------------+
-| **Tim Rowell**                  | NOAA Northeast Fisheries Science Center               |
-+---------------------------------+-------------------------------------------------------+
-| **Tracey Smart**                | South Carolina Department of Natural Resources        |
-+---------------------------------+-------------------------------------------------------+
-| **Elizabeth Tarquin**           | Mysticetus                                            |
-+---------------------------------+-------------------------------------------------------+
-| **Ellie Rothermel**             | Delaware River and Bay                                |
-+---------------------------------+-------------------------------------------------------+
-| **Eric Schneider**              | Rhode Island Department of Environmental Management   |
-+---------------------------------+-------------------------------------------------------+
-| **James Hawkes**                | NOAA Northeast Fisheries Science Center               |
-+---------------------------------+-------------------------------------------------------+
-| **Jessica Pate**                | Marine Megafauna Foundation / Florida Manta Project   |
-+---------------------------------+-------------------------------------------------------+
-| **Kyle Cassidy**                | Southcoast Wind                                       |
-+---------------------------------+-------------------------------------------------------+
-| **Lisa Methratta**              | NOAA Northeast Fisheries Science Center               |
-+---------------------------------+-------------------------------------------------------+
-| **Lynn Lankshear**              | NOAA National Marine Fisheries Service                |
-+---------------------------------+-------------------------------------------------------+
-| **Lysel Garavelli**             | Pacific Northwest National Laboratory                 |
-+---------------------------------+-------------------------------------------------------+
-| **Matt Ogburn**                 | Smithsonian Environmental Research Center             |
-+---------------------------------+-------------------------------------------------------+
-| **Merry Camhi**                 | Wildlife Conservation Society                         |
-+---------------------------------+-------------------------------------------------------+
-| **Mike Pol**                    | The Responsible Offshore Science Alliance (ROSA)      |
-+---------------------------------+-------------------------------------------------------+
-| **Sarah Hudak**                 | Sea Risk Solutions                                    |
-+---------------------------------+-------------------------------------------------------+
-| **Ursula Howson**               | BOEM                                                  |
-+---------------------------------+-------------------------------------------------------+
-| **Sue Tuxbury**                 | NOAA Greater Atlantic Regional Fisheries Office       |
-+---------------------------------+-------------------------------------------------------+
-| **Tobey Curtis**                | NOAA Highly Migratory Species                         |
-+---------------------------------+-------------------------------------------------------+
+[Jordan Katz](mailto:jordan.katz@noaa.gov), Protected Fish Species Coordinator
+
+|                       |                                                       |
+|----------------------------|--------------------------------------------|
+| **Name**              | **Affiliation**                                       |
+| **Andy Herndon**      | NOAA Southeast Regional Office                        |
+| **Ben Eberline**      | Dominon Energy                                        |
+| **Bill Post**         | South Carolina Department of Natural Resources        |
+| **Brendan Runde**     | The Nature Conservancy                                |
+| **Carter Watterson**  | Navy Environmental Planning and Conservation Division |
+| **Chris Manhard**     | AKRF                                                  |
+| **Christian Jones**   | NOAA Southeast Fisheries Science Center               |
+| **Christian Hager**   | Chesapeake Scientific, Inc.                           |
+| **Keith Dunton**      | Monmouth University                                   |
+| **Mark Wuenschel**    | NOAA Northeast Fisheries Science Center               |
+| **Matthew Breece**    | University of Delaware                                |
+| **Peter Auster**      | University of Connecticut/Mystic Aquarium             |
+| **Tim Rowell**        | NOAA Northeast Fisheries Science Center               |
+| **Tracey Smart**      | South Carolina Department of Natural Resources        |
+| **Elizabeth Tarquin** | Mysticetus                                            |
+| **Ellie Rothermel**   | Delaware River and Bay                                |
+| **Eric Schneider**    | Rhode Island Department of Environmental Management   |
+| **James Hawkes**      | NOAA Northeast Fisheries Science Center               |
+| **Jessica Pate**      | Marine Megafauna Foundation / Florida Manta Project   |
+| **Kyle Cassidy**      | Southcoast Wind                                       |
+| **Lisa Methratta**    | NOAA Northeast Fisheries Science Center               |
+| **Lynn Lankshear**    | NOAA National Marine Fisheries Service                |
+| **Lysel Garavelli**   | Pacific Northwest National Laboratory                 |
+| **Matt Ogburn**       | Smithsonian Environmental Research Center             |
+| **Merry Camhi**       | Wildlife Conservation Society                         |
+| **Mike Pol**          | The Responsible Offshore Science Alliance (ROSA)      |
+| **Sarah Hudak**       | Sea Risk Solutions                                    |
+| **Ursula Howson**     | BOEM                                                  |
+| **Sue Tuxbury**       | NOAA Greater Atlantic Regional Fisheries Office       |
+| **Tobey Curtis**      | NOAA Highly Migratory Species                         |
 
 ## Habitat & Ecosystem Subcommittee {#he}
 
 [Current Habitat & Ecosystem Subcommittee Roster](https://rwscorg.sharepoint.com/:x:/s/HabitatandEcosystemSubcommittee/EXJ7Kc7ePdVMmqreBuNLcTsBXGG6y8hXYGa4o4hxty_3qg?e=uhyYDX)
 
-+---------------------------------+-------------------------------------------------------------------+
-| **Name**                        | **Affiliation**                                                   |
-+---------------------------------+-------------------------------------------------------------------+
-| **Chris Cooper**                | Dominion Energy                                                   |
-+---------------------------------+-------------------------------------------------------------------+
-| **Chris McGuire**               | The Nature Conservancy                                            |
-+---------------------------------+-------------------------------------------------------------------+
-| **Claire Enterline**            | Gulf of Maine Research Institute                                  |
-+---------------------------------+-------------------------------------------------------------------+
-| **Dave Packer**                 | NOAA Northeast Fisheries Science Center                           |
-+---------------------------------+-------------------------------------------------------------------+
-| **Deirdre Boelke**              | RWE Renewables                                                    |
-+---------------------------------+-------------------------------------------------------------------+
-| **Rebecca Peters**              | Maine Department of Marine Resources                              |
-+---------------------------------+-------------------------------------------------------------------+
-| **Gerhard Kuska**               | MARACOOS                                                          |
-+---------------------------------+-------------------------------------------------------------------+
-| **Grace Saba**                  | Rutgers University                                                |
-+---------------------------------+-------------------------------------------------------------------+
-| **Isabel Kaubisch**             | TotalEnergies Renewables                                          |
-+---------------------------------+-------------------------------------------------------------------+
-| **Jake Kritzer**                | NERACOOS                                                          |
-+---------------------------------+-------------------------------------------------------------------+
-| **Jason Roberts**               | Duke University                                                   |
-+---------------------------------+-------------------------------------------------------------------+
-| **Jeff Herter**                 | New York Department of State Coastal Management Program           |
-+---------------------------------+-------------------------------------------------------------------+
-| **Josh Kohut**                  | Rutgers University                                                |
-+---------------------------------+-------------------------------------------------------------------+
-| **June Mire**                   | TetraTech                                                         |
-+---------------------------------+-------------------------------------------------------------------+
-| **Kira Dacanay**                | NOAA Fisheries / Greater Atlantic Regional Fisheries Office       |
-+---------------------------------+-------------------------------------------------------------------+
-| **Kevin Stokesbury**            | University of Massachusetts School of Marine Science & Technology |
-+---------------------------------+-------------------------------------------------------------------+
-| **Kyle Cassidy**                | Southcoast Wind                                                   |
-+---------------------------------+-------------------------------------------------------------------+
-| **Christopher Sarro**           | Ørsted                                                            |
-+---------------------------------+-------------------------------------------------------------------+
-| **Laura Ganley**                | New England Aquarium                                              |
-+---------------------------------+-------------------------------------------------------------------+
-| **Lenaig Hemery**               | PNNL Marine and Coastal Research Laboratory                       |
-+---------------------------------+-------------------------------------------------------------------+
-| **Lesley Thorne**               | Stony Brook University                                            |
-+---------------------------------+-------------------------------------------------------------------+
-| **Lisa Methratta**              | NOAA Northeast Fisheries Science Center                           |
-+---------------------------------+-------------------------------------------------------------------+
-| **Marisa Guarinello**           | INSPIRE Environmental                                             |
-+---------------------------------+-------------------------------------------------------------------+
-| **Matt Poti**                   | NOAA National Centers for Coastal Ocean Science                   |
-+---------------------------------+-------------------------------------------------------------------+
-| **Merry Camhi**                 | Wildlife Conservation Society                                     |
-+---------------------------------+-------------------------------------------------------------------+
-| **Michael Rasser**              | BOEM Environmental Studies Program                                |
-+---------------------------------+-------------------------------------------------------------------+
-| **Michelle Bachman**            | New England Fishery Management Council                            |
-+---------------------------------+-------------------------------------------------------------------+
-| **Michelle Fogarty**            | Equinor                                                           |
-+---------------------------------+-------------------------------------------------------------------+
-| **Mike Pol**                    | Responsible Offshore Science Alliance (ROSA)                      |
-+---------------------------------+-------------------------------------------------------------------+
-| **Nick Zenkin**                 | Lautec Inc.                                                       |
-+---------------------------------+-------------------------------------------------------------------+
-| **Peter Auster**                | University of Connecticut / Mystic Aquarium                       |
-+---------------------------------+-------------------------------------------------------------------+
-| **Rebecca Green**               | NREL                                                              |
-+---------------------------------+-------------------------------------------------------------------+
-| **Rob DiGiovanni**              | Atlantic Marine Conservation Society                              |
-+---------------------------------+-------------------------------------------------------------------+
-| **Samantha Siedlecki**          | University of Connecticut                                         |
-+---------------------------------+-------------------------------------------------------------------+
-| **Sean Lucey**                  | NOAA Northeast Fisheries Science Center                           |
-+---------------------------------+-------------------------------------------------------------------+
-| **Todd Callaghan**              | Massachusetts Office of Coastal Zone Management                   |
-+---------------------------------+-------------------------------------------------------------------+
-| **Ursula Howson**               | BOEM Office of Renewable Energy Programs                          |
-+---------------------------------+-------------------------------------------------------------------+
+[Nikelene Mclean](mailto:mcleannikelene@gmail.com), Habitat & Ecosystem Subcommittee Coordinator
+
+Acknowledgements to Rebecca Green, Lenaig Hemery, Betsy Sara, Kaitlyn Sylvester, and Connor Capizzano for their support of the Subcommittee during Science Plan development.
+
+|                        |                                                                   |
+|-------------------------|------------------------------------------------|
+| **Name**               | **Affiliation**                                                   |
+| **Chris Cooper**       | Dominion Energy                                                   |
+| **Chris McGuire**      | The Nature Conservancy                                            |
+| **Claire Enterline**   | Gulf of Maine Research Institute                                  |
+| **Dave Packer**        | NOAA Northeast Fisheries Science Center                           |
+| **Deirdre Boelke**     | RWE Renewables                                                    |
+| **Rebecca Peters**     | Maine Department of Marine Resources                              |
+| **Gerhard Kuska**      | MARACOOS                                                          |
+| **Grace Saba**         | Rutgers University                                                |
+| **Isabel Kaubisch**    | TotalEnergies Renewables                                          |
+| **Jake Kritzer**       | NERACOOS                                                          |
+| **Jason Roberts**      | Duke University                                                   |
+| **Jeff Herter**        | New York Department of State Coastal Management Program           |
+| **Josh Kohut**         | Rutgers University                                                |
+| **June Mire**          | TetraTech                                                         |
+| **Kira Dacanay**       | NOAA Fisheries / Greater Atlantic Regional Fisheries Office       |
+| **Kevin Stokesbury**   | University of Massachusetts School of Marine Science & Technology |
+| **Kyle Cassidy**       | Southcoast Wind                                                   |
+| **Christopher Sarro**  | Ørsted                                                            |
+| **Laura Ganley**       | New England Aquarium                                              |
+| **Lenaig Hemery**      | PNNL Marine and Coastal Research Laboratory                       |
+| **Lesley Thorne**      | Stony Brook University                                            |
+| **Lisa Methratta**     | NOAA Northeast Fisheries Science Center                           |
+| **Marisa Guarinello**  | INSPIRE Environmental                                             |
+| **Matt Poti**          | NOAA National Centers for Coastal Ocean Science                   |
+| **Merry Camhi**        | Wildlife Conservation Society                                     |
+| **Michael Rasser**     | BOEM Environmental Studies Program                                |
+| **Michelle Bachman**   | New England Fishery Management Council                            |
+| **Michelle Fogarty**   | Equinor                                                           |
+| **Mike Pol**           | Responsible Offshore Science Alliance (ROSA)                      |
+| **Nick Zenkin**        | Lautec Inc.                                                       |
+| **Peter Auster**       | University of Connecticut / Mystic Aquarium                       |
+| **Rebecca Green**      | NREL                                                              |
+| **Rob DiGiovanni**     | Atlantic Marine Conservation Society                              |
+| **Samantha Siedlecki** | University of Connecticut                                         |
+| **Sean Lucey**         | NOAA Northeast Fisheries Science Center                           |
+| **Todd Callaghan**     | Massachusetts Office of Coastal Zone Management                   |
+| **Ursula Howson**      | BOEM Office of Renewable Energy Programs                          |
 
 ## Technology Subcommittee {#tech}
 
 [Current Technology Subcommittee Roster](https://rwscorg.sharepoint.com/:x:/s/TechnologySubcommittee/EWIJcIY0CwdCtDz8UmgpI7sBEu4e2gELjW3fnrZPM--45A?e=l4cEzT)
 
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Name**                        | **Affiliation**                                                                          |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Andrew Gilbert**              | Biodiversity Research Institute                                                          |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Art Trembanis**               | University of Delaware                                                                   |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Beth Goddard**                | APEM                                                                                     |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Bradley Pickens**             | USFWS, Division of Migratory Bird Management                                             |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Chris Orphanides**            | NOAA Northeast Fisheries Science Center                                                  |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Christian Jones**             | NOAA Southeast Fisheries Science Center                                                  |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Dan Shropshire**              | Teledyne Marine                                                                          |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Daniel Deng**                 | Pacific Northwest National Laboratory                                                    |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **David Steckler**              | Mysticetus                                                                               |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Ei Fujioka**                  | Marine Geospatial Ecology Lab, Duke University                                           |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Emma Cotter**                 | Pacific Northwest National Laboratory and University of Washington                       |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Erin Meyer-Gutbrod**          | University of South Carolina                                                             |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Francine Kershaw**            | Natural Resources Defense Council                                                        |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Greg DeCelles**               | Ørsted                                                                                   |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Greg Forcey**                 | Normandeau Associates, Inc.                                                              |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Greg Fulling**                | BOEM Office of Renewable Energy Programs                                                 |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Jeff Clerc**                  | National Renewable Energy Laboratory                                                     |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Jeff Herter**                 | New York Department of State, Office of Planning, Development & Community Infrastructure |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Joe Brodie**                  | AKRF                                                                                     |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Julia Dombrowski**            | National Offshore Wind Research and Development Consortium (NOWRDC)                      |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Kelly Echols**                | LeVanta Tech Inc.                                                                        |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **La' Portia J. Perkins**       | Renewable Energy Wildlife Institute                                                      |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Laura Morse**                 | Invenergy                                                                                |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Lianne Allen-Jacobson**       | INSPIRE Environmental                                                                    |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Mason Wilcox**                | U.S. Coast Guard                                                                         |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Matt Grossi**                 | NOAA Southeast Fisheries Science Center FATES Division                                   |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Melinda Conners**             | Smultea Sciences                                                                         |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Michael Crowley**             | Rutgers University / MARACOOS                                                            |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Michael Stocker**             | Ocean Conservation Research                                                              |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Michela Grunebaum**           | Greentown Labs                                                                           |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Naomi Lewandowski**           | Department of Energy                                                                     |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Renee Richards**              | BOEM Engineering and Technical Review Branch                                             |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Rhonda Moniz**                | Underwater Investigative Group                                                           |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Ryan Marshall**               | Nuair                                                                                    |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Sarah Courbis**               | Advisian                                                                                 |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Timothy White**               | BOEM Environmental Studies Program                                                       |
-+---------------------------------+------------------------------------------------------------------------------------------+
-| **Tom Shyka**                   | NERACOOS                                                                                 |
-+---------------------------------+------------------------------------------------------------------------------------------+
+Coordinators: Emily Shumchenia, RWSC and Abbey Wakely, Marine Technology Society
+
+Acknowledgements to Rhonda Moniz who supported the Subcommittee during Science Plan development.
+
+|                           |                                                                                          |
+|--------------------|----------------------------------------------------|
+| **Name**                  | **Affiliation**                                                                          |
+| **Andrew Gilbert**        | Biodiversity Research Institute                                                          |
+| **Art Trembanis**         | University of Delaware                                                                   |
+| **Beth Goddard**          | APEM                                                                                     |
+| **Bradley Pickens**       | USFWS, Division of Migratory Bird Management                                             |
+| **Chris Orphanides**      | NOAA Northeast Fisheries Science Center                                                  |
+| **Christian Jones**       | NOAA Southeast Fisheries Science Center                                                  |
+| **Dan Shropshire**        | Teledyne Marine                                                                          |
+| **Daniel Deng**           | Pacific Northwest National Laboratory                                                    |
+| **David Steckler**        | Mysticetus                                                                               |
+| **Ei Fujioka**            | Marine Geospatial Ecology Lab, Duke University                                           |
+| **Emma Cotter**           | Pacific Northwest National Laboratory and University of Washington                       |
+| **Erin Meyer-Gutbrod**    | University of South Carolina                                                             |
+| **Francine Kershaw**      | Natural Resources Defense Council                                                        |
+| **Greg DeCelles**         | Ørsted                                                                                   |
+| **Greg Forcey**           | Normandeau Associates, Inc.                                                              |
+| **Greg Fulling**          | BOEM Office of Renewable Energy Programs                                                 |
+| **Jeff Clerc**            | National Renewable Energy Laboratory                                                     |
+| **Jeff Herter**           | New York Department of State, Office of Planning, Development & Community Infrastructure |
+| **Joe Brodie**            | AKRF                                                                                     |
+| **Julia Dombrowski**      | National Offshore Wind Research and Development Consortium (NOWRDC)                      |
+| **Kelly Echols**          | LeVanta Tech Inc.                                                                        |
+| **La' Portia J. Perkins** | Renewable Energy Wildlife Institute                                                      |
+| **Laura Morse**           | Invenergy                                                                                |
+| **Lianne Allen-Jacobson** | INSPIRE Environmental                                                                    |
+| **Mason Wilcox**          | U.S. Coast Guard                                                                         |
+| **Matt Grossi**           | NOAA Southeast Fisheries Science Center FATES Division                                   |
+| **Melinda Conners**       | Smultea Sciences                                                                         |
+| **Michael Crowley**       | Rutgers University / MARACOOS                                                            |
+| **Michael Stocker**       | Ocean Conservation Research                                                              |
+| **Michela Grunebaum**     | Greentown Labs                                                                           |
+| **Naomi Lewandowski**     | Department of Energy                                                                     |
+| **Renee Richards**        | BOEM Engineering and Technical Review Branch                                             |
+| **Rhonda Moniz**          | Underwater Investigative Group                                                           |
+| **Ryan Marshall**         | Nuair                                                                                    |
+| **Sarah Courbis**         | Advisian                                                                                 |
+| **Timothy White**         | BOEM Environmental Studies Program                                                       |
+| **Tom Shyka**             | NERACOOS                                                                                 |
