@@ -1,7 +1,7 @@
 # Acronyms
 
 |              |                                                                                                    |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | 3D           | Three dimensional                                                                                  |
 | ACP          | American Clean Power                                                                               |
 | ACT          | Atlantic Cooperative Telemetry Network                                                             |
@@ -87,7 +87,7 @@
 | NEFMC        | New England Fishery Management Council                                                             |
 | NEFSC        | Northeast Fisheries Science Center                                                                 |
 | NEPA         | National Environmental Policy Act                                                                  |
-| NERACOOS     |  North East Regional Association of Coastal Ocean Observing Systems                                |
+| NERACOOS     | Northeastern Regional Association of Coastal Ocean Observing Systems                               |
 | NESDIS       | National Environmental Satellite, Data, and Information Service                                    |
 | NIST         | National Institute of Standards and Technology                                                     |
 | NJ DEP       | New Jersey Department of Environmental Protection                                                  |

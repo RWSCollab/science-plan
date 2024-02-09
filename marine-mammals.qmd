@@ -132,7 +132,7 @@ A combination of methods (visual, acoustic, tagging) is recommended to provide t
 
 -   Advance oceanographic and biological data collection and use in marine mammal research.
 
-    -   Coordinate with the North East Regional Association of Coastal and Ocean Observing Systems (NERACOOS), Mid-Atlantic Regional Association of Coastal Ocean Observing Systems (MARACOOS), and Southeastern Coastal Ocean Observing Regional Association (SECOORA).
+    -   Coordinate with the Northeastern Regional Association of Coastal and Ocean Observing Systems (NERACOOS), Mid-Atlantic Regional Association of Coastal Ocean Observing Systems (MARACOOS), and Southeastern Coastal Ocean Observing Regional Association (SECOORA).
 
     -   Leverage existing ocean observing platforms or add new ocean observing assets for marine mammal monitoring.
 
