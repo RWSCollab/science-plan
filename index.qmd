@@ -10,6 +10,8 @@ The RWSC Steering Committee, state and federal government agencies, offshore win
 
 -   The Science Plan provides a framework for the RWSC Steering Committee when making decisions on what projects to fund via the RWSC.
 
+-   For additional context and information about how RWSC will implement the Science Plan, view the recording of the [RWSC Science Plan Release Webinar](https://rwscorg.sharepoint.com/:v:/s/RWSCInternalFiles/Ef81aPLIqJ9AgEztIkauQ1IB5teEI7iFuNPCnt2p1LOSfw?e=JeVFhm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) held on February 9, 2024.
+
 ## Format
 
 The Science Plan is written in plain text documents using RMarkdown.
