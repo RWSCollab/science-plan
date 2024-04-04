@@ -11,7 +11,7 @@ Members' affiliation or participation status may be different from what is depic
 [Debbie Brill](mailto:deborah.brill@duke.edu), Marine Mammal Subcommittee Coordinator
 
 |                          |                                                   |
-|--------------------------|---------------------------------------------------|
+|-------------------------|-----------------------------------------------|
 | **Name**                 | **Affiliation**                                   |
 | **Aaron Rice**           | Cornell University                                |
 | **Andrea Bogomolni**     | Northwest Atlantic Seal Research Consortium       |
@@ -48,7 +48,7 @@ Members' affiliation or participation status may be different from what is depic
 [Zara Dowling](mailto:zdowling@eco.umass.edu), Bird & Bat Subcommittee Coordinator
 
 |               |                       |                                                                            |
-|---------------|-----------------------|----------------------------------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | **Name**      |                       | **Affiliation**                                                            |
 | **Alicia**    | **Berlin**            | USGS                                                                       |
 | **Andrew**    | **Farnsworth**        | Cornell Lab of Ornithology                                                 |
@@ -89,7 +89,7 @@ Members' affiliation or participation status may be different from what is depic
 [Sue Barco](mailto:sue@rwsc.org), Sea Turtle Subcommittee Coordinator
 
 |                                                          |                                                                                                  |
-|----------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|---------------------------|---------------------------------------------|
 | **Name**                                                 | **Affiliation**                                                                                  |
 | **Andrew DiMatteo**                                      | McLaughlin Research Corporation                                                                  |
 | **Cathy Johnson**                                        | National Park Service                                                                            |
@@ -124,7 +124,7 @@ Members' affiliation or participation status may be different from what is depic
 [Jordan Katz](mailto:jordan.katz@noaa.gov), Protected Fish Species Coordinator
 
 |                       |                                                       |
-|-----------------------|-------------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | **Name**              | **Affiliation**                                       |
 | **Andy Herndon**      | NOAA Southeast Regional Office                        |
 | **Ben Eberline**      | Dominon Energy                                        |
@@ -156,6 +156,11 @@ Members' affiliation or participation status may be different from what is depic
 | **Ursula Howson**     | BOEM                                                  |
 | **Sue Tuxbury**       | NOAA Greater Atlantic Regional Fisheries Office       |
 | **Tobey Curtis**      | NOAA Highly Migratory Species                         |
+| **Jocelyn Runnebaum** | The Nature Conservancy                                |
+| **Christopher Sarro** | Orsted                                                |
+| **Joe Iafrate**       | Navy Environmental Planning and Conservation Division |
+| **Julia Livermore**   | Rhode Island Department of Environmental Management   |
+| **Steve Dwyer**       | Dominion Energy                                       |
 
 ## Habitat & Ecosystem Subcommittee {#he}
 
@@ -166,7 +171,7 @@ Members' affiliation or participation status may be different from what is depic
 Acknowledgements to Rebecca Green, Lenaig Hemery, Betsy Sara, Kaitlyn Sylvester, and Connor Capizzano for their support of the Subcommittee during Science Plan development.
 
 |                        |                                                                   |
-|------------------------|-------------------------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | **Name**               | **Affiliation**                                                   |
 | **Chris Cooper**       | Dominion Energy                                                   |
 | **Chris McGuire**      | The Nature Conservancy                                            |
@@ -215,7 +220,7 @@ Coordinators: Emily Shumchenia, RWSC and Abbey Wakely, Marine Technology Society
 Acknowledgements to Rhonda Moniz who supported the Subcommittee during Science Plan development.
 
 |                           |                                                                                          |
-|---------------------------|------------------------------------------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | **Name**                  | **Affiliation**                                                                          |
 | **Andrew Gilbert**        | Biodiversity Research Institute                                                          |
 | **Art Trembanis**         | University of Delaware                                                                   |
