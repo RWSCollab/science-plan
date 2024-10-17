@@ -102,7 +102,7 @@ Complex habitats can also include heterogeneous environments (e.g., mixes of sof
 
 ![Examples of complex sediment types collected from sediment profile (A, C, D) and plan view (B) imaging. (A) displays infaunal, tube-building worms and an epifaunal echinoderm (i.e., sand dollar); (B) shows shell habitat with slipper shells, shell fragments and crab; (C) displays shell fragments and small crab utilizing substrate for cover; (D) displays gravel substrate with microalgal growth.](figures/hes/a7.png){#fig-a7 fig-align="center"}
 
-In addition to physical attributes, understanding benthic community composition is necessary for habitat classification purposes as infauna and epifauna can provide unique environmental and physical structure for other organisms [@noaafisheries2021a; @tyrell2005].
+In addition to physical attributes, understanding benthic community composition is necessary for habitat classification purposes as infauna and epifauna can provide unique environmental and physical structure for other organisms [@noaafisheries2021; @tyrell2005].
 Infauna, for example, support sediment health and stability and epifauna create hard bottom and other structurally complex habitat.
 Submerged aquatic vegetation, along with sequestering carbon and improving water quality, provides important habitat for numerous fish in terms of shelter from predators and food availability.
 

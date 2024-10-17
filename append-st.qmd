@@ -60,53 +60,53 @@ Table 1: Sea turtle species and life stage covered by this plan by subregion (UN
 
 **Gulf of Maine**
 
-|              |                |                    |                        |                       |           |                     |                       |                            |                     |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing** |
-| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common                | neritic & pelagic foraging | spring-fall         |
-| loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall         |
-| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall         |
-| green        | threatened     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall         |
+|  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|
+| **Species** | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use** | **Seasonal timing** |
+| leatherback | endangered | NA | UN | ✔️ | ✔️ | NA | common | neritic & pelagic foraging | spring-fall |
+| loggerhead | threatened | NA | NA | ✔️ | ✔️ | NA | common | neritic foraging | spring-fall |
+| Kemps ridley | endangered | NA | NA | ✔️ | NA | NA | rare | neritic foraging | summer-fall |
+| green | threatened | NA | NA | ✔️ | NA | NA | rare | neritic foraging | summer-fall |
 
 **Southern New England**
 
-|              |                |                    |                        |                       |           |                     |                       |                            |                       |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing\*** |
-| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common                | neritic & pelagic foraging | spring-fall           |
-| loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall           |
-| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall           |
-| green        | threatened     | NA                 | NA                     | ✔️                    | NA        | NA                  | rare                  | neritic foraging           | summer-fall           |
+|  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|
+| **Species** | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use** | **Seasonal timing\*** |
+| leatherback | endangered | NA | UN | ✔️ | ✔️ | NA | common | neritic & pelagic foraging | spring-fall |
+| loggerhead | threatened | NA | NA | ✔️ | ✔️ | NA | common | neritic foraging | spring-fall |
+| Kemps ridley | endangered | NA | NA | ✔️ | NA | NA | rare | neritic foraging | summer-fall |
+| green | threatened | NA | NA | ✔️ | NA | NA | rare | neritic foraging | summer-fall |
 
 **New York Bight**
 
-|              |                |                    |                        |                       |           |                     |                       |                            |                     |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**            | **Seasonal timing** |
-| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic & pelagic foraging | spring-fall         |
-| loggerhead   | threatened     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common                | neritic foraging           | spring-fall         |
-| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | NA        | NA                  | common                | neritic foraging           | summer-fall         |
-| green        | threatened     | NA                 | NA                     | ✔️                    | NA        | NA                  | common seasonally     | neritic foraging           | summer-fall         |
+|  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|
+| **Species** | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use** | **Seasonal timing** |
+| leatherback | endangered | NA | UN | ✔️ | ✔️ | NA | common seasonally | neritic & pelagic foraging | spring-fall |
+| loggerhead | threatened | NA | NA | ✔️ | ✔️ | NA | common | neritic foraging | spring-fall |
+| Kemps ridley | endangered | NA | NA | ✔️ | NA | NA | common | neritic foraging | summer-fall |
+| green | threatened | NA | NA | ✔️ | NA | NA | common seasonally | neritic foraging | summer-fall |
 
 **Central Atlantic**
 
-|              |                |                    |                        |                       |           |                     |                       |                                              |                     |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **Species**  | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**                              | **Seasonal timing** |
-| leatherback  | endangered     | NA                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic/pelagic foraging, migration          | spring-fall         |
-| loggerhead   | threatened     | UN                 | UN                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic/pelagic foraging, migration, nesting | spring-fall         |
-| Kemps ridley | endangered     | NA                 | NA                     | ✔️                    | ✔️        | NA                  | common seasonally     | neritic foraging, migration                  | spring-fall         |
-| green        | threatened     | NA                 | NA                     | ✔️                    | UN        | NA                  | common seasonally     | neritic foraging, migration, nesting         | late spring-fall    |
+|  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|
+| **Species** | **ESA Status** | **egg/ hatchling** | **juvenile dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use** | **Seasonal timing** |
+| leatherback | endangered | NA | UN | ✔️ | ✔️ | NA | common seasonally | neritic/pelagic foraging, migration | spring-fall |
+| loggerhead | threatened | UN | UN | ✔️ | ✔️ | NA | common seasonally | neritic/pelagic foraging, migration, nesting | spring-fall |
+| Kemps ridley | endangered | NA | NA | ✔️ | ✔️ | NA | common seasonally | neritic foraging, migration | spring-fall |
+| green | threatened | NA | NA | ✔️ | UN | NA | common seasonally | neritic foraging, migration, nesting | late spring-fall |
 
 **Southern Atlantic**
 
-|              |                |                    |                       |                       |           |                     |                       |                                              |                     |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **Species**  | **ESA Status** | **egg/ hatchling** | **oceanic dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use**                              | **Seasonal timing** |
-| leatherback  | endangered     | ✔️                 | ✔️                    | ✔️                    | ✔️        | ✔️                  | common                | neritic/pelagic foraging, migration, nesting | year round          |
-| loggerhead   | threatened     | ✔️                 | ✔️                    | ✔️                    | ✔️        | ✔️                  | common                | neritic/pelagic foraging, migration, nesting | year round          |
-| Kemps ridley | endangered     | NA                 | UN                    | ✔️                    | UN        | NA                  | common                | neritic foraging, migration                  | year round          |
-| green        | threatened     | ✔️                 | UN                    | ✔️                    | ✔️        | ✔️                  | common                | neritic foraging, migration, nesting         | year round          |
+|  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|
+| **Species** | **ESA Status** | **egg/ hatchling** | **oceanic dispersal** | **juvenile-subadult** | **adult** | **nesting females** | **Annual occurrence** | **Habitat use** | **Seasonal timing** |
+| leatherback | endangered | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | common | neritic/pelagic foraging, migration, nesting | year round |
+| loggerhead | threatened | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | common | neritic/pelagic foraging, migration, nesting | year round |
+| Kemps ridley | endangered | NA | UN | ✔️ | UN | NA | common | neritic foraging, migration | year round |
+| green | threatened | ✔️ | UN | ✔️ | ✔️ | ✔️ | common | neritic foraging, migration, nesting | year round |
 
 ### Focal species and notable recent trends
 

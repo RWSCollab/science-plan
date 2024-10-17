@@ -951,7 +951,7 @@ USFWS and USGS are working on development of [AI software](https://eros.usgs.gov
 Initial machine learning algorithm development has achieved the extraction of targets (individual birds and other wildlife) from imagery; current algorithm development is focused on classifying detected targets to the species level.
 This project has involved the development of an online feature annotation tool (based on the open-source annotation tool Computer Vision Annotation Tool - CVAT) for easy, streamlined labeling of training data by biologists and to serve as an imagery and annotation database for online data archiving and sharing.
 
-Auto-classification software for the identification of bird calls in acoustic data are also being developed and improved [@kahl2021; @vandorena].
+Auto-classification software for the identification of bird calls in acoustic data are also being developed and improved [@kahl2021; @vandoren].
 
 For tracking of new technologies, see the Tethys [database of monitoring technologies](https://tethys.pnnl.gov/wind-energy-monitoring-mitigation-technologies-tool).
 

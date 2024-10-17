@@ -29,12 +29,12 @@ Variability in regional atmospheric conditions impact sea surface properties (e.
 Annual average wind speeds increase from the south and peak in New England and Gulf of Maine waters [@bodini2020; @musial2016].
 Winds fluctuate over multiple time scales including seasonally (with mid-latitudes generally higher in the summer), weekly (e.g., during synoptic-scale storms), daily (with higher winds at night), and hourly/sub-hourly (e.g., due to fluctuations in turbulence and gusts).
 At longer time scales, the North Atlantic Oscillation (NAO) impacts the region and can be described in terms of an index value (NAOI) related to differences in sea level pressure, with patterns persisting across decades.
-The NAOI has been predominantly positive during the last several decades [@noaafisheries2021b], associated with an increase in westerly winds, an increase in precipitation, and warmer water temperatures for the eastern United States.
+The NAOI has been predominantly positive during the last several decades [@noaafisheries2021], associated with an increase in westerly winds, an increase in precipitation, and warmer water temperatures for the eastern United States.
 By contrast, a negative NAOI is associated with a decrease in westerly winds, decreased storminess, drier conditions, and cooler water temperatures in the region.
 
 Primary productivity in the region is determined by a physically dynamic ecosystem with complex interactions among environmental factors that influence the abundance, community composition, spatial distribution, and productivity of the phytoplanktonic communities.
 These environmental factors include the sunlight, nutrients, water temperature, physical processes (i.e., vertical mixing, upwelling, currents, and tides), and the feeding activity of zooplankton and shellfish [@blair2022].
-Water mass characteristics and oceanographic features (e.g., circulation patterns and frontal zone positions) are particularly important factors influencing phytoplankton patterns [@lipsky2020; @noaafisheries2021c].
+Water mass characteristics and oceanographic features (e.g., circulation patterns and frontal zone positions) are particularly important factors influencing phytoplankton patterns [@lipsky2020; @noaafisheries2021].
 Seasonality greatly influences the dynamic ecosystem of the region, given that phytoplankton growth rates strongly correlate to temperature, light availability, and phytoplankton community size-structure [@marrec2021].
 Zooplankton graze on phytoplankton and are then prey for fish, crabs, whales, and other large organisms; biovolume (total volume of material caught in zooplankton nets) measurements have shown seasonal and interannual trends in the region [@blair2022].
 
