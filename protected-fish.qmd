@@ -72,6 +72,10 @@ The Subcommittee recommends the following data management activities:
 
 The following table lists the existing centralized or accepted repositories and standards that should be used and identifies data types for which no or limited data management capacity (i.e., repositories and standards) currently exists.
 
+::: callout-important
+## Since the publication of this Science Plan in January 2024, the RWSC Data Governance Subcommittee has posted [updated recommendations for data repositories](https://rwscollab.github.io/repositories-data-catalog/repositories-data-catalog.html). Updates will continue to be posted at that link prior to a formal update to the Science Plan.
+:::
+
 Table 6.
 Recommended repositories and standards for protected fish species data collection.
 

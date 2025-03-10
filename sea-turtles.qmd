@@ -43,6 +43,10 @@ To support these efforts, the Sea Turtle Subcommittee recommends:
 
 The following table lists the repositories and standards that are recommended for use in sea turtle data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists.
 
+::: callout-important
+## Since the publication of this Science Plan in January 2024, the RWSC Data Governance Subcommittee has posted [updated recommendations for data repositories](https://rwscollab.github.io/repositories-data-catalog/repositories-data-catalog.html). Updates will continue to be posted at that link prior to a formal update to the Science Plan.
+:::
+
 Table 4.
 Recommended repositories and standards for sea turtle data collection.
 

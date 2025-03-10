@@ -51,20 +51,24 @@ To support these efforts, the Subcommittee recommends:
 Table 8.
 Recommended seafloor variables, file formats and resolutions to support the development of regional scale seafloor data products[^seafloor-1].
 
-|                                                                   |                                       |                        |
-|-------------------------------------------------------------------|---------------------------------------|------------------------|
-| **Seafloor variable(s)**                                          | **Type/format**                       | **Desired resolution** |
-| Multibeam bathymetry                                              | Raster/tiff                           | 4m\*                   |
-| Multibeam backscatter                                             | Raster/tiff                           | 4m\*                   |
-| Boulder fields and/or picks (identification of boulder locations) | Vector-points/polygons Esri shapefile | N/A                    |
-| Seabed interpretation -- CMECS Substrate Group, Subgroup          | Vector-points/polygons/Esri shapefile | N/A                    |
-| Seabed interpretation -- Shell substrate                          | Vector-points/polygons/Esri shapefile | N/A                    |
-| Seabed interpretation -- Bedforms                                 | Vector-polygons/Esri shapefile        | N/A                    |
-| Seabed interpretation -- CMECS Biotic Subclass                    | Vector-points/Esri shapefile          | N/A                    |
+|  |  |  |
+|----|----|----|
+| **Seafloor variable(s)** | **Type/format** | **Desired resolution** |
+| Multibeam bathymetry | Raster/tiff | 4m\* |
+| Multibeam backscatter | Raster/tiff | 4m\* |
+| Boulder fields and/or picks (identification of boulder locations) | Vector-points/polygons Esri shapefile | N/A |
+| Seabed interpretation -- CMECS Substrate Group, Subgroup | Vector-points/polygons/Esri shapefile | N/A |
+| Seabed interpretation -- Shell substrate | Vector-points/polygons/Esri shapefile | N/A |
+| Seabed interpretation -- Bedforms | Vector-polygons/Esri shapefile | N/A |
+| Seabed interpretation -- CMECS Biotic Subclass | Vector-points/Esri shapefile | N/A |
 
 ***\*Bathymetry and backscatter data sets may be provided at high resolutions and will be down-sampled to the desired 4 meter resolution by the project team; alternatively, down-sampling instructions will be provided to data providers to ensure consistent methodology.***
 
 The following table lists the existing repositories and standards that are recommended for use in seafloor habitat data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists. 
+
+::: callout-important
+## Since the publication of this Science Plan in January 2024, the RWSC Data Governance Subcommittee has posted [updated recommendations for data repositories](https://rwscollab.github.io/repositories-data-catalog/repositories-data-catalog.html). Updates will continue to be posted at that link prior to a formal update to the Science Plan.
+:::
 
 Table 9.
 Recommended repositories and standards for seafloor data collection.
