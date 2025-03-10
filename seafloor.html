@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -58,10 +58,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5729c8fafe3485b6d441e89833337535.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": true,
@@ -141,6 +141,7 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
       </ul>
     </div>
 </div>
+          <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
@@ -419,9 +420,9 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 <p>Table 8. Recommended seafloor variables, file formats and resolutions to support the development of regional scale seafloor data products<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 51%">
-<col style="width: 30%">
-<col style="width: 18%">
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -468,6 +469,19 @@ gtag('config', 'G-XS4FSZ7PSE', { 'anonymize_ip': true});
 </table>
 <p><strong><em>*Bathymetry and backscatter data sets may be provided at high resolutions and will be down-sampled to the desired 4 meter resolution by the project team; alternatively, down-sampling instructions will be provided to data providers to ensure consistent methodology.</em></strong></p>
 <p>The following table lists the existing repositories and standards that are recommended for use in seafloor habitat data collection and identifies data types for which no or limited data management capacity (i.e., standard repositories and guidance) currently exists.&nbsp;</p>
+<div class="callout callout-style-simple callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Since the publication of this Science Plan in January 2024, the RWSC Data Governance Subcommittee has posted <a href="https://rwscollab.github.io/repositories-data-catalog/repositories-data-catalog.html">updated recommendations for data repositories</a>. Updates will continue to be posted at that link prior to a formal update to the Science Plan.
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
 <p>Table 9. Recommended repositories and standards for seafloor data collection.</p>
 <table class="caption-top table">
 <tbody>
@@ -708,8 +722,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -825,7 +837,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
